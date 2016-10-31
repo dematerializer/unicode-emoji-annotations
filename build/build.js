@@ -16,29 +16,24 @@ function* buildForPreset(preset) {
 
 	// Render annotation files:
 
-	logUpdate('⇣ write annotation files');
-
 	const cldrAnnotations = yield buildCldrAnnotations({
 		baseUrl: preset.cldrAnnotationsUrl,
 		version: preset.cldrVersion,
 		languages: preset.cldrAnnotationsLanguages,
 	});
 
+	logUpdate('⇣ write annotation files');
+
+	// CLDR:
 	Object.keys(cldrAnnotations.annotationsForLanguage).forEach((language) => {
 		const data = cldrAnnotations.annotationsForLanguage[language];
 		fs.writeFileSync(`lib/unicode-${preset.unicodeVersion}-cldr-${preset.cldrVersion}/${language}.json`, JSON.stringify(data, null, 2));
 	});
 
-	const communityAnnotationsForLanguage = preset.communityAnnotationsLanguages
-	.reduce((prevAnnotations, language) => {
-		const nextAnnotations = prevAnnotations;
-		nextAnnotations[language] = require(`../community-annotations/${language}.json`); // eslint-disable-line global-require
-		return nextAnnotations;
-	}, {});
-
-	Object.keys(communityAnnotationsForLanguage).forEach((language) => {
-		const data = communityAnnotationsForLanguage[language];
-		fs.writeFileSync(`lib/community/${language}.json`, JSON.stringify(data, null, 2));
+	// Copy community annotations to lib:
+	preset.communityAnnotationsLanguages.forEach((language) => {
+		const source = require(`../community-annotations/${language}.json`); // eslint-disable-line global-require
+		fs.writeFileSync(`lib/community/${language}.json`, JSON.stringify(source, null, 2));
 	});
 
 	logUpdate('✓ write annotation files');
