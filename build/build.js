@@ -32,7 +32,7 @@ function* buildForPreset(preset) {
 
 	// Copy community annotations to lib:
 	preset.communityAnnotationsLanguages.forEach((language) => {
-		const source = require(`../community-annotations/${language}.json`); // eslint-disable-line global-require
+		const source = require(`../community-annotations/${language}.json`); // eslint-disable-line
 		fs.writeFileSync(`lib/community/${language}.json`, JSON.stringify(source, null, 2));
 	});
 
