@@ -10,6 +10,7 @@
     "lib"
   ],
   "scripts": {
+    "preinstall": "npm link unicode-emoji-data",
     "start": "npm run build",
     "build": "NODE_ENV=production node build.js",
     "test": "NODE_ENV=test nyc --reporter=lcov --reporter=text mocha --require ./test-env --compilers js:babel-core/register build/**/*.test.js",
@@ -40,6 +41,7 @@
     "mocha": "^3.0.2",
     "nyc": "^8.3.0",
     "punycode": "^2.0.0",
+    "unicode-emoji-data": "../unicode-emoji-data",
     "xml2js": "^0.4.17"
   }
 }
