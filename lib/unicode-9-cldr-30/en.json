@@ -1,0 +1,10616 @@
+[
+  {
+    "sequence": "2049",
+    "tts": "exclamation question mark",
+    "keywords": [
+      "exclamation",
+      "interrobang",
+      "mark",
+      "punctuation",
+      "question"
+    ]
+  },
+  {
+    "sequence": "2122",
+    "tts": "trade mark",
+    "keywords": [
+      "mark",
+      "tm",
+      "trademark"
+    ]
+  },
+  {
+    "sequence": "2139",
+    "tts": "information",
+    "keywords": [
+      "i",
+      "information"
+    ]
+  },
+  {
+    "sequence": "2194",
+    "tts": "left-right arrow",
+    "keywords": [
+      "arrow"
+    ]
+  },
+  {
+    "sequence": "2195",
+    "tts": "up-down arrow",
+    "keywords": [
+      "arrow"
+    ]
+  },
+  {
+    "sequence": "2196",
+    "tts": "up-left arrow",
+    "keywords": [
+      "arrow",
+      "direction",
+      "intercardinal",
+      "northwest"
+    ]
+  },
+  {
+    "sequence": "2197",
+    "tts": "up-right arrow",
+    "keywords": [
+      "arrow",
+      "direction",
+      "intercardinal",
+      "northeast"
+    ]
+  },
+  {
+    "sequence": "2198",
+    "tts": "down-right arrow",
+    "keywords": [
+      "arrow",
+      "direction",
+      "intercardinal",
+      "southeast"
+    ]
+  },
+  {
+    "sequence": "2199",
+    "tts": "down-left arrow",
+    "keywords": [
+      "arrow",
+      "direction",
+      "intercardinal",
+      "southwest"
+    ]
+  },
+  {
+    "sequence": "2328",
+    "tts": "keyboard",
+    "keywords": [
+      "computer"
+    ]
+  },
+  {
+    "sequence": "2600",
+    "tts": "sun",
+    "keywords": [
+      "bright",
+      "rays",
+      "sunny"
+    ]
+  },
+  {
+    "sequence": "2601",
+    "tts": "cloud",
+    "keywords": [
+      "weather"
+    ]
+  },
+  {
+    "sequence": "2602",
+    "tts": "umbrella",
+    "keywords": [
+      "clothing",
+      "rain"
+    ]
+  },
+  {
+    "sequence": "2603",
+    "tts": "snowman",
+    "keywords": [
+      "cold",
+      "snow"
+    ]
+  },
+  {
+    "sequence": "2604",
+    "tts": "comet",
+    "keywords": [
+      "space"
+    ]
+  },
+  {
+    "sequence": "2611",
+    "tts": "ballot box with check",
+    "keywords": [
+      "ballot",
+      "box",
+      "check"
+    ]
+  },
+  {
+    "sequence": "2614",
+    "tts": "umbrella with rain drops",
+    "keywords": [
+      "clothing",
+      "drop",
+      "rain",
+      "umbrella"
+    ]
+  },
+  {
+    "sequence": "2615",
+    "tts": "hot beverage",
+    "keywords": [
+      "beverage",
+      "coffee",
+      "drink",
+      "hot",
+      "steaming",
+      "tea"
+    ]
+  },
+  {
+    "sequence": "2618",
+    "tts": "shamrock",
+    "keywords": [
+      "plant"
+    ]
+  },
+  {
+    "sequence": "2620",
+    "tts": "skull and crossbones",
+    "keywords": [
+      "crossbones",
+      "death",
+      "face",
+      "monster",
+      "skull"
+    ]
+  },
+  {
+    "sequence": "2622",
+    "tts": "radioactive",
+    "keywords": [
+      "radioactive",
+      "sign"
+    ]
+  },
+  {
+    "sequence": "2623",
+    "tts": "biohazard",
+    "keywords": [
+      "biohazard",
+      "sign"
+    ]
+  },
+  {
+    "sequence": "2626",
+    "tts": "orthodox cross",
+    "keywords": [
+      "Christian",
+      "cross",
+      "religion"
+    ]
+  },
+  {
+    "sequence": "2638",
+    "tts": "wheel of dharma",
+    "keywords": [
+      "Buddhist",
+      "dharma",
+      "religion",
+      "wheel"
+    ]
+  },
+  {
+    "sequence": "2639",
+    "tts": "frowning face",
+    "keywords": [
+      "face",
+      "frown"
+    ]
+  },
+  {
+    "sequence": "2640",
+    "tts": "female sign",
+    "keywords": [
+      "woman"
+    ]
+  },
+  {
+    "sequence": "2642",
+    "tts": "male sign",
+    "keywords": [
+      "man"
+    ]
+  },
+  {
+    "sequence": "2648",
+    "tts": "Aries",
+    "keywords": [
+      "ram",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "2649",
+    "tts": "Taurus",
+    "keywords": [
+      "bull",
+      "ox",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "2650",
+    "tts": "Sagittarius",
+    "keywords": [
+      "archer",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "2651",
+    "tts": "Capricorn",
+    "keywords": [
+      "goat",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "2652",
+    "tts": "Aquarius",
+    "keywords": [
+      "bearer",
+      "water",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "2653",
+    "tts": "Pisces",
+    "keywords": [
+      "fish",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "2660",
+    "tts": "spade suit",
+    "keywords": [
+      "card",
+      "game"
+    ]
+  },
+  {
+    "sequence": "2663",
+    "tts": "club suit",
+    "keywords": [
+      "card",
+      "game"
+    ]
+  },
+  {
+    "sequence": "2665",
+    "tts": "heart suit",
+    "keywords": [
+      "card",
+      "game"
+    ]
+  },
+  {
+    "sequence": "2666",
+    "tts": "diamond suit",
+    "keywords": [
+      "card",
+      "game"
+    ]
+  },
+  {
+    "sequence": "2668",
+    "tts": "hot springs",
+    "keywords": [
+      "hot",
+      "hotsprings",
+      "springs",
+      "steaming"
+    ]
+  },
+  {
+    "sequence": "2692",
+    "tts": "hammer and pick",
+    "keywords": [
+      "hammer",
+      "pick",
+      "tool"
+    ]
+  },
+  {
+    "sequence": "2693",
+    "tts": "anchor",
+    "keywords": [
+      "ship",
+      "tool"
+    ]
+  },
+  {
+    "sequence": "2694",
+    "tts": "crossed swords",
+    "keywords": [
+      "crossed",
+      "swords",
+      "weapon"
+    ]
+  },
+  {
+    "sequence": "2695",
+    "tts": "medical symbol",
+    "keywords": [
+      "staff",
+      "medicine",
+      "aesculapius"
+    ]
+  },
+  {
+    "sequence": "2696",
+    "tts": "balance scale",
+    "keywords": [
+      "balance",
+      "justice",
+      "Libra",
+      "scales",
+      "tool",
+      "weight",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "2697",
+    "tts": "alembic",
+    "keywords": [
+      "chemistry",
+      "tool"
+    ]
+  },
+  {
+    "sequence": "2699",
+    "tts": "gear",
+    "keywords": [
+      "tool"
+    ]
+  },
+  {
+    "sequence": "2702",
+    "tts": "scissors",
+    "keywords": [
+      "tool",
+      "cutting"
+    ]
+  },
+  {
+    "sequence": "2705",
+    "tts": "white heavy check mark",
+    "keywords": [
+      "check",
+      "mark"
+    ]
+  },
+  {
+    "sequence": "2708",
+    "tts": "airplane",
+    "keywords": [
+      "aeroplane",
+      "airplane"
+    ]
+  },
+  {
+    "sequence": "2709",
+    "tts": "envelope",
+    "keywords": [
+      "letter",
+      "email"
+    ]
+  },
+  {
+    "sequence": "2712",
+    "tts": "black nib",
+    "keywords": [
+      "nib",
+      "pen"
+    ]
+  },
+  {
+    "sequence": "2714",
+    "tts": "heavy check mark",
+    "keywords": [
+      "check",
+      "mark"
+    ]
+  },
+  {
+    "sequence": "2716",
+    "tts": "heavy multiplication x",
+    "keywords": [
+      "cancel",
+      "multiplication",
+      "multiply",
+      "x"
+    ]
+  },
+  {
+    "sequence": "2721",
+    "tts": "star of David",
+    "keywords": [
+      "David",
+      "Jew",
+      "Jewish",
+      "religion",
+      "star"
+    ]
+  },
+  {
+    "sequence": "2728",
+    "tts": "sparkles",
+    "keywords": [
+      "sparkle",
+      "star"
+    ]
+  },
+  {
+    "sequence": "2733",
+    "tts": "eight-spoked asterisk",
+    "keywords": [
+      "asterisk"
+    ]
+  },
+  {
+    "sequence": "2734",
+    "tts": "eight-pointed star",
+    "keywords": [
+      "star"
+    ]
+  },
+  {
+    "sequence": "2744",
+    "tts": "snowflake",
+    "keywords": [
+      "cold",
+      "snow"
+    ]
+  },
+  {
+    "sequence": "2747",
+    "tts": "sparkle",
+    "keywords": [
+      "sparkle"
+    ]
+  },
+  {
+    "sequence": "2753",
+    "tts": "question mark",
+    "keywords": [
+      "mark",
+      "punctuation",
+      "question"
+    ]
+  },
+  {
+    "sequence": "2754",
+    "tts": "white question mark",
+    "keywords": [
+      "mark",
+      "outlined",
+      "punctuation",
+      "question"
+    ]
+  },
+  {
+    "sequence": "2755",
+    "tts": "white exclamation mark",
+    "keywords": [
+      "exclamation",
+      "mark",
+      "outlined",
+      "punctuation"
+    ]
+  },
+  {
+    "sequence": "2757",
+    "tts": "exclamation mark",
+    "keywords": [
+      "exclamation",
+      "mark",
+      "punctuation"
+    ]
+  },
+  {
+    "sequence": "2763",
+    "tts": "heavy heart exclamation",
+    "keywords": [
+      "exclamation",
+      "mark",
+      "punctuation"
+    ]
+  },
+  {
+    "sequence": "2764",
+    "tts": "red heart",
+    "keywords": [
+      "heart"
+    ]
+  },
+  {
+    "sequence": "2795",
+    "tts": "heavy plus sign",
+    "keywords": [
+      "math",
+      "plus"
+    ]
+  },
+  {
+    "sequence": "2796",
+    "tts": "heavy minus sign",
+    "keywords": [
+      "math",
+      "minus"
+    ]
+  },
+  {
+    "sequence": "2797",
+    "tts": "heavy division sign",
+    "keywords": [
+      "division",
+      "math"
+    ]
+  },
+  {
+    "sequence": "2934",
+    "tts": "right arrow curving up",
+    "keywords": [
+      "arrow"
+    ]
+  },
+  {
+    "sequence": "2935",
+    "tts": "right arrow curving down",
+    "keywords": [
+      "arrow",
+      "down"
+    ]
+  },
+  {
+    "sequence": "3030",
+    "tts": "wavy dash",
+    "keywords": [
+      "dash",
+      "punctuation",
+      "wavy"
+    ]
+  },
+  {
+    "sequence": "3297",
+    "tts": "Japanese “congratulations” button",
+    "keywords": [
+      "Japanese",
+      "ideograph",
+      "祝",
+      "“congratulations”"
+    ]
+  },
+  {
+    "sequence": "3299",
+    "tts": "Japanese “secret” button",
+    "keywords": [
+      "Japanese",
+      "ideograph",
+      "秘",
+      "“secret”"
+    ]
+  },
+  {
+    "sequence": "1F57A",
+    "tts": "man dancing",
+    "keywords": [
+      "dance",
+      "man"
+    ]
+  },
+  {
+    "sequence": "1F5A4",
+    "tts": "black heart",
+    "keywords": [
+      "black",
+      "evil",
+      "wicked"
+    ]
+  },
+  {
+    "sequence": "1F919",
+    "tts": "call me hand",
+    "keywords": [
+      "call",
+      "hand"
+    ]
+  },
+  {
+    "sequence": "1F91A",
+    "tts": "raised back of hand",
+    "keywords": [
+      "backhand",
+      "raised"
+    ]
+  },
+  {
+    "sequence": "1F91B",
+    "tts": "left-facing fist",
+    "keywords": [
+      "fist",
+      "leftwards"
+    ]
+  },
+  {
+    "sequence": "1F91C",
+    "tts": "right-facing fist",
+    "keywords": [
+      "fist",
+      "rightwards"
+    ]
+  },
+  {
+    "sequence": "1F91D",
+    "tts": "handshake",
+    "keywords": [
+      "handshake",
+      "agreement",
+      "meeting",
+      "shake",
+      "hand"
+    ]
+  },
+  {
+    "sequence": "1F91E",
+    "tts": "crossed fingers",
+    "keywords": [
+      "cross",
+      "finger",
+      "hand",
+      "luck"
+    ]
+  },
+  {
+    "sequence": "1F920",
+    "tts": "cowboy hat face",
+    "keywords": [
+      "cowboy",
+      "face",
+      "hat",
+      "cowgirl"
+    ]
+  },
+  {
+    "sequence": "1F921",
+    "tts": "clown face",
+    "keywords": [
+      "clown",
+      "face"
+    ]
+  },
+  {
+    "sequence": "1F922",
+    "tts": "nauseated face",
+    "keywords": [
+      "face",
+      "nauseated",
+      "vomit"
+    ]
+  },
+  {
+    "sequence": "1F923",
+    "tts": "rolling on the floor laughing",
+    "keywords": [
+      "floor",
+      "laugh",
+      "rolling",
+      "face"
+    ]
+  },
+  {
+    "sequence": "1F924",
+    "tts": "drooling face",
+    "keywords": [
+      "drooling",
+      "face"
+    ]
+  },
+  {
+    "sequence": "1F925",
+    "tts": "lying face",
+    "keywords": [
+      "face",
+      "lie",
+      "pinocchio"
+    ]
+  },
+  {
+    "sequence": "1F926",
+    "tts": "person facepalming",
+    "keywords": [
+      "face",
+      "palm",
+      "disbelief",
+      "exasperation"
+    ]
+  },
+  {
+    "sequence": "1F926 200D 2640",
+    "tts": "woman facepalming",
+    "keywords": [
+      "disbelief",
+      "exasperation",
+      "facepalm",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F926 200D 2642",
+    "tts": "man facepalming",
+    "keywords": [
+      "disbelief",
+      "exasperation",
+      "facepalm",
+      "man"
+    ]
+  },
+  {
+    "sequence": "1F927",
+    "tts": "sneezing face",
+    "keywords": [
+      "face",
+      "gesundheit",
+      "sneeze"
+    ]
+  },
+  {
+    "sequence": "1F930",
+    "tts": "pregnant woman",
+    "keywords": [
+      "pregnant",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F933",
+    "tts": "selfie",
+    "keywords": [
+      "selfie",
+      "camera",
+      "phone"
+    ]
+  },
+  {
+    "sequence": "1F934",
+    "tts": "prince",
+    "keywords": [
+      "prince"
+    ]
+  },
+  {
+    "sequence": "1F935",
+    "tts": "man in tuxedo",
+    "keywords": [
+      "groom",
+      "man",
+      "tuxedo"
+    ]
+  },
+  {
+    "sequence": "1F936",
+    "tts": "Mrs. Claus",
+    "keywords": [
+      "Christmas",
+      "celebration",
+      "mother",
+      "Mrs.",
+      "claus"
+    ]
+  },
+  {
+    "sequence": "1F937",
+    "tts": "person shrugging",
+    "keywords": [
+      "shrug",
+      "doubt",
+      "ignorance",
+      "indifference"
+    ]
+  },
+  {
+    "sequence": "1F937 200D 2640",
+    "tts": "woman shrugging",
+    "keywords": [
+      "doubt",
+      "ignorance",
+      "indifference",
+      "shrug",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F937 200D 2642",
+    "tts": "man shrugging",
+    "keywords": [
+      "doubt",
+      "ignorance",
+      "indifference",
+      "man",
+      "shrug"
+    ]
+  },
+  {
+    "sequence": "1F938",
+    "tts": "person cartwheeling",
+    "keywords": [
+      "cartwheel",
+      "gymnastics"
+    ]
+  },
+  {
+    "sequence": "1F938 200D 2640",
+    "tts": "woman cartwheeling",
+    "keywords": [
+      "cartwheel",
+      "gymnastics",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F938 200D 2642",
+    "tts": "man cartwheeling",
+    "keywords": [
+      "cartwheel",
+      "gymnastics",
+      "man"
+    ]
+  },
+  {
+    "sequence": "1F939",
+    "tts": "person juggling",
+    "keywords": [
+      "juggle",
+      "multitask",
+      "balance",
+      "skill"
+    ]
+  },
+  {
+    "sequence": "1F939 200D 2640",
+    "tts": "woman juggling",
+    "keywords": [
+      "juggling",
+      "multitask",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F939 200D 2642",
+    "tts": "man juggling",
+    "keywords": [
+      "juggling",
+      "man",
+      "multitask"
+    ]
+  },
+  {
+    "sequence": "1F93A",
+    "tts": "person fencing",
+    "keywords": [
+      "fencer",
+      "fencing",
+      "sword"
+    ]
+  },
+  {
+    "sequence": "1F93C",
+    "tts": "people wrestling",
+    "keywords": [
+      "wrestler",
+      "wrestle"
+    ]
+  },
+  {
+    "sequence": "1F93C 200D 2640",
+    "tts": "women wrestling",
+    "keywords": [
+      "women",
+      "wrestle"
+    ]
+  },
+  {
+    "sequence": "1F93C 200D 2642",
+    "tts": "men wrestling",
+    "keywords": [
+      "men",
+      "wrestle"
+    ]
+  },
+  {
+    "sequence": "1F93D",
+    "tts": "person playing water polo",
+    "keywords": [
+      "polo",
+      "water"
+    ]
+  },
+  {
+    "sequence": "1F93D 200D 2640",
+    "tts": "woman playing water polo",
+    "keywords": [
+      "water polo",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F93D 200D 2642",
+    "tts": "man playing water polo",
+    "keywords": [
+      "man",
+      "water polo"
+    ]
+  },
+  {
+    "sequence": "1F93E",
+    "tts": "person playing handball",
+    "keywords": [
+      "handball",
+      "ball"
+    ]
+  },
+  {
+    "sequence": "1F93E 200D 2640",
+    "tts": "woman playing handball",
+    "keywords": [
+      "handball",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F93E 200D 2642",
+    "tts": "man playing handball",
+    "keywords": [
+      "handball",
+      "man"
+    ]
+  },
+  {
+    "sequence": "1F940",
+    "tts": "wilted flower",
+    "keywords": [
+      "flower",
+      "wilted"
+    ]
+  },
+  {
+    "sequence": "1F941",
+    "tts": "drum",
+    "keywords": [
+      "drum",
+      "drumsticks",
+      "music"
+    ]
+  },
+  {
+    "sequence": "1F942",
+    "tts": "clinking glasses",
+    "keywords": [
+      "clink",
+      "glass",
+      "drink",
+      "celebrate"
+    ]
+  },
+  {
+    "sequence": "1F943",
+    "tts": "tumbler glass",
+    "keywords": [
+      "glass",
+      "tumbler",
+      "whisky",
+      "liquor",
+      "shot"
+    ]
+  },
+  {
+    "sequence": "1F944",
+    "tts": "spoon",
+    "keywords": [
+      "spoon",
+      "tableware"
+    ]
+  },
+  {
+    "sequence": "1F945",
+    "tts": "goal net",
+    "keywords": [
+      "goal",
+      "net"
+    ]
+  },
+  {
+    "sequence": "1F947",
+    "tts": "1st place medal",
+    "keywords": [
+      "first",
+      "gold",
+      "medal"
+    ]
+  },
+  {
+    "sequence": "1F948",
+    "tts": "2nd place medal",
+    "keywords": [
+      "medal",
+      "second",
+      "silver"
+    ]
+  },
+  {
+    "sequence": "1F949",
+    "tts": "3rd place medal",
+    "keywords": [
+      "bronze",
+      "medal",
+      "third"
+    ]
+  },
+  {
+    "sequence": "1F94A",
+    "tts": "boxing glove",
+    "keywords": [
+      "boxing",
+      "glove"
+    ]
+  },
+  {
+    "sequence": "1F94B",
+    "tts": "martial arts uniform",
+    "keywords": [
+      "judo",
+      "karate",
+      "taekwondo",
+      "martial arts",
+      "uniform"
+    ]
+  },
+  {
+    "sequence": "1F950",
+    "tts": "croissant",
+    "keywords": [
+      "croissant",
+      "crescent roll",
+      "french",
+      "food",
+      "bread"
+    ]
+  },
+  {
+    "sequence": "1F951",
+    "tts": "avocado",
+    "keywords": [
+      "avocado",
+      "fruit",
+      "food"
+    ]
+  },
+  {
+    "sequence": "1F952",
+    "tts": "cucumber",
+    "keywords": [
+      "cucumber",
+      "pickle",
+      "vegetable",
+      "food"
+    ]
+  },
+  {
+    "sequence": "1F953",
+    "tts": "bacon",
+    "keywords": [
+      "bacon",
+      "meat",
+      "food"
+    ]
+  },
+  {
+    "sequence": "1F954",
+    "tts": "potato",
+    "keywords": [
+      "potato",
+      "vegetable",
+      "food"
+    ]
+  },
+  {
+    "sequence": "1F955",
+    "tts": "carrot",
+    "keywords": [
+      "carrot",
+      "vegetable",
+      "food"
+    ]
+  },
+  {
+    "sequence": "1F956",
+    "tts": "baguette bread",
+    "keywords": [
+      "baguette",
+      "bread",
+      "french",
+      "food"
+    ]
+  },
+  {
+    "sequence": "1F957",
+    "tts": "green salad",
+    "keywords": [
+      "green",
+      "salad",
+      "food"
+    ]
+  },
+  {
+    "sequence": "1F958",
+    "tts": "shallow pan of food",
+    "keywords": [
+      "paella",
+      "casserole",
+      "pan",
+      "shallow",
+      "food"
+    ]
+  },
+  {
+    "sequence": "1F959",
+    "tts": "stuffed flatbread",
+    "keywords": [
+      "kebab",
+      "falafel",
+      "gyro",
+      "flatbread",
+      "stuffed",
+      "food"
+    ]
+  },
+  {
+    "sequence": "1F95A",
+    "tts": "egg",
+    "keywords": [
+      "egg",
+      "food"
+    ]
+  },
+  {
+    "sequence": "1F95B",
+    "tts": "glass of milk",
+    "keywords": [
+      "glass",
+      "milk",
+      "drink"
+    ]
+  },
+  {
+    "sequence": "1F95C",
+    "tts": "peanuts",
+    "keywords": [
+      "peanut",
+      "nut",
+      "food",
+      "vegetable"
+    ]
+  },
+  {
+    "sequence": "1F95D",
+    "tts": "kiwi fruit",
+    "keywords": [
+      "kiwi",
+      "fruit",
+      "food"
+    ]
+  },
+  {
+    "sequence": "1F95E",
+    "tts": "pancakes",
+    "keywords": [
+      "hotcake",
+      "crêpe",
+      "pancake",
+      "food"
+    ]
+  },
+  {
+    "sequence": "1F985",
+    "tts": "eagle",
+    "keywords": [
+      "eagle",
+      "bird"
+    ]
+  },
+  {
+    "sequence": "1F986",
+    "tts": "duck",
+    "keywords": [
+      "duck",
+      "bird"
+    ]
+  },
+  {
+    "sequence": "1F987",
+    "tts": "bat",
+    "keywords": [
+      "bat",
+      "vampire"
+    ]
+  },
+  {
+    "sequence": "1F988",
+    "tts": "shark",
+    "keywords": [
+      "shark",
+      "fish"
+    ]
+  },
+  {
+    "sequence": "1F989",
+    "tts": "owl",
+    "keywords": [
+      "owl",
+      "wise",
+      "bird"
+    ]
+  },
+  {
+    "sequence": "1F98A",
+    "tts": "fox face",
+    "keywords": [
+      "face",
+      "fox"
+    ]
+  },
+  {
+    "sequence": "1F98B",
+    "tts": "butterfly",
+    "keywords": [
+      "butterfly",
+      "insect",
+      "pretty"
+    ]
+  },
+  {
+    "sequence": "1F98C",
+    "tts": "deer",
+    "keywords": [
+      "deer"
+    ]
+  },
+  {
+    "sequence": "1F98D",
+    "tts": "gorilla",
+    "keywords": [
+      "gorilla"
+    ]
+  },
+  {
+    "sequence": "1F98E",
+    "tts": "lizard",
+    "keywords": [
+      "lizard",
+      "reptile"
+    ]
+  },
+  {
+    "sequence": "1F98F",
+    "tts": "rhinoceros",
+    "keywords": [
+      "rhinoceros"
+    ]
+  },
+  {
+    "sequence": "1F990",
+    "tts": "shrimp",
+    "keywords": [
+      "shrimp",
+      "small",
+      "shellfish",
+      "food"
+    ]
+  },
+  {
+    "sequence": "1F991",
+    "tts": "squid",
+    "keywords": [
+      "squid",
+      "molusc",
+      "food"
+    ]
+  },
+  {
+    "sequence": "1F600",
+    "tts": "grinning face",
+    "keywords": [
+      "face",
+      "grin"
+    ]
+  },
+  {
+    "sequence": "1F601",
+    "tts": "grinning face with smiling eyes",
+    "keywords": [
+      "eye",
+      "face",
+      "grin",
+      "smile"
+    ]
+  },
+  {
+    "sequence": "1F602",
+    "tts": "face with tears of joy",
+    "keywords": [
+      "face",
+      "joy",
+      "laugh",
+      "tear"
+    ]
+  },
+  {
+    "sequence": "1F603",
+    "tts": "smiling face with open mouth",
+    "keywords": [
+      "face",
+      "mouth",
+      "open",
+      "smile"
+    ]
+  },
+  {
+    "sequence": "1F604",
+    "tts": "smiling face with open mouth & smiling eyes",
+    "keywords": [
+      "eye",
+      "face",
+      "mouth",
+      "open",
+      "smile"
+    ]
+  },
+  {
+    "sequence": "1F605",
+    "tts": "smiling face with open mouth & cold sweat",
+    "keywords": [
+      "cold",
+      "face",
+      "open",
+      "smile",
+      "sweat"
+    ]
+  },
+  {
+    "sequence": "1F606",
+    "tts": "smiling face with open mouth & closed eyes",
+    "keywords": [
+      "face",
+      "laugh",
+      "mouth",
+      "open",
+      "satisfied",
+      "smile"
+    ]
+  },
+  {
+    "sequence": "1F609",
+    "tts": "winking face",
+    "keywords": [
+      "face",
+      "wink"
+    ]
+  },
+  {
+    "sequence": "1F60A",
+    "tts": "smiling face with smiling eyes",
+    "keywords": [
+      "blush",
+      "eye",
+      "face",
+      "smile"
+    ]
+  },
+  {
+    "sequence": "1F60B",
+    "tts": "face savouring delicious food",
+    "keywords": [
+      "delicious",
+      "face",
+      "savouring",
+      "smile",
+      "um",
+      "yum"
+    ]
+  },
+  {
+    "sequence": "1F60E",
+    "tts": "smiling face with sunglasses",
+    "keywords": [
+      "bright",
+      "cool",
+      "eye",
+      "eyewear",
+      "face",
+      "glasses",
+      "smile",
+      "sun",
+      "sunglasses"
+    ]
+  },
+  {
+    "sequence": "1F60D",
+    "tts": "smiling face with heart-eyes",
+    "keywords": [
+      "eye",
+      "face",
+      "love",
+      "smile"
+    ]
+  },
+  {
+    "sequence": "1F618",
+    "tts": "face blowing a kiss",
+    "keywords": [
+      "face",
+      "kiss"
+    ]
+  },
+  {
+    "sequence": "1F617",
+    "tts": "kissing face",
+    "keywords": [
+      "face",
+      "kiss"
+    ]
+  },
+  {
+    "sequence": "1F619",
+    "tts": "kissing face with smiling eyes",
+    "keywords": [
+      "eye",
+      "face",
+      "kiss",
+      "smile"
+    ]
+  },
+  {
+    "sequence": "1F61A",
+    "tts": "kissing face with closed eyes",
+    "keywords": [
+      "closed",
+      "eye",
+      "face",
+      "kiss"
+    ]
+  },
+  {
+    "sequence": "263A",
+    "tts": "smiling face",
+    "keywords": [
+      "face",
+      "outlined",
+      "relaxed",
+      "smile"
+    ]
+  },
+  {
+    "sequence": "1F642",
+    "tts": "slightly smiling face",
+    "keywords": [
+      "face",
+      "smile"
+    ]
+  },
+  {
+    "sequence": "1F917",
+    "tts": "hugging face",
+    "keywords": [
+      "face",
+      "hug",
+      "hugging"
+    ]
+  },
+  {
+    "sequence": "1F607",
+    "tts": "smiling face with halo",
+    "keywords": [
+      "angel",
+      "face",
+      "fairy tale",
+      "fantasy",
+      "halo",
+      "innocent",
+      "smile"
+    ]
+  },
+  {
+    "sequence": "1F914",
+    "tts": "thinking face",
+    "keywords": [
+      "face",
+      "thinking"
+    ]
+  },
+  {
+    "sequence": "1F610",
+    "tts": "neutral face",
+    "keywords": [
+      "deadpan",
+      "face",
+      "neutral"
+    ]
+  },
+  {
+    "sequence": "1F611",
+    "tts": "expressionless face",
+    "keywords": [
+      "expressionless",
+      "face",
+      "inexpressive",
+      "unexpressive"
+    ]
+  },
+  {
+    "sequence": "1F636",
+    "tts": "face without mouth",
+    "keywords": [
+      "face",
+      "mouth",
+      "quiet",
+      "silent"
+    ]
+  },
+  {
+    "sequence": "1F644",
+    "tts": "face with rolling eyes",
+    "keywords": [
+      "eyes",
+      "face",
+      "rolling"
+    ]
+  },
+  {
+    "sequence": "1F60F",
+    "tts": "smirking face",
+    "keywords": [
+      "face",
+      "smirk"
+    ]
+  },
+  {
+    "sequence": "1F623",
+    "tts": "persevering face",
+    "keywords": [
+      "face",
+      "persevere"
+    ]
+  },
+  {
+    "sequence": "1F625",
+    "tts": "disappointed but relieved face",
+    "keywords": [
+      "disappointed",
+      "face",
+      "relieved",
+      "whew"
+    ]
+  },
+  {
+    "sequence": "1F62E",
+    "tts": "face with open mouth",
+    "keywords": [
+      "face",
+      "mouth",
+      "open",
+      "sympathy"
+    ]
+  },
+  {
+    "sequence": "1F910",
+    "tts": "zipper-mouth face",
+    "keywords": [
+      "face",
+      "mouth",
+      "zipper"
+    ]
+  },
+  {
+    "sequence": "1F62F",
+    "tts": "hushed face",
+    "keywords": [
+      "face",
+      "hushed",
+      "stunned",
+      "surprised"
+    ]
+  },
+  {
+    "sequence": "1F62A",
+    "tts": "sleepy face",
+    "keywords": [
+      "face",
+      "sleep"
+    ]
+  },
+  {
+    "sequence": "1F62B",
+    "tts": "tired face",
+    "keywords": [
+      "face",
+      "tired"
+    ]
+  },
+  {
+    "sequence": "1F634",
+    "tts": "sleeping face",
+    "keywords": [
+      "face",
+      "sleep",
+      "zzz"
+    ]
+  },
+  {
+    "sequence": "1F60C",
+    "tts": "relieved face",
+    "keywords": [
+      "face",
+      "relieved"
+    ]
+  },
+  {
+    "sequence": "1F913",
+    "tts": "nerd face",
+    "keywords": [
+      "face",
+      "geek",
+      "nerd"
+    ]
+  },
+  {
+    "sequence": "1F61B",
+    "tts": "face with stuck-out tongue",
+    "keywords": [
+      "face",
+      "tongue"
+    ]
+  },
+  {
+    "sequence": "1F61C",
+    "tts": "face with stuck-out tongue & winking eye",
+    "keywords": [
+      "eye",
+      "face",
+      "joke",
+      "tongue",
+      "wink"
+    ]
+  },
+  {
+    "sequence": "1F61D",
+    "tts": "face with stuck-out tongue & closed eyes",
+    "keywords": [
+      "eye",
+      "face",
+      "horrible",
+      "taste",
+      "tongue"
+    ]
+  },
+  {
+    "sequence": "1F641",
+    "tts": "slightly frowning face",
+    "keywords": [
+      "face",
+      "frown"
+    ]
+  },
+  {
+    "sequence": "1F612",
+    "tts": "unamused face",
+    "keywords": [
+      "face",
+      "unamused",
+      "unhappy"
+    ]
+  },
+  {
+    "sequence": "1F613",
+    "tts": "face with cold sweat",
+    "keywords": [
+      "cold",
+      "face",
+      "sweat"
+    ]
+  },
+  {
+    "sequence": "1F614",
+    "tts": "pensive face",
+    "keywords": [
+      "dejected",
+      "face",
+      "pensive"
+    ]
+  },
+  {
+    "sequence": "1F615",
+    "tts": "confused face",
+    "keywords": [
+      "confused",
+      "face"
+    ]
+  },
+  {
+    "sequence": "1F616",
+    "tts": "confounded face",
+    "keywords": [
+      "confounded",
+      "face"
+    ]
+  },
+  {
+    "sequence": "1F643",
+    "tts": "upside-down face",
+    "keywords": [
+      "face",
+      "upside-down"
+    ]
+  },
+  {
+    "sequence": "1F637",
+    "tts": "face with medical mask",
+    "keywords": [
+      "cold",
+      "doctor",
+      "face",
+      "mask",
+      "medicine",
+      "sick"
+    ]
+  },
+  {
+    "sequence": "1F912",
+    "tts": "face with thermometer",
+    "keywords": [
+      "face",
+      "ill",
+      "sick",
+      "thermometer"
+    ]
+  },
+  {
+    "sequence": "1F915",
+    "tts": "face with head-bandage",
+    "keywords": [
+      "bandage",
+      "face",
+      "hurt",
+      "injury"
+    ]
+  },
+  {
+    "sequence": "1F911",
+    "tts": "money-mouth face",
+    "keywords": [
+      "face",
+      "money",
+      "mouth"
+    ]
+  },
+  {
+    "sequence": "1F632",
+    "tts": "astonished face",
+    "keywords": [
+      "astonished",
+      "face",
+      "shocked",
+      "totally"
+    ]
+  },
+  {
+    "sequence": "1F61E",
+    "tts": "disappointed face",
+    "keywords": [
+      "disappointed",
+      "face"
+    ]
+  },
+  {
+    "sequence": "1F61F",
+    "tts": "worried face",
+    "keywords": [
+      "face",
+      "worried"
+    ]
+  },
+  {
+    "sequence": "1F624",
+    "tts": "face with steam from nose",
+    "keywords": [
+      "face",
+      "triumph",
+      "won"
+    ]
+  },
+  {
+    "sequence": "1F622",
+    "tts": "crying face",
+    "keywords": [
+      "cry",
+      "face",
+      "sad",
+      "tear"
+    ]
+  },
+  {
+    "sequence": "1F62D",
+    "tts": "loudly crying face",
+    "keywords": [
+      "cry",
+      "face",
+      "sad",
+      "sob",
+      "tear"
+    ]
+  },
+  {
+    "sequence": "1F626",
+    "tts": "frowning face with open mouth",
+    "keywords": [
+      "face",
+      "frown",
+      "mouth",
+      "open"
+    ]
+  },
+  {
+    "sequence": "1F627",
+    "tts": "anguished face",
+    "keywords": [
+      "anguished",
+      "face"
+    ]
+  },
+  {
+    "sequence": "1F628",
+    "tts": "fearful face",
+    "keywords": [
+      "face",
+      "fear",
+      "fearful",
+      "scared"
+    ]
+  },
+  {
+    "sequence": "1F629",
+    "tts": "weary face",
+    "keywords": [
+      "face",
+      "tired",
+      "weary"
+    ]
+  },
+  {
+    "sequence": "1F62C",
+    "tts": "grimacing face",
+    "keywords": [
+      "face",
+      "grimace"
+    ]
+  },
+  {
+    "sequence": "1F630",
+    "tts": "face with open mouth & cold sweat",
+    "keywords": [
+      "blue",
+      "cold",
+      "face",
+      "mouth",
+      "open",
+      "rushed",
+      "sweat"
+    ]
+  },
+  {
+    "sequence": "1F631",
+    "tts": "face screaming in fear",
+    "keywords": [
+      "face",
+      "fear",
+      "fearful",
+      "munch",
+      "scared",
+      "scream"
+    ]
+  },
+  {
+    "sequence": "1F633",
+    "tts": "flushed face",
+    "keywords": [
+      "dazed",
+      "face",
+      "flushed"
+    ]
+  },
+  {
+    "sequence": "1F635",
+    "tts": "dizzy face",
+    "keywords": [
+      "dizzy",
+      "face"
+    ]
+  },
+  {
+    "sequence": "1F621",
+    "tts": "pouting face",
+    "keywords": [
+      "angry",
+      "face",
+      "mad",
+      "pouting",
+      "rage",
+      "red"
+    ]
+  },
+  {
+    "sequence": "1F620",
+    "tts": "angry face",
+    "keywords": [
+      "angry",
+      "face",
+      "mad"
+    ]
+  },
+  {
+    "sequence": "1F608",
+    "tts": "smiling face with horns",
+    "keywords": [
+      "face",
+      "fairy tale",
+      "fantasy",
+      "horns",
+      "smile"
+    ]
+  },
+  {
+    "sequence": "1F47F",
+    "tts": "angry face with horns",
+    "keywords": [
+      "demon",
+      "devil",
+      "imp",
+      "face",
+      "fairy tale",
+      "fantasy"
+    ]
+  },
+  {
+    "sequence": "1F479",
+    "tts": "ogre",
+    "keywords": [
+      "creature",
+      "face",
+      "fairy tale",
+      "fantasy",
+      "Japanese",
+      "monster"
+    ]
+  },
+  {
+    "sequence": "1F47A",
+    "tts": "goblin",
+    "keywords": [
+      "creature",
+      "face",
+      "fairy tale",
+      "fantasy",
+      "Japanese",
+      "monster"
+    ]
+  },
+  {
+    "sequence": "1F480",
+    "tts": "skull",
+    "keywords": [
+      "death",
+      "face",
+      "fairy tale",
+      "monster"
+    ]
+  },
+  {
+    "sequence": "1F47B",
+    "tts": "ghost",
+    "keywords": [
+      "creature",
+      "face",
+      "fairy tale",
+      "fantasy",
+      "monster"
+    ]
+  },
+  {
+    "sequence": "1F47D",
+    "tts": "alien",
+    "keywords": [
+      "creature",
+      "extraterrestrial",
+      "face",
+      "fairy tale",
+      "fantasy",
+      "monster",
+      "ufo"
+    ]
+  },
+  {
+    "sequence": "1F47E",
+    "tts": "alien monster",
+    "keywords": [
+      "alien",
+      "creature",
+      "extraterrestrial",
+      "face",
+      "fairy tale",
+      "fantasy",
+      "monster",
+      "ufo"
+    ]
+  },
+  {
+    "sequence": "1F916",
+    "tts": "robot face",
+    "keywords": [
+      "face",
+      "monster",
+      "robot"
+    ]
+  },
+  {
+    "sequence": "1F4A9",
+    "tts": "pile of poo",
+    "keywords": [
+      "comic",
+      "dung",
+      "face",
+      "monster",
+      "poo",
+      "poop"
+    ]
+  },
+  {
+    "sequence": "1F63A",
+    "tts": "smiling cat face with open mouth",
+    "keywords": [
+      "cat",
+      "face",
+      "mouth",
+      "open",
+      "smile"
+    ]
+  },
+  {
+    "sequence": "1F638",
+    "tts": "grinning cat face with smiling eyes",
+    "keywords": [
+      "cat",
+      "eye",
+      "face",
+      "grin",
+      "smile"
+    ]
+  },
+  {
+    "sequence": "1F639",
+    "tts": "cat face with tears of joy",
+    "keywords": [
+      "cat",
+      "face",
+      "joy",
+      "tear"
+    ]
+  },
+  {
+    "sequence": "1F63B",
+    "tts": "smiling cat face with heart-eyes",
+    "keywords": [
+      "cat",
+      "eye",
+      "face",
+      "love",
+      "smile"
+    ]
+  },
+  {
+    "sequence": "1F63C",
+    "tts": "cat face with wry smile",
+    "keywords": [
+      "cat",
+      "face",
+      "ironic",
+      "smile",
+      "wry"
+    ]
+  },
+  {
+    "sequence": "1F63D",
+    "tts": "kissing cat face with closed eyes",
+    "keywords": [
+      "cat",
+      "eye",
+      "face",
+      "kiss"
+    ]
+  },
+  {
+    "sequence": "1F640",
+    "tts": "weary cat face",
+    "keywords": [
+      "cat",
+      "face",
+      "oh",
+      "surprised",
+      "weary"
+    ]
+  },
+  {
+    "sequence": "1F63F",
+    "tts": "crying cat face",
+    "keywords": [
+      "cat",
+      "cry",
+      "face",
+      "sad",
+      "tear"
+    ]
+  },
+  {
+    "sequence": "1F63E",
+    "tts": "pouting cat face",
+    "keywords": [
+      "cat",
+      "face",
+      "pouting"
+    ]
+  },
+  {
+    "sequence": "1F648",
+    "tts": "see-no-evil monkey",
+    "keywords": [
+      "evil",
+      "face",
+      "forbidden",
+      "gesture",
+      "monkey",
+      "no",
+      "not",
+      "prohibited",
+      "see"
+    ]
+  },
+  {
+    "sequence": "1F649",
+    "tts": "hear-no-evil monkey",
+    "keywords": [
+      "evil",
+      "face",
+      "forbidden",
+      "gesture",
+      "hear",
+      "monkey",
+      "no",
+      "not",
+      "prohibited"
+    ]
+  },
+  {
+    "sequence": "1F64A",
+    "tts": "speak-no-evil monkey",
+    "keywords": [
+      "evil",
+      "face",
+      "forbidden",
+      "gesture",
+      "monkey",
+      "no",
+      "not",
+      "prohibited",
+      "speak"
+    ]
+  },
+  {
+    "sequence": "1F466",
+    "tts": "boy",
+    "keywords": [
+      "boy",
+      "young"
+    ]
+  },
+  {
+    "sequence": "1F467",
+    "tts": "girl",
+    "keywords": [
+      "Virgo",
+      "young",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "1F468",
+    "tts": "man",
+    "keywords": [
+      "man"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 2695",
+    "tts": "man health worker",
+    "keywords": [
+      "man",
+      "healthcare",
+      "doctor",
+      "nurse",
+      "therapist"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F393",
+    "tts": "man student",
+    "keywords": [
+      "man",
+      "student",
+      "graduate"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F33E",
+    "tts": "man farmer",
+    "keywords": [
+      "man",
+      "farmer",
+      "rancher",
+      "gardener"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F373",
+    "tts": "man cook",
+    "keywords": [
+      "man",
+      "cook",
+      "chef"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F3EB",
+    "tts": "man teacher",
+    "keywords": [
+      "man",
+      "professor",
+      "instructor",
+      "teacher"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F3ED",
+    "tts": "man factory worker",
+    "keywords": [
+      "man",
+      "industrial",
+      "assembly",
+      "factory",
+      "worker"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F3A8",
+    "tts": "man artist",
+    "keywords": [
+      "artist",
+      "man",
+      "palette"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F692",
+    "tts": "man firefighter",
+    "keywords": [
+      "firefighter",
+      "man",
+      "firetruck"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 2708",
+    "tts": "man pilot",
+    "keywords": [
+      "man",
+      "pilot",
+      "plane"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F680",
+    "tts": "man astronaut",
+    "keywords": [
+      "astronaut",
+      "man",
+      "rocket"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F3A4",
+    "tts": "man singer",
+    "keywords": [
+      "man",
+      "singer",
+      "entertainer",
+      "rock",
+      "star",
+      "actor"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F4BB",
+    "tts": "man technologist",
+    "keywords": [
+      "man",
+      "technologist",
+      "coder",
+      "software",
+      "developer",
+      "inventor"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F52C",
+    "tts": "man scientist",
+    "keywords": [
+      "man",
+      "scientist",
+      "engineer",
+      "mathematician",
+      "chemist",
+      "physicist",
+      "biologist"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F4BC",
+    "tts": "man office worker",
+    "keywords": [
+      "man",
+      "office",
+      "business",
+      "manager",
+      "architect",
+      "white-collar"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F527",
+    "tts": "man mechanic",
+    "keywords": [
+      "man",
+      "tradesperson",
+      "mechanic",
+      "plumber",
+      "electrician"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 2696",
+    "tts": "man judge",
+    "keywords": [
+      "justice",
+      "man",
+      "scales"
+    ]
+  },
+  {
+    "sequence": "1F469",
+    "tts": "woman",
+    "keywords": [
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 2695",
+    "tts": "woman health worker",
+    "keywords": [
+      "woman",
+      "healthcare",
+      "doctor",
+      "nurse",
+      "therapist"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F393",
+    "tts": "woman student",
+    "keywords": [
+      "woman",
+      "student",
+      "graduate"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F33E",
+    "tts": "woman farmer",
+    "keywords": [
+      "woman",
+      "farmer",
+      "rancher",
+      "gardener"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F373",
+    "tts": "woman cook",
+    "keywords": [
+      "woman",
+      "cook",
+      "chef"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F3EB",
+    "tts": "woman teacher",
+    "keywords": [
+      "woman",
+      "professor",
+      "instructor",
+      "teacher"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F3ED",
+    "tts": "woman factory worker",
+    "keywords": [
+      "woman",
+      "industrial",
+      "assembly",
+      "factory",
+      "worker"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F3A8",
+    "tts": "woman artist",
+    "keywords": [
+      "artist",
+      "palette",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F692",
+    "tts": "woman firefighter",
+    "keywords": [
+      "firefighter",
+      "firetruck",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 2708",
+    "tts": "woman pilot",
+    "keywords": [
+      "pilot",
+      "plane",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F680",
+    "tts": "woman astronaut",
+    "keywords": [
+      "astronaut",
+      "rocket",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F3A4",
+    "tts": "woman singer",
+    "keywords": [
+      "woman",
+      "singer",
+      "entertainer",
+      "rock",
+      "star",
+      "actor"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F4BB",
+    "tts": "woman technologist",
+    "keywords": [
+      "woman",
+      "technologist",
+      "coder",
+      "software",
+      "developer",
+      "inventor"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F52C",
+    "tts": "woman scientist",
+    "keywords": [
+      "woman",
+      "scientist",
+      "engineer",
+      "mathematician",
+      "chemist",
+      "physicist",
+      "biologist"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F4BC",
+    "tts": "woman office worker",
+    "keywords": [
+      "woman",
+      "office",
+      "business",
+      "manager",
+      "architect",
+      "white-collar"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F527",
+    "tts": "woman mechanic",
+    "keywords": [
+      "woman",
+      "tradesperson",
+      "mechanic",
+      "plumber",
+      "electrician"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 2696",
+    "tts": "woman judge",
+    "keywords": [
+      "judge",
+      "woman",
+      "scales"
+    ]
+  },
+  {
+    "sequence": "1F474",
+    "tts": "old man",
+    "keywords": [
+      "man",
+      "old"
+    ]
+  },
+  {
+    "sequence": "1F475",
+    "tts": "old woman",
+    "keywords": [
+      "old",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F476",
+    "tts": "baby",
+    "keywords": [
+      "baby",
+      "young"
+    ]
+  },
+  {
+    "sequence": "1F471",
+    "tts": "blond-haired person",
+    "keywords": [
+      "blond"
+    ]
+  },
+  {
+    "sequence": "1F471 200D 2640",
+    "tts": "blond-haired woman",
+    "keywords": [
+      "blonde",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F471 200D 2642",
+    "tts": "blond-haired man",
+    "keywords": [
+      "blond",
+      "man"
+    ]
+  },
+  {
+    "sequence": "1F46E",
+    "tts": "police officer",
+    "keywords": [
+      "cop",
+      "officer",
+      "police"
+    ]
+  },
+  {
+    "sequence": "1F46E 200D 2640",
+    "tts": "woman police officer",
+    "keywords": [
+      "cop",
+      "officer",
+      "police",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F46E 200D 2642",
+    "tts": "man police officer",
+    "keywords": [
+      "cop",
+      "man",
+      "officer",
+      "police"
+    ]
+  },
+  {
+    "sequence": "1F472",
+    "tts": "man with Chinese cap",
+    "keywords": [
+      "gua pi mao",
+      "hat",
+      "man"
+    ]
+  },
+  {
+    "sequence": "1F473",
+    "tts": "person wearing turban",
+    "keywords": [
+      "turban"
+    ]
+  },
+  {
+    "sequence": "1F473 200D 2640",
+    "tts": "woman wearing turban",
+    "keywords": [
+      "turban",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F473 200D 2642",
+    "tts": "man wearing turban",
+    "keywords": [
+      "man",
+      "turban"
+    ]
+  },
+  {
+    "sequence": "1F477",
+    "tts": "construction worker",
+    "keywords": [
+      "construction",
+      "hat",
+      "worker"
+    ]
+  },
+  {
+    "sequence": "1F477 200D 2640",
+    "tts": "woman construction worker",
+    "keywords": [
+      "construction",
+      "woman",
+      "worker"
+    ]
+  },
+  {
+    "sequence": "1F477 200D 2642",
+    "tts": "man construction worker",
+    "keywords": [
+      "construction",
+      "man",
+      "worker"
+    ]
+  },
+  {
+    "sequence": "26D1",
+    "tts": "rescue worker’s helmet",
+    "keywords": [
+      "aid",
+      "cross",
+      "face",
+      "hat",
+      "helmet"
+    ]
+  },
+  {
+    "sequence": "1F478",
+    "tts": "princess",
+    "keywords": [
+      "fairy tale",
+      "fantasy"
+    ]
+  },
+  {
+    "sequence": "1F482",
+    "tts": "guard",
+    "keywords": [
+      "guard"
+    ]
+  },
+  {
+    "sequence": "1F482 200D 2640",
+    "tts": "woman guard",
+    "keywords": [
+      "guard",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F482 200D 2642",
+    "tts": "man guard",
+    "keywords": [
+      "guard",
+      "man"
+    ]
+  },
+  {
+    "sequence": "1F575",
+    "tts": "detective",
+    "keywords": [
+      "sleuth",
+      "spy",
+      "detective"
+    ]
+  },
+  {
+    "sequence": "1F575 200D 2640",
+    "tts": "woman detective",
+    "keywords": [
+      "sleuth",
+      "spy",
+      "woman",
+      "detective"
+    ]
+  },
+  {
+    "sequence": "1F575 200D 2642",
+    "tts": "man detective",
+    "keywords": [
+      "man",
+      "sleuth",
+      "spy",
+      "detective"
+    ]
+  },
+  {
+    "sequence": "1F385",
+    "tts": "Santa Claus",
+    "keywords": [
+      "Christmas",
+      "celebration",
+      "father",
+      "santa",
+      "claus"
+    ]
+  },
+  {
+    "sequence": "1F47C",
+    "tts": "baby angel",
+    "keywords": [
+      "angel",
+      "baby",
+      "face",
+      "fairy tale",
+      "fantasy"
+    ]
+  },
+  {
+    "sequence": "1F46F",
+    "tts": "people with bunny ears partying",
+    "keywords": [
+      "bunny ear",
+      "dancer",
+      "partying"
+    ]
+  },
+  {
+    "sequence": "1F46F 200D 2640",
+    "tts": "women with bunny ears partying",
+    "keywords": [
+      "bunny ear",
+      "dancer",
+      "partying",
+      "women"
+    ]
+  },
+  {
+    "sequence": "1F46F 200D 2642",
+    "tts": "men with bunny ears partying",
+    "keywords": [
+      "bunny ear",
+      "dancer",
+      "men",
+      "partying"
+    ]
+  },
+  {
+    "sequence": "1F486",
+    "tts": "person getting massage",
+    "keywords": [
+      "massage",
+      "salon",
+      "face"
+    ]
+  },
+  {
+    "sequence": "1F486 200D 2640",
+    "tts": "woman getting massage",
+    "keywords": [
+      "face",
+      "massage",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F486 200D 2642",
+    "tts": "man getting massage",
+    "keywords": [
+      "face",
+      "man",
+      "massage"
+    ]
+  },
+  {
+    "sequence": "1F487",
+    "tts": "person getting haircut",
+    "keywords": [
+      "barber",
+      "beauty",
+      "parlor",
+      "haircut"
+    ]
+  },
+  {
+    "sequence": "1F487 200D 2640",
+    "tts": "woman getting haircut",
+    "keywords": [
+      "haircut",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F487 200D 2642",
+    "tts": "man getting haircut",
+    "keywords": [
+      "haircut",
+      "man"
+    ]
+  },
+  {
+    "sequence": "1F470",
+    "tts": "bride with veil",
+    "keywords": [
+      "bride",
+      "veil",
+      "wedding"
+    ]
+  },
+  {
+    "sequence": "1F64D",
+    "tts": "person frowning",
+    "keywords": [
+      "frown",
+      "gesture"
+    ]
+  },
+  {
+    "sequence": "1F64D 200D 2640",
+    "tts": "woman frowning",
+    "keywords": [
+      "frowning",
+      "gesture",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F64D 200D 2642",
+    "tts": "man frowning",
+    "keywords": [
+      "frowning",
+      "gesture",
+      "man"
+    ]
+  },
+  {
+    "sequence": "1F64E",
+    "tts": "person pouting",
+    "keywords": [
+      "gesture",
+      "pouting"
+    ]
+  },
+  {
+    "sequence": "1F64E 200D 2640",
+    "tts": "woman pouting",
+    "keywords": [
+      "gesture",
+      "pouting",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F64E 200D 2642",
+    "tts": "man pouting",
+    "keywords": [
+      "gesture",
+      "man",
+      "pouting"
+    ]
+  },
+  {
+    "sequence": "1F645",
+    "tts": "person gesturing NO",
+    "keywords": [
+      "forbidden",
+      "gesture",
+      "hand",
+      "no",
+      "not",
+      "prohibited"
+    ]
+  },
+  {
+    "sequence": "1F645 200D 2640",
+    "tts": "woman gesturing NO",
+    "keywords": [
+      "forbidden",
+      "gesture",
+      "hand",
+      "no",
+      "prohibited",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F645 200D 2642",
+    "tts": "man gesturing NO",
+    "keywords": [
+      "forbidden",
+      "gesture",
+      "hand",
+      "man",
+      "no",
+      "prohibited"
+    ]
+  },
+  {
+    "sequence": "1F646",
+    "tts": "person gesturing OK",
+    "keywords": [
+      "gesture",
+      "hand",
+      "OK"
+    ]
+  },
+  {
+    "sequence": "1F646 200D 2640",
+    "tts": "woman gesturing OK",
+    "keywords": [
+      "gesture",
+      "hand",
+      "OK",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F646 200D 2642",
+    "tts": "man gesturing OK",
+    "keywords": [
+      "gesture",
+      "hand",
+      "man",
+      "OK"
+    ]
+  },
+  {
+    "sequence": "1F481",
+    "tts": "person tipping hand",
+    "keywords": [
+      "hand",
+      "tipping",
+      "help",
+      "information",
+      "sassy"
+    ]
+  },
+  {
+    "sequence": "1F481 200D 2640",
+    "tts": "woman tipping hand",
+    "keywords": [
+      "sassy",
+      "tipping hand",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F481 200D 2642",
+    "tts": "man tipping hand",
+    "keywords": [
+      "man",
+      "sassy",
+      "tipping hand"
+    ]
+  },
+  {
+    "sequence": "1F64B",
+    "tts": "person raising hand",
+    "keywords": [
+      "gesture",
+      "hand",
+      "happy",
+      "raised"
+    ]
+  },
+  {
+    "sequence": "1F64B 200D 2640",
+    "tts": "woman raising hand",
+    "keywords": [
+      "gesture",
+      "raising hand",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F64B 200D 2642",
+    "tts": "man raising hand",
+    "keywords": [
+      "gesture",
+      "man",
+      "raising hand"
+    ]
+  },
+  {
+    "sequence": "1F647",
+    "tts": "person bowing",
+    "keywords": [
+      "apology",
+      "bow",
+      "gesture",
+      "sorry"
+    ]
+  },
+  {
+    "sequence": "1F647 200D 2640",
+    "tts": "woman bowing",
+    "keywords": [
+      "apology",
+      "favor",
+      "bowing",
+      "gesture",
+      "sorry",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F647 200D 2642",
+    "tts": "man bowing",
+    "keywords": [
+      "apology",
+      "favor",
+      "bowing",
+      "gesture",
+      "man",
+      "sorry"
+    ]
+  },
+  {
+    "sequence": "1F64C",
+    "tts": "raising hands",
+    "keywords": [
+      "celebration",
+      "gesture",
+      "hand",
+      "hooray",
+      "raised"
+    ]
+  },
+  {
+    "sequence": "1F64F",
+    "tts": "folded hands",
+    "keywords": [
+      "ask",
+      "bow",
+      "folded",
+      "gesture",
+      "hand",
+      "please",
+      "pray",
+      "thanks"
+    ]
+  },
+  {
+    "sequence": "1F5E3",
+    "tts": "speaking head",
+    "keywords": [
+      "face",
+      "head",
+      "silhouette",
+      "speak",
+      "speaking"
+    ]
+  },
+  {
+    "sequence": "1F464",
+    "tts": "bust in silhouette",
+    "keywords": [
+      "bust",
+      "silhouette"
+    ]
+  },
+  {
+    "sequence": "1F465",
+    "tts": "busts in silhouette",
+    "keywords": [
+      "bust",
+      "silhouette"
+    ]
+  },
+  {
+    "sequence": "1F6B6",
+    "tts": "person walking",
+    "keywords": [
+      "hike",
+      "walk",
+      "walking"
+    ]
+  },
+  {
+    "sequence": "1F6B6 200D 2640",
+    "tts": "woman walking",
+    "keywords": [
+      "hike",
+      "walk",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F6B6 200D 2642",
+    "tts": "man walking",
+    "keywords": [
+      "hike",
+      "man",
+      "walk"
+    ]
+  },
+  {
+    "sequence": "1F3C3",
+    "tts": "person running",
+    "keywords": [
+      "marathon",
+      "running"
+    ]
+  },
+  {
+    "sequence": "1F3C3 200D 2640",
+    "tts": "woman running",
+    "keywords": [
+      "marathon",
+      "running",
+      "woman",
+      "racing"
+    ]
+  },
+  {
+    "sequence": "1F3C3 200D 2642",
+    "tts": "man running",
+    "keywords": [
+      "man",
+      "marathon",
+      "running",
+      "racing"
+    ]
+  },
+  {
+    "sequence": "1F483",
+    "tts": "woman dancing",
+    "keywords": [
+      "woman",
+      "dancing"
+    ]
+  },
+  {
+    "sequence": "1F574",
+    "tts": "man in business suit levitating",
+    "keywords": [
+      "business",
+      "man",
+      "suit"
+    ]
+  },
+  {
+    "sequence": "1F48F",
+    "tts": "kiss",
+    "keywords": [
+      "couple"
+    ]
+  },
+  {
+    "sequence": "1F491",
+    "tts": "couple with heart",
+    "keywords": [
+      "couple",
+      "love"
+    ]
+  },
+  {
+    "sequence": "1F46A",
+    "tts": "family",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F46B",
+    "tts": "man and woman holding hands",
+    "keywords": [
+      "couple",
+      "hand",
+      "hold",
+      "man",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F46C",
+    "tts": "two men holding hands",
+    "keywords": [
+      "couple",
+      "Gemini",
+      "hand",
+      "hold",
+      "man",
+      "twins",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "1F46D",
+    "tts": "two women holding hands",
+    "keywords": [
+      "couple",
+      "hand",
+      "hold",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F3FB",
+    "tts": "light skin tone",
+    "keywords": [
+      "skin tone",
+      "type 1–2"
+    ]
+  },
+  {
+    "sequence": "1F3FC",
+    "tts": "medium-light skin tone",
+    "keywords": [
+      "skin tone",
+      "type 3"
+    ]
+  },
+  {
+    "sequence": "1F3FD",
+    "tts": "medium skin tone",
+    "keywords": [
+      "skin tone",
+      "type 4"
+    ]
+  },
+  {
+    "sequence": "1F3FE",
+    "tts": "medium-dark skin tone",
+    "keywords": [
+      "skin tone",
+      "type 5"
+    ]
+  },
+  {
+    "sequence": "1F3FF",
+    "tts": "dark skin tone",
+    "keywords": [
+      "skin tone",
+      "type 6"
+    ]
+  },
+  {
+    "sequence": "1F4AA",
+    "tts": "flexed biceps",
+    "keywords": [
+      "biceps",
+      "comic",
+      "flex",
+      "muscle"
+    ]
+  },
+  {
+    "sequence": "1F448",
+    "tts": "backhand index pointing left",
+    "keywords": [
+      "backhand",
+      "finger",
+      "hand",
+      "index",
+      "point"
+    ]
+  },
+  {
+    "sequence": "1F449",
+    "tts": "backhand index pointing right",
+    "keywords": [
+      "backhand",
+      "finger",
+      "hand",
+      "index",
+      "point"
+    ]
+  },
+  {
+    "sequence": "261D",
+    "tts": "index pointing up",
+    "keywords": [
+      "finger",
+      "hand",
+      "index",
+      "point",
+      "up"
+    ]
+  },
+  {
+    "sequence": "1F446",
+    "tts": "backhand index pointing up",
+    "keywords": [
+      "backhand",
+      "finger",
+      "hand",
+      "index",
+      "point",
+      "up"
+    ]
+  },
+  {
+    "sequence": "1F595",
+    "tts": "middle finger",
+    "keywords": [
+      "finger",
+      "hand"
+    ]
+  },
+  {
+    "sequence": "1F447",
+    "tts": "backhand index pointing down",
+    "keywords": [
+      "backhand",
+      "down",
+      "finger",
+      "hand",
+      "index",
+      "point"
+    ]
+  },
+  {
+    "sequence": "270C",
+    "tts": "victory hand",
+    "keywords": [
+      "hand",
+      "v",
+      "victory"
+    ]
+  },
+  {
+    "sequence": "1F596",
+    "tts": "vulcan salute",
+    "keywords": [
+      "finger",
+      "hand",
+      "spock",
+      "vulcan"
+    ]
+  },
+  {
+    "sequence": "1F918",
+    "tts": "sign of the horns",
+    "keywords": [
+      "finger",
+      "hand",
+      "horns",
+      "rock-on"
+    ]
+  },
+  {
+    "sequence": "1F590",
+    "tts": "raised hand with fingers splayed",
+    "keywords": [
+      "finger",
+      "hand",
+      "splayed"
+    ]
+  },
+  {
+    "sequence": "270A",
+    "tts": "raised fist",
+    "keywords": [
+      "clenched",
+      "fist",
+      "hand",
+      "punch"
+    ]
+  },
+  {
+    "sequence": "270B",
+    "tts": "raised hand",
+    "keywords": [
+      "hand"
+    ]
+  },
+  {
+    "sequence": "1F44A",
+    "tts": "oncoming fist",
+    "keywords": [
+      "clenched",
+      "fist",
+      "hand",
+      "punch"
+    ]
+  },
+  {
+    "sequence": "1F44C",
+    "tts": "OK hand",
+    "keywords": [
+      "hand",
+      "OK"
+    ]
+  },
+  {
+    "sequence": "1F44D",
+    "tts": "thumbs up",
+    "keywords": [
+      "+1",
+      "hand",
+      "thumb",
+      "up"
+    ]
+  },
+  {
+    "sequence": "1F44E",
+    "tts": "thumbs down",
+    "keywords": [
+      "-1",
+      "down",
+      "hand",
+      "thumb"
+    ]
+  },
+  {
+    "sequence": "1F44B",
+    "tts": "waving hand",
+    "keywords": [
+      "hand",
+      "wave",
+      "waving"
+    ]
+  },
+  {
+    "sequence": "1F44F",
+    "tts": "clapping hands",
+    "keywords": [
+      "clap",
+      "hand"
+    ]
+  },
+  {
+    "sequence": "1F450",
+    "tts": "open hands",
+    "keywords": [
+      "hand",
+      "open"
+    ]
+  },
+  {
+    "sequence": "270D",
+    "tts": "writing hand",
+    "keywords": [
+      "hand",
+      "write"
+    ]
+  },
+  {
+    "sequence": "1F485",
+    "tts": "nail polish",
+    "keywords": [
+      "care",
+      "cosmetics",
+      "manicure",
+      "nail",
+      "polish"
+    ]
+  },
+  {
+    "sequence": "1F442",
+    "tts": "ear",
+    "keywords": [
+      "body"
+    ]
+  },
+  {
+    "sequence": "1F443",
+    "tts": "nose",
+    "keywords": [
+      "body"
+    ]
+  },
+  {
+    "sequence": "1F463",
+    "tts": "footprints",
+    "keywords": [
+      "clothing",
+      "footprint",
+      "print"
+    ]
+  },
+  {
+    "sequence": "1F440",
+    "tts": "eyes",
+    "keywords": [
+      "eye",
+      "face"
+    ]
+  },
+  {
+    "sequence": "1F441",
+    "tts": "eye",
+    "keywords": [
+      "body"
+    ]
+  },
+  {
+    "sequence": "1F441 200D 1F5E8",
+    "tts": "eye in speech bubble",
+    "keywords": [
+      "eye",
+      "speech bubble",
+      "witness"
+    ]
+  },
+  {
+    "sequence": "1F445",
+    "tts": "tongue",
+    "keywords": [
+      "body"
+    ]
+  },
+  {
+    "sequence": "1F444",
+    "tts": "mouth",
+    "keywords": [
+      "lips"
+    ]
+  },
+  {
+    "sequence": "1F48B",
+    "tts": "kiss mark",
+    "keywords": [
+      "kiss",
+      "lips"
+    ]
+  },
+  {
+    "sequence": "1F498",
+    "tts": "heart with arrow",
+    "keywords": [
+      "arrow",
+      "cupid"
+    ]
+  },
+  {
+    "sequence": "1F493",
+    "tts": "beating heart",
+    "keywords": [
+      "beating",
+      "heartbeat",
+      "pulsating"
+    ]
+  },
+  {
+    "sequence": "1F494",
+    "tts": "broken heart",
+    "keywords": [
+      "break",
+      "broken"
+    ]
+  },
+  {
+    "sequence": "1F495",
+    "tts": "two hearts",
+    "keywords": [
+      "love"
+    ]
+  },
+  {
+    "sequence": "1F496",
+    "tts": "sparkling heart",
+    "keywords": [
+      "excited",
+      "sparkle"
+    ]
+  },
+  {
+    "sequence": "1F497",
+    "tts": "growing heart",
+    "keywords": [
+      "excited",
+      "growing",
+      "pulse",
+      "nervous"
+    ]
+  },
+  {
+    "sequence": "1F499",
+    "tts": "blue heart",
+    "keywords": [
+      "blue"
+    ]
+  },
+  {
+    "sequence": "1F49A",
+    "tts": "green heart",
+    "keywords": [
+      "green"
+    ]
+  },
+  {
+    "sequence": "1F49B",
+    "tts": "yellow heart",
+    "keywords": [
+      "yellow"
+    ]
+  },
+  {
+    "sequence": "1F49C",
+    "tts": "purple heart",
+    "keywords": [
+      "purple"
+    ]
+  },
+  {
+    "sequence": "1F49D",
+    "tts": "heart with ribbon",
+    "keywords": [
+      "ribbon",
+      "valentine"
+    ]
+  },
+  {
+    "sequence": "1F49E",
+    "tts": "revolving hearts",
+    "keywords": [
+      "revolving"
+    ]
+  },
+  {
+    "sequence": "1F49F",
+    "tts": "heart decoration",
+    "keywords": [
+      "heart"
+    ]
+  },
+  {
+    "sequence": "1F48C",
+    "tts": "love letter",
+    "keywords": [
+      "heart",
+      "letter",
+      "love",
+      "mail"
+    ]
+  },
+  {
+    "sequence": "1F4A4",
+    "tts": "zzz",
+    "keywords": [
+      "comic",
+      "sleep"
+    ]
+  },
+  {
+    "sequence": "1F4A2",
+    "tts": "anger symbol",
+    "keywords": [
+      "angry",
+      "comic",
+      "mad"
+    ]
+  },
+  {
+    "sequence": "1F4A3",
+    "tts": "bomb",
+    "keywords": [
+      "comic"
+    ]
+  },
+  {
+    "sequence": "1F4A5",
+    "tts": "collision",
+    "keywords": [
+      "boom",
+      "comic"
+    ]
+  },
+  {
+    "sequence": "1F4A6",
+    "tts": "sweat droplets",
+    "keywords": [
+      "comic",
+      "splashing",
+      "sweat"
+    ]
+  },
+  {
+    "sequence": "1F4A8",
+    "tts": "dashing away",
+    "keywords": [
+      "comic",
+      "dash",
+      "running"
+    ]
+  },
+  {
+    "sequence": "1F4AB",
+    "tts": "dizzy",
+    "keywords": [
+      "comic",
+      "star"
+    ]
+  },
+  {
+    "sequence": "1F4AC",
+    "tts": "speech balloon",
+    "keywords": [
+      "balloon",
+      "bubble",
+      "comic",
+      "dialog",
+      "speech"
+    ]
+  },
+  {
+    "sequence": "1F5E8",
+    "tts": "left speech bubble",
+    "keywords": [
+      "dialog",
+      "speech"
+    ]
+  },
+  {
+    "sequence": "1F5EF",
+    "tts": "right anger bubble",
+    "keywords": [
+      "angry",
+      "balloon",
+      "bubble",
+      "mad"
+    ]
+  },
+  {
+    "sequence": "1F4AD",
+    "tts": "thought balloon",
+    "keywords": [
+      "balloon",
+      "bubble",
+      "comic",
+      "thought"
+    ]
+  },
+  {
+    "sequence": "1F573",
+    "tts": "hole",
+    "keywords": [
+      "hole"
+    ]
+  },
+  {
+    "sequence": "1F453",
+    "tts": "glasses",
+    "keywords": [
+      "clothing",
+      "eye",
+      "eyeglasses",
+      "eyewear"
+    ]
+  },
+  {
+    "sequence": "1F576",
+    "tts": "sunglasses",
+    "keywords": [
+      "dark",
+      "eye",
+      "eyewear",
+      "glasses"
+    ]
+  },
+  {
+    "sequence": "1F454",
+    "tts": "necktie",
+    "keywords": [
+      "clothing"
+    ]
+  },
+  {
+    "sequence": "1F455",
+    "tts": "t-shirt",
+    "keywords": [
+      "clothing",
+      "shirt",
+      "tshirt"
+    ]
+  },
+  {
+    "sequence": "1F456",
+    "tts": "jeans",
+    "keywords": [
+      "clothing",
+      "pants",
+      "trousers"
+    ]
+  },
+  {
+    "sequence": "1F457",
+    "tts": "dress",
+    "keywords": [
+      "clothing"
+    ]
+  },
+  {
+    "sequence": "1F458",
+    "tts": "kimono",
+    "keywords": [
+      "clothing"
+    ]
+  },
+  {
+    "sequence": "1F459",
+    "tts": "bikini",
+    "keywords": [
+      "clothing",
+      "swim"
+    ]
+  },
+  {
+    "sequence": "1F45A",
+    "tts": "woman’s clothes",
+    "keywords": [
+      "clothing",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F45B",
+    "tts": "purse",
+    "keywords": [
+      "clothing",
+      "coin"
+    ]
+  },
+  {
+    "sequence": "1F45C",
+    "tts": "handbag",
+    "keywords": [
+      "bag",
+      "clothing",
+      "purse"
+    ]
+  },
+  {
+    "sequence": "1F45D",
+    "tts": "clutch bag",
+    "keywords": [
+      "bag",
+      "clothing",
+      "pouch"
+    ]
+  },
+  {
+    "sequence": "1F6CD",
+    "tts": "shopping bags",
+    "keywords": [
+      "bag",
+      "hotel",
+      "shopping"
+    ]
+  },
+  {
+    "sequence": "1F392",
+    "tts": "school backpack",
+    "keywords": [
+      "bag",
+      "satchel",
+      "school"
+    ]
+  },
+  {
+    "sequence": "1F45E",
+    "tts": "man’s shoe",
+    "keywords": [
+      "clothing",
+      "man",
+      "shoe"
+    ]
+  },
+  {
+    "sequence": "1F45F",
+    "tts": "running shoe",
+    "keywords": [
+      "athletic",
+      "clothing",
+      "shoe",
+      "sneaker"
+    ]
+  },
+  {
+    "sequence": "1F460",
+    "tts": "high-heeled shoe",
+    "keywords": [
+      "clothing",
+      "heel",
+      "shoe",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F461",
+    "tts": "woman’s sandal",
+    "keywords": [
+      "clothing",
+      "sandal",
+      "shoe",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F462",
+    "tts": "woman’s boot",
+    "keywords": [
+      "boot",
+      "clothing",
+      "shoe",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F451",
+    "tts": "crown",
+    "keywords": [
+      "clothing",
+      "king",
+      "queen"
+    ]
+  },
+  {
+    "sequence": "1F452",
+    "tts": "woman’s hat",
+    "keywords": [
+      "clothing",
+      "hat",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F3A9",
+    "tts": "top hat",
+    "keywords": [
+      "clothing",
+      "hat",
+      "top",
+      "tophat"
+    ]
+  },
+  {
+    "sequence": "1F393",
+    "tts": "graduation cap",
+    "keywords": [
+      "cap",
+      "celebration",
+      "clothing",
+      "graduation",
+      "hat"
+    ]
+  },
+  {
+    "sequence": "1F4FF",
+    "tts": "prayer beads",
+    "keywords": [
+      "beads",
+      "clothing",
+      "necklace",
+      "prayer",
+      "religion"
+    ]
+  },
+  {
+    "sequence": "1F484",
+    "tts": "lipstick",
+    "keywords": [
+      "cosmetics",
+      "makeup"
+    ]
+  },
+  {
+    "sequence": "1F48D",
+    "tts": "ring",
+    "keywords": [
+      "diamond"
+    ]
+  },
+  {
+    "sequence": "1F48E",
+    "tts": "gem stone",
+    "keywords": [
+      "diamond",
+      "gem",
+      "jewel"
+    ]
+  },
+  {
+    "sequence": "1F435",
+    "tts": "monkey face",
+    "keywords": [
+      "face",
+      "monkey"
+    ]
+  },
+  {
+    "sequence": "1F412",
+    "tts": "monkey",
+    "keywords": [
+      "monkey"
+    ]
+  },
+  {
+    "sequence": "1F436",
+    "tts": "dog face",
+    "keywords": [
+      "dog",
+      "face",
+      "pet"
+    ]
+  },
+  {
+    "sequence": "1F415",
+    "tts": "dog",
+    "keywords": [
+      "pet"
+    ]
+  },
+  {
+    "sequence": "1F429",
+    "tts": "poodle",
+    "keywords": [
+      "dog"
+    ]
+  },
+  {
+    "sequence": "1F43A",
+    "tts": "wolf face",
+    "keywords": [
+      "face",
+      "wolf"
+    ]
+  },
+  {
+    "sequence": "1F431",
+    "tts": "cat face",
+    "keywords": [
+      "cat",
+      "face",
+      "pet"
+    ]
+  },
+  {
+    "sequence": "1F408",
+    "tts": "cat",
+    "keywords": [
+      "pet"
+    ]
+  },
+  {
+    "sequence": "1F981",
+    "tts": "lion face",
+    "keywords": [
+      "face",
+      "Leo",
+      "lion",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "1F42F",
+    "tts": "tiger face",
+    "keywords": [
+      "face",
+      "tiger"
+    ]
+  },
+  {
+    "sequence": "1F405",
+    "tts": "tiger",
+    "keywords": [
+      "tiger"
+    ]
+  },
+  {
+    "sequence": "1F406",
+    "tts": "leopard",
+    "keywords": [
+      "leopard"
+    ]
+  },
+  {
+    "sequence": "1F434",
+    "tts": "horse face",
+    "keywords": [
+      "face",
+      "horse"
+    ]
+  },
+  {
+    "sequence": "1F40E",
+    "tts": "horse",
+    "keywords": [
+      "racehorse",
+      "racing",
+      "equestrian"
+    ]
+  },
+  {
+    "sequence": "1F984",
+    "tts": "unicorn face",
+    "keywords": [
+      "face",
+      "unicorn"
+    ]
+  },
+  {
+    "sequence": "1F42E",
+    "tts": "cow face",
+    "keywords": [
+      "cow",
+      "face"
+    ]
+  },
+  {
+    "sequence": "1F402",
+    "tts": "ox",
+    "keywords": [
+      "bull",
+      "Taurus",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "1F403",
+    "tts": "water buffalo",
+    "keywords": [
+      "buffalo",
+      "water"
+    ]
+  },
+  {
+    "sequence": "1F404",
+    "tts": "cow",
+    "keywords": [
+      "cow"
+    ]
+  },
+  {
+    "sequence": "1F437",
+    "tts": "pig face",
+    "keywords": [
+      "face",
+      "pig"
+    ]
+  },
+  {
+    "sequence": "1F416",
+    "tts": "pig",
+    "keywords": [
+      "sow"
+    ]
+  },
+  {
+    "sequence": "1F417",
+    "tts": "boar",
+    "keywords": [
+      "pig"
+    ]
+  },
+  {
+    "sequence": "1F43D",
+    "tts": "pig nose",
+    "keywords": [
+      "face",
+      "nose",
+      "pig"
+    ]
+  },
+  {
+    "sequence": "1F40F",
+    "tts": "ram",
+    "keywords": [
+      "Aries",
+      "sheep",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "1F411",
+    "tts": "sheep",
+    "keywords": [
+      "ewe"
+    ]
+  },
+  {
+    "sequence": "1F410",
+    "tts": "goat",
+    "keywords": [
+      "Capricorn",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "1F42A",
+    "tts": "camel",
+    "keywords": [
+      "dromedary",
+      "hump"
+    ]
+  },
+  {
+    "sequence": "1F42B",
+    "tts": "two-hump camel",
+    "keywords": [
+      "bactrian",
+      "camel",
+      "hump"
+    ]
+  },
+  {
+    "sequence": "1F418",
+    "tts": "elephant",
+    "keywords": [
+      "elephant"
+    ]
+  },
+  {
+    "sequence": "1F42D",
+    "tts": "mouse face",
+    "keywords": [
+      "face",
+      "mouse"
+    ]
+  },
+  {
+    "sequence": "1F401",
+    "tts": "mouse",
+    "keywords": [
+      "mouse"
+    ]
+  },
+  {
+    "sequence": "1F400",
+    "tts": "rat",
+    "keywords": [
+      "rat"
+    ]
+  },
+  {
+    "sequence": "1F439",
+    "tts": "hamster face",
+    "keywords": [
+      "face",
+      "hamster",
+      "pet"
+    ]
+  },
+  {
+    "sequence": "1F430",
+    "tts": "rabbit face",
+    "keywords": [
+      "bunny",
+      "face",
+      "pet",
+      "rabbit"
+    ]
+  },
+  {
+    "sequence": "1F407",
+    "tts": "rabbit",
+    "keywords": [
+      "bunny",
+      "pet"
+    ]
+  },
+  {
+    "sequence": "1F43F",
+    "tts": "chipmunk",
+    "keywords": [
+      "chipmunk"
+    ]
+  },
+  {
+    "sequence": "1F43B",
+    "tts": "bear face",
+    "keywords": [
+      "bear",
+      "face"
+    ]
+  },
+  {
+    "sequence": "1F428",
+    "tts": "koala",
+    "keywords": [
+      "bear"
+    ]
+  },
+  {
+    "sequence": "1F43C",
+    "tts": "panda face",
+    "keywords": [
+      "face",
+      "panda"
+    ]
+  },
+  {
+    "sequence": "1F43E",
+    "tts": "paw prints",
+    "keywords": [
+      "feet",
+      "paw",
+      "print"
+    ]
+  },
+  {
+    "sequence": "1F983",
+    "tts": "turkey",
+    "keywords": [
+      "turkey"
+    ]
+  },
+  {
+    "sequence": "1F414",
+    "tts": "chicken",
+    "keywords": [
+      "chicken"
+    ]
+  },
+  {
+    "sequence": "1F413",
+    "tts": "rooster",
+    "keywords": [
+      "rooster"
+    ]
+  },
+  {
+    "sequence": "1F423",
+    "tts": "hatching chick",
+    "keywords": [
+      "baby",
+      "chick",
+      "hatching"
+    ]
+  },
+  {
+    "sequence": "1F424",
+    "tts": "baby chick",
+    "keywords": [
+      "baby",
+      "chick"
+    ]
+  },
+  {
+    "sequence": "1F425",
+    "tts": "front-facing baby chick",
+    "keywords": [
+      "baby",
+      "chick"
+    ]
+  },
+  {
+    "sequence": "1F426",
+    "tts": "bird",
+    "keywords": [
+      "bird"
+    ]
+  },
+  {
+    "sequence": "1F427",
+    "tts": "penguin",
+    "keywords": [
+      "penguin"
+    ]
+  },
+  {
+    "sequence": "1F54A",
+    "tts": "dove",
+    "keywords": [
+      "bird",
+      "fly",
+      "peace"
+    ]
+  },
+  {
+    "sequence": "1F438",
+    "tts": "frog face",
+    "keywords": [
+      "face",
+      "frog"
+    ]
+  },
+  {
+    "sequence": "1F40A",
+    "tts": "crocodile",
+    "keywords": [
+      "crocodile"
+    ]
+  },
+  {
+    "sequence": "1F422",
+    "tts": "turtle",
+    "keywords": [
+      "turtle",
+      "tortoise",
+      "terrapin"
+    ]
+  },
+  {
+    "sequence": "1F40D",
+    "tts": "snake",
+    "keywords": [
+      "bearer",
+      "Ophiuchus",
+      "serpent",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "1F432",
+    "tts": "dragon face",
+    "keywords": [
+      "dragon",
+      "face",
+      "fairy tale"
+    ]
+  },
+  {
+    "sequence": "1F409",
+    "tts": "dragon",
+    "keywords": [
+      "fairy tale"
+    ]
+  },
+  {
+    "sequence": "1F433",
+    "tts": "spouting whale",
+    "keywords": [
+      "face",
+      "spouting",
+      "whale"
+    ]
+  },
+  {
+    "sequence": "1F40B",
+    "tts": "whale",
+    "keywords": [
+      "whale"
+    ]
+  },
+  {
+    "sequence": "1F42C",
+    "tts": "dolphin",
+    "keywords": [
+      "flipper"
+    ]
+  },
+  {
+    "sequence": "1F41F",
+    "tts": "fish",
+    "keywords": [
+      "Pisces",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "1F420",
+    "tts": "tropical fish",
+    "keywords": [
+      "fish",
+      "tropical"
+    ]
+  },
+  {
+    "sequence": "1F421",
+    "tts": "blowfish",
+    "keywords": [
+      "fish"
+    ]
+  },
+  {
+    "sequence": "1F419",
+    "tts": "octopus",
+    "keywords": [
+      "octopus"
+    ]
+  },
+  {
+    "sequence": "1F41A",
+    "tts": "spiral shell",
+    "keywords": [
+      "shell",
+      "spiral"
+    ]
+  },
+  {
+    "sequence": "1F980",
+    "tts": "crab",
+    "keywords": [
+      "Cancer",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "1F40C",
+    "tts": "snail",
+    "keywords": [
+      "snail"
+    ]
+  },
+  {
+    "sequence": "1F41B",
+    "tts": "bug",
+    "keywords": [
+      "insect"
+    ]
+  },
+  {
+    "sequence": "1F41C",
+    "tts": "ant",
+    "keywords": [
+      "insect"
+    ]
+  },
+  {
+    "sequence": "1F41D",
+    "tts": "honeybee",
+    "keywords": [
+      "bee",
+      "insect"
+    ]
+  },
+  {
+    "sequence": "1F41E",
+    "tts": "lady beetle",
+    "keywords": [
+      "beetle",
+      "insect",
+      "ladybird",
+      "ladybug"
+    ]
+  },
+  {
+    "sequence": "1F577",
+    "tts": "spider",
+    "keywords": [
+      "insect"
+    ]
+  },
+  {
+    "sequence": "1F578",
+    "tts": "spider web",
+    "keywords": [
+      "spider",
+      "web"
+    ]
+  },
+  {
+    "sequence": "1F982",
+    "tts": "scorpion",
+    "keywords": [
+      "scorpio",
+      "Scorpius",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "1F490",
+    "tts": "bouquet",
+    "keywords": [
+      "flower"
+    ]
+  },
+  {
+    "sequence": "1F338",
+    "tts": "cherry blossom",
+    "keywords": [
+      "blossom",
+      "cherry",
+      "flower"
+    ]
+  },
+  {
+    "sequence": "1F4AE",
+    "tts": "white flower",
+    "keywords": [
+      "flower"
+    ]
+  },
+  {
+    "sequence": "1F3F5",
+    "tts": "rosette",
+    "keywords": [
+      "plant"
+    ]
+  },
+  {
+    "sequence": "1F339",
+    "tts": "rose",
+    "keywords": [
+      "flower"
+    ]
+  },
+  {
+    "sequence": "1F33A",
+    "tts": "hibiscus",
+    "keywords": [
+      "flower"
+    ]
+  },
+  {
+    "sequence": "1F33B",
+    "tts": "sunflower",
+    "keywords": [
+      "flower",
+      "sun"
+    ]
+  },
+  {
+    "sequence": "1F33C",
+    "tts": "blossom",
+    "keywords": [
+      "flower"
+    ]
+  },
+  {
+    "sequence": "1F337",
+    "tts": "tulip",
+    "keywords": [
+      "flower"
+    ]
+  },
+  {
+    "sequence": "1F331",
+    "tts": "seedling",
+    "keywords": [
+      "young"
+    ]
+  },
+  {
+    "sequence": "1F332",
+    "tts": "evergreen tree",
+    "keywords": [
+      "tree"
+    ]
+  },
+  {
+    "sequence": "1F333",
+    "tts": "deciduous tree",
+    "keywords": [
+      "deciduous",
+      "shedding",
+      "tree"
+    ]
+  },
+  {
+    "sequence": "1F334",
+    "tts": "palm tree",
+    "keywords": [
+      "palm",
+      "tree"
+    ]
+  },
+  {
+    "sequence": "1F335",
+    "tts": "cactus",
+    "keywords": [
+      "plant"
+    ]
+  },
+  {
+    "sequence": "1F33E",
+    "tts": "sheaf of rice",
+    "keywords": [
+      "ear",
+      "rice",
+      "grain"
+    ]
+  },
+  {
+    "sequence": "1F33F",
+    "tts": "herb",
+    "keywords": [
+      "leaf"
+    ]
+  },
+  {
+    "sequence": "1F340",
+    "tts": "four leaf clover",
+    "keywords": [
+      "4",
+      "clover",
+      "four",
+      "leaf"
+    ]
+  },
+  {
+    "sequence": "1F341",
+    "tts": "maple leaf",
+    "keywords": [
+      "falling",
+      "leaf",
+      "maple"
+    ]
+  },
+  {
+    "sequence": "1F342",
+    "tts": "fallen leaf",
+    "keywords": [
+      "falling",
+      "leaf"
+    ]
+  },
+  {
+    "sequence": "1F343",
+    "tts": "leaf fluttering in wind",
+    "keywords": [
+      "blow",
+      "flutter",
+      "leaf",
+      "wind"
+    ]
+  },
+  {
+    "sequence": "1F347",
+    "tts": "grapes",
+    "keywords": [
+      "fruit",
+      "grape"
+    ]
+  },
+  {
+    "sequence": "1F348",
+    "tts": "melon",
+    "keywords": [
+      "fruit"
+    ]
+  },
+  {
+    "sequence": "1F349",
+    "tts": "watermelon",
+    "keywords": [
+      "fruit"
+    ]
+  },
+  {
+    "sequence": "1F34A",
+    "tts": "tangerine",
+    "keywords": [
+      "fruit",
+      "orange"
+    ]
+  },
+  {
+    "sequence": "1F34B",
+    "tts": "lemon",
+    "keywords": [
+      "citrus",
+      "fruit"
+    ]
+  },
+  {
+    "sequence": "1F34C",
+    "tts": "banana",
+    "keywords": [
+      "fruit"
+    ]
+  },
+  {
+    "sequence": "1F34D",
+    "tts": "pineapple",
+    "keywords": [
+      "fruit"
+    ]
+  },
+  {
+    "sequence": "1F34E",
+    "tts": "red apple",
+    "keywords": [
+      "apple",
+      "fruit",
+      "red"
+    ]
+  },
+  {
+    "sequence": "1F34F",
+    "tts": "green apple",
+    "keywords": [
+      "apple",
+      "fruit",
+      "green"
+    ]
+  },
+  {
+    "sequence": "1F350",
+    "tts": "pear",
+    "keywords": [
+      "fruit"
+    ]
+  },
+  {
+    "sequence": "1F351",
+    "tts": "peach",
+    "keywords": [
+      "fruit"
+    ]
+  },
+  {
+    "sequence": "1F352",
+    "tts": "cherries",
+    "keywords": [
+      "cherry",
+      "fruit"
+    ]
+  },
+  {
+    "sequence": "1F353",
+    "tts": "strawberry",
+    "keywords": [
+      "berry",
+      "fruit"
+    ]
+  },
+  {
+    "sequence": "1F345",
+    "tts": "tomato",
+    "keywords": [
+      "fruit",
+      "vegetable"
+    ]
+  },
+  {
+    "sequence": "1F346",
+    "tts": "eggplant",
+    "keywords": [
+      "aubergine",
+      "vegetable"
+    ]
+  },
+  {
+    "sequence": "1F33D",
+    "tts": "ear of corn",
+    "keywords": [
+      "corn",
+      "ear",
+      "maize",
+      "maze"
+    ]
+  },
+  {
+    "sequence": "1F336",
+    "tts": "hot pepper",
+    "keywords": [
+      "hot",
+      "pepper"
+    ]
+  },
+  {
+    "sequence": "1F344",
+    "tts": "mushroom",
+    "keywords": [
+      "toadstool"
+    ]
+  },
+  {
+    "sequence": "1F330",
+    "tts": "chestnut",
+    "keywords": [
+      "plant"
+    ]
+  },
+  {
+    "sequence": "1F35E",
+    "tts": "bread",
+    "keywords": [
+      "loaf"
+    ]
+  },
+  {
+    "sequence": "1F9C0",
+    "tts": "cheese wedge",
+    "keywords": [
+      "cheese"
+    ]
+  },
+  {
+    "sequence": "1F356",
+    "tts": "meat on bone",
+    "keywords": [
+      "bone",
+      "meat"
+    ]
+  },
+  {
+    "sequence": "1F357",
+    "tts": "poultry leg",
+    "keywords": [
+      "bone",
+      "chicken",
+      "leg",
+      "poultry"
+    ]
+  },
+  {
+    "sequence": "1F354",
+    "tts": "hamburger",
+    "keywords": [
+      "burger"
+    ]
+  },
+  {
+    "sequence": "1F35F",
+    "tts": "french fries",
+    "keywords": [
+      "french",
+      "fries"
+    ]
+  },
+  {
+    "sequence": "1F355",
+    "tts": "pizza",
+    "keywords": [
+      "cheese",
+      "slice"
+    ]
+  },
+  {
+    "sequence": "1F32D",
+    "tts": "hot dog",
+    "keywords": [
+      "frankfurter",
+      "hotdog",
+      "sausage"
+    ]
+  },
+  {
+    "sequence": "1F32E",
+    "tts": "taco",
+    "keywords": [
+      "mexican"
+    ]
+  },
+  {
+    "sequence": "1F32F",
+    "tts": "burrito",
+    "keywords": [
+      "mexican",
+      "wrap"
+    ]
+  },
+  {
+    "sequence": "1F37F",
+    "tts": "popcorn",
+    "keywords": [
+      "popcorn"
+    ]
+  },
+  {
+    "sequence": "1F372",
+    "tts": "pot of food",
+    "keywords": [
+      "pot",
+      "stew"
+    ]
+  },
+  {
+    "sequence": "1F371",
+    "tts": "bento box",
+    "keywords": [
+      "bento",
+      "box"
+    ]
+  },
+  {
+    "sequence": "1F358",
+    "tts": "rice cracker",
+    "keywords": [
+      "cracker",
+      "rice"
+    ]
+  },
+  {
+    "sequence": "1F359",
+    "tts": "rice ball",
+    "keywords": [
+      "ball",
+      "Japanese",
+      "rice"
+    ]
+  },
+  {
+    "sequence": "1F35A",
+    "tts": "cooked rice",
+    "keywords": [
+      "cooked",
+      "rice"
+    ]
+  },
+  {
+    "sequence": "1F35B",
+    "tts": "curry rice",
+    "keywords": [
+      "curry",
+      "rice"
+    ]
+  },
+  {
+    "sequence": "1F35C",
+    "tts": "steaming bowl",
+    "keywords": [
+      "bowl",
+      "noodle",
+      "ramen",
+      "steaming"
+    ]
+  },
+  {
+    "sequence": "1F35D",
+    "tts": "spaghetti",
+    "keywords": [
+      "pasta"
+    ]
+  },
+  {
+    "sequence": "1F360",
+    "tts": "roasted sweet potato",
+    "keywords": [
+      "potato",
+      "roasted",
+      "sweet"
+    ]
+  },
+  {
+    "sequence": "1F362",
+    "tts": "oden",
+    "keywords": [
+      "kebab",
+      "seafood",
+      "skewer",
+      "stick"
+    ]
+  },
+  {
+    "sequence": "1F363",
+    "tts": "sushi",
+    "keywords": [
+      "sushi"
+    ]
+  },
+  {
+    "sequence": "1F364",
+    "tts": "fried shrimp",
+    "keywords": [
+      "fried",
+      "prawn",
+      "shrimp",
+      "tempura"
+    ]
+  },
+  {
+    "sequence": "1F365",
+    "tts": "fish cake with swirl",
+    "keywords": [
+      "cake",
+      "fish",
+      "pastry",
+      "swirl"
+    ]
+  },
+  {
+    "sequence": "1F361",
+    "tts": "dango",
+    "keywords": [
+      "dessert",
+      "Japanese",
+      "skewer",
+      "stick",
+      "sweet"
+    ]
+  },
+  {
+    "sequence": "1F366",
+    "tts": "soft ice cream",
+    "keywords": [
+      "cream",
+      "dessert",
+      "ice",
+      "icecream",
+      "soft",
+      "sweet"
+    ]
+  },
+  {
+    "sequence": "1F367",
+    "tts": "shaved ice",
+    "keywords": [
+      "dessert",
+      "ice",
+      "shaved",
+      "sweet"
+    ]
+  },
+  {
+    "sequence": "1F368",
+    "tts": "ice cream",
+    "keywords": [
+      "cream",
+      "dessert",
+      "ice",
+      "sweet"
+    ]
+  },
+  {
+    "sequence": "1F369",
+    "tts": "doughnut",
+    "keywords": [
+      "dessert",
+      "donut",
+      "sweet"
+    ]
+  },
+  {
+    "sequence": "1F36A",
+    "tts": "cookie",
+    "keywords": [
+      "dessert",
+      "sweet"
+    ]
+  },
+  {
+    "sequence": "1F382",
+    "tts": "birthday cake",
+    "keywords": [
+      "birthday",
+      "cake",
+      "celebration",
+      "dessert",
+      "pastry",
+      "sweet"
+    ]
+  },
+  {
+    "sequence": "1F370",
+    "tts": "shortcake",
+    "keywords": [
+      "cake",
+      "dessert",
+      "pastry",
+      "slice",
+      "sweet"
+    ]
+  },
+  {
+    "sequence": "1F36B",
+    "tts": "chocolate bar",
+    "keywords": [
+      "bar",
+      "chocolate",
+      "dessert",
+      "sweet"
+    ]
+  },
+  {
+    "sequence": "1F36C",
+    "tts": "candy",
+    "keywords": [
+      "dessert",
+      "sweet"
+    ]
+  },
+  {
+    "sequence": "1F36D",
+    "tts": "lollipop",
+    "keywords": [
+      "candy",
+      "dessert",
+      "sweet"
+    ]
+  },
+  {
+    "sequence": "1F36E",
+    "tts": "custard",
+    "keywords": [
+      "dessert",
+      "pudding",
+      "sweet"
+    ]
+  },
+  {
+    "sequence": "1F36F",
+    "tts": "honey pot",
+    "keywords": [
+      "honey",
+      "honeypot",
+      "pot",
+      "sweet"
+    ]
+  },
+  {
+    "sequence": "1F37C",
+    "tts": "baby bottle",
+    "keywords": [
+      "baby",
+      "bottle",
+      "drink",
+      "milk"
+    ]
+  },
+  {
+    "sequence": "1F375",
+    "tts": "teacup without handle",
+    "keywords": [
+      "beverage",
+      "cup",
+      "drink",
+      "tea",
+      "teacup"
+    ]
+  },
+  {
+    "sequence": "1F376",
+    "tts": "sake",
+    "keywords": [
+      "bar",
+      "beverage",
+      "bottle",
+      "cup",
+      "drink"
+    ]
+  },
+  {
+    "sequence": "1F37E",
+    "tts": "bottle with popping cork",
+    "keywords": [
+      "bar",
+      "bottle",
+      "cork",
+      "drink",
+      "popping"
+    ]
+  },
+  {
+    "sequence": "1F377",
+    "tts": "wine glass",
+    "keywords": [
+      "bar",
+      "beverage",
+      "drink",
+      "glass",
+      "wine"
+    ]
+  },
+  {
+    "sequence": "1F378",
+    "tts": "cocktail glass",
+    "keywords": [
+      "bar",
+      "cocktail",
+      "drink",
+      "glass"
+    ]
+  },
+  {
+    "sequence": "1F379",
+    "tts": "tropical drink",
+    "keywords": [
+      "bar",
+      "drink",
+      "tropical"
+    ]
+  },
+  {
+    "sequence": "1F37A",
+    "tts": "beer mug",
+    "keywords": [
+      "bar",
+      "beer",
+      "drink",
+      "mug"
+    ]
+  },
+  {
+    "sequence": "1F37B",
+    "tts": "clinking beer mugs",
+    "keywords": [
+      "bar",
+      "beer",
+      "clink",
+      "drink",
+      "mug"
+    ]
+  },
+  {
+    "sequence": "1F37D",
+    "tts": "fork and knife with plate",
+    "keywords": [
+      "cooking",
+      "fork",
+      "knife",
+      "plate"
+    ]
+  },
+  {
+    "sequence": "1F374",
+    "tts": "fork and knife",
+    "keywords": [
+      "cooking",
+      "fork",
+      "knife"
+    ]
+  },
+  {
+    "sequence": "1F373",
+    "tts": "cooking",
+    "keywords": [
+      "egg",
+      "frying",
+      "pan"
+    ]
+  },
+  {
+    "sequence": "1F3FA",
+    "tts": "amphora",
+    "keywords": [
+      "Aquarius",
+      "cooking",
+      "drink",
+      "jug",
+      "tool",
+      "weapon",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "1F30D",
+    "tts": "globe showing Europe-Africa",
+    "keywords": [
+      "Africa",
+      "earth",
+      "Europe",
+      "globe",
+      "world"
+    ]
+  },
+  {
+    "sequence": "1F30E",
+    "tts": "globe showing Americas",
+    "keywords": [
+      "Americas",
+      "earth",
+      "globe",
+      "world"
+    ]
+  },
+  {
+    "sequence": "1F30F",
+    "tts": "globe showing Asia-Australia",
+    "keywords": [
+      "Asia",
+      "Australia",
+      "earth",
+      "globe",
+      "world"
+    ]
+  },
+  {
+    "sequence": "1F310",
+    "tts": "globe with meridians",
+    "keywords": [
+      "earth",
+      "globe",
+      "meridians",
+      "world"
+    ]
+  },
+  {
+    "sequence": "1F5FA",
+    "tts": "world map",
+    "keywords": [
+      "map",
+      "world"
+    ]
+  },
+  {
+    "sequence": "1F3D4",
+    "tts": "snow-capped mountain",
+    "keywords": [
+      "cold",
+      "mountain",
+      "snow"
+    ]
+  },
+  {
+    "sequence": "26F0",
+    "tts": "mountain",
+    "keywords": [
+      "mountain"
+    ]
+  },
+  {
+    "sequence": "1F30B",
+    "tts": "volcano",
+    "keywords": [
+      "eruption",
+      "mountain"
+    ]
+  },
+  {
+    "sequence": "1F5FB",
+    "tts": "mount fuji",
+    "keywords": [
+      "fuji",
+      "mountain"
+    ]
+  },
+  {
+    "sequence": "1F3D5",
+    "tts": "camping",
+    "keywords": [
+      "camping"
+    ]
+  },
+  {
+    "sequence": "1F3D6",
+    "tts": "beach with umbrella",
+    "keywords": [
+      "beach",
+      "umbrella"
+    ]
+  },
+  {
+    "sequence": "1F3DC",
+    "tts": "desert",
+    "keywords": [
+      "desert"
+    ]
+  },
+  {
+    "sequence": "1F3DD",
+    "tts": "desert island",
+    "keywords": [
+      "desert",
+      "island"
+    ]
+  },
+  {
+    "sequence": "1F3DE",
+    "tts": "national park",
+    "keywords": [
+      "park"
+    ]
+  },
+  {
+    "sequence": "1F3DF",
+    "tts": "stadium",
+    "keywords": [
+      "stadium"
+    ]
+  },
+  {
+    "sequence": "1F3DB",
+    "tts": "classical building",
+    "keywords": [
+      "classical"
+    ]
+  },
+  {
+    "sequence": "1F3D7",
+    "tts": "building construction",
+    "keywords": [
+      "construction"
+    ]
+  },
+  {
+    "sequence": "1F3D8",
+    "tts": "house",
+    "keywords": [
+      "house"
+    ]
+  },
+  {
+    "sequence": "1F3D9",
+    "tts": "cityscape",
+    "keywords": [
+      "city"
+    ]
+  },
+  {
+    "sequence": "1F3DA",
+    "tts": "derelict house",
+    "keywords": [
+      "derelict",
+      "house"
+    ]
+  },
+  {
+    "sequence": "1F3E0",
+    "tts": "house",
+    "keywords": [
+      "home",
+      "house"
+    ]
+  },
+  {
+    "sequence": "1F3E1",
+    "tts": "house with garden",
+    "keywords": [
+      "garden",
+      "home",
+      "house"
+    ]
+  },
+  {
+    "sequence": "26EA",
+    "tts": "church",
+    "keywords": [
+      "Christian",
+      "cross",
+      "religion"
+    ]
+  },
+  {
+    "sequence": "1F54B",
+    "tts": "kaaba",
+    "keywords": [
+      "islam",
+      "Muslim",
+      "religion"
+    ]
+  },
+  {
+    "sequence": "1F54C",
+    "tts": "mosque",
+    "keywords": [
+      "islam",
+      "Muslim",
+      "religion"
+    ]
+  },
+  {
+    "sequence": "1F54D",
+    "tts": "synagogue",
+    "keywords": [
+      "Jew",
+      "Jewish",
+      "religion",
+      "temple"
+    ]
+  },
+  {
+    "sequence": "26E9",
+    "tts": "shinto shrine",
+    "keywords": [
+      "religion",
+      "shinto",
+      "shrine"
+    ]
+  },
+  {
+    "sequence": "1F3E2",
+    "tts": "office building",
+    "keywords": [
+      "building"
+    ]
+  },
+  {
+    "sequence": "1F3E3",
+    "tts": "Japanese post office",
+    "keywords": [
+      "Japanese",
+      "post"
+    ]
+  },
+  {
+    "sequence": "1F3E4",
+    "tts": "post office",
+    "keywords": [
+      "European",
+      "post"
+    ]
+  },
+  {
+    "sequence": "1F3E5",
+    "tts": "hospital",
+    "keywords": [
+      "doctor",
+      "medicine"
+    ]
+  },
+  {
+    "sequence": "1F3E6",
+    "tts": "bank",
+    "keywords": [
+      "building"
+    ]
+  },
+  {
+    "sequence": "1F3E8",
+    "tts": "hotel",
+    "keywords": [
+      "building"
+    ]
+  },
+  {
+    "sequence": "1F3E9",
+    "tts": "love hotel",
+    "keywords": [
+      "hotel",
+      "love"
+    ]
+  },
+  {
+    "sequence": "1F3EA",
+    "tts": "convenience store",
+    "keywords": [
+      "convenience",
+      "store"
+    ]
+  },
+  {
+    "sequence": "1F3EB",
+    "tts": "school",
+    "keywords": [
+      "building"
+    ]
+  },
+  {
+    "sequence": "1F3EC",
+    "tts": "department store",
+    "keywords": [
+      "department",
+      "store"
+    ]
+  },
+  {
+    "sequence": "1F3ED",
+    "tts": "factory",
+    "keywords": [
+      "building"
+    ]
+  },
+  {
+    "sequence": "1F3EF",
+    "tts": "Japanese castle",
+    "keywords": [
+      "castle",
+      "Japanese"
+    ]
+  },
+  {
+    "sequence": "1F3F0",
+    "tts": "castle",
+    "keywords": [
+      "European"
+    ]
+  },
+  {
+    "sequence": "1F492",
+    "tts": "wedding",
+    "keywords": [
+      "chapel",
+      "romance"
+    ]
+  },
+  {
+    "sequence": "1F5FC",
+    "tts": "Tokyo tower",
+    "keywords": [
+      "Tokyo",
+      "tower"
+    ]
+  },
+  {
+    "sequence": "1F5FD",
+    "tts": "Statue of Liberty",
+    "keywords": [
+      "liberty",
+      "statue"
+    ]
+  },
+  {
+    "sequence": "1F5FE",
+    "tts": "map of Japan",
+    "keywords": [
+      "Japan",
+      "map"
+    ]
+  },
+  {
+    "sequence": "26F2",
+    "tts": "fountain",
+    "keywords": [
+      "fountain"
+    ]
+  },
+  {
+    "sequence": "26FA",
+    "tts": "tent",
+    "keywords": [
+      "camping"
+    ]
+  },
+  {
+    "sequence": "1F301",
+    "tts": "foggy",
+    "keywords": [
+      "fog"
+    ]
+  },
+  {
+    "sequence": "1F303",
+    "tts": "night with stars",
+    "keywords": [
+      "night",
+      "star"
+    ]
+  },
+  {
+    "sequence": "1F304",
+    "tts": "sunrise over mountains",
+    "keywords": [
+      "morning",
+      "mountain",
+      "sun",
+      "sunrise"
+    ]
+  },
+  {
+    "sequence": "1F305",
+    "tts": "sunrise",
+    "keywords": [
+      "morning",
+      "sun"
+    ]
+  },
+  {
+    "sequence": "1F306",
+    "tts": "cityscape at dusk",
+    "keywords": [
+      "city",
+      "dusk",
+      "evening",
+      "landscape",
+      "sun",
+      "sunset"
+    ]
+  },
+  {
+    "sequence": "1F307",
+    "tts": "sunset",
+    "keywords": [
+      "dusk",
+      "sun"
+    ]
+  },
+  {
+    "sequence": "1F309",
+    "tts": "bridge at night",
+    "keywords": [
+      "bridge",
+      "night"
+    ]
+  },
+  {
+    "sequence": "1F30C",
+    "tts": "milky way",
+    "keywords": [
+      "space"
+    ]
+  },
+  {
+    "sequence": "1F3A0",
+    "tts": "carousel horse",
+    "keywords": [
+      "carousel",
+      "horse"
+    ]
+  },
+  {
+    "sequence": "1F3A1",
+    "tts": "ferris wheel",
+    "keywords": [
+      "amusement park",
+      "ferris",
+      "wheel"
+    ]
+  },
+  {
+    "sequence": "1F3A2",
+    "tts": "roller coaster",
+    "keywords": [
+      "amusement park",
+      "coaster",
+      "roller"
+    ]
+  },
+  {
+    "sequence": "1F488",
+    "tts": "barber pole",
+    "keywords": [
+      "barber",
+      "haircut",
+      "pole"
+    ]
+  },
+  {
+    "sequence": "1F3AA",
+    "tts": "circus tent",
+    "keywords": [
+      "circus",
+      "tent"
+    ]
+  },
+  {
+    "sequence": "1F3AD",
+    "tts": "performing arts",
+    "keywords": [
+      "art",
+      "mask",
+      "performing",
+      "theater",
+      "theatre"
+    ]
+  },
+  {
+    "sequence": "1F5BC",
+    "tts": "framed picture",
+    "keywords": [
+      "art",
+      "frame",
+      "museum",
+      "painting",
+      "picture"
+    ]
+  },
+  {
+    "sequence": "1F3A8",
+    "tts": "artist palette",
+    "keywords": [
+      "art",
+      "museum",
+      "painting",
+      "palette"
+    ]
+  },
+  {
+    "sequence": "1F3B0",
+    "tts": "slot machine",
+    "keywords": [
+      "game",
+      "slot"
+    ]
+  },
+  {
+    "sequence": "1F682",
+    "tts": "locomotive",
+    "keywords": [
+      "engine",
+      "railway",
+      "steam",
+      "train"
+    ]
+  },
+  {
+    "sequence": "1F683",
+    "tts": "railway car",
+    "keywords": [
+      "car",
+      "electric",
+      "railway",
+      "train",
+      "tram",
+      "trolleybus"
+    ]
+  },
+  {
+    "sequence": "1F684",
+    "tts": "high-speed train",
+    "keywords": [
+      "railway",
+      "shinkansen",
+      "speed",
+      "train"
+    ]
+  },
+  {
+    "sequence": "1F685",
+    "tts": "high-speed train with bullet nose",
+    "keywords": [
+      "bullet",
+      "railway",
+      "shinkansen",
+      "speed",
+      "train"
+    ]
+  },
+  {
+    "sequence": "1F686",
+    "tts": "train",
+    "keywords": [
+      "railway"
+    ]
+  },
+  {
+    "sequence": "1F687",
+    "tts": "metro",
+    "keywords": [
+      "subway"
+    ]
+  },
+  {
+    "sequence": "1F688",
+    "tts": "light rail",
+    "keywords": [
+      "railway"
+    ]
+  },
+  {
+    "sequence": "1F689",
+    "tts": "station",
+    "keywords": [
+      "railway",
+      "train"
+    ]
+  },
+  {
+    "sequence": "1F68A",
+    "tts": "tram",
+    "keywords": [
+      "trolleybus"
+    ]
+  },
+  {
+    "sequence": "1F69D",
+    "tts": "monorail",
+    "keywords": [
+      "vehicle"
+    ]
+  },
+  {
+    "sequence": "1F69E",
+    "tts": "mountain railway",
+    "keywords": [
+      "car",
+      "mountain",
+      "railway"
+    ]
+  },
+  {
+    "sequence": "1F68B",
+    "tts": "tram car",
+    "keywords": [
+      "car",
+      "tram",
+      "trolleybus"
+    ]
+  },
+  {
+    "sequence": "1F68C",
+    "tts": "bus",
+    "keywords": [
+      "vehicle"
+    ]
+  },
+  {
+    "sequence": "1F68D",
+    "tts": "oncoming bus",
+    "keywords": [
+      "bus",
+      "oncoming"
+    ]
+  },
+  {
+    "sequence": "1F68E",
+    "tts": "trolleybus",
+    "keywords": [
+      "bus",
+      "tram",
+      "trolley"
+    ]
+  },
+  {
+    "sequence": "1F68F",
+    "tts": "bus stop",
+    "keywords": [
+      "bus",
+      "busstop",
+      "stop"
+    ]
+  },
+  {
+    "sequence": "1F690",
+    "tts": "minibus",
+    "keywords": [
+      "bus"
+    ]
+  },
+  {
+    "sequence": "1F691",
+    "tts": "ambulance",
+    "keywords": [
+      "vehicle"
+    ]
+  },
+  {
+    "sequence": "1F692",
+    "tts": "fire engine",
+    "keywords": [
+      "engine",
+      "fire",
+      "truck"
+    ]
+  },
+  {
+    "sequence": "1F693",
+    "tts": "police car",
+    "keywords": [
+      "car",
+      "patrol",
+      "police"
+    ]
+  },
+  {
+    "sequence": "1F694",
+    "tts": "oncoming police car",
+    "keywords": [
+      "car",
+      "oncoming",
+      "police"
+    ]
+  },
+  {
+    "sequence": "1F695",
+    "tts": "taxi",
+    "keywords": [
+      "vehicle"
+    ]
+  },
+  {
+    "sequence": "1F696",
+    "tts": "oncoming taxi",
+    "keywords": [
+      "oncoming",
+      "taxi"
+    ]
+  },
+  {
+    "sequence": "1F697",
+    "tts": "automobile",
+    "keywords": [
+      "car"
+    ]
+  },
+  {
+    "sequence": "1F698",
+    "tts": "oncoming automobile",
+    "keywords": [
+      "automobile",
+      "car",
+      "oncoming"
+    ]
+  },
+  {
+    "sequence": "1F699",
+    "tts": "sport utility vehicle",
+    "keywords": [
+      "recreational",
+      "sport utility"
+    ]
+  },
+  {
+    "sequence": "1F69A",
+    "tts": "delivery truck",
+    "keywords": [
+      "delivery",
+      "truck"
+    ]
+  },
+  {
+    "sequence": "1F69B",
+    "tts": "articulated lorry",
+    "keywords": [
+      "lorry",
+      "semi",
+      "truck"
+    ]
+  },
+  {
+    "sequence": "1F69C",
+    "tts": "tractor",
+    "keywords": [
+      "vehicle"
+    ]
+  },
+  {
+    "sequence": "1F6B2",
+    "tts": "bicycle",
+    "keywords": [
+      "bike"
+    ]
+  },
+  {
+    "sequence": "26FD",
+    "tts": "fuel pump",
+    "keywords": [
+      "fuel",
+      "fuelpump",
+      "gas",
+      "pump",
+      "station"
+    ]
+  },
+  {
+    "sequence": "1F6E3",
+    "tts": "motorway",
+    "keywords": [
+      "highway",
+      "road"
+    ]
+  },
+  {
+    "sequence": "1F6E4",
+    "tts": "railway track",
+    "keywords": [
+      "railway",
+      "train"
+    ]
+  },
+  {
+    "sequence": "1F6A8",
+    "tts": "police car light",
+    "keywords": [
+      "beacon",
+      "car",
+      "light",
+      "police",
+      "revolving"
+    ]
+  },
+  {
+    "sequence": "1F6A5",
+    "tts": "horizontal traffic light",
+    "keywords": [
+      "light",
+      "signal",
+      "traffic"
+    ]
+  },
+  {
+    "sequence": "1F6A6",
+    "tts": "vertical traffic light",
+    "keywords": [
+      "light",
+      "signal",
+      "traffic"
+    ]
+  },
+  {
+    "sequence": "1F6A7",
+    "tts": "construction",
+    "keywords": [
+      "barrier"
+    ]
+  },
+  {
+    "sequence": "26F5",
+    "tts": "sailboat",
+    "keywords": [
+      "boat",
+      "resort",
+      "sea",
+      "yacht"
+    ]
+  },
+  {
+    "sequence": "1F6A3",
+    "tts": "person rowing boat",
+    "keywords": [
+      "boat",
+      "rowboat"
+    ]
+  },
+  {
+    "sequence": "1F6A3 200D 2640",
+    "tts": "woman rowing boat",
+    "keywords": [
+      "boat",
+      "rowboat",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F6A3 200D 2642",
+    "tts": "man rowing boat",
+    "keywords": [
+      "boat",
+      "man",
+      "rowboat"
+    ]
+  },
+  {
+    "sequence": "1F6A4",
+    "tts": "speedboat",
+    "keywords": [
+      "boat"
+    ]
+  },
+  {
+    "sequence": "1F6F3",
+    "tts": "passenger ship",
+    "keywords": [
+      "passenger",
+      "ship"
+    ]
+  },
+  {
+    "sequence": "26F4",
+    "tts": "ferry",
+    "keywords": [
+      "boat",
+      "passenger"
+    ]
+  },
+  {
+    "sequence": "1F6E5",
+    "tts": "motor boat",
+    "keywords": [
+      "boat",
+      "motorboat"
+    ]
+  },
+  {
+    "sequence": "1F6A2",
+    "tts": "ship",
+    "keywords": [
+      "boat",
+      "passenger"
+    ]
+  },
+  {
+    "sequence": "1F6E9",
+    "tts": "small airplane",
+    "keywords": [
+      "aeroplane",
+      "airplane"
+    ]
+  },
+  {
+    "sequence": "1F6EB",
+    "tts": "airplane departure",
+    "keywords": [
+      "aeroplane",
+      "airplane",
+      "check-in",
+      "departure",
+      "departures"
+    ]
+  },
+  {
+    "sequence": "1F6EC",
+    "tts": "airplane arrival",
+    "keywords": [
+      "aeroplane",
+      "airplane",
+      "arrivals",
+      "arriving",
+      "landing"
+    ]
+  },
+  {
+    "sequence": "1F4BA",
+    "tts": "seat",
+    "keywords": [
+      "chair"
+    ]
+  },
+  {
+    "sequence": "1F681",
+    "tts": "helicopter",
+    "keywords": [
+      "vehicle"
+    ]
+  },
+  {
+    "sequence": "1F69F",
+    "tts": "suspension railway",
+    "keywords": [
+      "railway",
+      "suspension"
+    ]
+  },
+  {
+    "sequence": "1F6A0",
+    "tts": "mountain cableway",
+    "keywords": [
+      "cable",
+      "gondola",
+      "mountain"
+    ]
+  },
+  {
+    "sequence": "1F6A1",
+    "tts": "aerial tramway",
+    "keywords": [
+      "aerial",
+      "cable",
+      "car",
+      "gondola",
+      "tramway"
+    ]
+  },
+  {
+    "sequence": "1F680",
+    "tts": "rocket",
+    "keywords": [
+      "space"
+    ]
+  },
+  {
+    "sequence": "1F6F0",
+    "tts": "satellite",
+    "keywords": [
+      "space"
+    ]
+  },
+  {
+    "sequence": "1F6CE",
+    "tts": "bellhop bell",
+    "keywords": [
+      "bell",
+      "bellhop",
+      "hotel"
+    ]
+  },
+  {
+    "sequence": "1F6AA",
+    "tts": "door",
+    "keywords": [
+      "door"
+    ]
+  },
+  {
+    "sequence": "1F6CC",
+    "tts": "person in bed",
+    "keywords": [
+      "hotel",
+      "sleep"
+    ]
+  },
+  {
+    "sequence": "1F6CF",
+    "tts": "bed",
+    "keywords": [
+      "hotel",
+      "sleep"
+    ]
+  },
+  {
+    "sequence": "1F6CB",
+    "tts": "couch and lamp",
+    "keywords": [
+      "couch",
+      "hotel",
+      "lamp"
+    ]
+  },
+  {
+    "sequence": "1F6BD",
+    "tts": "toilet",
+    "keywords": [
+      "toilet"
+    ]
+  },
+  {
+    "sequence": "1F6BF",
+    "tts": "shower",
+    "keywords": [
+      "water"
+    ]
+  },
+  {
+    "sequence": "1F6C0",
+    "tts": "person taking bath",
+    "keywords": [
+      "bathtub",
+      "bath"
+    ]
+  },
+  {
+    "sequence": "1F6C1",
+    "tts": "bathtub",
+    "keywords": [
+      "bath"
+    ]
+  },
+  {
+    "sequence": "231B",
+    "tts": "hourglass",
+    "keywords": [
+      "sand",
+      "timer"
+    ]
+  },
+  {
+    "sequence": "23F3",
+    "tts": "hourglass with flowing sand",
+    "keywords": [
+      "hourglass",
+      "sand",
+      "timer"
+    ]
+  },
+  {
+    "sequence": "231A",
+    "tts": "watch",
+    "keywords": [
+      "clock"
+    ]
+  },
+  {
+    "sequence": "23F0",
+    "tts": "alarm clock",
+    "keywords": [
+      "alarm",
+      "clock"
+    ]
+  },
+  {
+    "sequence": "23F1",
+    "tts": "stopwatch",
+    "keywords": [
+      "clock"
+    ]
+  },
+  {
+    "sequence": "23F2",
+    "tts": "timer clock",
+    "keywords": [
+      "clock",
+      "timer"
+    ]
+  },
+  {
+    "sequence": "1F570",
+    "tts": "mantelpiece clock",
+    "keywords": [
+      "clock"
+    ]
+  },
+  {
+    "sequence": "1F55B",
+    "tts": "twelve o’clock",
+    "keywords": [
+      "00",
+      "12",
+      "12:00",
+      "clock",
+      "o’clock",
+      "twelve"
+    ]
+  },
+  {
+    "sequence": "1F567",
+    "tts": "twelve-thirty",
+    "keywords": [
+      "12",
+      "12:30",
+      "30",
+      "clock",
+      "thirty",
+      "twelve"
+    ]
+  },
+  {
+    "sequence": "1F550",
+    "tts": "one o’clock",
+    "keywords": [
+      "00",
+      "1",
+      "1:00",
+      "clock",
+      "o’clock",
+      "one"
+    ]
+  },
+  {
+    "sequence": "1F55C",
+    "tts": "one-thirty",
+    "keywords": [
+      "1",
+      "1:30",
+      "30",
+      "clock",
+      "one",
+      "thirty"
+    ]
+  },
+  {
+    "sequence": "1F551",
+    "tts": "two o’clock",
+    "keywords": [
+      "00",
+      "2",
+      "2:00",
+      "clock",
+      "o’clock",
+      "two"
+    ]
+  },
+  {
+    "sequence": "1F55D",
+    "tts": "two-thirty",
+    "keywords": [
+      "2",
+      "2:30",
+      "30",
+      "clock",
+      "thirty",
+      "two"
+    ]
+  },
+  {
+    "sequence": "1F552",
+    "tts": "three o’clock",
+    "keywords": [
+      "00",
+      "3",
+      "3:00",
+      "clock",
+      "o’clock",
+      "three"
+    ]
+  },
+  {
+    "sequence": "1F55E",
+    "tts": "three-thirty",
+    "keywords": [
+      "3",
+      "3:30",
+      "30",
+      "clock",
+      "thirty",
+      "three"
+    ]
+  },
+  {
+    "sequence": "1F553",
+    "tts": "four o’clock",
+    "keywords": [
+      "00",
+      "4",
+      "4:00",
+      "clock",
+      "four",
+      "o’clock"
+    ]
+  },
+  {
+    "sequence": "1F55F",
+    "tts": "four-thirty",
+    "keywords": [
+      "30",
+      "4",
+      "4:30",
+      "clock",
+      "four",
+      "thirty"
+    ]
+  },
+  {
+    "sequence": "1F554",
+    "tts": "five o’clock",
+    "keywords": [
+      "00",
+      "5",
+      "5:00",
+      "clock",
+      "five",
+      "o’clock"
+    ]
+  },
+  {
+    "sequence": "1F560",
+    "tts": "five-thirty",
+    "keywords": [
+      "30",
+      "5",
+      "5:30",
+      "clock",
+      "five",
+      "thirty"
+    ]
+  },
+  {
+    "sequence": "1F555",
+    "tts": "six o’clock",
+    "keywords": [
+      "00",
+      "6",
+      "6:00",
+      "clock",
+      "o’clock",
+      "six"
+    ]
+  },
+  {
+    "sequence": "1F561",
+    "tts": "six-thirty",
+    "keywords": [
+      "30",
+      "6",
+      "6:30",
+      "clock",
+      "six",
+      "thirty"
+    ]
+  },
+  {
+    "sequence": "1F556",
+    "tts": "seven o’clock",
+    "keywords": [
+      "00",
+      "7",
+      "7:00",
+      "clock",
+      "o’clock",
+      "seven"
+    ]
+  },
+  {
+    "sequence": "1F562",
+    "tts": "seven-thirty",
+    "keywords": [
+      "30",
+      "7",
+      "7:30",
+      "clock",
+      "seven",
+      "thirty"
+    ]
+  },
+  {
+    "sequence": "1F557",
+    "tts": "eight o’clock",
+    "keywords": [
+      "00",
+      "8",
+      "8:00",
+      "clock",
+      "eight",
+      "o’clock"
+    ]
+  },
+  {
+    "sequence": "1F563",
+    "tts": "eight-thirty",
+    "keywords": [
+      "30",
+      "8",
+      "8:30",
+      "clock",
+      "eight",
+      "thirty"
+    ]
+  },
+  {
+    "sequence": "1F558",
+    "tts": "nine o’clock",
+    "keywords": [
+      "00",
+      "9",
+      "9:00",
+      "clock",
+      "nine",
+      "o’clock"
+    ]
+  },
+  {
+    "sequence": "1F564",
+    "tts": "nine-thirty",
+    "keywords": [
+      "30",
+      "9",
+      "9:30",
+      "clock",
+      "nine",
+      "thirty"
+    ]
+  },
+  {
+    "sequence": "1F559",
+    "tts": "ten o’clock",
+    "keywords": [
+      "00",
+      "10",
+      "10:00",
+      "clock",
+      "o’clock",
+      "ten"
+    ]
+  },
+  {
+    "sequence": "1F565",
+    "tts": "ten-thirty",
+    "keywords": [
+      "10",
+      "10:30",
+      "30",
+      "clock",
+      "ten",
+      "thirty"
+    ]
+  },
+  {
+    "sequence": "1F55A",
+    "tts": "eleven o’clock",
+    "keywords": [
+      "00",
+      "11",
+      "11:00",
+      "clock",
+      "eleven",
+      "o’clock"
+    ]
+  },
+  {
+    "sequence": "1F566",
+    "tts": "eleven-thirty",
+    "keywords": [
+      "11",
+      "11:30",
+      "30",
+      "clock",
+      "eleven",
+      "thirty"
+    ]
+  },
+  {
+    "sequence": "1F311",
+    "tts": "new moon",
+    "keywords": [
+      "dark",
+      "moon"
+    ]
+  },
+  {
+    "sequence": "1F312",
+    "tts": "waxing crescent moon",
+    "keywords": [
+      "crescent",
+      "moon",
+      "waxing"
+    ]
+  },
+  {
+    "sequence": "1F313",
+    "tts": "first quarter moon",
+    "keywords": [
+      "moon",
+      "quarter"
+    ]
+  },
+  {
+    "sequence": "1F314",
+    "tts": "waxing gibbous moon",
+    "keywords": [
+      "gibbous",
+      "moon",
+      "waxing"
+    ]
+  },
+  {
+    "sequence": "1F315",
+    "tts": "full moon",
+    "keywords": [
+      "full",
+      "moon"
+    ]
+  },
+  {
+    "sequence": "1F316",
+    "tts": "waning gibbous moon",
+    "keywords": [
+      "gibbous",
+      "moon",
+      "waning"
+    ]
+  },
+  {
+    "sequence": "1F317",
+    "tts": "last quarter moon",
+    "keywords": [
+      "moon",
+      "quarter"
+    ]
+  },
+  {
+    "sequence": "1F318",
+    "tts": "waning crescent moon",
+    "keywords": [
+      "crescent",
+      "moon",
+      "waning"
+    ]
+  },
+  {
+    "sequence": "1F319",
+    "tts": "crescent moon",
+    "keywords": [
+      "crescent",
+      "moon"
+    ]
+  },
+  {
+    "sequence": "1F31A",
+    "tts": "new moon face",
+    "keywords": [
+      "face",
+      "moon"
+    ]
+  },
+  {
+    "sequence": "1F31B",
+    "tts": "first quarter moon with face",
+    "keywords": [
+      "face",
+      "moon",
+      "quarter"
+    ]
+  },
+  {
+    "sequence": "1F31C",
+    "tts": "last quarter moon with face",
+    "keywords": [
+      "face",
+      "moon",
+      "quarter"
+    ]
+  },
+  {
+    "sequence": "1F321",
+    "tts": "thermometer",
+    "keywords": [
+      "weather"
+    ]
+  },
+  {
+    "sequence": "1F31D",
+    "tts": "full moon with face",
+    "keywords": [
+      "bright",
+      "face",
+      "full",
+      "moon"
+    ]
+  },
+  {
+    "sequence": "1F31E",
+    "tts": "sun with face",
+    "keywords": [
+      "bright",
+      "face",
+      "sun"
+    ]
+  },
+  {
+    "sequence": "2B50",
+    "tts": "white medium star",
+    "keywords": [
+      "star"
+    ]
+  },
+  {
+    "sequence": "1F31F",
+    "tts": "glowing star",
+    "keywords": [
+      "glittery",
+      "glow",
+      "shining",
+      "sparkle",
+      "star"
+    ]
+  },
+  {
+    "sequence": "1F320",
+    "tts": "shooting star",
+    "keywords": [
+      "falling",
+      "shooting",
+      "star"
+    ]
+  },
+  {
+    "sequence": "26C5",
+    "tts": "sun behind cloud",
+    "keywords": [
+      "cloud",
+      "sun"
+    ]
+  },
+  {
+    "sequence": "26C8",
+    "tts": "cloud with lightning and rain",
+    "keywords": [
+      "cloud",
+      "rain",
+      "thunder"
+    ]
+  },
+  {
+    "sequence": "1F324",
+    "tts": "sun behind small cloud",
+    "keywords": [
+      "cloud",
+      "sun"
+    ]
+  },
+  {
+    "sequence": "1F325",
+    "tts": "sun behind large cloud",
+    "keywords": [
+      "cloud",
+      "sun"
+    ]
+  },
+  {
+    "sequence": "1F326",
+    "tts": "sun behind rain cloud",
+    "keywords": [
+      "cloud",
+      "rain",
+      "sun"
+    ]
+  },
+  {
+    "sequence": "1F327",
+    "tts": "cloud with rain",
+    "keywords": [
+      "cloud",
+      "rain"
+    ]
+  },
+  {
+    "sequence": "1F328",
+    "tts": "cloud with snow",
+    "keywords": [
+      "cloud",
+      "cold",
+      "snow"
+    ]
+  },
+  {
+    "sequence": "1F329",
+    "tts": "cloud with lightning",
+    "keywords": [
+      "cloud",
+      "lightning"
+    ]
+  },
+  {
+    "sequence": "1F32A",
+    "tts": "tornado",
+    "keywords": [
+      "cloud",
+      "whirlwind"
+    ]
+  },
+  {
+    "sequence": "1F32B",
+    "tts": "fog",
+    "keywords": [
+      "cloud"
+    ]
+  },
+  {
+    "sequence": "1F32C",
+    "tts": "wind face",
+    "keywords": [
+      "blow",
+      "cloud",
+      "face",
+      "wind"
+    ]
+  },
+  {
+    "sequence": "1F300",
+    "tts": "cyclone",
+    "keywords": [
+      "dizzy",
+      "twister",
+      "typhoon"
+    ]
+  },
+  {
+    "sequence": "1F308",
+    "tts": "rainbow",
+    "keywords": [
+      "rain"
+    ]
+  },
+  {
+    "sequence": "1F302",
+    "tts": "closed umbrella",
+    "keywords": [
+      "clothing",
+      "rain",
+      "umbrella"
+    ]
+  },
+  {
+    "sequence": "26F1",
+    "tts": "umbrella on ground",
+    "keywords": [
+      "rain",
+      "sun",
+      "umbrella"
+    ]
+  },
+  {
+    "sequence": "26A1",
+    "tts": "high voltage",
+    "keywords": [
+      "danger",
+      "electric",
+      "electricity",
+      "lightning",
+      "voltage",
+      "zap"
+    ]
+  },
+  {
+    "sequence": "26C4",
+    "tts": "snowman without snow",
+    "keywords": [
+      "cold",
+      "snow",
+      "snowman"
+    ]
+  },
+  {
+    "sequence": "1F525",
+    "tts": "fire",
+    "keywords": [
+      "flame",
+      "tool"
+    ]
+  },
+  {
+    "sequence": "1F4A7",
+    "tts": "droplet",
+    "keywords": [
+      "cold",
+      "comic",
+      "drop",
+      "sweat"
+    ]
+  },
+  {
+    "sequence": "1F30A",
+    "tts": "water wave",
+    "keywords": [
+      "ocean",
+      "water",
+      "wave"
+    ]
+  },
+  {
+    "sequence": "1F383",
+    "tts": "jack-o-lantern",
+    "keywords": [
+      "celebration",
+      "halloween",
+      "jack",
+      "lantern"
+    ]
+  },
+  {
+    "sequence": "1F384",
+    "tts": "Christmas tree",
+    "keywords": [
+      "celebration",
+      "Christmas",
+      "tree"
+    ]
+  },
+  {
+    "sequence": "1F386",
+    "tts": "fireworks",
+    "keywords": [
+      "celebration"
+    ]
+  },
+  {
+    "sequence": "1F387",
+    "tts": "sparkler",
+    "keywords": [
+      "celebration",
+      "fireworks",
+      "sparkle"
+    ]
+  },
+  {
+    "sequence": "1F388",
+    "tts": "balloon",
+    "keywords": [
+      "celebration"
+    ]
+  },
+  {
+    "sequence": "1F389",
+    "tts": "party popper",
+    "keywords": [
+      "celebration",
+      "party",
+      "popper",
+      "tada"
+    ]
+  },
+  {
+    "sequence": "1F38A",
+    "tts": "confetti ball",
+    "keywords": [
+      "ball",
+      "celebration",
+      "confetti"
+    ]
+  },
+  {
+    "sequence": "1F38B",
+    "tts": "tanabata tree",
+    "keywords": [
+      "banner",
+      "celebration",
+      "Japanese",
+      "tree"
+    ]
+  },
+  {
+    "sequence": "1F38C",
+    "tts": "crossed flags",
+    "keywords": [
+      "celebration",
+      "cross",
+      "crossed",
+      "Japanese"
+    ]
+  },
+  {
+    "sequence": "1F38D",
+    "tts": "pine decoration",
+    "keywords": [
+      "bamboo",
+      "celebration",
+      "Japanese",
+      "pine"
+    ]
+  },
+  {
+    "sequence": "1F38E",
+    "tts": "Japanese dolls",
+    "keywords": [
+      "celebration",
+      "doll",
+      "festival",
+      "Japanese"
+    ]
+  },
+  {
+    "sequence": "1F38F",
+    "tts": "carp streamer",
+    "keywords": [
+      "carp",
+      "celebration",
+      "streamer"
+    ]
+  },
+  {
+    "sequence": "1F390",
+    "tts": "wind chime",
+    "keywords": [
+      "bell",
+      "celebration",
+      "chime",
+      "wind"
+    ]
+  },
+  {
+    "sequence": "1F391",
+    "tts": "moon viewing ceremony",
+    "keywords": [
+      "celebration",
+      "ceremony",
+      "moon"
+    ]
+  },
+  {
+    "sequence": "1F380",
+    "tts": "ribbon",
+    "keywords": [
+      "celebration"
+    ]
+  },
+  {
+    "sequence": "1F381",
+    "tts": "wrapped gift",
+    "keywords": [
+      "box",
+      "celebration",
+      "gift",
+      "present",
+      "wrapped"
+    ]
+  },
+  {
+    "sequence": "1F396",
+    "tts": "military medal",
+    "keywords": [
+      "celebration",
+      "medal",
+      "military"
+    ]
+  },
+  {
+    "sequence": "1F397",
+    "tts": "reminder ribbon",
+    "keywords": [
+      "celebration",
+      "reminder",
+      "ribbon"
+    ]
+  },
+  {
+    "sequence": "1F39E",
+    "tts": "film frames",
+    "keywords": [
+      "cinema",
+      "film",
+      "frames",
+      "movie"
+    ]
+  },
+  {
+    "sequence": "1F39F",
+    "tts": "admission tickets",
+    "keywords": [
+      "admission",
+      "ticket"
+    ]
+  },
+  {
+    "sequence": "1F3AB",
+    "tts": "ticket",
+    "keywords": [
+      "admission"
+    ]
+  },
+  {
+    "sequence": "1F3F7",
+    "tts": "label",
+    "keywords": [
+      "label"
+    ]
+  },
+  {
+    "sequence": "26BD",
+    "tts": "soccer ball",
+    "keywords": [
+      "ball",
+      "soccer",
+      "football"
+    ]
+  },
+  {
+    "sequence": "26BE",
+    "tts": "baseball",
+    "keywords": [
+      "ball"
+    ]
+  },
+  {
+    "sequence": "1F3C0",
+    "tts": "basketball",
+    "keywords": [
+      "ball",
+      "hoop"
+    ]
+  },
+  {
+    "sequence": "1F3C8",
+    "tts": "american football",
+    "keywords": [
+      "american",
+      "ball",
+      "football"
+    ]
+  },
+  {
+    "sequence": "1F3C9",
+    "tts": "rugby football",
+    "keywords": [
+      "ball",
+      "football",
+      "rugby"
+    ]
+  },
+  {
+    "sequence": "1F3BE",
+    "tts": "tennis",
+    "keywords": [
+      "ball",
+      "racquet"
+    ]
+  },
+  {
+    "sequence": "1F3B1",
+    "tts": "pool 8 ball",
+    "keywords": [
+      "8",
+      "8 ball",
+      "ball",
+      "billiard",
+      "eight",
+      "game"
+    ]
+  },
+  {
+    "sequence": "1F3B3",
+    "tts": "bowling",
+    "keywords": [
+      "ball",
+      "game"
+    ]
+  },
+  {
+    "sequence": "26F3",
+    "tts": "flag in hole",
+    "keywords": [
+      "golf",
+      "hole"
+    ]
+  },
+  {
+    "sequence": "1F3CC",
+    "tts": "person golfing",
+    "keywords": [
+      "ball",
+      "golf"
+    ]
+  },
+  {
+    "sequence": "1F3CC 200D 2640",
+    "tts": "woman golfing",
+    "keywords": [
+      "golf",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F3CC 200D 2642",
+    "tts": "man golfing",
+    "keywords": [
+      "golf",
+      "man"
+    ]
+  },
+  {
+    "sequence": "26F8",
+    "tts": "ice skate",
+    "keywords": [
+      "ice",
+      "skate"
+    ]
+  },
+  {
+    "sequence": "1F3A3",
+    "tts": "fishing pole",
+    "keywords": [
+      "fish",
+      "pole"
+    ]
+  },
+  {
+    "sequence": "1F3BD",
+    "tts": "running shirt",
+    "keywords": [
+      "running",
+      "sash",
+      "shirt",
+      "athletics"
+    ]
+  },
+  {
+    "sequence": "1F3BF",
+    "tts": "skis",
+    "keywords": [
+      "ski",
+      "snow"
+    ]
+  },
+  {
+    "sequence": "26F7",
+    "tts": "skier",
+    "keywords": [
+      "ski",
+      "snow"
+    ]
+  },
+  {
+    "sequence": "1F3C2",
+    "tts": "snowboarder",
+    "keywords": [
+      "ski",
+      "snow",
+      "snowboard"
+    ]
+  },
+  {
+    "sequence": "1F3C4",
+    "tts": "person surfing",
+    "keywords": [
+      "surfing"
+    ]
+  },
+  {
+    "sequence": "1F3C4 200D 2640",
+    "tts": "woman surfing",
+    "keywords": [
+      "surfing",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F3C4 200D 2642",
+    "tts": "man surfing",
+    "keywords": [
+      "man",
+      "surfing"
+    ]
+  },
+  {
+    "sequence": "1F3C7",
+    "tts": "horse racing",
+    "keywords": [
+      "horse",
+      "jockey",
+      "racehorse",
+      "racing"
+    ]
+  },
+  {
+    "sequence": "1F3CA",
+    "tts": "person swimming",
+    "keywords": [
+      "swim"
+    ]
+  },
+  {
+    "sequence": "1F3CA 200D 2640",
+    "tts": "woman swimming",
+    "keywords": [
+      "swim",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F3CA 200D 2642",
+    "tts": "man swimming",
+    "keywords": [
+      "man",
+      "swim"
+    ]
+  },
+  {
+    "sequence": "26F9",
+    "tts": "person bouncing ball",
+    "keywords": [
+      "ball"
+    ]
+  },
+  {
+    "sequence": "26F9 200D 2640",
+    "tts": "woman bouncing ball",
+    "keywords": [
+      "ball",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "26F9 200D 2642",
+    "tts": "man bouncing ball",
+    "keywords": [
+      "ball",
+      "man"
+    ]
+  },
+  {
+    "sequence": "1F3CB",
+    "tts": "person lifting weights",
+    "keywords": [
+      "lifter",
+      "weight",
+      "lifter"
+    ]
+  },
+  {
+    "sequence": "1F3CB 200D 2640",
+    "tts": "woman lifting weights",
+    "keywords": [
+      "weight lifter",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F3CB 200D 2642",
+    "tts": "man lifting weights",
+    "keywords": [
+      "weight lifter",
+      "man"
+    ]
+  },
+  {
+    "sequence": "1F6B4",
+    "tts": "person biking",
+    "keywords": [
+      "bicycle",
+      "biking",
+      "cyclist"
+    ]
+  },
+  {
+    "sequence": "1F6B4 200D 2640",
+    "tts": "woman biking",
+    "keywords": [
+      "bicycle",
+      "biking",
+      "cyclist",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F6B4 200D 2642",
+    "tts": "man biking",
+    "keywords": [
+      "bicycle",
+      "biking",
+      "cyclist",
+      "man"
+    ]
+  },
+  {
+    "sequence": "1F6B5",
+    "tts": "person mountain biking",
+    "keywords": [
+      "bicycle",
+      "bicyclist",
+      "bike",
+      "cyclist",
+      "mountain"
+    ]
+  },
+  {
+    "sequence": "1F6B5 200D 2640",
+    "tts": "woman mountain biking",
+    "keywords": [
+      "bicycle",
+      "cyclist",
+      "bike",
+      "biking",
+      "mountain",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F6B5 200D 2642",
+    "tts": "man mountain biking",
+    "keywords": [
+      "bicycle",
+      "cyclist",
+      "bike",
+      "man",
+      "mountain"
+    ]
+  },
+  {
+    "sequence": "1F3CE",
+    "tts": "racing car",
+    "keywords": [
+      "car",
+      "racing"
+    ]
+  },
+  {
+    "sequence": "1F3CD",
+    "tts": "motorcycle",
+    "keywords": [
+      "racing"
+    ]
+  },
+  {
+    "sequence": "1F3C5",
+    "tts": "sports medal",
+    "keywords": [
+      "medal"
+    ]
+  },
+  {
+    "sequence": "1F3C6",
+    "tts": "trophy",
+    "keywords": [
+      "prize"
+    ]
+  },
+  {
+    "sequence": "1F3CF",
+    "tts": "cricket",
+    "keywords": [
+      "ball",
+      "bat",
+      "game"
+    ]
+  },
+  {
+    "sequence": "1F3D0",
+    "tts": "volleyball",
+    "keywords": [
+      "ball",
+      "game"
+    ]
+  },
+  {
+    "sequence": "1F3D1",
+    "tts": "field hockey",
+    "keywords": [
+      "ball",
+      "field",
+      "game",
+      "hockey",
+      "stick"
+    ]
+  },
+  {
+    "sequence": "1F3D2",
+    "tts": "ice hockey",
+    "keywords": [
+      "game",
+      "hockey",
+      "ice",
+      "puck",
+      "stick"
+    ]
+  },
+  {
+    "sequence": "1F3D3",
+    "tts": "ping pong",
+    "keywords": [
+      "ball",
+      "bat",
+      "game",
+      "paddle",
+      "table tennis",
+      "ping pong"
+    ]
+  },
+  {
+    "sequence": "1F3F8",
+    "tts": "badminton",
+    "keywords": [
+      "birdie",
+      "game",
+      "racquet",
+      "shuttlecock"
+    ]
+  },
+  {
+    "sequence": "1F3AF",
+    "tts": "direct hit",
+    "keywords": [
+      "bull",
+      "bullseye",
+      "dart",
+      "eye",
+      "game",
+      "hit",
+      "target"
+    ]
+  },
+  {
+    "sequence": "1F3AE",
+    "tts": "video game",
+    "keywords": [
+      "controller",
+      "game"
+    ]
+  },
+  {
+    "sequence": "1F579",
+    "tts": "joystick",
+    "keywords": [
+      "game",
+      "video game"
+    ]
+  },
+  {
+    "sequence": "1F3B2",
+    "tts": "game die",
+    "keywords": [
+      "dice",
+      "die",
+      "game"
+    ]
+  },
+  {
+    "sequence": "1F0CF",
+    "tts": "joker",
+    "keywords": [
+      "card",
+      "game",
+      "wildcard"
+    ]
+  },
+  {
+    "sequence": "1F004",
+    "tts": "mahjong red dragon",
+    "keywords": [
+      "game",
+      "mahjong",
+      "red"
+    ]
+  },
+  {
+    "sequence": "1F3B4",
+    "tts": "flower playing cards",
+    "keywords": [
+      "card",
+      "flower",
+      "game",
+      "Japanese",
+      "playing"
+    ]
+  },
+  {
+    "sequence": "1F507",
+    "tts": "muted speaker",
+    "keywords": [
+      "mute",
+      "quiet",
+      "silent",
+      "speaker"
+    ]
+  },
+  {
+    "sequence": "1F508",
+    "tts": "speaker low volume",
+    "keywords": [
+      "soft"
+    ]
+  },
+  {
+    "sequence": "1F509",
+    "tts": "speaker medium volume",
+    "keywords": [
+      "medium"
+    ]
+  },
+  {
+    "sequence": "1F50A",
+    "tts": "speaker high volume",
+    "keywords": [
+      "loud"
+    ]
+  },
+  {
+    "sequence": "1F4E2",
+    "tts": "loudspeaker",
+    "keywords": [
+      "loud",
+      "public address"
+    ]
+  },
+  {
+    "sequence": "1F4E3",
+    "tts": "megaphone",
+    "keywords": [
+      "cheering"
+    ]
+  },
+  {
+    "sequence": "1F4EF",
+    "tts": "postal horn",
+    "keywords": [
+      "horn",
+      "post",
+      "postal"
+    ]
+  },
+  {
+    "sequence": "1F514",
+    "tts": "bell",
+    "keywords": [
+      "bell"
+    ]
+  },
+  {
+    "sequence": "1F515",
+    "tts": "bell with slash",
+    "keywords": [
+      "bell",
+      "forbidden",
+      "mute",
+      "no",
+      "not",
+      "prohibited",
+      "quiet",
+      "silent"
+    ]
+  },
+  {
+    "sequence": "1F3BC",
+    "tts": "musical score",
+    "keywords": [
+      "music",
+      "score"
+    ]
+  },
+  {
+    "sequence": "1F3B5",
+    "tts": "musical note",
+    "keywords": [
+      "music",
+      "note"
+    ]
+  },
+  {
+    "sequence": "1F3B6",
+    "tts": "musical notes",
+    "keywords": [
+      "music",
+      "note",
+      "notes"
+    ]
+  },
+  {
+    "sequence": "1F399",
+    "tts": "studio microphone",
+    "keywords": [
+      "mic",
+      "microphone",
+      "music",
+      "studio"
+    ]
+  },
+  {
+    "sequence": "1F39A",
+    "tts": "level slider",
+    "keywords": [
+      "level",
+      "music",
+      "slider"
+    ]
+  },
+  {
+    "sequence": "1F39B",
+    "tts": "control knobs",
+    "keywords": [
+      "control",
+      "knobs",
+      "music"
+    ]
+  },
+  {
+    "sequence": "1F3A4",
+    "tts": "microphone",
+    "keywords": [
+      "karaoke",
+      "mic"
+    ]
+  },
+  {
+    "sequence": "1F3A7",
+    "tts": "headphone",
+    "keywords": [
+      "earbud"
+    ]
+  },
+  {
+    "sequence": "1F3B7",
+    "tts": "saxophone",
+    "keywords": [
+      "instrument",
+      "music",
+      "sax"
+    ]
+  },
+  {
+    "sequence": "1F3B8",
+    "tts": "guitar",
+    "keywords": [
+      "instrument",
+      "music"
+    ]
+  },
+  {
+    "sequence": "1F3B9",
+    "tts": "musical keyboard",
+    "keywords": [
+      "instrument",
+      "keyboard",
+      "music",
+      "piano"
+    ]
+  },
+  {
+    "sequence": "1F3BA",
+    "tts": "trumpet",
+    "keywords": [
+      "instrument",
+      "music"
+    ]
+  },
+  {
+    "sequence": "1F3BB",
+    "tts": "violin",
+    "keywords": [
+      "instrument",
+      "music"
+    ]
+  },
+  {
+    "sequence": "1F4FB",
+    "tts": "radio",
+    "keywords": [
+      "video"
+    ]
+  },
+  {
+    "sequence": "1F4F1",
+    "tts": "mobile phone",
+    "keywords": [
+      "cell",
+      "mobile",
+      "phone",
+      "telephone"
+    ]
+  },
+  {
+    "sequence": "1F4F2",
+    "tts": "mobile phone with arrow",
+    "keywords": [
+      "arrow",
+      "call",
+      "cell",
+      "mobile",
+      "phone",
+      "receive",
+      "telephone"
+    ]
+  },
+  {
+    "sequence": "260E",
+    "tts": "telephone",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "sequence": "1F4DE",
+    "tts": "telephone receiver",
+    "keywords": [
+      "phone",
+      "receiver",
+      "telephone"
+    ]
+  },
+  {
+    "sequence": "1F4DF",
+    "tts": "pager",
+    "keywords": [
+      "pager"
+    ]
+  },
+  {
+    "sequence": "1F4E0",
+    "tts": "fax machine",
+    "keywords": [
+      "fax"
+    ]
+  },
+  {
+    "sequence": "1F50B",
+    "tts": "battery",
+    "keywords": [
+      "battery"
+    ]
+  },
+  {
+    "sequence": "1F50C",
+    "tts": "electric plug",
+    "keywords": [
+      "electric",
+      "electricity",
+      "plug"
+    ]
+  },
+  {
+    "sequence": "1F4BB",
+    "tts": "laptop computer",
+    "keywords": [
+      "computer",
+      "pc",
+      "personal"
+    ]
+  },
+  {
+    "sequence": "1F5A5",
+    "tts": "desktop computer",
+    "keywords": [
+      "computer",
+      "desktop"
+    ]
+  },
+  {
+    "sequence": "1F5A8",
+    "tts": "printer",
+    "keywords": [
+      "computer"
+    ]
+  },
+  {
+    "sequence": "1F5B1",
+    "tts": "computer mouse",
+    "keywords": [
+      "computer"
+    ]
+  },
+  {
+    "sequence": "1F5B2",
+    "tts": "trackball",
+    "keywords": [
+      "computer"
+    ]
+  },
+  {
+    "sequence": "1F4BD",
+    "tts": "computer disk",
+    "keywords": [
+      "computer",
+      "disk",
+      "optical",
+      "minidisk"
+    ]
+  },
+  {
+    "sequence": "1F4BE",
+    "tts": "floppy disk",
+    "keywords": [
+      "computer",
+      "disk",
+      "floppy"
+    ]
+  },
+  {
+    "sequence": "1F4BF",
+    "tts": "optical disk",
+    "keywords": [
+      "cd",
+      "computer",
+      "disk",
+      "optical"
+    ]
+  },
+  {
+    "sequence": "1F4C0",
+    "tts": "dvd",
+    "keywords": [
+      "blu-ray",
+      "dvd",
+      "computer",
+      "disk",
+      "optical"
+    ]
+  },
+  {
+    "sequence": "1F3A5",
+    "tts": "movie camera",
+    "keywords": [
+      "camera",
+      "cinema",
+      "movie"
+    ]
+  },
+  {
+    "sequence": "1F3AC",
+    "tts": "clapper board",
+    "keywords": [
+      "clapper",
+      "movie"
+    ]
+  },
+  {
+    "sequence": "1F4FD",
+    "tts": "film projector",
+    "keywords": [
+      "cinema",
+      "film",
+      "movie",
+      "projector",
+      "video"
+    ]
+  },
+  {
+    "sequence": "1F4FA",
+    "tts": "television",
+    "keywords": [
+      "tv",
+      "video"
+    ]
+  },
+  {
+    "sequence": "1F4F7",
+    "tts": "camera",
+    "keywords": [
+      "video"
+    ]
+  },
+  {
+    "sequence": "1F4F8",
+    "tts": "camera with flash",
+    "keywords": [
+      "camera",
+      "flash",
+      "video"
+    ]
+  },
+  {
+    "sequence": "1F4F9",
+    "tts": "video camera",
+    "keywords": [
+      "camera",
+      "video"
+    ]
+  },
+  {
+    "sequence": "1F4FC",
+    "tts": "videocassette",
+    "keywords": [
+      "tape",
+      "vhs",
+      "video"
+    ]
+  },
+  {
+    "sequence": "1F50D",
+    "tts": "left-pointing magnifying glass",
+    "keywords": [
+      "glass",
+      "magnifying",
+      "search",
+      "tool"
+    ]
+  },
+  {
+    "sequence": "1F50E",
+    "tts": "right-pointing magnifying glass",
+    "keywords": [
+      "glass",
+      "magnifying",
+      "search",
+      "tool"
+    ]
+  },
+  {
+    "sequence": "1F52C",
+    "tts": "microscope",
+    "keywords": [
+      "tool",
+      "science"
+    ]
+  },
+  {
+    "sequence": "1F52D",
+    "tts": "telescope",
+    "keywords": [
+      "tool",
+      "science"
+    ]
+  },
+  {
+    "sequence": "1F4E1",
+    "tts": "satellite antenna",
+    "keywords": [
+      "antenna",
+      "dish",
+      "satellite"
+    ]
+  },
+  {
+    "sequence": "1F56F",
+    "tts": "candle",
+    "keywords": [
+      "light"
+    ]
+  },
+  {
+    "sequence": "1F4A1",
+    "tts": "light bulb",
+    "keywords": [
+      "bulb",
+      "comic",
+      "electric",
+      "idea",
+      "light"
+    ]
+  },
+  {
+    "sequence": "1F526",
+    "tts": "flashlight",
+    "keywords": [
+      "electric",
+      "light",
+      "tool",
+      "torch"
+    ]
+  },
+  {
+    "sequence": "1F3EE",
+    "tts": "red paper lantern",
+    "keywords": [
+      "bar",
+      "Japanese",
+      "lantern",
+      "light",
+      "red"
+    ]
+  },
+  {
+    "sequence": "1F4D4",
+    "tts": "notebook with decorative cover",
+    "keywords": [
+      "book",
+      "cover",
+      "decorated",
+      "notebook"
+    ]
+  },
+  {
+    "sequence": "1F4D5",
+    "tts": "closed book",
+    "keywords": [
+      "book",
+      "closed"
+    ]
+  },
+  {
+    "sequence": "1F4D6",
+    "tts": "open book",
+    "keywords": [
+      "book",
+      "open"
+    ]
+  },
+  {
+    "sequence": "1F4D7",
+    "tts": "green book",
+    "keywords": [
+      "book",
+      "green"
+    ]
+  },
+  {
+    "sequence": "1F4D8",
+    "tts": "blue book",
+    "keywords": [
+      "blue",
+      "book"
+    ]
+  },
+  {
+    "sequence": "1F4D9",
+    "tts": "orange book",
+    "keywords": [
+      "book",
+      "orange"
+    ]
+  },
+  {
+    "sequence": "1F4DA",
+    "tts": "books",
+    "keywords": [
+      "book"
+    ]
+  },
+  {
+    "sequence": "1F4D3",
+    "tts": "notebook",
+    "keywords": [
+      "notebook"
+    ]
+  },
+  {
+    "sequence": "1F4D2",
+    "tts": "ledger",
+    "keywords": [
+      "notebook"
+    ]
+  },
+  {
+    "sequence": "1F4C3",
+    "tts": "page with curl",
+    "keywords": [
+      "curl",
+      "document",
+      "page"
+    ]
+  },
+  {
+    "sequence": "1F4DC",
+    "tts": "scroll",
+    "keywords": [
+      "paper"
+    ]
+  },
+  {
+    "sequence": "1F4C4",
+    "tts": "page facing up",
+    "keywords": [
+      "document",
+      "page"
+    ]
+  },
+  {
+    "sequence": "1F4F0",
+    "tts": "newspaper",
+    "keywords": [
+      "news",
+      "paper"
+    ]
+  },
+  {
+    "sequence": "1F5DE",
+    "tts": "rolled-up newspaper",
+    "keywords": [
+      "news",
+      "newspaper",
+      "paper",
+      "rolled"
+    ]
+  },
+  {
+    "sequence": "1F4D1",
+    "tts": "bookmark tabs",
+    "keywords": [
+      "bookmark",
+      "mark",
+      "marker",
+      "tabs"
+    ]
+  },
+  {
+    "sequence": "1F516",
+    "tts": "bookmark",
+    "keywords": [
+      "mark"
+    ]
+  },
+  {
+    "sequence": "1F4B0",
+    "tts": "money bag",
+    "keywords": [
+      "bag",
+      "dollar",
+      "money",
+      "moneybag"
+    ]
+  },
+  {
+    "sequence": "1F4B4",
+    "tts": "yen banknote",
+    "keywords": [
+      "bank",
+      "banknote",
+      "bill",
+      "currency",
+      "money",
+      "note",
+      "yen"
+    ]
+  },
+  {
+    "sequence": "1F4B5",
+    "tts": "dollar banknote",
+    "keywords": [
+      "bank",
+      "banknote",
+      "bill",
+      "currency",
+      "dollar",
+      "money",
+      "note"
+    ]
+  },
+  {
+    "sequence": "1F4B6",
+    "tts": "euro banknote",
+    "keywords": [
+      "bank",
+      "banknote",
+      "bill",
+      "currency",
+      "euro",
+      "money",
+      "note"
+    ]
+  },
+  {
+    "sequence": "1F4B7",
+    "tts": "pound banknote",
+    "keywords": [
+      "bank",
+      "banknote",
+      "bill",
+      "currency",
+      "money",
+      "note",
+      "pound"
+    ]
+  },
+  {
+    "sequence": "1F4B8",
+    "tts": "money with wings",
+    "keywords": [
+      "bank",
+      "banknote",
+      "bill",
+      "dollar",
+      "fly",
+      "money",
+      "note",
+      "wings"
+    ]
+  },
+  {
+    "sequence": "1F4B3",
+    "tts": "credit card",
+    "keywords": [
+      "bank",
+      "card",
+      "credit",
+      "money"
+    ]
+  },
+  {
+    "sequence": "1F4B9",
+    "tts": "chart increasing with yen",
+    "keywords": [
+      "bank",
+      "chart",
+      "currency",
+      "graph",
+      "growth",
+      "market",
+      "money",
+      "rise",
+      "trend",
+      "upward",
+      "yen"
+    ]
+  },
+  {
+    "sequence": "1F4E7",
+    "tts": "e-mail",
+    "keywords": [
+      "email",
+      "letter",
+      "mail"
+    ]
+  },
+  {
+    "sequence": "1F4E8",
+    "tts": "incoming envelope",
+    "keywords": [
+      "e-mail",
+      "email",
+      "envelope",
+      "incoming",
+      "letter",
+      "mail",
+      "receive"
+    ]
+  },
+  {
+    "sequence": "1F4E9",
+    "tts": "envelope with arrow",
+    "keywords": [
+      "arrow",
+      "down",
+      "e-mail",
+      "email",
+      "envelope",
+      "letter",
+      "mail",
+      "outgoing",
+      "sent"
+    ]
+  },
+  {
+    "sequence": "1F4E4",
+    "tts": "outbox tray",
+    "keywords": [
+      "box",
+      "letter",
+      "mail",
+      "outbox",
+      "sent",
+      "tray"
+    ]
+  },
+  {
+    "sequence": "1F4E5",
+    "tts": "inbox tray",
+    "keywords": [
+      "box",
+      "inbox",
+      "letter",
+      "mail",
+      "receive",
+      "tray"
+    ]
+  },
+  {
+    "sequence": "1F4E6",
+    "tts": "package",
+    "keywords": [
+      "box",
+      "parcel"
+    ]
+  },
+  {
+    "sequence": "1F4EB",
+    "tts": "closed mailbox with raised flag",
+    "keywords": [
+      "closed",
+      "mail",
+      "mailbox",
+      "postbox"
+    ]
+  },
+  {
+    "sequence": "1F4EA",
+    "tts": "closed mailbox with lowered flag",
+    "keywords": [
+      "closed",
+      "lowered",
+      "mail",
+      "mailbox",
+      "postbox"
+    ]
+  },
+  {
+    "sequence": "1F4EC",
+    "tts": "open mailbox with raised flag",
+    "keywords": [
+      "mail",
+      "mailbox",
+      "open",
+      "postbox"
+    ]
+  },
+  {
+    "sequence": "1F4ED",
+    "tts": "open mailbox with lowered flag",
+    "keywords": [
+      "lowered",
+      "mail",
+      "mailbox",
+      "open",
+      "postbox"
+    ]
+  },
+  {
+    "sequence": "1F4EE",
+    "tts": "postbox",
+    "keywords": [
+      "mail",
+      "mailbox"
+    ]
+  },
+  {
+    "sequence": "1F5F3",
+    "tts": "ballot box with ballot",
+    "keywords": [
+      "ballot",
+      "box"
+    ]
+  },
+  {
+    "sequence": "270F",
+    "tts": "pencil",
+    "keywords": [
+      "pencil"
+    ]
+  },
+  {
+    "sequence": "1F58B",
+    "tts": "fountain pen",
+    "keywords": [
+      "fountain",
+      "pen"
+    ]
+  },
+  {
+    "sequence": "1F58A",
+    "tts": "pen",
+    "keywords": [
+      "ballpoint"
+    ]
+  },
+  {
+    "sequence": "1F58C",
+    "tts": "paintbrush",
+    "keywords": [
+      "painting"
+    ]
+  },
+  {
+    "sequence": "1F58D",
+    "tts": "crayon",
+    "keywords": [
+      "crayon"
+    ]
+  },
+  {
+    "sequence": "1F4DD",
+    "tts": "memo",
+    "keywords": [
+      "pencil"
+    ]
+  },
+  {
+    "sequence": "1F4BC",
+    "tts": "briefcase",
+    "keywords": [
+      "briefcase"
+    ]
+  },
+  {
+    "sequence": "1F4C1",
+    "tts": "file folder",
+    "keywords": [
+      "file",
+      "folder"
+    ]
+  },
+  {
+    "sequence": "1F4C2",
+    "tts": "open file folder",
+    "keywords": [
+      "file",
+      "folder",
+      "open"
+    ]
+  },
+  {
+    "sequence": "1F5C2",
+    "tts": "card index dividers",
+    "keywords": [
+      "card",
+      "dividers",
+      "index"
+    ]
+  },
+  {
+    "sequence": "1F4C5",
+    "tts": "calendar",
+    "keywords": [
+      "date"
+    ]
+  },
+  {
+    "sequence": "1F4C6",
+    "tts": "tear-off calendar",
+    "keywords": [
+      "calendar"
+    ]
+  },
+  {
+    "sequence": "1F5D2",
+    "tts": "spiral notepad",
+    "keywords": [
+      "note",
+      "pad",
+      "spiral"
+    ]
+  },
+  {
+    "sequence": "1F5D3",
+    "tts": "spiral calendar",
+    "keywords": [
+      "calendar",
+      "pad",
+      "spiral"
+    ]
+  },
+  {
+    "sequence": "1F4C7",
+    "tts": "card index",
+    "keywords": [
+      "card",
+      "index",
+      "rolodex"
+    ]
+  },
+  {
+    "sequence": "1F4C8",
+    "tts": "chart increasing",
+    "keywords": [
+      "chart",
+      "graph",
+      "growth",
+      "trend",
+      "upward"
+    ]
+  },
+  {
+    "sequence": "1F4C9",
+    "tts": "chart decreasing",
+    "keywords": [
+      "chart",
+      "down",
+      "graph",
+      "trend"
+    ]
+  },
+  {
+    "sequence": "1F4CA",
+    "tts": "bar chart",
+    "keywords": [
+      "bar",
+      "chart",
+      "graph"
+    ]
+  },
+  {
+    "sequence": "1F4CB",
+    "tts": "clipboard",
+    "keywords": [
+      "clipboard"
+    ]
+  },
+  {
+    "sequence": "1F4CC",
+    "tts": "pushpin",
+    "keywords": [
+      "pin"
+    ]
+  },
+  {
+    "sequence": "1F4CD",
+    "tts": "round pushpin",
+    "keywords": [
+      "pin",
+      "pushpin"
+    ]
+  },
+  {
+    "sequence": "1F4CE",
+    "tts": "paperclip",
+    "keywords": [
+      "paperclip"
+    ]
+  },
+  {
+    "sequence": "1F587",
+    "tts": "linked paperclips",
+    "keywords": [
+      "link",
+      "paperclip"
+    ]
+  },
+  {
+    "sequence": "1F4CF",
+    "tts": "straight ruler",
+    "keywords": [
+      "ruler",
+      "straight edge"
+    ]
+  },
+  {
+    "sequence": "1F4D0",
+    "tts": "triangular ruler",
+    "keywords": [
+      "ruler",
+      "set",
+      "triangle"
+    ]
+  },
+  {
+    "sequence": "1F5C3",
+    "tts": "card file box",
+    "keywords": [
+      "box",
+      "card",
+      "file"
+    ]
+  },
+  {
+    "sequence": "1F5C4",
+    "tts": "file cabinet",
+    "keywords": [
+      "cabinet",
+      "file",
+      "filing"
+    ]
+  },
+  {
+    "sequence": "1F5D1",
+    "tts": "wastebasket",
+    "keywords": [
+      "wastebasket"
+    ]
+  },
+  {
+    "sequence": "1F512",
+    "tts": "locked",
+    "keywords": [
+      "closed"
+    ]
+  },
+  {
+    "sequence": "1F513",
+    "tts": "unlocked",
+    "keywords": [
+      "lock",
+      "open",
+      "unlock"
+    ]
+  },
+  {
+    "sequence": "1F50F",
+    "tts": "locked with pen",
+    "keywords": [
+      "ink",
+      "lock",
+      "nib",
+      "pen",
+      "privacy"
+    ]
+  },
+  {
+    "sequence": "1F510",
+    "tts": "locked with key",
+    "keywords": [
+      "closed",
+      "key",
+      "lock",
+      "secure"
+    ]
+  },
+  {
+    "sequence": "1F511",
+    "tts": "key",
+    "keywords": [
+      "lock",
+      "password"
+    ]
+  },
+  {
+    "sequence": "1F5DD",
+    "tts": "old key",
+    "keywords": [
+      "clue",
+      "key",
+      "lock",
+      "old"
+    ]
+  },
+  {
+    "sequence": "1F528",
+    "tts": "hammer",
+    "keywords": [
+      "tool"
+    ]
+  },
+  {
+    "sequence": "26CF",
+    "tts": "pick",
+    "keywords": [
+      "mining",
+      "tool"
+    ]
+  },
+  {
+    "sequence": "1F6E0",
+    "tts": "hammer and wrench",
+    "keywords": [
+      "hammer",
+      "tool",
+      "wrench",
+      "spanner"
+    ]
+  },
+  {
+    "sequence": "1F527",
+    "tts": "wrench",
+    "keywords": [
+      "tool",
+      "wrench",
+      "spanner"
+    ]
+  },
+  {
+    "sequence": "1F529",
+    "tts": "nut and bolt",
+    "keywords": [
+      "bolt",
+      "nut",
+      "tool"
+    ]
+  },
+  {
+    "sequence": "1F5DC",
+    "tts": "clamp",
+    "keywords": [
+      "tool",
+      "vice",
+      "compress"
+    ]
+  },
+  {
+    "sequence": "1F517",
+    "tts": "link",
+    "keywords": [
+      "link"
+    ]
+  },
+  {
+    "sequence": "26D3",
+    "tts": "chains",
+    "keywords": [
+      "chain"
+    ]
+  },
+  {
+    "sequence": "1F489",
+    "tts": "syringe",
+    "keywords": [
+      "doctor",
+      "medicine",
+      "needle",
+      "shot",
+      "sick",
+      "tool"
+    ]
+  },
+  {
+    "sequence": "1F48A",
+    "tts": "pill",
+    "keywords": [
+      "doctor",
+      "medicine",
+      "sick"
+    ]
+  },
+  {
+    "sequence": "1F5E1",
+    "tts": "dagger",
+    "keywords": [
+      "knife",
+      "weapon"
+    ]
+  },
+  {
+    "sequence": "1F52A",
+    "tts": "kitchen knife",
+    "keywords": [
+      "cooking",
+      "hocho",
+      "knife",
+      "tool",
+      "weapon"
+    ]
+  },
+  {
+    "sequence": "1F52B",
+    "tts": "pistol",
+    "keywords": [
+      "gun",
+      "handgun",
+      "revolver",
+      "tool",
+      "weapon"
+    ]
+  },
+  {
+    "sequence": "1F6E1",
+    "tts": "shield",
+    "keywords": [
+      "weapon"
+    ]
+  },
+  {
+    "sequence": "1F3F9",
+    "tts": "bow and arrow",
+    "keywords": [
+      "archer",
+      "archery",
+      "arrow",
+      "bow",
+      "Sagittarius",
+      "tool",
+      "weapon",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "1F3C1",
+    "tts": "chequered flag",
+    "keywords": [
+      "checkered",
+      "chequered",
+      "racing"
+    ]
+  },
+  {
+    "sequence": "1F3F3",
+    "tts": "white flag",
+    "keywords": [
+      "waving"
+    ]
+  },
+  {
+    "sequence": "1F3F3 200D 1F308",
+    "tts": "rainbow flag",
+    "keywords": [
+      "rainbow"
+    ]
+  },
+  {
+    "sequence": "1F3F4",
+    "tts": "black flag",
+    "keywords": [
+      "waving"
+    ]
+  },
+  {
+    "sequence": "1F6A9",
+    "tts": "triangular flag",
+    "keywords": [
+      "post"
+    ]
+  },
+  {
+    "sequence": "1F6AC",
+    "tts": "cigarette",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  {
+    "sequence": "26B0",
+    "tts": "coffin",
+    "keywords": [
+      "death"
+    ]
+  },
+  {
+    "sequence": "26B1",
+    "tts": "funeral urn",
+    "keywords": [
+      "death",
+      "funeral",
+      "urn",
+      "ashes"
+    ]
+  },
+  {
+    "sequence": "1F5FF",
+    "tts": "moai",
+    "keywords": [
+      "face",
+      "moyai",
+      "statue"
+    ]
+  },
+  {
+    "sequence": "1F6E2",
+    "tts": "oil drum",
+    "keywords": [
+      "drum",
+      "oil"
+    ]
+  },
+  {
+    "sequence": "1F52E",
+    "tts": "crystal ball",
+    "keywords": [
+      "ball",
+      "crystal",
+      "fairy tale",
+      "fantasy",
+      "fortune",
+      "tool"
+    ]
+  },
+  {
+    "sequence": "1F3E7",
+    "tts": "ATM sign",
+    "keywords": [
+      "atm",
+      "automated",
+      "bank",
+      "teller"
+    ]
+  },
+  {
+    "sequence": "1F6AE",
+    "tts": "litter in bin sign",
+    "keywords": [
+      "litter",
+      "litter bin"
+    ]
+  },
+  {
+    "sequence": "1F6B0",
+    "tts": "potable water",
+    "keywords": [
+      "drinking",
+      "potable",
+      "water"
+    ]
+  },
+  {
+    "sequence": "267F",
+    "tts": "wheelchair symbol",
+    "keywords": [
+      "access"
+    ]
+  },
+  {
+    "sequence": "1F6B9",
+    "tts": "men’s room",
+    "keywords": [
+      "lavatory",
+      "man",
+      "restroom",
+      "wc"
+    ]
+  },
+  {
+    "sequence": "1F6BA",
+    "tts": "women’s room",
+    "keywords": [
+      "lavatory",
+      "restroom",
+      "wc",
+      "woman"
+    ]
+  },
+  {
+    "sequence": "1F6BB",
+    "tts": "restroom",
+    "keywords": [
+      "lavatory",
+      "WC",
+      "restroom"
+    ]
+  },
+  {
+    "sequence": "1F6BC",
+    "tts": "baby symbol",
+    "keywords": [
+      "baby",
+      "changing"
+    ]
+  },
+  {
+    "sequence": "1F6BE",
+    "tts": "water closet",
+    "keywords": [
+      "closet",
+      "lavatory",
+      "restroom",
+      "water",
+      "wc"
+    ]
+  },
+  {
+    "sequence": "1F6C2",
+    "tts": "passport control",
+    "keywords": [
+      "control",
+      "passport"
+    ]
+  },
+  {
+    "sequence": "1F6C3",
+    "tts": "customs",
+    "keywords": [
+      "customs"
+    ]
+  },
+  {
+    "sequence": "1F6C4",
+    "tts": "baggage claim",
+    "keywords": [
+      "baggage",
+      "claim"
+    ]
+  },
+  {
+    "sequence": "1F6C5",
+    "tts": "left luggage",
+    "keywords": [
+      "baggage",
+      "locker",
+      "luggage"
+    ]
+  },
+  {
+    "sequence": "26A0",
+    "tts": "warning",
+    "keywords": [
+      "warning"
+    ]
+  },
+  {
+    "sequence": "1F6B8",
+    "tts": "children crossing",
+    "keywords": [
+      "child",
+      "crossing",
+      "pedestrian",
+      "traffic"
+    ]
+  },
+  {
+    "sequence": "26D4",
+    "tts": "no entry",
+    "keywords": [
+      "entry",
+      "forbidden",
+      "no",
+      "not",
+      "prohibited",
+      "traffic"
+    ]
+  },
+  {
+    "sequence": "1F6AB",
+    "tts": "prohibited",
+    "keywords": [
+      "entry",
+      "forbidden",
+      "no",
+      "not"
+    ]
+  },
+  {
+    "sequence": "1F6B3",
+    "tts": "no bicycles",
+    "keywords": [
+      "bicycle",
+      "bike",
+      "forbidden",
+      "no",
+      "not",
+      "prohibited"
+    ]
+  },
+  {
+    "sequence": "1F6AD",
+    "tts": "no smoking",
+    "keywords": [
+      "forbidden",
+      "no",
+      "not",
+      "prohibited",
+      "smoking"
+    ]
+  },
+  {
+    "sequence": "1F6AF",
+    "tts": "no littering",
+    "keywords": [
+      "forbidden",
+      "litter",
+      "no",
+      "not",
+      "prohibited"
+    ]
+  },
+  {
+    "sequence": "1F6B1",
+    "tts": "non-potable water",
+    "keywords": [
+      "non-potable",
+      "non-drinking",
+      "water"
+    ]
+  },
+  {
+    "sequence": "1F6B7",
+    "tts": "no pedestrians",
+    "keywords": [
+      "forbidden",
+      "no",
+      "not",
+      "pedestrian",
+      "prohibited"
+    ]
+  },
+  {
+    "sequence": "2B06",
+    "tts": "up arrow",
+    "keywords": [
+      "arrow",
+      "cardinal",
+      "direction",
+      "north"
+    ]
+  },
+  {
+    "sequence": "27A1",
+    "tts": "right arrow",
+    "keywords": [
+      "arrow",
+      "cardinal",
+      "direction",
+      "east"
+    ]
+  },
+  {
+    "sequence": "2B07",
+    "tts": "down arrow",
+    "keywords": [
+      "arrow",
+      "cardinal",
+      "direction",
+      "down",
+      "south"
+    ]
+  },
+  {
+    "sequence": "2B05",
+    "tts": "left arrow",
+    "keywords": [
+      "arrow",
+      "cardinal",
+      "direction",
+      "west"
+    ]
+  },
+  {
+    "sequence": "21A9",
+    "tts": "right arrow curving left",
+    "keywords": [
+      "arrow"
+    ]
+  },
+  {
+    "sequence": "21AA",
+    "tts": "left arrow curving right",
+    "keywords": [
+      "arrow"
+    ]
+  },
+  {
+    "sequence": "1F503",
+    "tts": "clockwise vertical arrows",
+    "keywords": [
+      "arrow",
+      "clockwise",
+      "reload"
+    ]
+  },
+  {
+    "sequence": "1F504",
+    "tts": "anticlockwise arrows button",
+    "keywords": [
+      "anticlockwise",
+      "arrow",
+      "counterclockwise",
+      "withershins"
+    ]
+  },
+  {
+    "sequence": "1F519",
+    "tts": "BACK arrow",
+    "keywords": [
+      "arrow",
+      "back"
+    ]
+  },
+  {
+    "sequence": "1F51A",
+    "tts": "END arrow",
+    "keywords": [
+      "arrow",
+      "end"
+    ]
+  },
+  {
+    "sequence": "1F51B",
+    "tts": "ON! arrow",
+    "keywords": [
+      "arrow",
+      "mark",
+      "on"
+    ]
+  },
+  {
+    "sequence": "1F51C",
+    "tts": "SOON arrow",
+    "keywords": [
+      "arrow",
+      "soon"
+    ]
+  },
+  {
+    "sequence": "1F51D",
+    "tts": "TOP arrow",
+    "keywords": [
+      "arrow",
+      "top",
+      "up"
+    ]
+  },
+  {
+    "sequence": "1F6D0",
+    "tts": "place of worship",
+    "keywords": [
+      "religion",
+      "worship"
+    ]
+  },
+  {
+    "sequence": "269B",
+    "tts": "atom symbol",
+    "keywords": [
+      "atheist",
+      "atom"
+    ]
+  },
+  {
+    "sequence": "1F549",
+    "tts": "om",
+    "keywords": [
+      "Hindu",
+      "religion"
+    ]
+  },
+  {
+    "sequence": "262F",
+    "tts": "yin yang",
+    "keywords": [
+      "religion",
+      "tao",
+      "taoist",
+      "yang",
+      "yin"
+    ]
+  },
+  {
+    "sequence": "271D",
+    "tts": "latin cross",
+    "keywords": [
+      "Christian",
+      "cross",
+      "religion"
+    ]
+  },
+  {
+    "sequence": "262A",
+    "tts": "star and crescent",
+    "keywords": [
+      "islam",
+      "Muslim",
+      "religion"
+    ]
+  },
+  {
+    "sequence": "262E",
+    "tts": "peace symbol",
+    "keywords": [
+      "peace"
+    ]
+  },
+  {
+    "sequence": "1F54E",
+    "tts": "menorah",
+    "keywords": [
+      "candelabrum",
+      "candlestick",
+      "religion"
+    ]
+  },
+  {
+    "sequence": "1F52F",
+    "tts": "dotted six-pointed star",
+    "keywords": [
+      "fortune",
+      "star"
+    ]
+  },
+  {
+    "sequence": "267B",
+    "tts": "recycling symbol",
+    "keywords": [
+      "recycle"
+    ]
+  },
+  {
+    "sequence": "1F4DB",
+    "tts": "name badge",
+    "keywords": [
+      "badge",
+      "name"
+    ]
+  },
+  {
+    "sequence": "269C",
+    "tts": "fleur-de-lis",
+    "keywords": [
+      "fleur-de-lis"
+    ]
+  },
+  {
+    "sequence": "1F530",
+    "tts": "Japanese symbol for beginner",
+    "keywords": [
+      "beginner",
+      "chevron",
+      "green",
+      "Japanese",
+      "leaf",
+      "tool",
+      "yellow"
+    ]
+  },
+  {
+    "sequence": "1F531",
+    "tts": "trident emblem",
+    "keywords": [
+      "anchor",
+      "emblem",
+      "ship",
+      "tool",
+      "trident"
+    ]
+  },
+  {
+    "sequence": "2B55",
+    "tts": "heavy large circle",
+    "keywords": [
+      "circle",
+      "o"
+    ]
+  },
+  {
+    "sequence": "274C",
+    "tts": "cross mark",
+    "keywords": [
+      "cancel",
+      "mark",
+      "multiplication",
+      "multiply",
+      "x"
+    ]
+  },
+  {
+    "sequence": "274E",
+    "tts": "cross mark button",
+    "keywords": [
+      "mark",
+      "square"
+    ]
+  },
+  {
+    "sequence": "27B0",
+    "tts": "curly loop",
+    "keywords": [
+      "curl",
+      "loop"
+    ]
+  },
+  {
+    "sequence": "27BF",
+    "tts": "double curly loop",
+    "keywords": [
+      "curl",
+      "double",
+      "loop"
+    ]
+  },
+  {
+    "sequence": "303D",
+    "tts": "part alternation mark",
+    "keywords": [
+      "mark",
+      "part"
+    ]
+  },
+  {
+    "sequence": "1F4B1",
+    "tts": "currency exchange",
+    "keywords": [
+      "bank",
+      "currency",
+      "exchange",
+      "money"
+    ]
+  },
+  {
+    "sequence": "1F4B2",
+    "tts": "heavy dollar sign",
+    "keywords": [
+      "currency",
+      "dollar",
+      "money"
+    ]
+  },
+  {
+    "sequence": "203C",
+    "tts": "double exclamation mark",
+    "keywords": [
+      "bangbang",
+      "exclamation",
+      "mark",
+      "punctuation"
+    ]
+  },
+  {
+    "sequence": "00A9",
+    "tts": "copyright",
+    "keywords": [
+      "copyright"
+    ]
+  },
+  {
+    "sequence": "00AE",
+    "tts": "registered",
+    "keywords": [
+      "registered"
+    ]
+  },
+  {
+    "sequence": "264A",
+    "tts": "Gemini",
+    "keywords": [
+      "twins",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "264B",
+    "tts": "Cancer",
+    "keywords": [
+      "crab",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "264C",
+    "tts": "Leo",
+    "keywords": [
+      "lion",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "264D",
+    "tts": "Virgo",
+    "keywords": [
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "264E",
+    "tts": "Libra",
+    "keywords": [
+      "balance",
+      "justice",
+      "scales",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "264F",
+    "tts": "Scorpius",
+    "keywords": [
+      "scorpio",
+      "scorpion",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "26CE",
+    "tts": "Ophiuchus",
+    "keywords": [
+      "bearer",
+      "serpent",
+      "snake",
+      "zodiac"
+    ]
+  },
+  {
+    "sequence": "1F500",
+    "tts": "shuffle tracks button",
+    "keywords": [
+      "arrow",
+      "crossed"
+    ]
+  },
+  {
+    "sequence": "1F501",
+    "tts": "repeat button",
+    "keywords": [
+      "arrow",
+      "clockwise",
+      "repeat"
+    ]
+  },
+  {
+    "sequence": "1F502",
+    "tts": "repeat single button",
+    "keywords": [
+      "arrow",
+      "clockwise",
+      "once"
+    ]
+  },
+  {
+    "sequence": "25B6",
+    "tts": "play button",
+    "keywords": [
+      "arrow",
+      "play",
+      "right",
+      "triangle"
+    ]
+  },
+  {
+    "sequence": "23E9",
+    "tts": "fast-forward button",
+    "keywords": [
+      "arrow",
+      "double",
+      "fast",
+      "forward"
+    ]
+  },
+  {
+    "sequence": "23ED",
+    "tts": "next track button",
+    "keywords": [
+      "arrow",
+      "next scene",
+      "next track",
+      "triangle"
+    ]
+  },
+  {
+    "sequence": "23EF",
+    "tts": "play or pause button",
+    "keywords": [
+      "arrow",
+      "pause",
+      "play",
+      "right",
+      "triangle"
+    ]
+  },
+  {
+    "sequence": "25C0",
+    "tts": "reverse button",
+    "keywords": [
+      "arrow",
+      "left",
+      "reverse",
+      "triangle"
+    ]
+  },
+  {
+    "sequence": "23EA",
+    "tts": "fast reverse button",
+    "keywords": [
+      "arrow",
+      "double",
+      "rewind"
+    ]
+  },
+  {
+    "sequence": "23EE",
+    "tts": "last track button",
+    "keywords": [
+      "arrow",
+      "previous scene",
+      "previous track",
+      "triangle"
+    ]
+  },
+  {
+    "sequence": "1F53C",
+    "tts": "up button",
+    "keywords": [
+      "arrow",
+      "button",
+      "red"
+    ]
+  },
+  {
+    "sequence": "23EB",
+    "tts": "fast up button",
+    "keywords": [
+      "arrow",
+      "double"
+    ]
+  },
+  {
+    "sequence": "1F53D",
+    "tts": "down button",
+    "keywords": [
+      "arrow",
+      "button",
+      "down",
+      "red"
+    ]
+  },
+  {
+    "sequence": "23EC",
+    "tts": "fast down button",
+    "keywords": [
+      "arrow",
+      "double",
+      "down"
+    ]
+  },
+  {
+    "sequence": "23F8",
+    "tts": "pause button",
+    "keywords": [
+      "bar",
+      "double",
+      "pause",
+      "vertical"
+    ]
+  },
+  {
+    "sequence": "23F9",
+    "tts": "stop button",
+    "keywords": [
+      "square",
+      "stop"
+    ]
+  },
+  {
+    "sequence": "23FA",
+    "tts": "record button",
+    "keywords": [
+      "circle",
+      "record"
+    ]
+  },
+  {
+    "sequence": "23CF",
+    "tts": "eject button",
+    "keywords": [
+      "eject"
+    ]
+  },
+  {
+    "sequence": "1F3A6",
+    "tts": "cinema",
+    "keywords": [
+      "camera",
+      "film",
+      "movie"
+    ]
+  },
+  {
+    "sequence": "1F505",
+    "tts": "dim button",
+    "keywords": [
+      "brightness",
+      "dim",
+      "low"
+    ]
+  },
+  {
+    "sequence": "1F506",
+    "tts": "bright button",
+    "keywords": [
+      "bright",
+      "brightness"
+    ]
+  },
+  {
+    "sequence": "1F4F6",
+    "tts": "antenna bars",
+    "keywords": [
+      "antenna",
+      "bar",
+      "cell",
+      "mobile",
+      "phone",
+      "signal",
+      "telephone"
+    ]
+  },
+  {
+    "sequence": "1F4F5",
+    "tts": "no mobile phones",
+    "keywords": [
+      "cell",
+      "forbidden",
+      "mobile",
+      "no",
+      "not",
+      "phone",
+      "prohibited",
+      "telephone"
+    ]
+  },
+  {
+    "sequence": "1F4F3",
+    "tts": "vibration mode",
+    "keywords": [
+      "cell",
+      "mobile",
+      "mode",
+      "phone",
+      "telephone",
+      "vibration"
+    ]
+  },
+  {
+    "sequence": "1F4F4",
+    "tts": "mobile phone off",
+    "keywords": [
+      "cell",
+      "mobile",
+      "off",
+      "phone",
+      "telephone"
+    ]
+  },
+  {
+    "sequence": "1F51F",
+    "tts": "keycap 10",
+    "keywords": [
+      "keycap 10"
+    ]
+  },
+  {
+    "sequence": "1F4AF",
+    "tts": "hundred points",
+    "keywords": [
+      "100",
+      "full",
+      "hundred",
+      "score"
+    ]
+  },
+  {
+    "sequence": "1F51E",
+    "tts": "no one under eighteen",
+    "keywords": [
+      "18",
+      "age restriction",
+      "eighteen",
+      "forbidden",
+      "no",
+      "not",
+      "prohibited",
+      "underage"
+    ]
+  },
+  {
+    "sequence": "1F520",
+    "tts": "input latin uppercase",
+    "keywords": [
+      "ABCD",
+      "input",
+      "latin",
+      "letters",
+      "uppercase"
+    ]
+  },
+  {
+    "sequence": "1F521",
+    "tts": "input latin lowercase",
+    "keywords": [
+      "abcd",
+      "input",
+      "latin",
+      "letters",
+      "lowercase"
+    ]
+  },
+  {
+    "sequence": "1F522",
+    "tts": "input numbers",
+    "keywords": [
+      "1234",
+      "input",
+      "numbers"
+    ]
+  },
+  {
+    "sequence": "1F523",
+    "tts": "input symbols",
+    "keywords": [
+      "〒♪&%",
+      "input"
+    ]
+  },
+  {
+    "sequence": "1F524",
+    "tts": "input latin letters",
+    "keywords": [
+      "abc",
+      "alphabet",
+      "input",
+      "latin",
+      "letters"
+    ]
+  },
+  {
+    "sequence": "1F170",
+    "tts": "A button (blood type)",
+    "keywords": [
+      "a",
+      "blood type"
+    ]
+  },
+  {
+    "sequence": "1F18E",
+    "tts": "AB button (blood type)",
+    "keywords": [
+      "ab",
+      "blood type"
+    ]
+  },
+  {
+    "sequence": "1F171",
+    "tts": "B button (blood type)",
+    "keywords": [
+      "b",
+      "blood type"
+    ]
+  },
+  {
+    "sequence": "1F191",
+    "tts": "CL button",
+    "keywords": [
+      "cl"
+    ]
+  },
+  {
+    "sequence": "1F192",
+    "tts": "COOL button",
+    "keywords": [
+      "cool"
+    ]
+  },
+  {
+    "sequence": "1F193",
+    "tts": "FREE button",
+    "keywords": [
+      "free"
+    ]
+  },
+  {
+    "sequence": "1F194",
+    "tts": "ID button",
+    "keywords": [
+      "id",
+      "identity"
+    ]
+  },
+  {
+    "sequence": "24C2",
+    "tts": "circled M",
+    "keywords": [
+      "circle",
+      "m"
+    ]
+  },
+  {
+    "sequence": "1F195",
+    "tts": "NEW button",
+    "keywords": [
+      "new"
+    ]
+  },
+  {
+    "sequence": "1F196",
+    "tts": "NG button",
+    "keywords": [
+      "ng"
+    ]
+  },
+  {
+    "sequence": "1F17E",
+    "tts": "O button (blood type)",
+    "keywords": [
+      "blood type",
+      "o"
+    ]
+  },
+  {
+    "sequence": "1F197",
+    "tts": "OK button",
+    "keywords": [
+      "OK"
+    ]
+  },
+  {
+    "sequence": "1F17F",
+    "tts": "P button",
+    "keywords": [
+      "parking"
+    ]
+  },
+  {
+    "sequence": "1F198",
+    "tts": "SOS button",
+    "keywords": [
+      "help",
+      "sos"
+    ]
+  },
+  {
+    "sequence": "1F199",
+    "tts": "UP! button",
+    "keywords": [
+      "mark",
+      "up"
+    ]
+  },
+  {
+    "sequence": "1F19A",
+    "tts": "VS button",
+    "keywords": [
+      "versus",
+      "vs"
+    ]
+  },
+  {
+    "sequence": "1F201",
+    "tts": "Japanese “here” button",
+    "keywords": [
+      "Japanese",
+      "katakana",
+      "ココ",
+      "“here”"
+    ]
+  },
+  {
+    "sequence": "1F202",
+    "tts": "Japanese “service charge” button",
+    "keywords": [
+      "Japanese",
+      "katakana",
+      "サ",
+      "“service charge”"
+    ]
+  },
+  {
+    "sequence": "1F237",
+    "tts": "Japanese “monthly amount” button",
+    "keywords": [
+      "Japanese",
+      "ideograph",
+      "月",
+      "“monthly amount”"
+    ]
+  },
+  {
+    "sequence": "1F236",
+    "tts": "Japanese “not free of charge” button",
+    "keywords": [
+      "Japanese",
+      "ideograph",
+      "有",
+      "“not free of charge”"
+    ]
+  },
+  {
+    "sequence": "1F22F",
+    "tts": "Japanese “reserved” button",
+    "keywords": [
+      "Japanese",
+      "ideograph",
+      "指",
+      "“reserved”"
+    ]
+  },
+  {
+    "sequence": "1F250",
+    "tts": "Japanese “bargain” button",
+    "keywords": [
+      "Japanese",
+      "ideograph",
+      "得",
+      "“bargain”"
+    ]
+  },
+  {
+    "sequence": "1F239",
+    "tts": "Japanese “discount” button",
+    "keywords": [
+      "Japanese",
+      "ideograph",
+      "割",
+      "“discount”"
+    ]
+  },
+  {
+    "sequence": "1F21A",
+    "tts": "Japanese “free of charge” button",
+    "keywords": [
+      "Japanese",
+      "ideograph",
+      "無",
+      "“free of charge”"
+    ]
+  },
+  {
+    "sequence": "1F232",
+    "tts": "Japanese “prohibited” button",
+    "keywords": [
+      "Japanese",
+      "ideograph",
+      "禁",
+      "“prohibited”"
+    ]
+  },
+  {
+    "sequence": "1F251",
+    "tts": "Japanese “acceptable” button",
+    "keywords": [
+      "Japanese",
+      "ideograph",
+      "可",
+      "“acceptable”"
+    ]
+  },
+  {
+    "sequence": "1F238",
+    "tts": "Japanese “application” button",
+    "keywords": [
+      "Japanese",
+      "ideograph",
+      "申",
+      "“application”"
+    ]
+  },
+  {
+    "sequence": "1F234",
+    "tts": "Japanese “passing grade” button",
+    "keywords": [
+      "Japanese",
+      "ideograph",
+      "合",
+      "“passing grade”"
+    ]
+  },
+  {
+    "sequence": "1F233",
+    "tts": "Japanese “vacancy” button",
+    "keywords": [
+      "Japanese",
+      "ideograph",
+      "空",
+      "“vacancy”"
+    ]
+  },
+  {
+    "sequence": "1F23A",
+    "tts": "Japanese “open for business” button",
+    "keywords": [
+      "Japanese",
+      "ideograph",
+      "営",
+      "“open for business”"
+    ]
+  },
+  {
+    "sequence": "1F235",
+    "tts": "Japanese “no vacancy” button",
+    "keywords": [
+      "Japanese",
+      "ideograph",
+      "満",
+      "“no vacancy”"
+    ]
+  },
+  {
+    "sequence": "25AA",
+    "tts": "black small square",
+    "keywords": [
+      "geometric",
+      "square"
+    ]
+  },
+  {
+    "sequence": "25AB",
+    "tts": "white small square",
+    "keywords": [
+      "geometric",
+      "square"
+    ]
+  },
+  {
+    "sequence": "25FB",
+    "tts": "white medium square",
+    "keywords": [
+      "geometric",
+      "square"
+    ]
+  },
+  {
+    "sequence": "25FC",
+    "tts": "black medium square",
+    "keywords": [
+      "geometric",
+      "square"
+    ]
+  },
+  {
+    "sequence": "25FD",
+    "tts": "white medium-small square",
+    "keywords": [
+      "geometric",
+      "square"
+    ]
+  },
+  {
+    "sequence": "25FE",
+    "tts": "black medium-small square",
+    "keywords": [
+      "geometric",
+      "square"
+    ]
+  },
+  {
+    "sequence": "2B1B",
+    "tts": "black large square",
+    "keywords": [
+      "geometric",
+      "square"
+    ]
+  },
+  {
+    "sequence": "2B1C",
+    "tts": "white large square",
+    "keywords": [
+      "geometric",
+      "square"
+    ]
+  },
+  {
+    "sequence": "1F536",
+    "tts": "large orange diamond",
+    "keywords": [
+      "diamond",
+      "geometric",
+      "orange"
+    ]
+  },
+  {
+    "sequence": "1F537",
+    "tts": "large blue diamond",
+    "keywords": [
+      "blue",
+      "diamond",
+      "geometric"
+    ]
+  },
+  {
+    "sequence": "1F538",
+    "tts": "small orange diamond",
+    "keywords": [
+      "diamond",
+      "geometric",
+      "orange"
+    ]
+  },
+  {
+    "sequence": "1F539",
+    "tts": "small blue diamond",
+    "keywords": [
+      "blue",
+      "diamond",
+      "geometric"
+    ]
+  },
+  {
+    "sequence": "1F53A",
+    "tts": "red triangle pointed up",
+    "keywords": [
+      "geometric",
+      "red"
+    ]
+  },
+  {
+    "sequence": "1F53B",
+    "tts": "red triangle pointed down",
+    "keywords": [
+      "down",
+      "geometric",
+      "red"
+    ]
+  },
+  {
+    "sequence": "1F4A0",
+    "tts": "diamond with a dot",
+    "keywords": [
+      "comic",
+      "diamond",
+      "geometric",
+      "inside"
+    ]
+  },
+  {
+    "sequence": "1F518",
+    "tts": "radio button",
+    "keywords": [
+      "button",
+      "geometric",
+      "radio"
+    ]
+  },
+  {
+    "sequence": "1F532",
+    "tts": "black square button",
+    "keywords": [
+      "button",
+      "geometric",
+      "square"
+    ]
+  },
+  {
+    "sequence": "1F533",
+    "tts": "white square button",
+    "keywords": [
+      "button",
+      "geometric",
+      "outlined",
+      "square"
+    ]
+  },
+  {
+    "sequence": "26AA",
+    "tts": "white circle",
+    "keywords": [
+      "circle",
+      "geometric"
+    ]
+  },
+  {
+    "sequence": "26AB",
+    "tts": "black circle",
+    "keywords": [
+      "circle",
+      "geometric"
+    ]
+  },
+  {
+    "sequence": "1F534",
+    "tts": "red circle",
+    "keywords": [
+      "circle",
+      "geometric",
+      "red"
+    ]
+  },
+  {
+    "sequence": "1F535",
+    "tts": "blue circle",
+    "keywords": [
+      "blue",
+      "circle",
+      "geometric"
+    ]
+  },
+  {
+    "sequence": "1F6D1",
+    "tts": "stop sign",
+    "keywords": [
+      "octagonal",
+      "sign",
+      "stop"
+    ]
+  },
+  {
+    "sequence": "1F6D2",
+    "tts": "shopping cart",
+    "keywords": [
+      "shopping",
+      "cart",
+      "trolley"
+    ]
+  },
+  {
+    "sequence": "1F6F4",
+    "tts": "kick scooter",
+    "keywords": [
+      "scooter",
+      "kick"
+    ]
+  },
+  {
+    "sequence": "1F6F5",
+    "tts": "motor scooter",
+    "keywords": [
+      "motor",
+      "scooter"
+    ]
+  },
+  {
+    "sequence": "1F6F6",
+    "tts": "canoe",
+    "keywords": [
+      "canoe",
+      "boat"
+    ]
+  }
+]

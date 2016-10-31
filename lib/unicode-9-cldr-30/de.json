@@ -1,0 +1,10144 @@
+[
+  {
+    "sequence": "2049",
+    "tts": "Ausrufe- und Fragezeichen",
+    "keywords": [
+      "Ausrufezeichen",
+      "Fragezeichen",
+      "Satzzeichen",
+      "rot"
+    ]
+  },
+  {
+    "sequence": "2122",
+    "tts": "Markenzeichen",
+    "keywords": [
+      "Trademark",
+      "TM"
+    ]
+  },
+  {
+    "sequence": "2139",
+    "tts": "Buchstabe „i“ in blauem Quadrat",
+    "keywords": [
+      "i",
+      "Information"
+    ]
+  },
+  {
+    "sequence": "2194",
+    "tts": "Pfeil nach links und rechts",
+    "keywords": [
+      "Pfeil",
+      "nach links und rechts",
+      "entgegengesetzt"
+    ]
+  },
+  {
+    "sequence": "2195",
+    "tts": "Pfeil nach oben und unten",
+    "keywords": [
+      "Pfeil",
+      "nach oben und unten",
+      "entgegengesetzt"
+    ]
+  },
+  {
+    "sequence": "2196",
+    "tts": "Pfeil nach links oben",
+    "keywords": [
+      "Pfeil",
+      "nach links oben"
+    ]
+  },
+  {
+    "sequence": "2197",
+    "tts": "Pfeil nach rechts oben",
+    "keywords": [
+      "Pfeil",
+      "nach rechts oben"
+    ]
+  },
+  {
+    "sequence": "2198",
+    "tts": "Pfeil nach rechts unten",
+    "keywords": [
+      "Pfeil",
+      "nach rechts unten"
+    ]
+  },
+  {
+    "sequence": "2199",
+    "tts": "Pfeil nach links unten",
+    "keywords": [
+      "Pfeil",
+      "nach links unten"
+    ]
+  },
+  {
+    "sequence": "2328",
+    "tts": "Tastatur",
+    "keywords": [
+      "Computer"
+    ]
+  },
+  {
+    "sequence": "2600",
+    "tts": "Sonne",
+    "keywords": [
+      "sonnig",
+      "Wetter",
+      "Sonnenstrahlen",
+      "Strahlen"
+    ]
+  },
+  {
+    "sequence": "2601",
+    "tts": "Wolke",
+    "keywords": [
+      "Wetter",
+      "wolkig"
+    ]
+  },
+  {
+    "sequence": "2602",
+    "tts": "Regenschirm",
+    "keywords": [
+      "Regenschirm",
+      "Wetter",
+      "Bekleidung",
+      "Regen"
+    ]
+  },
+  {
+    "sequence": "2603",
+    "tts": "Schneemann im Schnee",
+    "keywords": [
+      "Schneemann",
+      "Schnee"
+    ]
+  },
+  {
+    "sequence": "2604",
+    "tts": "Komet",
+    "keywords": [
+      "Komet",
+      "Weltall"
+    ]
+  },
+  {
+    "sequence": "2611",
+    "tts": "Abstimmungsfeld mit Häkchen",
+    "keywords": [
+      "Wahlurne",
+      "Abstimmungsfeld",
+      "Häkchen"
+    ]
+  },
+  {
+    "sequence": "2614",
+    "tts": "Regenschirm im Regen",
+    "keywords": [
+      "Regenschirm",
+      "Regen"
+    ]
+  },
+  {
+    "sequence": "2615",
+    "tts": "Heißgetränk",
+    "keywords": [
+      "Getränk",
+      "Kaffee",
+      "trinken",
+      "heiß",
+      "dampfend",
+      "Tee"
+    ]
+  },
+  {
+    "sequence": "2618",
+    "tts": "Kleeblatt",
+    "keywords": [
+      "Pflanze"
+    ]
+  },
+  {
+    "sequence": "2620",
+    "tts": "Totenkopf mit gekreuzten Knochen",
+    "keywords": [
+      "Totenkopf",
+      "Piratenflagge",
+      "Tod",
+      "tot",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "2622",
+    "tts": "Radioaktiv",
+    "keywords": [
+      "radioaktiv"
+    ]
+  },
+  {
+    "sequence": "2623",
+    "tts": "Biogefährdung",
+    "keywords": [
+      "Biogefährdung",
+      "Zeichen"
+    ]
+  },
+  {
+    "sequence": "2626",
+    "tts": "Orthodoxes Kreuz",
+    "keywords": [
+      "Orthodox",
+      "Kreuz",
+      "Religion",
+      "Christentum"
+    ]
+  },
+  {
+    "sequence": "2638",
+    "tts": "Dharma-Rad",
+    "keywords": [
+      "Dharma",
+      "Buddhismus"
+    ]
+  },
+  {
+    "sequence": "2639",
+    "tts": "Sehr trauriger Smiley",
+    "keywords": [
+      "Gesicht",
+      "traurig"
+    ]
+  },
+  {
+    "sequence": "2640",
+    "tts": "Frauensymbol",
+    "keywords": [
+      "Frau",
+      "weiblich",
+      "Zeichen"
+    ]
+  },
+  {
+    "sequence": "2642",
+    "tts": "Männersymbol",
+    "keywords": [
+      "Mann",
+      "Zeichen",
+      "Symbol"
+    ]
+  },
+  {
+    "sequence": "2648",
+    "tts": "Sternzeichen Widder",
+    "keywords": [
+      "Widder",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "2649",
+    "tts": "Sternzeichen Stier",
+    "keywords": [
+      "Stier",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "2650",
+    "tts": "Sternzeichen Schütze",
+    "keywords": [
+      "Schütze",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "2651",
+    "tts": "Sternzeichen Steinbock",
+    "keywords": [
+      "Steinbock",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "2652",
+    "tts": "Sternzeichen Wassermann",
+    "keywords": [
+      "Wassermann",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "2653",
+    "tts": "Sternzeichen Fische",
+    "keywords": [
+      "Fische",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "2660",
+    "tts": "Pik",
+    "keywords": [
+      "Kartenspiel"
+    ]
+  },
+  {
+    "sequence": "2663",
+    "tts": "Kreuz",
+    "keywords": [
+      "Kartenspiel"
+    ]
+  },
+  {
+    "sequence": "2665",
+    "tts": "Herz",
+    "keywords": [
+      "Kartenspiel"
+    ]
+  },
+  {
+    "sequence": "2666",
+    "tts": "Karo",
+    "keywords": [
+      "Kartenspiel"
+    ]
+  },
+  {
+    "sequence": "2668",
+    "tts": "Heiße Quellen",
+    "keywords": [
+      "heiß",
+      "heiße Quellen",
+      "Quellen",
+      "dampfend",
+      "Dampf"
+    ]
+  },
+  {
+    "sequence": "2692",
+    "tts": "Hammer und Pickel",
+    "keywords": [
+      "Hammer",
+      "Pickel",
+      "Werkzeug"
+    ]
+  },
+  {
+    "sequence": "2693",
+    "tts": "Anker",
+    "keywords": [
+      "Meer",
+      "Hafen"
+    ]
+  },
+  {
+    "sequence": "2694",
+    "tts": "Gekreuzte Schwerter",
+    "keywords": [
+      "Schwerter",
+      "gekreuzt"
+    ]
+  },
+  {
+    "sequence": "2695",
+    "tts": "Asklepiosstab",
+    "keywords": [
+      "Medizin",
+      "Apotheke"
+    ]
+  },
+  {
+    "sequence": "2696",
+    "tts": "Waage",
+    "keywords": [
+      "Gerechtigkeit",
+      "Gewicht",
+      "wiegen",
+      "Werkzeug"
+    ]
+  },
+  {
+    "sequence": "2697",
+    "tts": "Destillierapparat",
+    "keywords": [
+      "Werkzeug"
+    ]
+  },
+  {
+    "sequence": "2699",
+    "tts": "Zahnrad",
+    "keywords": [
+      "Zahnrad",
+      "Werkzeug"
+    ]
+  },
+  {
+    "sequence": "2702",
+    "tts": "Schere",
+    "keywords": [
+      "Schere"
+    ]
+  },
+  {
+    "sequence": "2705",
+    "tts": "Weißes Häkchen",
+    "keywords": [
+      "abgehakt",
+      "erledigt"
+    ]
+  },
+  {
+    "sequence": "2708",
+    "tts": "Flugzeug",
+    "keywords": [
+      "Flugzeug",
+      "Flieger"
+    ]
+  },
+  {
+    "sequence": "2709",
+    "tts": "Briefumschlag",
+    "keywords": [
+      "E-Mail",
+      "Brief"
+    ]
+  },
+  {
+    "sequence": "2712",
+    "tts": "Schwarzer Federhalter",
+    "keywords": [
+      "Stift",
+      "Füller",
+      "Federhalter",
+      "schwarz"
+    ]
+  },
+  {
+    "sequence": "2714",
+    "tts": "kräftiges Häkchen",
+    "keywords": [
+      "abhaken",
+      "erledigt",
+      "Häkchen"
+    ]
+  },
+  {
+    "sequence": "2716",
+    "tts": "Multiplikationszeichen",
+    "keywords": [
+      "abbrechen",
+      "Multiplikation",
+      "multiplizieren",
+      "x"
+    ]
+  },
+  {
+    "sequence": "2721",
+    "tts": "Davidstern",
+    "keywords": [
+      "Religion",
+      "jüdisch"
+    ]
+  },
+  {
+    "sequence": "2728",
+    "tts": "Funkelnde Sterne",
+    "keywords": [
+      "Sterne"
+    ]
+  },
+  {
+    "sequence": "2733",
+    "tts": "Achtzackiger Stern",
+    "keywords": [
+      "Stern",
+      "achtzackig",
+      "grün",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "2734",
+    "tts": "Stern in orangefarbenem Quadrat",
+    "keywords": [
+      "Stern",
+      "orangefarben",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "2744",
+    "tts": "Schneeflocke",
+    "keywords": [
+      "Schnee",
+      "Flocke"
+    ]
+  },
+  {
+    "sequence": "2747",
+    "tts": "Funkeln",
+    "keywords": [
+      "grün",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "2753",
+    "tts": "Rotes Fragezeichen",
+    "keywords": [
+      "Fragezeichen",
+      "Satzzeichen",
+      "rot"
+    ]
+  },
+  {
+    "sequence": "2754",
+    "tts": "Fragezeichen",
+    "keywords": [
+      "Satzzeichen",
+      "weiß"
+    ]
+  },
+  {
+    "sequence": "2755",
+    "tts": "Ausrufezeichen",
+    "keywords": [
+      "Satzzeichen",
+      "weiß"
+    ]
+  },
+  {
+    "sequence": "2757",
+    "tts": "Rotes Ausrufezeichen",
+    "keywords": [
+      "Ausrufezeichen",
+      "Satzzeichen",
+      "rot"
+    ]
+  },
+  {
+    "sequence": "2763",
+    "tts": "Herz als Ausrufezeichen",
+    "keywords": [
+      "Ausrufezeichen",
+      "Herz",
+      "Satzzeichen"
+    ]
+  },
+  {
+    "sequence": "2764",
+    "tts": "Rotes Herz",
+    "keywords": [
+      "Herz"
+    ]
+  },
+  {
+    "sequence": "2795",
+    "tts": "Pluszeichen",
+    "keywords": [
+      "Plus"
+    ]
+  },
+  {
+    "sequence": "2796",
+    "tts": "Minuszeichen",
+    "keywords": [
+      "Minus"
+    ]
+  },
+  {
+    "sequence": "2797",
+    "tts": "Divisionszeichen",
+    "keywords": [
+      "geteilt"
+    ]
+  },
+  {
+    "sequence": "2934",
+    "tts": "Geschwungener Pfeil nach oben",
+    "keywords": [
+      "geschwungen",
+      "Pfeil",
+      "nach oben",
+      "oben"
+    ]
+  },
+  {
+    "sequence": "2935",
+    "tts": "Geschwungener Pfeil nach unten",
+    "keywords": [
+      "geschwungen",
+      "Pfeil",
+      "nach unten",
+      "unten"
+    ]
+  },
+  {
+    "sequence": "3030",
+    "tts": "Wellenlinie",
+    "keywords": [
+      "Linie",
+      "gewellt"
+    ]
+  },
+  {
+    "sequence": "3297",
+    "tts": "Schriftzeichen für „Gratulation“",
+    "keywords": [
+      "chinesisches Schriftzeichen",
+      "Gratulation"
+    ]
+  },
+  {
+    "sequence": "3299",
+    "tts": "Schriftzeichen für „Geheimnis“",
+    "keywords": [
+      "chinesisches Schriftzeichen",
+      "Geheimnis"
+    ]
+  },
+  {
+    "sequence": "1F57A",
+    "tts": "tanzender Mann",
+    "keywords": [
+      "tanzen",
+      "Mann"
+    ]
+  },
+  {
+    "sequence": "1F5A4",
+    "tts": "schwarzes Herz",
+    "keywords": [
+      "schwarz",
+      "Herz",
+      "böse"
+    ]
+  },
+  {
+    "sequence": "1F919",
+    "tts": "Ruf mich an",
+    "keywords": [
+      "Hand",
+      "anrufen"
+    ]
+  },
+  {
+    "sequence": "1F91A",
+    "tts": "erhobener Handrücken",
+    "keywords": [
+      "Hand",
+      "erhoben"
+    ]
+  },
+  {
+    "sequence": "1F91B",
+    "tts": "Faust nach links",
+    "keywords": [
+      "Faust",
+      "nach links"
+    ]
+  },
+  {
+    "sequence": "1F91C",
+    "tts": "Faust nach rechts",
+    "keywords": [
+      "Faust",
+      "nach rechts"
+    ]
+  },
+  {
+    "sequence": "1F91D",
+    "tts": "Handschlag",
+    "keywords": [
+      "Handschlag",
+      "Händeschütteln",
+      "Hände",
+      "Vereinbarung"
+    ]
+  },
+  {
+    "sequence": "1F91E",
+    "tts": "Hand mit gekreuzten Fingern",
+    "keywords": [
+      "Hand",
+      "Finger",
+      "gekreuzt"
+    ]
+  },
+  {
+    "sequence": "1F920",
+    "tts": "Smiley mit Cowboyhut",
+    "keywords": [
+      "Cowboy",
+      "Gesicht",
+      "Hut"
+    ]
+  },
+  {
+    "sequence": "1F921",
+    "tts": "Clown-Gesicht",
+    "keywords": [
+      "Clown",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F922",
+    "tts": "an Übelkeit leiden",
+    "keywords": [
+      "Gesicht",
+      "Übelkeit",
+      "Erbrechen"
+    ]
+  },
+  {
+    "sequence": "1F923",
+    "tts": "sich vor Lachen auf dem Boden wälzen",
+    "keywords": [
+      "lachen",
+      "Gesicht",
+      "wälzen"
+    ]
+  },
+  {
+    "sequence": "1F924",
+    "tts": "sabberndes Gesicht",
+    "keywords": [
+      "sabbern",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F925",
+    "tts": "lügendes Gesicht",
+    "keywords": [
+      "Gesicht",
+      "Lüge",
+      "Pinocchio-Nase"
+    ]
+  },
+  {
+    "sequence": "1F926",
+    "tts": "sich an den Kopf fassen",
+    "keywords": [
+      "Gesicht",
+      "frustriert",
+      "genervt"
+    ]
+  },
+  {
+    "sequence": "1F926 200D 2640",
+    "tts": "sich an den Kopf fassende Frau",
+    "keywords": [
+      "Frau",
+      "genervt",
+      "frustriert"
+    ]
+  },
+  {
+    "sequence": "1F926 200D 2642",
+    "tts": "sich an den Kopf fassender Mann",
+    "keywords": [
+      "Mann",
+      "genervt",
+      "frustriert"
+    ]
+  },
+  {
+    "sequence": "1F927",
+    "tts": "niesendes Gesicht",
+    "keywords": [
+      "niesen",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F930",
+    "tts": "schwangere Frau",
+    "keywords": [
+      "schwanger",
+      "Frau"
+    ]
+  },
+  {
+    "sequence": "1F933",
+    "tts": "Selfie",
+    "keywords": [
+      "Selfie",
+      "Smartphone"
+    ]
+  },
+  {
+    "sequence": "1F934",
+    "tts": "Prinz",
+    "keywords": [
+      "Prinz"
+    ]
+  },
+  {
+    "sequence": "1F935",
+    "tts": "Mann im Smoking",
+    "keywords": [
+      "Bräutigam",
+      "Mann",
+      "Smoking"
+    ]
+  },
+  {
+    "sequence": "1F936",
+    "tts": "Weihnachtsfrau",
+    "keywords": [
+      "Weihnachtsfrau",
+      "Weihnachten"
+    ]
+  },
+  {
+    "sequence": "1F937",
+    "tts": "keine Ahnung",
+    "keywords": [
+      "Zweifel",
+      "keine Ahnung",
+      "gleichgültig",
+      "egal"
+    ]
+  },
+  {
+    "sequence": "1F937 200D 2640",
+    "tts": "schulterzuckende Frau",
+    "keywords": [
+      "Frau",
+      "keine Ahnung",
+      "gleichgültig",
+      "Zweifel"
+    ]
+  },
+  {
+    "sequence": "1F937 200D 2642",
+    "tts": "schulterzuckender Mann",
+    "keywords": [
+      "Mann",
+      "keine Ahnung",
+      "gleichgültig",
+      "Zweifel"
+    ]
+  },
+  {
+    "sequence": "1F938",
+    "tts": "Radschlagende Person",
+    "keywords": [
+      "Radschlag",
+      "Bodenturnen",
+      "Person"
+    ]
+  },
+  {
+    "sequence": "1F938 200D 2640",
+    "tts": "Rad schlagende Frau",
+    "keywords": [
+      "Frau",
+      "Radschlag",
+      "Bodenturnen"
+    ]
+  },
+  {
+    "sequence": "1F938 200D 2642",
+    "tts": "Rad schlagender Mann",
+    "keywords": [
+      "Mann",
+      "Radschlag",
+      "Bodenturnen"
+    ]
+  },
+  {
+    "sequence": "1F939",
+    "tts": "Jongleur(in)",
+    "keywords": [
+      "jonglieren",
+      "Multitasking",
+      "geschickt"
+    ]
+  },
+  {
+    "sequence": "1F939 200D 2640",
+    "tts": "Jongleurin",
+    "keywords": [
+      "jonglieren",
+      "geschickt",
+      "Multitasking",
+      "Frau"
+    ]
+  },
+  {
+    "sequence": "1F939 200D 2642",
+    "tts": "Jongleur",
+    "keywords": [
+      "jonglieren",
+      "geschickt",
+      "Multitasking",
+      "Mann"
+    ]
+  },
+  {
+    "sequence": "1F93A",
+    "tts": "Fechter(in)",
+    "keywords": [
+      "Fechter",
+      "fechten",
+      "Schwert",
+      "Sport"
+    ]
+  },
+  {
+    "sequence": "1F93C",
+    "tts": "Ringer(in)",
+    "keywords": [
+      "Ringer",
+      "Wrestling",
+      "Ringkampf"
+    ]
+  },
+  {
+    "sequence": "1F93C 200D 2640",
+    "tts": "ringende Frauen",
+    "keywords": [
+      "Ringer",
+      "Ringkampf",
+      "Wrestling"
+    ]
+  },
+  {
+    "sequence": "1F93C 200D 2642",
+    "tts": "ringende Männer",
+    "keywords": [
+      "Ringer",
+      "Ringkampf",
+      "Wrestling"
+    ]
+  },
+  {
+    "sequence": "1F93D",
+    "tts": "Wasserballspieler(in)",
+    "keywords": [
+      "Wasserball",
+      "Wasser",
+      "Sport"
+    ]
+  },
+  {
+    "sequence": "1F93D 200D 2640",
+    "tts": "Wasserballspielerin",
+    "keywords": [
+      "Wassersport",
+      "Wasser",
+      "Wasserball"
+    ]
+  },
+  {
+    "sequence": "1F93D 200D 2642",
+    "tts": "Wasserballspieler",
+    "keywords": [
+      "Wassersport",
+      "Wasser",
+      "Wasserball"
+    ]
+  },
+  {
+    "sequence": "1F93E",
+    "tts": "Handballspieler(in)",
+    "keywords": [
+      "Handball",
+      "Sport"
+    ]
+  },
+  {
+    "sequence": "1F93E 200D 2640",
+    "tts": "Handballspielerin",
+    "keywords": [
+      "Frau",
+      "Handball"
+    ]
+  },
+  {
+    "sequence": "1F93E 200D 2642",
+    "tts": "Handballspieler",
+    "keywords": [
+      "Mann",
+      "Handball"
+    ]
+  },
+  {
+    "sequence": "1F940",
+    "tts": "welkende Blume",
+    "keywords": [
+      "Blume",
+      "verwelkt"
+    ]
+  },
+  {
+    "sequence": "1F941",
+    "tts": "Trommel",
+    "keywords": [
+      "Trommel",
+      "Trommelstöcke"
+    ]
+  },
+  {
+    "sequence": "1F942",
+    "tts": "Sektgläser",
+    "keywords": [
+      "Sekt",
+      "anstoßen",
+      "feiern",
+      "Getränk"
+    ]
+  },
+  {
+    "sequence": "1F943",
+    "tts": "Trinkglas",
+    "keywords": [
+      "Trinkglas",
+      "Whiskey",
+      "Bar"
+    ]
+  },
+  {
+    "sequence": "1F944",
+    "tts": "Löffel",
+    "keywords": [
+      "Löffel",
+      "Besteck"
+    ]
+  },
+  {
+    "sequence": "1F945",
+    "tts": "Tor",
+    "keywords": [
+      "Tor",
+      "Sport"
+    ]
+  },
+  {
+    "sequence": "1F947",
+    "tts": "Medaille 1. Platz",
+    "keywords": [
+      "Erster",
+      "Goldmedaille"
+    ]
+  },
+  {
+    "sequence": "1F948",
+    "tts": "Medaille 2. Platz",
+    "keywords": [
+      "Zweiter",
+      "Silbermedaille"
+    ]
+  },
+  {
+    "sequence": "1F949",
+    "tts": "Medaille 3. Platz",
+    "keywords": [
+      "Dritter",
+      "Bronzemedaille"
+    ]
+  },
+  {
+    "sequence": "1F94A",
+    "tts": "Boxhandschuh",
+    "keywords": [
+      "Boxen",
+      "Handschuh",
+      "Sport"
+    ]
+  },
+  {
+    "sequence": "1F94B",
+    "tts": "Kampfsportanzug",
+    "keywords": [
+      "Judo",
+      "Karate",
+      "Taekwondo",
+      "Kampfsport",
+      "Kampfkunst"
+    ]
+  },
+  {
+    "sequence": "1F950",
+    "tts": "Croissant",
+    "keywords": [
+      "Corissant",
+      "Frühstück",
+      "französisch"
+    ]
+  },
+  {
+    "sequence": "1F951",
+    "tts": "Avocado",
+    "keywords": [
+      "Avocado",
+      "Frucht"
+    ]
+  },
+  {
+    "sequence": "1F952",
+    "tts": "Gurke",
+    "keywords": [
+      "Gurke",
+      "Gemüse",
+      "Essen"
+    ]
+  },
+  {
+    "sequence": "1F953",
+    "tts": "Speckstreifen",
+    "keywords": [
+      "Speck",
+      "Frühstücksspeck",
+      "Essen"
+    ]
+  },
+  {
+    "sequence": "1F954",
+    "tts": "Kartoffel",
+    "keywords": [
+      "Kartoffel",
+      "Essen"
+    ]
+  },
+  {
+    "sequence": "1F955",
+    "tts": "Mohrrübe",
+    "keywords": [
+      "Mohrrübe",
+      "Möhre",
+      "Karotte",
+      "Gemüse"
+    ]
+  },
+  {
+    "sequence": "1F956",
+    "tts": "Baguette",
+    "keywords": [
+      "Baguette",
+      "Frühstück",
+      "französisch"
+    ]
+  },
+  {
+    "sequence": "1F957",
+    "tts": "Salat",
+    "keywords": [
+      "Salat",
+      "Essen"
+    ]
+  },
+  {
+    "sequence": "1F958",
+    "tts": "Pfannengericht",
+    "keywords": [
+      "Paella",
+      "Reispfanne",
+      "Essen"
+    ]
+  },
+  {
+    "sequence": "1F959",
+    "tts": "Döner",
+    "keywords": [
+      "Döner",
+      "Döner Kebab",
+      "Falafel",
+      "Wrap"
+    ]
+  },
+  {
+    "sequence": "1F95A",
+    "tts": "Ei",
+    "keywords": [
+      "Ei",
+      "Frühstücksei",
+      "Frühstück"
+    ]
+  },
+  {
+    "sequence": "1F95B",
+    "tts": "Glas Milch",
+    "keywords": [
+      "Glas",
+      "Milch",
+      "Getränk"
+    ]
+  },
+  {
+    "sequence": "1F95C",
+    "tts": "Erdnuss",
+    "keywords": [
+      "Erdnuss",
+      "Essen"
+    ]
+  },
+  {
+    "sequence": "1F95D",
+    "tts": "Kiwi",
+    "keywords": [
+      "Kiwi",
+      "Frucht",
+      "Obst"
+    ]
+  },
+  {
+    "sequence": "1F95E",
+    "tts": "Pfannkuchen",
+    "keywords": [
+      "Pfannkuchen",
+      "Eierpfannkuchen",
+      "Essen"
+    ]
+  },
+  {
+    "sequence": "1F985",
+    "tts": "Adler",
+    "keywords": [
+      "Adler",
+      "Vogel"
+    ]
+  },
+  {
+    "sequence": "1F986",
+    "tts": "Ente",
+    "keywords": [
+      "Ente",
+      "Vogel"
+    ]
+  },
+  {
+    "sequence": "1F987",
+    "tts": "Fledermaus",
+    "keywords": [
+      "Fledermaus",
+      "Vampir",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F988",
+    "tts": "Haifisch",
+    "keywords": [
+      "Hai",
+      "Haifisch"
+    ]
+  },
+  {
+    "sequence": "1F989",
+    "tts": "Eule",
+    "keywords": [
+      "Eule",
+      "Vogel",
+      "weise"
+    ]
+  },
+  {
+    "sequence": "1F98A",
+    "tts": "Fuchs",
+    "keywords": [
+      "Fuchs",
+      "Gesicht",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F98B",
+    "tts": "Schmetterling",
+    "keywords": [
+      "Schmetterling",
+      "schön"
+    ]
+  },
+  {
+    "sequence": "1F98C",
+    "tts": "Hirsch",
+    "keywords": [
+      "Hirsch",
+      "Gesicht",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F98D",
+    "tts": "Gorilla",
+    "keywords": [
+      "Gorilla",
+      "Affe",
+      "Gesicht",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F98E",
+    "tts": "Eidechse",
+    "keywords": [
+      "Eidechse",
+      "Reptil"
+    ]
+  },
+  {
+    "sequence": "1F98F",
+    "tts": "Nashorn",
+    "keywords": [
+      "Nashorn",
+      "Rhinozeros",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F990",
+    "tts": "Garnele",
+    "keywords": [
+      "Garnele",
+      "Krustentier",
+      "Gourmet"
+    ]
+  },
+  {
+    "sequence": "1F991",
+    "tts": "Tintenfisch",
+    "keywords": [
+      "Tintenfisch",
+      "Kalmar"
+    ]
+  },
+  {
+    "sequence": "1F600",
+    "tts": "Lachender Smiley",
+    "keywords": [
+      "Gesicht",
+      "lustig",
+      "lol"
+    ]
+  },
+  {
+    "sequence": "1F601",
+    "tts": "Grinsender Smiley",
+    "keywords": [
+      "Gesicht",
+      "lustig",
+      "Zähne"
+    ]
+  },
+  {
+    "sequence": "1F602",
+    "tts": "Smiley mit Freudentränen",
+    "keywords": [
+      "Tränen",
+      "Gesicht",
+      "lachen"
+    ]
+  },
+  {
+    "sequence": "1F603",
+    "tts": "Lachender Smiley mit offenem Mund",
+    "keywords": [
+      "Gesicht",
+      "lustig",
+      "lol"
+    ]
+  },
+  {
+    "sequence": "1F604",
+    "tts": "Lachender Smiley mit lachenden Augen",
+    "keywords": [
+      "Gesicht",
+      "lustig",
+      "lol"
+    ]
+  },
+  {
+    "sequence": "1F605",
+    "tts": "Lachender Smiley mit kaltem Schweiß",
+    "keywords": [
+      "Gesicht",
+      "lustig",
+      "schwitzen",
+      "Schweiß"
+    ]
+  },
+  {
+    "sequence": "1F606",
+    "tts": "Lachender Smiley mit geschlossenen Augen",
+    "keywords": [
+      "offener Mund",
+      "geschlossene Augen",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F609",
+    "tts": "Zwinkernder Smiley",
+    "keywords": [
+      "Zwinkern",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F60A",
+    "tts": "Lächelnder Smiley mit lächelnden Augen",
+    "keywords": [
+      "Gesicht",
+      "Freude",
+      "rote Wangen"
+    ]
+  },
+  {
+    "sequence": "1F60B",
+    "tts": "Sich die Lippen leckender Smiley",
+    "keywords": [
+      "leckeres Essen",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F60E",
+    "tts": "Smiley mit Sonnenbrille",
+    "keywords": [
+      "cool",
+      "Sonnenbrille",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F60D",
+    "tts": "Smiley mit Herzen als Augen",
+    "keywords": [
+      "verliebt",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F618",
+    "tts": "Kuss zuwerfender Smiley",
+    "keywords": [
+      "Kuss",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F617",
+    "tts": "Küssender Smiley",
+    "keywords": [
+      "Kuss",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F619",
+    "tts": "Lächelnder küssender Smiley",
+    "keywords": [
+      "lächelnde Augen",
+      "Kuss",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F61A",
+    "tts": "Küssender Smiley mit geschlossenen Augen",
+    "keywords": [
+      "Gesicht",
+      "rote Wangen"
+    ]
+  },
+  {
+    "sequence": "263A",
+    "tts": "Smiley",
+    "keywords": [
+      "fröhlich",
+      "lächelnd",
+      "Lächeln"
+    ]
+  },
+  {
+    "sequence": "1F642",
+    "tts": "Lächelnder Smiley",
+    "keywords": [
+      "lächelnd",
+      "Gesicht",
+      "Lächeln"
+    ]
+  },
+  {
+    "sequence": "1F917",
+    "tts": "Umarmender Smiley",
+    "keywords": [
+      "Gesicht",
+      "umarmen",
+      "Umarmung"
+    ]
+  },
+  {
+    "sequence": "1F607",
+    "tts": "Lächelnder Smiley mit Heiligenschein",
+    "keywords": [
+      "Lächeln",
+      "Heiligenschein",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F914",
+    "tts": "Nachdenkender Smiley",
+    "keywords": [
+      "Gesicht",
+      "nachdenken",
+      "nachdenklich"
+    ]
+  },
+  {
+    "sequence": "1F610",
+    "tts": "Neutraler Smiley",
+    "keywords": [
+      "kein Kommentar",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F611",
+    "tts": "Ausdrucksloser Smiley",
+    "keywords": [
+      "kein Kommentar",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F636",
+    "tts": "Smiley ohne Mund",
+    "keywords": [
+      "kein Mund",
+      "sprachlos",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F644",
+    "tts": "Augen verdrehender Smiley",
+    "keywords": [
+      "Augen verdrehen",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F60F",
+    "tts": "Feixender Smiley",
+    "keywords": [
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F623",
+    "tts": "Durchhaltender Smiley",
+    "keywords": [
+      "durchhalten",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F625",
+    "tts": "Enttäuschter aber erleichterter Smiley",
+    "keywords": [
+      "Schweiß",
+      "erleichtert",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F62E",
+    "tts": "Smiley mit offenem Mund",
+    "keywords": [
+      "erstaunt",
+      "Gesicht",
+      "offener Mund"
+    ]
+  },
+  {
+    "sequence": "1F910",
+    "tts": "Smiley mit Reißverschlussmund",
+    "keywords": [
+      "Gesicht",
+      "Mund",
+      "Reißverschluss"
+    ]
+  },
+  {
+    "sequence": "1F62F",
+    "tts": "Sprachloser Smiley",
+    "keywords": [
+      "sprachlos",
+      "erstaunt",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F62A",
+    "tts": "Schläfriger Smiley",
+    "keywords": [
+      "müde",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F62B",
+    "tts": "Müder Smiley mit zusammengekniffenen Augen",
+    "keywords": [
+      "müde",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F634",
+    "tts": "Schlafender Smiley",
+    "keywords": [
+      "schlafen",
+      "schnarchen",
+      "Gesicht",
+      "zzz"
+    ]
+  },
+  {
+    "sequence": "1F60C",
+    "tts": "Erleichterter Smiley",
+    "keywords": [
+      "geschlossene Augen",
+      "erleichtert",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F913",
+    "tts": "Nerd-Smiley",
+    "keywords": [
+      "Gesicht",
+      "Nerd"
+    ]
+  },
+  {
+    "sequence": "1F61B",
+    "tts": "Smiley mit herausgestreckter Zunge",
+    "keywords": [
+      "herausgestreckte Zunge",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F61C",
+    "tts": "Zwinkernder Smiley mit herausgestreckter Zunge",
+    "keywords": [
+      "herausgestreckte Zunge",
+      "Zwinkern",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F61D",
+    "tts": "Smiley mit herausgestreckter Zunge und zusammengekniffenen Augen",
+    "keywords": [
+      "herausgestreckte Zunge",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F641",
+    "tts": "Trauriger Smiley",
+    "keywords": [
+      "Gesicht",
+      "traurig"
+    ]
+  },
+  {
+    "sequence": "1F612",
+    "tts": "Unzufriedener Smiley",
+    "keywords": [
+      "unglücklich",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F613",
+    "tts": "Smiley mit kaltem Schweiß",
+    "keywords": [
+      "geschlossene Augen",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F614",
+    "tts": "Nachdenklicher Smiley",
+    "keywords": [
+      "nachdenklich",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F615",
+    "tts": "Verwunderter Smiley",
+    "keywords": [
+      "verwundert",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F616",
+    "tts": "Bestürzter Smiley",
+    "keywords": [
+      "bestürzt",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F643",
+    "tts": "Auf dem Kopf stehender Smiley",
+    "keywords": [
+      "Gesicht",
+      "auf dem Kopf stehen"
+    ]
+  },
+  {
+    "sequence": "1F637",
+    "tts": "Smiley mit Schutzmaske vorm Mund",
+    "keywords": [
+      "Arzt",
+      "Krankheit",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F912",
+    "tts": "Smiley mit Fieberthermometer",
+    "keywords": [
+      "Gesicht",
+      "krank",
+      "Fieberthermometer"
+    ]
+  },
+  {
+    "sequence": "1F915",
+    "tts": "Smiley mit Kopfverband",
+    "keywords": [
+      "Verband",
+      "Gesicht",
+      "Verletzung",
+      "Schmerzen"
+    ]
+  },
+  {
+    "sequence": "1F911",
+    "tts": "Smiley mit Dollarzeichen",
+    "keywords": [
+      "Gesicht",
+      "Geld",
+      "Mund"
+    ]
+  },
+  {
+    "sequence": "1F632",
+    "tts": "Erstaunter Smiley",
+    "keywords": [
+      "erstaunt",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F61E",
+    "tts": "Enttäuschter Smiley",
+    "keywords": [
+      "traurig",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F61F",
+    "tts": "Besorgter Smiley",
+    "keywords": [
+      "besorgt",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F624",
+    "tts": "Triumphierender Smiley",
+    "keywords": [
+      "erleichtert",
+      "gewonnen",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F622",
+    "tts": "Weinender Smiley",
+    "keywords": [
+      "Träne",
+      "traurig",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F62D",
+    "tts": "Heftig weinender Smiley",
+    "keywords": [
+      "Tränen",
+      "traurig",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F626",
+    "tts": "Schockierter Smiley mit offenem Mund",
+    "keywords": [
+      "verwundert",
+      "Gesicht",
+      "offener Mund"
+    ]
+  },
+  {
+    "sequence": "1F627",
+    "tts": "Schmerzgeplagter Smiley",
+    "keywords": [
+      "leidend",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F628",
+    "tts": "Ängstlicher Smiley",
+    "keywords": [
+      "ängstlich",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F629",
+    "tts": "Erschöpfter Smiley",
+    "keywords": [
+      "müde",
+      "erschöpft",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F62C",
+    "tts": "Grimassen schneidender Smiley",
+    "keywords": [
+      "Grimasse",
+      "Zähne",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F630",
+    "tts": "Smiley mit offenem Mund und kaltem Schweiß",
+    "keywords": [
+      "offener Mund",
+      "kalter Schweiß",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F631",
+    "tts": "Vor Angst schreiender Smiley",
+    "keywords": [
+      "Angst",
+      "schreien",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F633",
+    "tts": "Erröteter Smiley mit großen Augen",
+    "keywords": [
+      "überrascht",
+      "rote Wangen",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F635",
+    "tts": "Benommener Smiley",
+    "keywords": [
+      "benommen",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F621",
+    "tts": "Rot angelaufener Smiley",
+    "keywords": [
+      "rot",
+      "wütend",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F620",
+    "tts": "Verärgerter Smiley",
+    "keywords": [
+      "verärgert",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F608",
+    "tts": "Smiley mit Hörnern",
+    "keywords": [
+      "Teufel"
+    ]
+  },
+  {
+    "sequence": "1F47F",
+    "tts": "Kobold",
+    "keywords": [
+      "Teufelchen",
+      "Gesicht",
+      "Fantasy"
+    ]
+  },
+  {
+    "sequence": "1F479",
+    "tts": "Japanischer Oger",
+    "keywords": [
+      "Monster",
+      "Märchen",
+      "Japan",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F47A",
+    "tts": "Japanischer Kobold",
+    "keywords": [
+      "Monster",
+      "Tengu",
+      "Kobold",
+      "Märchen",
+      "Japan",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F480",
+    "tts": "Totenkopf",
+    "keywords": [
+      "Tod",
+      "tot",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F47B",
+    "tts": "Geist",
+    "keywords": [
+      "Gesicht",
+      "Märchen",
+      "Fantasy"
+    ]
+  },
+  {
+    "sequence": "1F47D",
+    "tts": "Außerirdisches Wesen",
+    "keywords": [
+      "Außerirdischer",
+      "UFO",
+      "Alien",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F47E",
+    "tts": "Computerspiel-Monster",
+    "keywords": [
+      "Monster",
+      "UFO",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F916",
+    "tts": "Robotergesicht",
+    "keywords": [
+      "Gesicht",
+      "Monster",
+      "Roboter"
+    ]
+  },
+  {
+    "sequence": "1F4A9",
+    "tts": "Kothaufen",
+    "keywords": [
+      "Kot",
+      "Mist"
+    ]
+  },
+  {
+    "sequence": "1F63A",
+    "tts": "Lachender Katzen-Smiley mit offenem Mund",
+    "keywords": [
+      "Gesicht",
+      "lustig",
+      "lol",
+      "Katze"
+    ]
+  },
+  {
+    "sequence": "1F638",
+    "tts": "Grinsender Katzen-Smiley",
+    "keywords": [
+      "Katze",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F639",
+    "tts": "Katzen-Smiley mit Freudentränen",
+    "keywords": [
+      "Tränen",
+      "Gesicht",
+      "lachen",
+      "Katze"
+    ]
+  },
+  {
+    "sequence": "1F63B",
+    "tts": "Katzen-Smiley mit Herzen als Augen",
+    "keywords": [
+      "verliebt",
+      "Gesicht",
+      "Katze"
+    ]
+  },
+  {
+    "sequence": "1F63C",
+    "tts": "Verwegen lächelnder Katzen-Smiley",
+    "keywords": [
+      "ironisch",
+      "Katze",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F63D",
+    "tts": "Küssender Katzen-Smiley mit geschlossenen Augen",
+    "keywords": [
+      "Gesicht",
+      "rote Wangen",
+      "Katze"
+    ]
+  },
+  {
+    "sequence": "1F640",
+    "tts": "Vor Angst schreiender Katzen-Smiley",
+    "keywords": [
+      "Angst",
+      "schreien",
+      "Gesicht",
+      "Katze"
+    ]
+  },
+  {
+    "sequence": "1F63F",
+    "tts": "Weinender Katzen-Smiley",
+    "keywords": [
+      "Träne",
+      "traurig",
+      "Gesicht",
+      "Katze"
+    ]
+  },
+  {
+    "sequence": "1F63E",
+    "tts": "Verärgerter Katzen-Smiley",
+    "keywords": [
+      "verärgert",
+      "Gesicht",
+      "Katze"
+    ]
+  },
+  {
+    "sequence": "1F648",
+    "tts": "Nichts sehen",
+    "keywords": [
+      "Affe",
+      "gemein",
+      "böse",
+      "verboten",
+      "Geste",
+      "sehen"
+    ]
+  },
+  {
+    "sequence": "1F649",
+    "tts": "Nichts hören",
+    "keywords": [
+      "Affe",
+      "gemein",
+      "böse",
+      "verboten",
+      "Geste",
+      "hören"
+    ]
+  },
+  {
+    "sequence": "1F64A",
+    "tts": "Nichts sagen",
+    "keywords": [
+      "Affe",
+      "gemein",
+      "böse",
+      "verboten",
+      "Geste",
+      "sprechen"
+    ]
+  },
+  {
+    "sequence": "1F466",
+    "tts": "Junge",
+    "keywords": [
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F467",
+    "tts": "Mädchen",
+    "keywords": [
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F468",
+    "tts": "Mann",
+    "keywords": [
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 2695",
+    "tts": "Arzt",
+    "keywords": [
+      "Arzt",
+      "Doktor",
+      "Arztkittel"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F393",
+    "tts": "Student",
+    "keywords": [
+      "Student",
+      "Absolvent",
+      "Doktorhut",
+      "Uni"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F33E",
+    "tts": "Bauer",
+    "keywords": [
+      "Bauer",
+      "Landwirt",
+      "Ähre"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F373",
+    "tts": "Koch",
+    "keywords": [
+      "Koch",
+      "Kochen"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F3EB",
+    "tts": "Lehrer",
+    "keywords": [
+      "Lehrer",
+      "Dozent",
+      "Professor"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F3ED",
+    "tts": "Fabrikarbeiter",
+    "keywords": [
+      "Fabrikarbeiter",
+      "Fabrik"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F3A8",
+    "tts": "Künstler",
+    "keywords": [
+      "Maler",
+      "Künstler",
+      "Farbpalette",
+      "Mann"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F692",
+    "tts": "Feuerwehrmann",
+    "keywords": [
+      "Feuerwehrmann",
+      "Feuerwehrhelm",
+      "Mann"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 2708",
+    "tts": "Pilot",
+    "keywords": [
+      "Pilot",
+      "Flugzeug",
+      "Mann"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F680",
+    "tts": "Astronaut",
+    "keywords": [
+      "Astronaut",
+      "Raumfahrt",
+      "Weltraum",
+      "Mann"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F3A4",
+    "tts": "Sänger",
+    "keywords": [
+      "Sänger",
+      "Mikrofon",
+      "Popstar",
+      "Mann"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F4BB",
+    "tts": "IT-Experte",
+    "keywords": [
+      "Entwickler",
+      "Computer",
+      "Bildschirm"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F52C",
+    "tts": "Forscher",
+    "keywords": [
+      "Forscher",
+      "Wissenschaftler",
+      "Labor"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F4BC",
+    "tts": "Büroangestellter",
+    "keywords": [
+      "Büro",
+      "Manager",
+      "Angestellter"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F527",
+    "tts": "Handwerker",
+    "keywords": [
+      "Handwerker",
+      "Elektriker",
+      "Klempner"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 2696",
+    "tts": "Richter",
+    "keywords": [
+      "Richter",
+      "Gerchtigkeit",
+      "Recht"
+    ]
+  },
+  {
+    "sequence": "1F469",
+    "tts": "Frau",
+    "keywords": [
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 2695",
+    "tts": "Ärztin",
+    "keywords": [
+      "Ärztin",
+      "Arztkittel"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F393",
+    "tts": "Studentin",
+    "keywords": [
+      "Studentin",
+      "Absolventin",
+      "Doktorhut",
+      "Uni"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F33E",
+    "tts": "Bäuerin",
+    "keywords": [
+      "Bäuerin",
+      "Landwirtin",
+      "Ähre"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F373",
+    "tts": "Köchin",
+    "keywords": [
+      "Köchin",
+      "kochen"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F3EB",
+    "tts": "Lehrerin",
+    "keywords": [
+      "Lehrerin",
+      "Dozentin",
+      "Professorin"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F3ED",
+    "tts": "Fabrikarbeiterin",
+    "keywords": [
+      "Fabrikarbeiterin",
+      "Fabrik"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F3A8",
+    "tts": "Künstlerin",
+    "keywords": [
+      "Malerin",
+      "Künstlerin",
+      "Farbpalette",
+      "Frau"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F692",
+    "tts": "Feuerwehrfrau",
+    "keywords": [
+      "Feuerwehrfrau",
+      "Feuerwehrhelm",
+      "Frau"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 2708",
+    "tts": "Pilotin",
+    "keywords": [
+      "Pilotin",
+      "Flugzeug",
+      "Frau"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F680",
+    "tts": "Astronautin",
+    "keywords": [
+      "Astronautin",
+      "Raumfahrt",
+      "Weltraum",
+      "Frau"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F3A4",
+    "tts": "Sängerin",
+    "keywords": [
+      "Sängerin",
+      "Mikrofon",
+      "Popstar",
+      "Frau"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F4BB",
+    "tts": "IT-Expertin",
+    "keywords": [
+      "Entwickler",
+      "Computer",
+      "Bildschirm"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F52C",
+    "tts": "Forscherin",
+    "keywords": [
+      "Forscherin",
+      "Wissenschaftlerin",
+      "Labor"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F4BC",
+    "tts": "Büroangestellte",
+    "keywords": [
+      "Büro",
+      "Managerin",
+      "Angestellte"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F527",
+    "tts": "Handwerkerin",
+    "keywords": [
+      "Handwerkerin",
+      "Elektrikerin",
+      "Klempnerin"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 2696",
+    "tts": "Richterin",
+    "keywords": [
+      "Richterin",
+      "Gerechtigkeit",
+      "Recht"
+    ]
+  },
+  {
+    "sequence": "1F474",
+    "tts": "Älterer Mann",
+    "keywords": [
+      "Mann",
+      "Senior",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F475",
+    "tts": "Ältere Frau",
+    "keywords": [
+      "Frau",
+      "Seniorin",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F476",
+    "tts": "Kind",
+    "keywords": [
+      "Baby",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F471",
+    "tts": "Blonde Person",
+    "keywords": [
+      "blonde Haare",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F471 200D 2640",
+    "tts": "blonde Frau",
+    "keywords": [
+      "Frau",
+      "Gesicht",
+      "blond",
+      "Haar"
+    ]
+  },
+  {
+    "sequence": "1F471 200D 2642",
+    "tts": "blonder Mann",
+    "keywords": [
+      "Mann",
+      "Gesicht",
+      "blond",
+      "Haar"
+    ]
+  },
+  {
+    "sequence": "1F46E",
+    "tts": "Polizist(in)",
+    "keywords": [
+      "Polizei",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F46E 200D 2640",
+    "tts": "Polizistin",
+    "keywords": [
+      "Polizistin",
+      "Polizei",
+      "Frau"
+    ]
+  },
+  {
+    "sequence": "1F46E 200D 2642",
+    "tts": "Polizist",
+    "keywords": [
+      "Polizist",
+      "Polizei",
+      "Mann"
+    ]
+  },
+  {
+    "sequence": "1F472",
+    "tts": "Mann mit chinesischem Hut",
+    "keywords": [
+      "China",
+      "Hut",
+      "Mann",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F473",
+    "tts": "Mensch mit Turban",
+    "keywords": [
+      "Turban",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F473 200D 2640",
+    "tts": "Frau mit Turban",
+    "keywords": [
+      "Frau",
+      "Gesicht",
+      "Turban"
+    ]
+  },
+  {
+    "sequence": "1F473 200D 2642",
+    "tts": "Mann mit Turban",
+    "keywords": [
+      "Mann",
+      "Gesicht",
+      "Turban"
+    ]
+  },
+  {
+    "sequence": "1F477",
+    "tts": "Bauarbeiter(in) mit Helm",
+    "keywords": [
+      "Helm",
+      "Bauarbeiter",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F477 200D 2640",
+    "tts": "Bauarbeiterin",
+    "keywords": [
+      "Bauarbeiterin",
+      "Helm",
+      "Baustelle",
+      "Mann"
+    ]
+  },
+  {
+    "sequence": "1F477 200D 2642",
+    "tts": "Bauarbeiter",
+    "keywords": [
+      "Bauarbeiter",
+      "Helm",
+      "Baustelle"
+    ]
+  },
+  {
+    "sequence": "26D1",
+    "tts": "Helm mit weißem Kreuz",
+    "keywords": [
+      "Hilfe",
+      "Kreuz",
+      "Helm"
+    ]
+  },
+  {
+    "sequence": "1F478",
+    "tts": "Prinzessin",
+    "keywords": [
+      "Märchen",
+      "Krone",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F482",
+    "tts": "Wächter(in)",
+    "keywords": [
+      "Bärenfellmütze",
+      "Buckingham Palace",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F482 200D 2640",
+    "tts": "Wächterin",
+    "keywords": [
+      "Wächterin",
+      "Fellmütze",
+      "Buckingham Palace",
+      "Frau"
+    ]
+  },
+  {
+    "sequence": "1F482 200D 2642",
+    "tts": "Wächter",
+    "keywords": [
+      "Wächter",
+      "Fellmütze",
+      "Buckingham Palace",
+      "Mann"
+    ]
+  },
+  {
+    "sequence": "1F575",
+    "tts": "Detektiv(in)",
+    "keywords": [
+      "Spion"
+    ]
+  },
+  {
+    "sequence": "1F575 200D 2640",
+    "tts": "Detektivin",
+    "keywords": [
+      "Detektivin",
+      "Spionin",
+      "Frau"
+    ]
+  },
+  {
+    "sequence": "1F575 200D 2642",
+    "tts": "Detektiv",
+    "keywords": [
+      "Detektiv",
+      "Spion",
+      "Mann"
+    ]
+  },
+  {
+    "sequence": "1F385",
+    "tts": "Weihnachtsmann",
+    "keywords": [
+      "Weihnachten"
+    ]
+  },
+  {
+    "sequence": "1F47C",
+    "tts": "Putte",
+    "keywords": [
+      "Engel",
+      "Märchen",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F46F",
+    "tts": "Leute mit Hasenohren",
+    "keywords": [
+      "Bunnys",
+      "Hasenohren",
+      "Leute"
+    ]
+  },
+  {
+    "sequence": "1F46F 200D 2640",
+    "tts": "Frauen mit Hasenohren",
+    "keywords": [
+      "Bunnys",
+      "Frauen",
+      "Hasenohren",
+      "Party"
+    ]
+  },
+  {
+    "sequence": "1F46F 200D 2642",
+    "tts": "Männer mit Hasenohren",
+    "keywords": [
+      "Bunnys",
+      "Männer",
+      "Hasenohren",
+      "Party"
+    ]
+  },
+  {
+    "sequence": "1F486",
+    "tts": "Kopfmassage",
+    "keywords": [
+      "Massage",
+      "Salon"
+    ]
+  },
+  {
+    "sequence": "1F486 200D 2640",
+    "tts": "Frau, die eine Kopfmassage bekommt",
+    "keywords": [
+      "Frau",
+      "Kopfmassage"
+    ]
+  },
+  {
+    "sequence": "1F486 200D 2642",
+    "tts": "Mann, der eine Kopfmassage bekommt",
+    "keywords": [
+      "Mann",
+      "Kopfmassage"
+    ]
+  },
+  {
+    "sequence": "1F487",
+    "tts": "Mensch beim Haareschneiden",
+    "keywords": [
+      "Frisur",
+      "Friseur"
+    ]
+  },
+  {
+    "sequence": "1F487 200D 2640",
+    "tts": "Frau, der die Haare geschnitten werden",
+    "keywords": [
+      "Frau",
+      "Haarschnitt",
+      "Friseur",
+      "Schere"
+    ]
+  },
+  {
+    "sequence": "1F487 200D 2642",
+    "tts": "Mann, dem die Haare geschnitten werden",
+    "keywords": [
+      "Mann",
+      "Haarschnitt",
+      "Friseur",
+      "Schere"
+    ]
+  },
+  {
+    "sequence": "1F470",
+    "tts": "Braut mit Schleier",
+    "keywords": [
+      "Braut",
+      "Schleier",
+      "Hochzeit",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F64D",
+    "tts": "Stirnrunzelndes Gesicht",
+    "keywords": [
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F64D 200D 2640",
+    "tts": "stirnrunzelnde Frau",
+    "keywords": [
+      "Frau",
+      "Stirn runzeln",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F64D 200D 2642",
+    "tts": "stirnrunzelnder Mann",
+    "keywords": [
+      "Mann",
+      "Stirn runzeln",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F64E",
+    "tts": "Schmollendes Gesicht",
+    "keywords": [
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F64E 200D 2640",
+    "tts": "schmollende Frau",
+    "keywords": [
+      "Frau",
+      "schmollen",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F64E 200D 2642",
+    "tts": "schmollender Mann",
+    "keywords": [
+      "Mann",
+      "schmollen",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F645",
+    "tts": "Mensch mit gekreuzten Armen",
+    "keywords": [
+      "verboten",
+      "x"
+    ]
+  },
+  {
+    "sequence": "1F645 200D 2640",
+    "tts": "Frau mit überkreuzten Armen",
+    "keywords": [
+      "Frau",
+      "Gesicht",
+      "Arme"
+    ]
+  },
+  {
+    "sequence": "1F645 200D 2642",
+    "tts": "Mann mit überkreuzten Armen",
+    "keywords": [
+      "Mann",
+      "Gesicht",
+      "Arme"
+    ]
+  },
+  {
+    "sequence": "1F646",
+    "tts": "Mensch mit Händen über dem Kopf",
+    "keywords": [
+      "alles in Ordnung",
+      "o"
+    ]
+  },
+  {
+    "sequence": "1F646 200D 2640",
+    "tts": "Frau mit Händen auf dem Kopf",
+    "keywords": [
+      "Frau",
+      "Gesicht",
+      "Arme"
+    ]
+  },
+  {
+    "sequence": "1F646 200D 2642",
+    "tts": "Mann mit Händen auf dem Kopf",
+    "keywords": [
+      "Mann",
+      "Gesicht",
+      "Arme"
+    ]
+  },
+  {
+    "sequence": "1F481",
+    "tts": "Infoschalter-Mitarbeiter(in)",
+    "keywords": [
+      "Hilfe",
+      "Informationen",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F481 200D 2640",
+    "tts": "Infoschalter-Mitarbeiterin",
+    "keywords": [
+      "Frau",
+      "Auskunft",
+      "Informationen"
+    ]
+  },
+  {
+    "sequence": "1F481 200D 2642",
+    "tts": "Infoschalter-Mitarbeiter",
+    "keywords": [
+      "Mann",
+      "Auskunft",
+      "Informationen"
+    ]
+  },
+  {
+    "sequence": "1F64B",
+    "tts": "Mensch mit erhobenem Arm",
+    "keywords": [
+      "Siegerpose"
+    ]
+  },
+  {
+    "sequence": "1F64B 200D 2640",
+    "tts": "Frau mit erhobenem Arm",
+    "keywords": [
+      "Frau",
+      "Geste",
+      "Siegerpose"
+    ]
+  },
+  {
+    "sequence": "1F64B 200D 2642",
+    "tts": "Mann mit erhobenem Arm",
+    "keywords": [
+      "Mann",
+      "Geste",
+      "Siegerpose"
+    ]
+  },
+  {
+    "sequence": "1F647",
+    "tts": "Verbeugung",
+    "keywords": [
+      "Entschuldigung",
+      "verbeugen",
+      "Geste"
+    ]
+  },
+  {
+    "sequence": "1F647 200D 2640",
+    "tts": "sich verbeugende Frau",
+    "keywords": [
+      "Frau",
+      "verbeugen",
+      "Demut"
+    ]
+  },
+  {
+    "sequence": "1F647 200D 2642",
+    "tts": "sich verbeugender Mann",
+    "keywords": [
+      "Mann",
+      "verbeugen",
+      "Demut"
+    ]
+  },
+  {
+    "sequence": "1F64C",
+    "tts": "Zwei erhobene Handflächen",
+    "keywords": [
+      "feiern"
+    ]
+  },
+  {
+    "sequence": "1F64F",
+    "tts": "Gefaltete Hände",
+    "keywords": [
+      "Gebet",
+      "beten"
+    ]
+  },
+  {
+    "sequence": "1F5E3",
+    "tts": "Sprechende Person",
+    "keywords": [
+      "Gesicht",
+      "Kopf",
+      "Silhouette",
+      "sprechen",
+      "sprechend"
+    ]
+  },
+  {
+    "sequence": "1F464",
+    "tts": "Silhouette einer Büste",
+    "keywords": [
+      "Büste",
+      "Person"
+    ]
+  },
+  {
+    "sequence": "1F465",
+    "tts": "Silhouette mehrerer Büsten",
+    "keywords": [
+      "Büsten",
+      "Personen"
+    ]
+  },
+  {
+    "sequence": "1F6B6",
+    "tts": "Fußgänger(in)",
+    "keywords": [
+      "wandern",
+      "gehen",
+      "gehend"
+    ]
+  },
+  {
+    "sequence": "1F6B6 200D 2640",
+    "tts": "Fußgängerin",
+    "keywords": [
+      "Frau",
+      "Spaziergang",
+      "Fußgängerin",
+      "gehen"
+    ]
+  },
+  {
+    "sequence": "1F6B6 200D 2642",
+    "tts": "Fußgänger",
+    "keywords": [
+      "Mann",
+      "Spaziergang",
+      "Fußgänger",
+      "gehen"
+    ]
+  },
+  {
+    "sequence": "1F3C3",
+    "tts": "Läufer(in)",
+    "keywords": [
+      "Laufen",
+      "Marathon",
+      "Sport"
+    ]
+  },
+  {
+    "sequence": "1F3C3 200D 2640",
+    "tts": "Joggerin",
+    "keywords": [
+      "Joggerin",
+      "joggen",
+      "Marathon",
+      "laufen"
+    ]
+  },
+  {
+    "sequence": "1F3C3 200D 2642",
+    "tts": "Jogger",
+    "keywords": [
+      "Jogger",
+      "joggen",
+      "Marathon",
+      "laufen"
+    ]
+  },
+  {
+    "sequence": "1F483",
+    "tts": "Tänzerin",
+    "keywords": [
+      "Tanz",
+      "Frau"
+    ]
+  },
+  {
+    "sequence": "1F574",
+    "tts": "Schwebender Mann im Anzug",
+    "keywords": [
+      "geschäftlich",
+      "Mann",
+      "Anzug"
+    ]
+  },
+  {
+    "sequence": "1F48F",
+    "tts": "Küssendes Paar",
+    "keywords": [
+      "Kuss",
+      "Herz",
+      "Mann",
+      "Frau"
+    ]
+  },
+  {
+    "sequence": "1F491",
+    "tts": "Paar",
+    "keywords": [
+      "Herz",
+      "Mann",
+      "Frau"
+    ]
+  },
+  {
+    "sequence": "1F46A",
+    "tts": "Familie",
+    "keywords": [
+      "Vater",
+      "Mutter",
+      "Kind"
+    ]
+  },
+  {
+    "sequence": "1F46B",
+    "tts": "Pärchen aus Frau und Mann",
+    "keywords": [
+      "Paar",
+      "Händchen halten",
+      "Mann",
+      "Frau"
+    ]
+  },
+  {
+    "sequence": "1F46C",
+    "tts": "Pärchen aus Mann und Mann",
+    "keywords": [
+      "Paar",
+      "Händchen halten",
+      "Männer"
+    ]
+  },
+  {
+    "sequence": "1F46D",
+    "tts": "Pärchen aus Frau und Frau",
+    "keywords": [
+      "Paar",
+      "Händchen halten",
+      "Frauen"
+    ]
+  },
+  {
+    "sequence": "1F3FB",
+    "tts": "Hauttyp 1–2",
+    "keywords": [
+      "Hautfarbe"
+    ]
+  },
+  {
+    "sequence": "1F3FC",
+    "tts": "Hauttyp 3",
+    "keywords": [
+      "Hautfarbe"
+    ]
+  },
+  {
+    "sequence": "1F3FD",
+    "tts": "Hauttyp 4",
+    "keywords": [
+      "Hautfarbe"
+    ]
+  },
+  {
+    "sequence": "1F3FE",
+    "tts": "Hauttyp 5",
+    "keywords": [
+      "Hautfarbe"
+    ]
+  },
+  {
+    "sequence": "1F3FF",
+    "tts": "Hauttyp 6",
+    "keywords": [
+      "Hautfarbe"
+    ]
+  },
+  {
+    "sequence": "1F4AA",
+    "tts": "Angespannter Bizeps",
+    "keywords": [
+      "Muskeln anspannen",
+      "stark",
+      "Comic"
+    ]
+  },
+  {
+    "sequence": "1F448",
+    "tts": "Nach links weisender Zeigefinger",
+    "keywords": [
+      "Handrückseite",
+      "Finger",
+      "links"
+    ]
+  },
+  {
+    "sequence": "1F449",
+    "tts": "Nach rechts weisender Zeigefinger",
+    "keywords": [
+      "Handrückseite",
+      "Finger",
+      "rechts"
+    ]
+  },
+  {
+    "sequence": "261D",
+    "tts": "Nach oben weisender Zeigefinger von vorne",
+    "keywords": [
+      "Finger",
+      "Hand",
+      "Zeigefinger",
+      "nach oben",
+      "Handvorderseite"
+    ]
+  },
+  {
+    "sequence": "1F446",
+    "tts": "Nach oben weisender Zeigefinger von hinten",
+    "keywords": [
+      "Handrückseite",
+      "Finger",
+      "aufwärts"
+    ]
+  },
+  {
+    "sequence": "1F595",
+    "tts": "Mittelfinger",
+    "keywords": [
+      "Finger",
+      "Hand"
+    ]
+  },
+  {
+    "sequence": "1F447",
+    "tts": "Nach unten weisender Zeigefinger",
+    "keywords": [
+      "Handrückseite",
+      "Finger",
+      "abwärts"
+    ]
+  },
+  {
+    "sequence": "270C",
+    "tts": "Victory-Geste",
+    "keywords": [
+      "Sieg",
+      "V"
+    ]
+  },
+  {
+    "sequence": "1F596",
+    "tts": "Vulkanischer Gruß",
+    "keywords": [
+      "Finger",
+      "Hand",
+      "Spock",
+      "vulkanisch",
+      "Vulkanier(in)"
+    ]
+  },
+  {
+    "sequence": "1F918",
+    "tts": "Teufelsgruß",
+    "keywords": [
+      "Finger",
+      "Hand",
+      "Hörner",
+      "Rock",
+      "Teufel"
+    ]
+  },
+  {
+    "sequence": "1F590",
+    "tts": "Hand mit gespreizten Fingern",
+    "keywords": [
+      "Finger",
+      "Hand",
+      "gespreizt"
+    ]
+  },
+  {
+    "sequence": "270A",
+    "tts": "Erhobene Faust",
+    "keywords": [
+      "Faust"
+    ]
+  },
+  {
+    "sequence": "270B",
+    "tts": "Erhobene Hand",
+    "keywords": [
+      "Hand"
+    ]
+  },
+  {
+    "sequence": "1F44A",
+    "tts": "Geballte Faust",
+    "keywords": [
+      "Faust",
+      "Hand"
+    ]
+  },
+  {
+    "sequence": "1F44C",
+    "tts": "OK-Zeichen",
+    "keywords": [
+      "OK",
+      "Hand"
+    ]
+  },
+  {
+    "sequence": "1F44D",
+    "tts": "Daumen hoch",
+    "keywords": [
+      "gut",
+      "Hand",
+      "Daumen",
+      "nach oben"
+    ]
+  },
+  {
+    "sequence": "1F44E",
+    "tts": "Daumen runter",
+    "keywords": [
+      "schlecht",
+      "Hand",
+      "Daumen",
+      "nach unten"
+    ]
+  },
+  {
+    "sequence": "1F44B",
+    "tts": "Winkende Hand",
+    "keywords": [
+      "Hand",
+      "Winken"
+    ]
+  },
+  {
+    "sequence": "1F44F",
+    "tts": "Klatschende Hände",
+    "keywords": [
+      "Hände",
+      "Klatschen"
+    ]
+  },
+  {
+    "sequence": "1F450",
+    "tts": "Offene Hände",
+    "keywords": [
+      "offen",
+      "Hände"
+    ]
+  },
+  {
+    "sequence": "270D",
+    "tts": "Schreibende Hand",
+    "keywords": [
+      "Hand",
+      "Schreiben",
+      "schreiben"
+    ]
+  },
+  {
+    "sequence": "1F485",
+    "tts": "Nagellack",
+    "keywords": [
+      "Nagel",
+      "Maniküre",
+      "Nagelpflege",
+      "Kosmetik"
+    ]
+  },
+  {
+    "sequence": "1F442",
+    "tts": "Ohr",
+    "keywords": [
+      "Körperteil"
+    ]
+  },
+  {
+    "sequence": "1F443",
+    "tts": "Nase",
+    "keywords": [
+      "Körperteil"
+    ]
+  },
+  {
+    "sequence": "1F463",
+    "tts": "Fußabdrücke",
+    "keywords": [
+      "Fuß",
+      "Abdruck"
+    ]
+  },
+  {
+    "sequence": "1F440",
+    "tts": "Augen",
+    "keywords": [
+      "Auge",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F441",
+    "tts": "Auge",
+    "keywords": [
+      "Körperteil"
+    ]
+  },
+  {
+    "sequence": "1F441 200D 1F5E8",
+    "tts": "Auge in Sprechblase",
+    "keywords": [
+      "Dialog",
+      "reden",
+      "sprechen",
+      "Auge"
+    ]
+  },
+  {
+    "sequence": "1F445",
+    "tts": "Zunge",
+    "keywords": [
+      "Körperteil"
+    ]
+  },
+  {
+    "sequence": "1F444",
+    "tts": "Mund",
+    "keywords": [
+      "Lippen",
+      "Körperteil"
+    ]
+  },
+  {
+    "sequence": "1F48B",
+    "tts": "Kussabdruck",
+    "keywords": [
+      "Kuss",
+      "Lippen"
+    ]
+  },
+  {
+    "sequence": "1F498",
+    "tts": "Herz mit Pfeil",
+    "keywords": [
+      "Herz",
+      "Pfeil",
+      "Liebe"
+    ]
+  },
+  {
+    "sequence": "1F493",
+    "tts": "Schlagendes Herz",
+    "keywords": [
+      "Herz",
+      "Liebe"
+    ]
+  },
+  {
+    "sequence": "1F494",
+    "tts": "Gebrochenes Herz",
+    "keywords": [
+      "Trennung",
+      "Schmerz"
+    ]
+  },
+  {
+    "sequence": "1F495",
+    "tts": "Zwei Herzen",
+    "keywords": [
+      "Herz",
+      "Liebe"
+    ]
+  },
+  {
+    "sequence": "1F496",
+    "tts": "Funkelnde Herzen",
+    "keywords": [
+      "Aufregung",
+      "Liebe"
+    ]
+  },
+  {
+    "sequence": "1F497",
+    "tts": "Wachsendes Herz",
+    "keywords": [
+      "Nervosität",
+      "Aufregung",
+      "Liebe"
+    ]
+  },
+  {
+    "sequence": "1F499",
+    "tts": "Blaues Herz",
+    "keywords": [
+      "blau",
+      "Herz"
+    ]
+  },
+  {
+    "sequence": "1F49A",
+    "tts": "Grünes Herz",
+    "keywords": [
+      "grün",
+      "Herz"
+    ]
+  },
+  {
+    "sequence": "1F49B",
+    "tts": "Gelbes Herz",
+    "keywords": [
+      "gelb",
+      "Herz"
+    ]
+  },
+  {
+    "sequence": "1F49C",
+    "tts": "Lilafarbenes Herz",
+    "keywords": [
+      "lila",
+      "Herz"
+    ]
+  },
+  {
+    "sequence": "1F49D",
+    "tts": "Herz mit Schleife",
+    "keywords": [
+      "Herz",
+      "Schleife",
+      "Valentinstag"
+    ]
+  },
+  {
+    "sequence": "1F49E",
+    "tts": "Kreisende Herzen",
+    "keywords": [
+      "Liebe"
+    ]
+  },
+  {
+    "sequence": "1F49F",
+    "tts": "Herzdekoration",
+    "keywords": [
+      "Herz"
+    ]
+  },
+  {
+    "sequence": "1F48C",
+    "tts": "Liebesbrief",
+    "keywords": [
+      "Brief",
+      "Herz",
+      "Liebe"
+    ]
+  },
+  {
+    "sequence": "1F4A4",
+    "tts": "Schlafen",
+    "keywords": [
+      "Schlaf",
+      "Schnarchen",
+      "Comic",
+      "ZZZ"
+    ]
+  },
+  {
+    "sequence": "1F4A2",
+    "tts": "Ärger",
+    "keywords": [
+      "Wut",
+      "Comic"
+    ]
+  },
+  {
+    "sequence": "1F4A3",
+    "tts": "Bombe",
+    "keywords": [
+      "Comic"
+    ]
+  },
+  {
+    "sequence": "1F4A5",
+    "tts": "Zusammenstoß",
+    "keywords": [
+      "Kollision",
+      "Comic"
+    ]
+  },
+  {
+    "sequence": "1F4A6",
+    "tts": "Schweißtropfen",
+    "keywords": [
+      "Schweiß",
+      "Comic"
+    ]
+  },
+  {
+    "sequence": "1F4A8",
+    "tts": "Staubwolke",
+    "keywords": [
+      "weglaufen",
+      "rennen",
+      "Comic"
+    ]
+  },
+  {
+    "sequence": "1F4AB",
+    "tts": "Benommenheit",
+    "keywords": [
+      "Stern",
+      "Sterne sehen",
+      "Comic"
+    ]
+  },
+  {
+    "sequence": "1F4AC",
+    "tts": "Sprechblase mit drei Punkten",
+    "keywords": [
+      "Sprechblase",
+      "Gespräch",
+      "Comic"
+    ]
+  },
+  {
+    "sequence": "1F5E8",
+    "tts": "Sprechblase links",
+    "keywords": [
+      "Dialog",
+      "reden",
+      "Unterhaltung",
+      "sprechen"
+    ]
+  },
+  {
+    "sequence": "1F5EF",
+    "tts": "Sprechblase für wütende Aussage rechts",
+    "keywords": [
+      "wütend",
+      "Sprechblase"
+    ]
+  },
+  {
+    "sequence": "1F4AD",
+    "tts": "Gedankenblase",
+    "keywords": [
+      "Nachdenken",
+      "Comic"
+    ]
+  },
+  {
+    "sequence": "1F573",
+    "tts": "Loch",
+    "keywords": [
+      "Loch",
+      "schwarz"
+    ]
+  },
+  {
+    "sequence": "1F453",
+    "tts": "Brille",
+    "keywords": [
+      "Accessoire"
+    ]
+  },
+  {
+    "sequence": "1F576",
+    "tts": "Sonnenbrille",
+    "keywords": [
+      "dunkel",
+      "Brille",
+      "Augen"
+    ]
+  },
+  {
+    "sequence": "1F454",
+    "tts": "Hemd mit Krawatte",
+    "keywords": [
+      "Schlips",
+      "Kleidung"
+    ]
+  },
+  {
+    "sequence": "1F455",
+    "tts": "T-Shirt",
+    "keywords": [
+      "Shirt",
+      "Kleidung"
+    ]
+  },
+  {
+    "sequence": "1F456",
+    "tts": "Jeans",
+    "keywords": [
+      "Hose",
+      "Kleidung"
+    ]
+  },
+  {
+    "sequence": "1F457",
+    "tts": "Kleid",
+    "keywords": [
+      "Kleidung"
+    ]
+  },
+  {
+    "sequence": "1F458",
+    "tts": "Kimono",
+    "keywords": [
+      "Kleid",
+      "Kleidung"
+    ]
+  },
+  {
+    "sequence": "1F459",
+    "tts": "Bikini",
+    "keywords": [
+      "Badeanzug",
+      "Kleidung"
+    ]
+  },
+  {
+    "sequence": "1F45A",
+    "tts": "Bluse",
+    "keywords": [
+      "Kleidung"
+    ]
+  },
+  {
+    "sequence": "1F45B",
+    "tts": "Geldbörse",
+    "keywords": [
+      "Portemonnaie",
+      "Accessoire"
+    ]
+  },
+  {
+    "sequence": "1F45C",
+    "tts": "Handtasche",
+    "keywords": [
+      "Tasche",
+      "Accessoire"
+    ]
+  },
+  {
+    "sequence": "1F45D",
+    "tts": "Beutel",
+    "keywords": [
+      "Tasche",
+      "Accessoire"
+    ]
+  },
+  {
+    "sequence": "1F6CD",
+    "tts": "Einkaufstüten",
+    "keywords": [
+      "Tüte",
+      "Tasche",
+      "einkaufen",
+      "Einkaufen",
+      "shoppen",
+      "Shopping"
+    ]
+  },
+  {
+    "sequence": "1F392",
+    "tts": "Schulranzen",
+    "keywords": [
+      "Schule",
+      "Rucksack",
+      "Ranzen"
+    ]
+  },
+  {
+    "sequence": "1F45E",
+    "tts": "Herrenschuh",
+    "keywords": [
+      "Herren",
+      "Schuh"
+    ]
+  },
+  {
+    "sequence": "1F45F",
+    "tts": "Sportschuh",
+    "keywords": [
+      "sportlich",
+      "Sneaker",
+      "Schuh"
+    ]
+  },
+  {
+    "sequence": "1F460",
+    "tts": "High Heel",
+    "keywords": [
+      "Schuh",
+      "Absatz",
+      "Damen"
+    ]
+  },
+  {
+    "sequence": "1F461",
+    "tts": "Damensandale",
+    "keywords": [
+      "Sandale",
+      "Schuh",
+      "Damen"
+    ]
+  },
+  {
+    "sequence": "1F462",
+    "tts": "Damenstiefel",
+    "keywords": [
+      "Stiefel",
+      "Schuh",
+      "Damen"
+    ]
+  },
+  {
+    "sequence": "1F451",
+    "tts": "Krone",
+    "keywords": [
+      "Kopfbedeckung",
+      "König",
+      "Königin"
+    ]
+  },
+  {
+    "sequence": "1F452",
+    "tts": "Damenhut mit Schleife",
+    "keywords": [
+      "Hut",
+      "Schleife",
+      "Kopfbedeckung"
+    ]
+  },
+  {
+    "sequence": "1F3A9",
+    "tts": "Zylinderhut",
+    "keywords": [
+      "Hut",
+      "Unterhaltung"
+    ]
+  },
+  {
+    "sequence": "1F393",
+    "tts": "Doktorhut",
+    "keywords": [
+      "Abschlussfeier"
+    ]
+  },
+  {
+    "sequence": "1F4FF",
+    "tts": "Gebetskette",
+    "keywords": [
+      "Kette",
+      "beten",
+      "Gebet",
+      "Religion"
+    ]
+  },
+  {
+    "sequence": "1F484",
+    "tts": "Lippenstift",
+    "keywords": [
+      "Make-up",
+      "Kosmetik"
+    ]
+  },
+  {
+    "sequence": "1F48D",
+    "tts": "Ring",
+    "keywords": [
+      "Edelstein"
+    ]
+  },
+  {
+    "sequence": "1F48E",
+    "tts": "Edelstein",
+    "keywords": [
+      "Diamant"
+    ]
+  },
+  {
+    "sequence": "1F435",
+    "tts": "Affengesicht",
+    "keywords": [
+      "Affe",
+      "Gesicht",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F412",
+    "tts": "Affe",
+    "keywords": [
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F436",
+    "tts": "Hundegesicht",
+    "keywords": [
+      "Hund",
+      "Gesicht",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F415",
+    "tts": "Hund",
+    "keywords": [
+      "Tier",
+      "Haustier"
+    ]
+  },
+  {
+    "sequence": "1F429",
+    "tts": "Pudel",
+    "keywords": [
+      "Hund",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F43A",
+    "tts": "Wolfsgesicht",
+    "keywords": [
+      "Wolf",
+      "Gesicht",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F431",
+    "tts": "Katzengesicht",
+    "keywords": [
+      "Katze",
+      "Gesicht",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F408",
+    "tts": "Katze",
+    "keywords": [
+      "Tier",
+      "Haustier"
+    ]
+  },
+  {
+    "sequence": "1F981",
+    "tts": "Löwengesicht",
+    "keywords": [
+      "Gesicht",
+      "Löwe",
+      "Tierkreis",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "1F42F",
+    "tts": "Tigergesicht",
+    "keywords": [
+      "Tiger",
+      "Gesicht",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F405",
+    "tts": "Tiger",
+    "keywords": [
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F406",
+    "tts": "Leopard",
+    "keywords": [
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F434",
+    "tts": "Pferdegesicht",
+    "keywords": [
+      "Pferd",
+      "Gesicht",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F40E",
+    "tts": "Pferd",
+    "keywords": [
+      "Tier",
+      "Rennen",
+      "Rennpferd"
+    ]
+  },
+  {
+    "sequence": "1F984",
+    "tts": "Einhorngesicht",
+    "keywords": [
+      "Gesicht",
+      "Einhorn"
+    ]
+  },
+  {
+    "sequence": "1F42E",
+    "tts": "Kuhgesicht",
+    "keywords": [
+      "Kuh",
+      "Gesicht",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F402",
+    "tts": "Ochse",
+    "keywords": [
+      "Stier",
+      "Tier",
+      "Tierkreis",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "1F403",
+    "tts": "Wasserbüffel",
+    "keywords": [
+      "Wasser",
+      "Büffel",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F404",
+    "tts": "Kuh",
+    "keywords": [
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F437",
+    "tts": "Schweinegesicht",
+    "keywords": [
+      "Schwein",
+      "Gesicht",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F416",
+    "tts": "Schwein",
+    "keywords": [
+      "Tier",
+      "Sau"
+    ]
+  },
+  {
+    "sequence": "1F417",
+    "tts": "Eber",
+    "keywords": [
+      "Tier",
+      "Schwein",
+      "Wildschwein"
+    ]
+  },
+  {
+    "sequence": "1F43D",
+    "tts": "Schweinerüssel",
+    "keywords": [
+      "Schwein",
+      "Nase",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F40F",
+    "tts": "Widder",
+    "keywords": [
+      "Schaf",
+      "Tierkreis",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "1F411",
+    "tts": "Schaf",
+    "keywords": [
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F410",
+    "tts": "Ziege",
+    "keywords": [
+      "Steinbock",
+      "Tier",
+      "Tierkreis",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "1F42A",
+    "tts": "Dromedar",
+    "keywords": [
+      "einhöckrig",
+      "Kamel",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F42B",
+    "tts": "Kamel",
+    "keywords": [
+      "zweihöckrig",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F418",
+    "tts": "Elefant",
+    "keywords": [
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F42D",
+    "tts": "Mausgesicht",
+    "keywords": [
+      "Maus",
+      "Gesicht",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F401",
+    "tts": "Maus",
+    "keywords": [
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F400",
+    "tts": "Ratte",
+    "keywords": [
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F439",
+    "tts": "Hamstergesicht",
+    "keywords": [
+      "Hamster",
+      "Gesicht",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F430",
+    "tts": "Hasengesicht",
+    "keywords": [
+      "Hase",
+      "Gesicht",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F407",
+    "tts": "Hase",
+    "keywords": [
+      "Kaninchen",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F43F",
+    "tts": "Streifenhörnchen",
+    "keywords": [
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F43B",
+    "tts": "Bärengesicht",
+    "keywords": [
+      "Bär",
+      "Gesicht",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F428",
+    "tts": "Koalagesicht",
+    "keywords": [
+      "Koala",
+      "Koalabär",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F43C",
+    "tts": "Pandagesicht",
+    "keywords": [
+      "Panda",
+      "Pandabär",
+      "Gesicht",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F43E",
+    "tts": "Tatzenabdrücke",
+    "keywords": [
+      "Tatzen",
+      "Abdruck",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F983",
+    "tts": "Truthahn",
+    "keywords": [
+      "Truthahn",
+      "Geflügel"
+    ]
+  },
+  {
+    "sequence": "1F414",
+    "tts": "Huhn",
+    "keywords": [
+      "Tier",
+      "Tierkopf"
+    ]
+  },
+  {
+    "sequence": "1F413",
+    "tts": "Hahn",
+    "keywords": [
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F423",
+    "tts": "Küken in Eierschale",
+    "keywords": [
+      "Küken",
+      "schlüpfen",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F424",
+    "tts": "Kükenkopf",
+    "keywords": [
+      "Küken",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F425",
+    "tts": "Küken in Frontansicht",
+    "keywords": [
+      "Küken",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F426",
+    "tts": "Vogelkopf",
+    "keywords": [
+      "Vogel",
+      "Taube",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F427",
+    "tts": "Pinguinkopf",
+    "keywords": [
+      "Pinguin",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F54A",
+    "tts": "Taube",
+    "keywords": [
+      "Vogel",
+      "fliegen",
+      "Friede",
+      "Frieden"
+    ]
+  },
+  {
+    "sequence": "1F438",
+    "tts": "Froschgesicht",
+    "keywords": [
+      "Frosch",
+      "Gesicht",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F40A",
+    "tts": "Krokodil",
+    "keywords": [
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F422",
+    "tts": "Schildkröte",
+    "keywords": [
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F40D",
+    "tts": "Schlange",
+    "keywords": [
+      "Tier",
+      "Schlangenträger",
+      "Tierkreis",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "1F432",
+    "tts": "Drachengesicht",
+    "keywords": [
+      "Drache",
+      "Gesicht",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F409",
+    "tts": "Drache",
+    "keywords": [
+      "Tier",
+      "Märchen"
+    ]
+  },
+  {
+    "sequence": "1F433",
+    "tts": "Blasender Wal",
+    "keywords": [
+      "Tier",
+      "Wal"
+    ]
+  },
+  {
+    "sequence": "1F40B",
+    "tts": "Wal",
+    "keywords": [
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F42C",
+    "tts": "Delfin",
+    "keywords": [
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F41F",
+    "tts": "Fisch",
+    "keywords": [
+      "Tier",
+      "Fische",
+      "Tierkreis",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "1F420",
+    "tts": "Tropenfisch",
+    "keywords": [
+      "Fisch",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F421",
+    "tts": "Kugelfisch",
+    "keywords": [
+      "Fisch",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F419",
+    "tts": "Oktopus",
+    "keywords": [
+      "Krake",
+      "Tintenfisch",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F41A",
+    "tts": "Schneckenhaus",
+    "keywords": [
+      "Muschel",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F980",
+    "tts": "Krebs",
+    "keywords": [
+      "Sternzeichen",
+      "Tierkreis"
+    ]
+  },
+  {
+    "sequence": "1F40C",
+    "tts": "Schnecke",
+    "keywords": [
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F41B",
+    "tts": "Raupe",
+    "keywords": [
+      "Insekt",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F41C",
+    "tts": "Ameise",
+    "keywords": [
+      "Insekt",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F41D",
+    "tts": "Biene",
+    "keywords": [
+      "Honigbiene",
+      "Hummel",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F41E",
+    "tts": "Marienkäfer",
+    "keywords": [
+      "Glückskäfer",
+      "Käfer",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F577",
+    "tts": "Spinne",
+    "keywords": [
+      "Insekt",
+      "Tier"
+    ]
+  },
+  {
+    "sequence": "1F578",
+    "tts": "Spinnennetz",
+    "keywords": [
+      "Spinne",
+      "Netz"
+    ]
+  },
+  {
+    "sequence": "1F982",
+    "tts": "Skorpion",
+    "keywords": [
+      "Tierkreis",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "1F490",
+    "tts": "Blumenstrauß",
+    "keywords": [
+      "Bouquet",
+      "Blumen"
+    ]
+  },
+  {
+    "sequence": "1F338",
+    "tts": "Kirschblüte",
+    "keywords": [
+      "Blüte",
+      "Blume",
+      "Kirsche",
+      "Pflanze"
+    ]
+  },
+  {
+    "sequence": "1F4AE",
+    "tts": "Blumenstempel",
+    "keywords": [
+      "Blume"
+    ]
+  },
+  {
+    "sequence": "1F3F5",
+    "tts": "Rosette",
+    "keywords": [
+      "Pflanze"
+    ]
+  },
+  {
+    "sequence": "1F339",
+    "tts": "Rose",
+    "keywords": [
+      "Blüte",
+      "Blume",
+      "Pflanze"
+    ]
+  },
+  {
+    "sequence": "1F33A",
+    "tts": "Hibiskus",
+    "keywords": [
+      "Blüte",
+      "Blume",
+      "Pflanze"
+    ]
+  },
+  {
+    "sequence": "1F33B",
+    "tts": "Sonnenblume",
+    "keywords": [
+      "Blume",
+      "Blüte",
+      "Pflanze",
+      "Sonne"
+    ]
+  },
+  {
+    "sequence": "1F33C",
+    "tts": "Gelbe Blüte",
+    "keywords": [
+      "Blume",
+      "Blüte",
+      "Pflanze"
+    ]
+  },
+  {
+    "sequence": "1F337",
+    "tts": "Tulpe",
+    "keywords": [
+      "Blume",
+      "Blüte",
+      "Pflanze"
+    ]
+  },
+  {
+    "sequence": "1F331",
+    "tts": "Spross",
+    "keywords": [
+      "junge Pflanze"
+    ]
+  },
+  {
+    "sequence": "1F332",
+    "tts": "Tannenbaum",
+    "keywords": [
+      "Pflanze",
+      "Baum"
+    ]
+  },
+  {
+    "sequence": "1F333",
+    "tts": "Laubbaum",
+    "keywords": [
+      "Laub",
+      "Pflanze",
+      "Baum"
+    ]
+  },
+  {
+    "sequence": "1F334",
+    "tts": "Palme",
+    "keywords": [
+      "Pflanze",
+      "Baum"
+    ]
+  },
+  {
+    "sequence": "1F335",
+    "tts": "Kaktus",
+    "keywords": [
+      "Pflanze"
+    ]
+  },
+  {
+    "sequence": "1F33E",
+    "tts": "Reispflanze",
+    "keywords": [
+      "Reis",
+      "Ähre",
+      "Pflanze"
+    ]
+  },
+  {
+    "sequence": "1F33F",
+    "tts": "Kräuter",
+    "keywords": [
+      "Blätter"
+    ]
+  },
+  {
+    "sequence": "1F340",
+    "tts": "Vierblättriges Kleeblatt",
+    "keywords": [
+      "Kleeblatt",
+      "vier",
+      "vierblättrig",
+      "Glück"
+    ]
+  },
+  {
+    "sequence": "1F341",
+    "tts": "Ahornblatt",
+    "keywords": [
+      "Laub",
+      "Blatt",
+      "Herbst",
+      "Ahorn",
+      "Pflanze"
+    ]
+  },
+  {
+    "sequence": "1F342",
+    "tts": "Fallendes Laub",
+    "keywords": [
+      "Laub",
+      "Blatt",
+      "Blätter",
+      "Herbst",
+      "Pflanze"
+    ]
+  },
+  {
+    "sequence": "1F343",
+    "tts": "Blätter im Wind",
+    "keywords": [
+      "Laub",
+      "Wind",
+      "Blatt",
+      "Blätter",
+      "Pflanze"
+    ]
+  },
+  {
+    "sequence": "1F347",
+    "tts": "Trauben",
+    "keywords": [
+      "Obst",
+      "Frucht",
+      "Traube"
+    ]
+  },
+  {
+    "sequence": "1F348",
+    "tts": "Melone",
+    "keywords": [
+      "Obst",
+      "Frucht"
+    ]
+  },
+  {
+    "sequence": "1F349",
+    "tts": "Wassermelone",
+    "keywords": [
+      "Obst",
+      "Frucht",
+      "Melone",
+      "Wasser"
+    ]
+  },
+  {
+    "sequence": "1F34A",
+    "tts": "Mandarine",
+    "keywords": [
+      "Orange",
+      "Obst",
+      "Frucht"
+    ]
+  },
+  {
+    "sequence": "1F34B",
+    "tts": "Zitrone",
+    "keywords": [
+      "Zitrusfrucht",
+      "Obst",
+      "Frucht"
+    ]
+  },
+  {
+    "sequence": "1F34C",
+    "tts": "Banane",
+    "keywords": [
+      "Obst",
+      "Frucht"
+    ]
+  },
+  {
+    "sequence": "1F34D",
+    "tts": "Ananas",
+    "keywords": [
+      "Obst",
+      "Frucht"
+    ]
+  },
+  {
+    "sequence": "1F34E",
+    "tts": "roter Apfel",
+    "keywords": [
+      "Apfel",
+      "Obst",
+      "Frucht",
+      "rot"
+    ]
+  },
+  {
+    "sequence": "1F34F",
+    "tts": "grüner Apfel",
+    "keywords": [
+      "Apfel",
+      "Obst",
+      "Frucht",
+      "grün"
+    ]
+  },
+  {
+    "sequence": "1F350",
+    "tts": "Birne",
+    "keywords": [
+      "Obst",
+      "Frucht"
+    ]
+  },
+  {
+    "sequence": "1F351",
+    "tts": "Pfirsich",
+    "keywords": [
+      "Obst",
+      "Frucht"
+    ]
+  },
+  {
+    "sequence": "1F352",
+    "tts": "Kirschen",
+    "keywords": [
+      "Kirsche",
+      "Obst",
+      "Frucht"
+    ]
+  },
+  {
+    "sequence": "1F353",
+    "tts": "Erdbeere",
+    "keywords": [
+      "Beere",
+      "Obst",
+      "Frucht"
+    ]
+  },
+  {
+    "sequence": "1F345",
+    "tts": "Tomate",
+    "keywords": [
+      "Gemüse"
+    ]
+  },
+  {
+    "sequence": "1F346",
+    "tts": "Aubergine",
+    "keywords": [
+      "Gemüse"
+    ]
+  },
+  {
+    "sequence": "1F33D",
+    "tts": "Maiskolben",
+    "keywords": [
+      "Mais"
+    ]
+  },
+  {
+    "sequence": "1F336",
+    "tts": "Peperoni",
+    "keywords": [
+      "scharf",
+      "Pfeffer",
+      "Pflanze",
+      "Paprika",
+      "Chili"
+    ]
+  },
+  {
+    "sequence": "1F344",
+    "tts": "Fliegenpilz",
+    "keywords": [
+      "Pilz"
+    ]
+  },
+  {
+    "sequence": "1F330",
+    "tts": "Kastanie",
+    "keywords": [
+      "Marone"
+    ]
+  },
+  {
+    "sequence": "1F35E",
+    "tts": "Brot",
+    "keywords": [
+      "Laib Brot"
+    ]
+  },
+  {
+    "sequence": "1F9C0",
+    "tts": "Käsestück",
+    "keywords": [
+      "Käse"
+    ]
+  },
+  {
+    "sequence": "1F356",
+    "tts": "Fleischhachse",
+    "keywords": [
+      "Knochen",
+      "Fleisch",
+      "Restaurant"
+    ]
+  },
+  {
+    "sequence": "1F357",
+    "tts": "Hähnchenschenkel",
+    "keywords": [
+      "Geflügel",
+      "Restaurant"
+    ]
+  },
+  {
+    "sequence": "1F354",
+    "tts": "Hamburger",
+    "keywords": [
+      "Burger",
+      "Restaurant"
+    ]
+  },
+  {
+    "sequence": "1F35F",
+    "tts": "Pommes Frites",
+    "keywords": [
+      "Pommes",
+      "Pommes frites",
+      "Fritten"
+    ]
+  },
+  {
+    "sequence": "1F355",
+    "tts": "Pizzastück",
+    "keywords": [
+      "Pizza",
+      "Pizzeria"
+    ]
+  },
+  {
+    "sequence": "1F32D",
+    "tts": "Hotdog",
+    "keywords": [
+      "Frankfurter",
+      "Würstchen",
+      "Wurst",
+      "Hot Dog"
+    ]
+  },
+  {
+    "sequence": "1F32E",
+    "tts": "Taco",
+    "keywords": [
+      "mexikanisch"
+    ]
+  },
+  {
+    "sequence": "1F32F",
+    "tts": "Burrito",
+    "keywords": [
+      "mexikanisch"
+    ]
+  },
+  {
+    "sequence": "1F37F",
+    "tts": "Popcorn",
+    "keywords": [
+      "Popcorn",
+      "Snack"
+    ]
+  },
+  {
+    "sequence": "1F372",
+    "tts": "Topf mit Essen",
+    "keywords": [
+      "Eintopf",
+      "Gericht"
+    ]
+  },
+  {
+    "sequence": "1F371",
+    "tts": "Bento-Box",
+    "keywords": [
+      "Bento"
+    ]
+  },
+  {
+    "sequence": "1F358",
+    "tts": "Reiscracker",
+    "keywords": [
+      "Cracker"
+    ]
+  },
+  {
+    "sequence": "1F359",
+    "tts": "Reisbällchen",
+    "keywords": [
+      "Reis"
+    ]
+  },
+  {
+    "sequence": "1F35A",
+    "tts": "Reis in Schüssel",
+    "keywords": [
+      "Reis"
+    ]
+  },
+  {
+    "sequence": "1F35B",
+    "tts": "Reis mit Curry",
+    "keywords": [
+      "Curry",
+      "Reis"
+    ]
+  },
+  {
+    "sequence": "1F35C",
+    "tts": "Schüssel und Essstäbchen",
+    "keywords": [
+      "Schüssel",
+      "Nudeln",
+      "Eiernudeln",
+      "Suppe",
+      "dampfend",
+      "Stäbchen"
+    ]
+  },
+  {
+    "sequence": "1F35D",
+    "tts": "Spaghetti",
+    "keywords": [
+      "Pasta",
+      "Nudeln mit Tomatensoße",
+      "Restaurant"
+    ]
+  },
+  {
+    "sequence": "1F360",
+    "tts": "Geröstete Süßkartoffel",
+    "keywords": [
+      "Süßkartoffel",
+      "geröstet"
+    ]
+  },
+  {
+    "sequence": "1F362",
+    "tts": "Oden",
+    "keywords": [
+      "japanisches Gericht",
+      "Restaurant"
+    ]
+  },
+  {
+    "sequence": "1F363",
+    "tts": "Sushi",
+    "keywords": [
+      "japanisches Gericht",
+      "Restaurant"
+    ]
+  },
+  {
+    "sequence": "1F364",
+    "tts": "Frittierte Garnele",
+    "keywords": [
+      "Garnele",
+      "Restaurant"
+    ]
+  },
+  {
+    "sequence": "1F365",
+    "tts": "Fischfrikadelle",
+    "keywords": [
+      "Fisch",
+      "Spirale",
+      "Restaurant"
+    ]
+  },
+  {
+    "sequence": "1F361",
+    "tts": "Dango",
+    "keywords": [
+      "Mochi-Kugeln auf einem Spieß",
+      "japanisches Gericht",
+      "Restaurant"
+    ]
+  },
+  {
+    "sequence": "1F366",
+    "tts": "Softeis",
+    "keywords": [
+      "Eis"
+    ]
+  },
+  {
+    "sequence": "1F367",
+    "tts": "Wassereis",
+    "keywords": [
+      "Eis",
+      "zerstoßen"
+    ]
+  },
+  {
+    "sequence": "1F368",
+    "tts": "Eiscreme",
+    "keywords": [
+      "Eisbecher",
+      "Eis",
+      "Eisdiele"
+    ]
+  },
+  {
+    "sequence": "1F369",
+    "tts": "Donut",
+    "keywords": [
+      "Doughnut"
+    ]
+  },
+  {
+    "sequence": "1F36A",
+    "tts": "Keks",
+    "keywords": [
+      "Cookie"
+    ]
+  },
+  {
+    "sequence": "1F382",
+    "tts": "Geburtstagskuchen",
+    "keywords": [
+      "Geburtstag",
+      "Torte"
+    ]
+  },
+  {
+    "sequence": "1F370",
+    "tts": "Torte",
+    "keywords": [
+      "Stück Torte",
+      "Kuchen"
+    ]
+  },
+  {
+    "sequence": "1F36B",
+    "tts": "Schokoladentafel",
+    "keywords": [
+      "Schokolade"
+    ]
+  },
+  {
+    "sequence": "1F36C",
+    "tts": "Bonbon",
+    "keywords": [
+      "Süßigkeit"
+    ]
+  },
+  {
+    "sequence": "1F36D",
+    "tts": "Lutscher",
+    "keywords": [
+      "Süßigkeit",
+      "Lolli"
+    ]
+  },
+  {
+    "sequence": "1F36E",
+    "tts": "Pudding",
+    "keywords": [
+      "Dessert",
+      "Nachtisch",
+      "Nachspeise",
+      "Soße",
+      "Schokolade"
+    ]
+  },
+  {
+    "sequence": "1F36F",
+    "tts": "Honigtopf",
+    "keywords": [
+      "Honig"
+    ]
+  },
+  {
+    "sequence": "1F37C",
+    "tts": "Babyflasche",
+    "keywords": [
+      "Milch",
+      "Flasche",
+      "Baby",
+      "Kind",
+      "trinken"
+    ]
+  },
+  {
+    "sequence": "1F375",
+    "tts": "Teetasse ohne Henkel",
+    "keywords": [
+      "Teetasse",
+      "Tee"
+    ]
+  },
+  {
+    "sequence": "1F376",
+    "tts": "Sake-Flasche und -tasse",
+    "keywords": [
+      "Getränk",
+      "Sake",
+      "Flasche",
+      "Tasse",
+      "trinken"
+    ]
+  },
+  {
+    "sequence": "1F37E",
+    "tts": "Flasche mit knallendem Korken",
+    "keywords": [
+      "Getränk",
+      "Korken",
+      "knallen",
+      "Flasche",
+      "trinken",
+      "Sekt",
+      "Champagner"
+    ]
+  },
+  {
+    "sequence": "1F377",
+    "tts": "Weinglas",
+    "keywords": [
+      "Wein",
+      "Glas",
+      "Bar"
+    ]
+  },
+  {
+    "sequence": "1F378",
+    "tts": "Cocktailglas",
+    "keywords": [
+      "Cocktail",
+      "Bar"
+    ]
+  },
+  {
+    "sequence": "1F379",
+    "tts": "Cocktail",
+    "keywords": [
+      "exotisches Getränk",
+      "Bar"
+    ]
+  },
+  {
+    "sequence": "1F37A",
+    "tts": "Bierkrug",
+    "keywords": [
+      "Bier",
+      "Krug",
+      "Bar"
+    ]
+  },
+  {
+    "sequence": "1F37B",
+    "tts": "Bierkrüge",
+    "keywords": [
+      "Bier",
+      "anstoßen"
+    ]
+  },
+  {
+    "sequence": "1F37D",
+    "tts": "Teller mit Messer und Gabel",
+    "keywords": [
+      "kochen",
+      "Messer",
+      "Gabel"
+    ]
+  },
+  {
+    "sequence": "1F374",
+    "tts": "Gabel und Messer",
+    "keywords": [
+      "Gabel",
+      "Messer",
+      "Besteck"
+    ]
+  },
+  {
+    "sequence": "1F373",
+    "tts": "Spiegelei in Bratpfanne",
+    "keywords": [
+      "Pfanne",
+      "Kochen"
+    ]
+  },
+  {
+    "sequence": "1F3FA",
+    "tts": "Amphore",
+    "keywords": [
+      "Wassermann",
+      "kochen",
+      "trinken",
+      "Krug",
+      "Gefäß",
+      "Vase",
+      "Tierkreis",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "1F30D",
+    "tts": "Globus mit Europa und Afrika",
+    "keywords": [
+      "Europa",
+      "Afrika",
+      "Weltkugel"
+    ]
+  },
+  {
+    "sequence": "1F30E",
+    "tts": "Globus mit Amerika",
+    "keywords": [
+      "Nordamerika",
+      "Südamerika",
+      "Weltkugel"
+    ]
+  },
+  {
+    "sequence": "1F30F",
+    "tts": "Globus mit Asien und Australien",
+    "keywords": [
+      "Asien",
+      "Australien",
+      "Weltkugel"
+    ]
+  },
+  {
+    "sequence": "1F310",
+    "tts": "Globus mit Meridianen",
+    "keywords": [
+      "Längengrad",
+      "Breitengrad"
+    ]
+  },
+  {
+    "sequence": "1F5FA",
+    "tts": "Weltkarte",
+    "keywords": [
+      "Karte",
+      "Welt"
+    ]
+  },
+  {
+    "sequence": "1F3D4",
+    "tts": "Schneebedeckter Berg",
+    "keywords": [
+      "kalt",
+      "Berg",
+      "Schnee"
+    ]
+  },
+  {
+    "sequence": "26F0",
+    "tts": "Berg",
+    "keywords": [
+      "Berg",
+      "Gebirge"
+    ]
+  },
+  {
+    "sequence": "1F30B",
+    "tts": "Vulkanausbruch",
+    "keywords": [
+      "Vulkan",
+      "Ausbruch",
+      "Wetter",
+      "Berg"
+    ]
+  },
+  {
+    "sequence": "1F5FB",
+    "tts": "Vulkan",
+    "keywords": [
+      "Berg"
+    ]
+  },
+  {
+    "sequence": "1F3D5",
+    "tts": "Camping",
+    "keywords": [
+      "campen",
+      "Zelt"
+    ]
+  },
+  {
+    "sequence": "1F3D6",
+    "tts": "Strand mit Sonnenschirm",
+    "keywords": [
+      "Strand",
+      "Sonnenschirm",
+      "Meer"
+    ]
+  },
+  {
+    "sequence": "1F3DC",
+    "tts": "Wüste",
+    "keywords": [
+      "Wüste"
+    ]
+  },
+  {
+    "sequence": "1F3DD",
+    "tts": "Einsame Insel",
+    "keywords": [
+      "Insel",
+      "verlassen",
+      "einsam",
+      "Meer",
+      "Strand"
+    ]
+  },
+  {
+    "sequence": "1F3DE",
+    "tts": "Nationalpark",
+    "keywords": [
+      "Park"
+    ]
+  },
+  {
+    "sequence": "1F3DF",
+    "tts": "Stadion",
+    "keywords": [
+      "Stadion",
+      "Arena"
+    ]
+  },
+  {
+    "sequence": "1F3DB",
+    "tts": "Antikes Gebäude",
+    "keywords": [
+      "Gebäude",
+      "antik",
+      "klassizistisch"
+    ]
+  },
+  {
+    "sequence": "1F3D7",
+    "tts": "Kran",
+    "keywords": [
+      "bauen",
+      "Bau"
+    ]
+  },
+  {
+    "sequence": "1F3D8",
+    "tts": "Wohnhäuser",
+    "keywords": [
+      "Häuser",
+      "Haus",
+      "Wohnhaus",
+      "Gebäude",
+      "Wohnsiedlung"
+    ]
+  },
+  {
+    "sequence": "1F3D9",
+    "tts": "Skyline",
+    "keywords": [
+      "Gebäude",
+      "Häuser",
+      "Hochhäuser",
+      "Wolkenkratzer",
+      "Stadt"
+    ]
+  },
+  {
+    "sequence": "1F3DA",
+    "tts": "Verlassenes Haus",
+    "keywords": [
+      "Haus",
+      "Gebäude",
+      "verlassen",
+      "heruntergekommen",
+      "verfallen"
+    ]
+  },
+  {
+    "sequence": "1F3E0",
+    "tts": "Haus",
+    "keywords": [
+      "Gebäude",
+      "Zuhause"
+    ]
+  },
+  {
+    "sequence": "1F3E1",
+    "tts": "Haus mit Garten",
+    "keywords": [
+      "Haus",
+      "Baum"
+    ]
+  },
+  {
+    "sequence": "26EA",
+    "tts": "Kirche",
+    "keywords": [
+      "Gebäude",
+      "Kreuz",
+      "christlich",
+      "Christ",
+      "Christentum",
+      "Religion"
+    ]
+  },
+  {
+    "sequence": "1F54B",
+    "tts": "Kaaba",
+    "keywords": [
+      "Islam",
+      "Moslem",
+      "Muslim",
+      "Religion"
+    ]
+  },
+  {
+    "sequence": "1F54C",
+    "tts": "Moschee",
+    "keywords": [
+      "Islam",
+      "Moslem",
+      "Muslim",
+      "Religion"
+    ]
+  },
+  {
+    "sequence": "1F54D",
+    "tts": "Synagoge",
+    "keywords": [
+      "jüdisch",
+      "Jude",
+      "Religion",
+      "Tempel"
+    ]
+  },
+  {
+    "sequence": "26E9",
+    "tts": "Shinto-Schrein",
+    "keywords": [
+      "Religion",
+      "Shinto",
+      "Schrein"
+    ]
+  },
+  {
+    "sequence": "1F3E2",
+    "tts": "Bürogebäude",
+    "keywords": [
+      "Hochhaus"
+    ]
+  },
+  {
+    "sequence": "1F3E3",
+    "tts": "Japanisches Postgebäude",
+    "keywords": [
+      "Post",
+      "Japan"
+    ]
+  },
+  {
+    "sequence": "1F3E4",
+    "tts": "Europäisches Postgebäude",
+    "keywords": [
+      "Post",
+      "Europa"
+    ]
+  },
+  {
+    "sequence": "1F3E5",
+    "tts": "Krankenhaus",
+    "keywords": [
+      "Gebäude",
+      "Arzt",
+      "krank",
+      "Medizin"
+    ]
+  },
+  {
+    "sequence": "1F3E6",
+    "tts": "Bank",
+    "keywords": [
+      "Gebäude",
+      "Geld"
+    ]
+  },
+  {
+    "sequence": "1F3E8",
+    "tts": "Hotel",
+    "keywords": [
+      "Gebäude",
+      "Unterkunft",
+      "übernachten"
+    ]
+  },
+  {
+    "sequence": "1F3E9",
+    "tts": "Stundenhotel",
+    "keywords": [
+      "Gebäude",
+      "Hotel",
+      "Unterkunft",
+      "Liebe"
+    ]
+  },
+  {
+    "sequence": "1F3EA",
+    "tts": "Supermarkt",
+    "keywords": [
+      "Geschäft",
+      "Gebäude",
+      "Lebensmittel",
+      "einkaufen"
+    ]
+  },
+  {
+    "sequence": "1F3EB",
+    "tts": "Schule",
+    "keywords": [
+      "Schulgebäude",
+      "Gebäude"
+    ]
+  },
+  {
+    "sequence": "1F3EC",
+    "tts": "Kaufhaus",
+    "keywords": [
+      "Gebäude",
+      "einkaufen",
+      "Geschäft",
+      "shoppen"
+    ]
+  },
+  {
+    "sequence": "1F3ED",
+    "tts": "Fabrik",
+    "keywords": [
+      "Fabrikgebäude",
+      "Gebäude"
+    ]
+  },
+  {
+    "sequence": "1F3EF",
+    "tts": "Japanisches Schloss",
+    "keywords": [
+      "Schloss",
+      "Gebäude",
+      "Bauwerk",
+      "japanisch",
+      "Japan"
+    ]
+  },
+  {
+    "sequence": "1F3F0",
+    "tts": "Europäisches Schloss",
+    "keywords": [
+      "Schloss",
+      "Gebäude",
+      "Bauwerk",
+      "europäisch",
+      "Europa"
+    ]
+  },
+  {
+    "sequence": "1F492",
+    "tts": "Hochzeit",
+    "keywords": [
+      "Kirche",
+      "Herz"
+    ]
+  },
+  {
+    "sequence": "1F5FC",
+    "tts": "Tokyo Tower",
+    "keywords": [
+      "Fernsehturm",
+      "Tokio"
+    ]
+  },
+  {
+    "sequence": "1F5FD",
+    "tts": "Freiheitsstatue",
+    "keywords": [
+      "Amerika",
+      "Freiheit"
+    ]
+  },
+  {
+    "sequence": "1F5FE",
+    "tts": "Umriss von Japan",
+    "keywords": [
+      "Karte",
+      "Japan"
+    ]
+  },
+  {
+    "sequence": "26F2",
+    "tts": "Springbrunnen",
+    "keywords": [
+      "Garten",
+      "Park",
+      "Brunnen"
+    ]
+  },
+  {
+    "sequence": "26FA",
+    "tts": "Zelt",
+    "keywords": [
+      "Camping",
+      "Campingurlaub",
+      "Zeltplatz"
+    ]
+  },
+  {
+    "sequence": "1F301",
+    "tts": "neblig",
+    "keywords": [
+      "Nebel",
+      "Wetter"
+    ]
+  },
+  {
+    "sequence": "1F303",
+    "tts": "Sternenhimmel",
+    "keywords": [
+      "Sterne",
+      "Nacht"
+    ]
+  },
+  {
+    "sequence": "1F304",
+    "tts": "Sonnenaufgang über Bergen",
+    "keywords": [
+      "Berge",
+      "Sonnenaufgang"
+    ]
+  },
+  {
+    "sequence": "1F305",
+    "tts": "Sonnenaufgang über dem Meer",
+    "keywords": [
+      "Meer",
+      "Sonnenaufgang"
+    ]
+  },
+  {
+    "sequence": "1F306",
+    "tts": "Abendstimmung in der Stadt",
+    "keywords": [
+      "Sonnenuntergang",
+      "Hochhäuser"
+    ]
+  },
+  {
+    "sequence": "1F307",
+    "tts": "Sonnenuntergang in der Stadt",
+    "keywords": [
+      "Sonnenuntergang",
+      "Hochhäuser"
+    ]
+  },
+  {
+    "sequence": "1F309",
+    "tts": "Brücke vor Nachthimmel",
+    "keywords": [
+      "Brücke",
+      "Golden Gate",
+      "Nacht",
+      "nachts"
+    ]
+  },
+  {
+    "sequence": "1F30C",
+    "tts": "Milchstraße",
+    "keywords": [
+      "Galaxie"
+    ]
+  },
+  {
+    "sequence": "1F3A0",
+    "tts": "Karussellpferd",
+    "keywords": [
+      "Karussell",
+      "Pferd"
+    ]
+  },
+  {
+    "sequence": "1F3A1",
+    "tts": "Riesenrad",
+    "keywords": [
+      "Freizeitpark",
+      "Volksfest",
+      "Rad"
+    ]
+  },
+  {
+    "sequence": "1F3A2",
+    "tts": "Achterbahn",
+    "keywords": [
+      "Freizeitpark",
+      "Volksfest"
+    ]
+  },
+  {
+    "sequence": "1F488",
+    "tts": "Barbershop-Säule",
+    "keywords": [
+      "Säule",
+      "Herrenfriseur"
+    ]
+  },
+  {
+    "sequence": "1F3AA",
+    "tts": "Zirkuszelt",
+    "keywords": [
+      "Zirkus",
+      "Zelt",
+      "Unterhaltung"
+    ]
+  },
+  {
+    "sequence": "1F3AD",
+    "tts": "Masken",
+    "keywords": [
+      "Theater",
+      "Kunst",
+      "Unterhaltung"
+    ]
+  },
+  {
+    "sequence": "1F5BC",
+    "tts": "Gerahmtes Bild",
+    "keywords": [
+      "Kunst",
+      "Bild",
+      "Rahmen",
+      "Gemälde",
+      "malen",
+      "zeichnen",
+      "Zeichnung"
+    ]
+  },
+  {
+    "sequence": "1F3A8",
+    "tts": "Mischpalette",
+    "keywords": [
+      "Palette",
+      "Künstler",
+      "Farben",
+      "Kunst"
+    ]
+  },
+  {
+    "sequence": "1F3B0",
+    "tts": "Spielautomat",
+    "keywords": [
+      "Glücksspiel",
+      "Spiel"
+    ]
+  },
+  {
+    "sequence": "1F682",
+    "tts": "Dampflokomotive",
+    "keywords": [
+      "Zug",
+      "Dampf",
+      "Lokomotive",
+      "Dampflok",
+      "Fahrzeug"
+    ]
+  },
+  {
+    "sequence": "1F683",
+    "tts": "Straßenbahnwagen",
+    "keywords": [
+      "Straßenbahn",
+      "Tram",
+      "Wagen",
+      "Wagon",
+      "Zug",
+      "Fahrzeug"
+    ]
+  },
+  {
+    "sequence": "1F684",
+    "tts": "Hochgeschwindigkeitszug mit spitzer Nase",
+    "keywords": [
+      "Zug",
+      "TGV",
+      "Shinkansen"
+    ]
+  },
+  {
+    "sequence": "1F685",
+    "tts": "Hochgeschwindigkeitszug",
+    "keywords": [
+      "Zug",
+      "Shinkansen",
+      "Japan"
+    ]
+  },
+  {
+    "sequence": "1F686",
+    "tts": "Zug",
+    "keywords": [
+      "Eisenbahn"
+    ]
+  },
+  {
+    "sequence": "1F687",
+    "tts": "U-Bahn",
+    "keywords": [
+      "Metro"
+    ]
+  },
+  {
+    "sequence": "1F688",
+    "tts": "S-Bahn",
+    "keywords": [
+      "Zug"
+    ]
+  },
+  {
+    "sequence": "1F689",
+    "tts": "Bahnhof",
+    "keywords": [
+      "Zug"
+    ]
+  },
+  {
+    "sequence": "1F68A",
+    "tts": "Straßenbahn",
+    "keywords": [
+      "Tram"
+    ]
+  },
+  {
+    "sequence": "1F69D",
+    "tts": "Einschienenbahn",
+    "keywords": [
+      "Bahn"
+    ]
+  },
+  {
+    "sequence": "1F69E",
+    "tts": "Bergbahn",
+    "keywords": [
+      "Bahn"
+    ]
+  },
+  {
+    "sequence": "1F68B",
+    "tts": "Tramwagen",
+    "keywords": [
+      "Waggon",
+      "Tram",
+      "Straßenbahn"
+    ]
+  },
+  {
+    "sequence": "1F68C",
+    "tts": "Bus",
+    "keywords": [
+      "Fahrzeug"
+    ]
+  },
+  {
+    "sequence": "1F68D",
+    "tts": "Vorderansicht Bus",
+    "keywords": [
+      "Bus"
+    ]
+  },
+  {
+    "sequence": "1F68E",
+    "tts": "Oberleitungsbus",
+    "keywords": [
+      "Trolleybus"
+    ]
+  },
+  {
+    "sequence": "1F68F",
+    "tts": "Bushaltestelle",
+    "keywords": [
+      "Bus",
+      "Haltestelle"
+    ]
+  },
+  {
+    "sequence": "1F690",
+    "tts": "Kleinbus",
+    "keywords": [
+      "Bus"
+    ]
+  },
+  {
+    "sequence": "1F691",
+    "tts": "Krankenwagen",
+    "keywords": [
+      "Notfall"
+    ]
+  },
+  {
+    "sequence": "1F692",
+    "tts": "Feuerwehrauto",
+    "keywords": [
+      "Löschfahrzeug",
+      "Brand"
+    ]
+  },
+  {
+    "sequence": "1F693",
+    "tts": "Polizeiwagen",
+    "keywords": [
+      "Streifenwagen",
+      "Polizei"
+    ]
+  },
+  {
+    "sequence": "1F694",
+    "tts": "Vorderansicht Polizeiwagen",
+    "keywords": [
+      "Streifenwagen",
+      "Polizei"
+    ]
+  },
+  {
+    "sequence": "1F695",
+    "tts": "Taxi",
+    "keywords": [
+      "Fahrzeug",
+      "Auto"
+    ]
+  },
+  {
+    "sequence": "1F696",
+    "tts": "Vorderansicht Taxi",
+    "keywords": [
+      "Taxi"
+    ]
+  },
+  {
+    "sequence": "1F697",
+    "tts": "Auto",
+    "keywords": [
+      "Fahrzeug"
+    ]
+  },
+  {
+    "sequence": "1F698",
+    "tts": "Vorderansicht Auto",
+    "keywords": [
+      "Fahrzeug",
+      "Auto",
+      "Automobil"
+    ]
+  },
+  {
+    "sequence": "1F699",
+    "tts": "Wohnmobil",
+    "keywords": [
+      "Wohnmobil",
+      "verreisen"
+    ]
+  },
+  {
+    "sequence": "1F69A",
+    "tts": "Lieferwagen",
+    "keywords": [
+      "Lastwagen",
+      "LKW"
+    ]
+  },
+  {
+    "sequence": "1F69B",
+    "tts": "Sattelzug",
+    "keywords": [
+      "Lastwagen",
+      "LKW"
+    ]
+  },
+  {
+    "sequence": "1F69C",
+    "tts": "Traktor",
+    "keywords": [
+      "Traktor",
+      "Trecker",
+      "Landwirtschaft"
+    ]
+  },
+  {
+    "sequence": "1F6B2",
+    "tts": "Fahrrad",
+    "keywords": [
+      "Fahrrad",
+      "Rad"
+    ]
+  },
+  {
+    "sequence": "26FD",
+    "tts": "Tanksäule",
+    "keywords": [
+      "Tankstelle",
+      "tanken",
+      "Benzin"
+    ]
+  },
+  {
+    "sequence": "1F6E3",
+    "tts": "Autobahn",
+    "keywords": [
+      "Autobahn",
+      "Schnellstraße"
+    ]
+  },
+  {
+    "sequence": "1F6E4",
+    "tts": "Gleise",
+    "keywords": [
+      "Schienen"
+    ]
+  },
+  {
+    "sequence": "1F6A8",
+    "tts": "Polizeilicht",
+    "keywords": [
+      "Polizei"
+    ]
+  },
+  {
+    "sequence": "1F6A5",
+    "tts": "Horizontale Verkehrsampel",
+    "keywords": [
+      "Ampel",
+      "Verkehrsampel",
+      "vertikal"
+    ]
+  },
+  {
+    "sequence": "1F6A6",
+    "tts": "Vertikale Verkehrsampel",
+    "keywords": [
+      "Ampel",
+      "Verkehrsampel",
+      "horizontal"
+    ]
+  },
+  {
+    "sequence": "1F6A7",
+    "tts": "Baustellenschild",
+    "keywords": [
+      "Schild",
+      "Baustelle"
+    ]
+  },
+  {
+    "sequence": "26F5",
+    "tts": "Segelboot",
+    "keywords": [
+      "Boot"
+    ]
+  },
+  {
+    "sequence": "1F6A3",
+    "tts": "Ruderboot",
+    "keywords": [
+      "Boot"
+    ]
+  },
+  {
+    "sequence": "1F6A3 200D 2640",
+    "tts": "Frau im Ruderboot",
+    "keywords": [
+      "rudern",
+      "Boot",
+      "Frau"
+    ]
+  },
+  {
+    "sequence": "1F6A3 200D 2642",
+    "tts": "Mann im Ruderboot",
+    "keywords": [
+      "rudern",
+      "Boot",
+      "Mann"
+    ]
+  },
+  {
+    "sequence": "1F6A4",
+    "tts": "Schnellboot",
+    "keywords": [
+      "Boot"
+    ]
+  },
+  {
+    "sequence": "1F6F3",
+    "tts": "Passagierschiff",
+    "keywords": [
+      "Passagierschiff",
+      "Schiff",
+      "Seereise"
+    ]
+  },
+  {
+    "sequence": "26F4",
+    "tts": "Fähre",
+    "keywords": [
+      "Fähre",
+      "Schiff"
+    ]
+  },
+  {
+    "sequence": "1F6E5",
+    "tts": "Motorboot",
+    "keywords": [
+      "Boot",
+      "Schiff"
+    ]
+  },
+  {
+    "sequence": "1F6A2",
+    "tts": "Schiff",
+    "keywords": [
+      "Dampfer",
+      "Kreuzfahrtschiff"
+    ]
+  },
+  {
+    "sequence": "1F6E9",
+    "tts": "Kleines Flugzeug",
+    "keywords": [
+      "Flugzeug",
+      "klein"
+    ]
+  },
+  {
+    "sequence": "1F6EB",
+    "tts": "Start eines Flugzeugs",
+    "keywords": [
+      "Start",
+      "Flugzeug"
+    ]
+  },
+  {
+    "sequence": "1F6EC",
+    "tts": "Landung eines Flugzeugs",
+    "keywords": [
+      "Landung",
+      "Flugzeug"
+    ]
+  },
+  {
+    "sequence": "1F4BA",
+    "tts": "Sitzplatz",
+    "keywords": [
+      "Sitz",
+      "Flugzeug",
+      "Zug"
+    ]
+  },
+  {
+    "sequence": "1F681",
+    "tts": "Hubschrauber",
+    "keywords": [
+      "Hubschrauber",
+      "Helikopter"
+    ]
+  },
+  {
+    "sequence": "1F69F",
+    "tts": "Schwebebahn",
+    "keywords": [
+      "Schwebebahn",
+      "Hängebahn"
+    ]
+  },
+  {
+    "sequence": "1F6A0",
+    "tts": "Bergschwebebahn",
+    "keywords": [
+      "Schwebebahn"
+    ]
+  },
+  {
+    "sequence": "1F6A1",
+    "tts": "Bergseilbahn",
+    "keywords": [
+      "Seilbahn",
+      "Gondel"
+    ]
+  },
+  {
+    "sequence": "1F680",
+    "tts": "Rakete",
+    "keywords": [
+      "Weltraum"
+    ]
+  },
+  {
+    "sequence": "1F6F0",
+    "tts": "Satellit",
+    "keywords": [
+      "Weltraum"
+    ]
+  },
+  {
+    "sequence": "1F6CE",
+    "tts": "Rezeptionsklingel",
+    "keywords": [
+      "Klingel"
+    ]
+  },
+  {
+    "sequence": "1F6AA",
+    "tts": "Tür",
+    "keywords": [
+      "geschlossen",
+      "Eingang"
+    ]
+  },
+  {
+    "sequence": "1F6CC",
+    "tts": "Im Bett liegende Person",
+    "keywords": [
+      "Bett",
+      "schlafen"
+    ]
+  },
+  {
+    "sequence": "1F6CF",
+    "tts": "Bett",
+    "keywords": [
+      "Bett",
+      "Hotel",
+      "schlafen",
+      "Übernachtung"
+    ]
+  },
+  {
+    "sequence": "1F6CB",
+    "tts": "Sofa und Lampe",
+    "keywords": [
+      "Sofa",
+      "Lampe"
+    ]
+  },
+  {
+    "sequence": "1F6BD",
+    "tts": "Toilette",
+    "keywords": [
+      "WC"
+    ]
+  },
+  {
+    "sequence": "1F6BF",
+    "tts": "Duschkopf",
+    "keywords": [
+      "Dusche"
+    ]
+  },
+  {
+    "sequence": "1F6C0",
+    "tts": "Badende Person",
+    "keywords": [
+      "Bad",
+      "Badezimmer",
+      "Badewanne"
+    ]
+  },
+  {
+    "sequence": "1F6C1",
+    "tts": "Badewanne",
+    "keywords": [
+      "Bad",
+      "Badezimmer"
+    ]
+  },
+  {
+    "sequence": "231B",
+    "tts": "Sanduhr",
+    "keywords": [
+      "Prozess",
+      "Vorgang läuft"
+    ]
+  },
+  {
+    "sequence": "23F3",
+    "tts": "Laufende Sanduhr",
+    "keywords": [
+      "Prozess",
+      "Vorgang läuft",
+      "Sanduhr"
+    ]
+  },
+  {
+    "sequence": "231A",
+    "tts": "Armbanduhr",
+    "keywords": [
+      "Uhr"
+    ]
+  },
+  {
+    "sequence": "23F0",
+    "tts": "Wecker",
+    "keywords": [
+      "Uhr",
+      "Uhrzeit"
+    ]
+  },
+  {
+    "sequence": "23F1",
+    "tts": "Stoppuhr",
+    "keywords": [
+      "Uhr"
+    ]
+  },
+  {
+    "sequence": "23F2",
+    "tts": "Zeitschaltuhr",
+    "keywords": [
+      "Uhr",
+      "Timer"
+    ]
+  },
+  {
+    "sequence": "1F570",
+    "tts": "Kaminuhr",
+    "keywords": [
+      "Uhr"
+    ]
+  },
+  {
+    "sequence": "1F55B",
+    "tts": "Ziffernblatt 12.00 Uhr",
+    "keywords": [
+      "Uhr",
+      "12"
+    ]
+  },
+  {
+    "sequence": "1F567",
+    "tts": "Ziffernblatt 12.30 Uhr",
+    "keywords": [
+      "Uhr",
+      "halb eins"
+    ]
+  },
+  {
+    "sequence": "1F550",
+    "tts": "Ziffernblatt 1.00 Uhr",
+    "keywords": [
+      "Uhr",
+      "1"
+    ]
+  },
+  {
+    "sequence": "1F55C",
+    "tts": "Ziffernblatt 1.30 Uhr",
+    "keywords": [
+      "Uhr",
+      "halb zwei"
+    ]
+  },
+  {
+    "sequence": "1F551",
+    "tts": "Ziffernblatt 2.00 Uhr",
+    "keywords": [
+      "Uhr",
+      "2"
+    ]
+  },
+  {
+    "sequence": "1F55D",
+    "tts": "Ziffernblatt 2.30 Uhr",
+    "keywords": [
+      "Uhr",
+      "halb drei"
+    ]
+  },
+  {
+    "sequence": "1F552",
+    "tts": "Ziffernblatt 3.00 Uhr",
+    "keywords": [
+      "Uhr",
+      "3"
+    ]
+  },
+  {
+    "sequence": "1F55E",
+    "tts": "Ziffernblatt 3.30 Uhr",
+    "keywords": [
+      "Uhr",
+      "halb vier"
+    ]
+  },
+  {
+    "sequence": "1F553",
+    "tts": "Ziffernblatt 4.00 Uhr",
+    "keywords": [
+      "Uhr",
+      "4"
+    ]
+  },
+  {
+    "sequence": "1F55F",
+    "tts": "Ziffernblatt 4.30 Uhr",
+    "keywords": [
+      "Uhr",
+      "halb fünf"
+    ]
+  },
+  {
+    "sequence": "1F554",
+    "tts": "Ziffernblatt 5.00 Uhr",
+    "keywords": [
+      "Uhr",
+      "5"
+    ]
+  },
+  {
+    "sequence": "1F560",
+    "tts": "Ziffernblatt 5.30 Uhr",
+    "keywords": [
+      "Uhr",
+      "halb sechs"
+    ]
+  },
+  {
+    "sequence": "1F555",
+    "tts": "Ziffernblatt 6.00 Uhr",
+    "keywords": [
+      "Uhr",
+      "6"
+    ]
+  },
+  {
+    "sequence": "1F561",
+    "tts": "Ziffernblatt 6.30 Uhr",
+    "keywords": [
+      "Uhr",
+      "halb sieben"
+    ]
+  },
+  {
+    "sequence": "1F556",
+    "tts": "Ziffernblatt 7.00 Uhr",
+    "keywords": [
+      "Uhr",
+      "7"
+    ]
+  },
+  {
+    "sequence": "1F562",
+    "tts": "Ziffernblatt 7.30 Uhr",
+    "keywords": [
+      "Uhr",
+      "halb acht"
+    ]
+  },
+  {
+    "sequence": "1F557",
+    "tts": "Ziffernblatt 8.00 Uhr",
+    "keywords": [
+      "Uhr",
+      "8"
+    ]
+  },
+  {
+    "sequence": "1F563",
+    "tts": "Ziffernblatt 8.30 Uhr",
+    "keywords": [
+      "Uhr",
+      "halb neun"
+    ]
+  },
+  {
+    "sequence": "1F558",
+    "tts": "Ziffernblatt 9.00 Uhr",
+    "keywords": [
+      "Uhr",
+      "9"
+    ]
+  },
+  {
+    "sequence": "1F564",
+    "tts": "Ziffernblatt 9.30 Uhr",
+    "keywords": [
+      "Uhr",
+      "halb zehn"
+    ]
+  },
+  {
+    "sequence": "1F559",
+    "tts": "Ziffernblatt 10.00 Uhr",
+    "keywords": [
+      "Uhr",
+      "10"
+    ]
+  },
+  {
+    "sequence": "1F565",
+    "tts": "Ziffernblatt 10.30 Uhr",
+    "keywords": [
+      "Uhr",
+      "halb elf"
+    ]
+  },
+  {
+    "sequence": "1F55A",
+    "tts": "Ziffernblatt 11.00 Uhr",
+    "keywords": [
+      "Uhr",
+      "11"
+    ]
+  },
+  {
+    "sequence": "1F566",
+    "tts": "Ziffernblatt 11.30 Uhr",
+    "keywords": [
+      "Uhr",
+      "halb zwölf"
+    ]
+  },
+  {
+    "sequence": "1F311",
+    "tts": "Neumond",
+    "keywords": [
+      "Mond"
+    ]
+  },
+  {
+    "sequence": "1F312",
+    "tts": "Erstes Mondviertel",
+    "keywords": [
+      "zunehmend",
+      "Mond"
+    ]
+  },
+  {
+    "sequence": "1F313",
+    "tts": "Zunehmender Halbmond",
+    "keywords": [
+      "zunehmend",
+      "Halbmond"
+    ]
+  },
+  {
+    "sequence": "1F314",
+    "tts": "Zweites Mondviertel",
+    "keywords": [
+      "zunehmend",
+      "Mond"
+    ]
+  },
+  {
+    "sequence": "1F315",
+    "tts": "Vollmond",
+    "keywords": [
+      "Mond"
+    ]
+  },
+  {
+    "sequence": "1F316",
+    "tts": "Drittes Mondviertel",
+    "keywords": [
+      "abnehmend",
+      "Mond"
+    ]
+  },
+  {
+    "sequence": "1F317",
+    "tts": "Abnehmender Halbmond",
+    "keywords": [
+      "abnehmend",
+      "Halbmond"
+    ]
+  },
+  {
+    "sequence": "1F318",
+    "tts": "Letztes Mondviertel",
+    "keywords": [
+      "abnehmend",
+      "Mond"
+    ]
+  },
+  {
+    "sequence": "1F319",
+    "tts": "Mondsichel",
+    "keywords": [
+      "Mond"
+    ]
+  },
+  {
+    "sequence": "1F31A",
+    "tts": "Neumond mit Gesicht",
+    "keywords": [
+      "Neumond",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F31B",
+    "tts": "Mondsichel mit Gesicht links",
+    "keywords": [
+      "Mondsichel",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F31C",
+    "tts": "Mondsichel mit Gesicht rechts",
+    "keywords": [
+      "Mondsichel",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F321",
+    "tts": "Thermometer",
+    "keywords": [
+      "Thermometer",
+      "Wetter",
+      "Temperatur"
+    ]
+  },
+  {
+    "sequence": "1F31D",
+    "tts": "Vollmond mit Gesicht",
+    "keywords": [
+      "Vollmond",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "1F31E",
+    "tts": "Sonne mit Gesicht",
+    "keywords": [
+      "Sonne",
+      "Gesicht"
+    ]
+  },
+  {
+    "sequence": "2B50",
+    "tts": "gelber Stern",
+    "keywords": [
+      "Stern"
+    ]
+  },
+  {
+    "sequence": "1F31F",
+    "tts": "Funkelnder Stern",
+    "keywords": [
+      "Stern"
+    ]
+  },
+  {
+    "sequence": "1F320",
+    "tts": "Sternschnuppe",
+    "keywords": [
+      "Sternschnuppe",
+      "Himmel"
+    ]
+  },
+  {
+    "sequence": "26C5",
+    "tts": "Sonne hinter Wolke",
+    "keywords": [
+      "Sonne",
+      "Wolke",
+      "wolkig"
+    ]
+  },
+  {
+    "sequence": "26C8",
+    "tts": "Wolke mit Blitz und Regen",
+    "keywords": [
+      "Wetter",
+      "Wolke",
+      "wolkig",
+      "Blitz",
+      "Gewitter",
+      "Regen"
+    ]
+  },
+  {
+    "sequence": "1F324",
+    "tts": "Sonne hinter kleiner Wolke",
+    "keywords": [
+      "Wetter",
+      "Sonne",
+      "Wolke",
+      "kleine Wolke"
+    ]
+  },
+  {
+    "sequence": "1F325",
+    "tts": "Sonne hinter großer Wolke",
+    "keywords": [
+      "Wetter",
+      "Sonne",
+      "Wolke",
+      "große Wolke"
+    ]
+  },
+  {
+    "sequence": "1F326",
+    "tts": "Sonne hinter Regenwolke",
+    "keywords": [
+      "Wetter",
+      "Sonne",
+      "Regenwolke"
+    ]
+  },
+  {
+    "sequence": "1F327",
+    "tts": "Wolke mit Regen",
+    "keywords": [
+      "Wetter",
+      "Wolke",
+      "Regen",
+      "Regenwolke"
+    ]
+  },
+  {
+    "sequence": "1F328",
+    "tts": "Wolke mit Schnee",
+    "keywords": [
+      "Wetter",
+      "Wolke",
+      "Schnee"
+    ]
+  },
+  {
+    "sequence": "1F329",
+    "tts": "Wolke mit Blitz",
+    "keywords": [
+      "Wetter",
+      "Wolke",
+      "Blitz",
+      "Gewitter"
+    ]
+  },
+  {
+    "sequence": "1F32A",
+    "tts": "Wirbelsturm",
+    "keywords": [
+      "Wetter"
+    ]
+  },
+  {
+    "sequence": "1F32B",
+    "tts": "Nebel",
+    "keywords": [
+      "Wetter",
+      "neblig"
+    ]
+  },
+  {
+    "sequence": "1F32C",
+    "tts": "Wind",
+    "keywords": [
+      "Wetter",
+      "windig"
+    ]
+  },
+  {
+    "sequence": "1F300",
+    "tts": "Wirbel",
+    "keywords": [
+      "Spirale",
+      "Wirbelsturm"
+    ]
+  },
+  {
+    "sequence": "1F308",
+    "tts": "Regenbogen",
+    "keywords": [
+      "Wetter"
+    ]
+  },
+  {
+    "sequence": "1F302",
+    "tts": "Geschlossener Regenschirm",
+    "keywords": [
+      "Regenschirm",
+      "Regen"
+    ]
+  },
+  {
+    "sequence": "26F1",
+    "tts": "Aufgestellter Sonnenschirm",
+    "keywords": [
+      "Sonnenschirm",
+      "aufgestellt",
+      "aufgestellter Sonnenschirm"
+    ]
+  },
+  {
+    "sequence": "26A1",
+    "tts": "Hochspannungszeichen",
+    "keywords": [
+      "Gefahr",
+      "Blitz",
+      "Hochspannung"
+    ]
+  },
+  {
+    "sequence": "26C4",
+    "tts": "Schneemann ohne Schneeflocken",
+    "keywords": [
+      "Schneemann",
+      "kalt",
+      "Winter",
+      "Schnee"
+    ]
+  },
+  {
+    "sequence": "1F525",
+    "tts": "Feuer",
+    "keywords": [
+      "Flamme",
+      "heiß"
+    ]
+  },
+  {
+    "sequence": "1F4A7",
+    "tts": "Tropfen",
+    "keywords": [
+      "Schweiß",
+      "Wasser",
+      "Wassertropfen"
+    ]
+  },
+  {
+    "sequence": "1F30A",
+    "tts": "Welle",
+    "keywords": [
+      "Meer"
+    ]
+  },
+  {
+    "sequence": "1F383",
+    "tts": "Kürbislaterne",
+    "keywords": [
+      "Kürbis",
+      "Halloween"
+    ]
+  },
+  {
+    "sequence": "1F384",
+    "tts": "Weihnachtsbaum",
+    "keywords": [
+      "Baum",
+      "Tanne",
+      "Weihnachten"
+    ]
+  },
+  {
+    "sequence": "1F386",
+    "tts": "Feuerwerk",
+    "keywords": [
+      "Silvester"
+    ]
+  },
+  {
+    "sequence": "1F387",
+    "tts": "Wunderkerze",
+    "keywords": [
+      "Feuerwerk"
+    ]
+  },
+  {
+    "sequence": "1F388",
+    "tts": "Luftballon",
+    "keywords": [
+      "Geburtstag"
+    ]
+  },
+  {
+    "sequence": "1F389",
+    "tts": "Konfettibombe",
+    "keywords": [
+      "Konfetti",
+      "Party",
+      "Feier"
+    ]
+  },
+  {
+    "sequence": "1F38A",
+    "tts": "Konfettiball",
+    "keywords": [
+      "Konfetti",
+      "Feier"
+    ]
+  },
+  {
+    "sequence": "1F38B",
+    "tts": "Tanabata-Baum",
+    "keywords": [
+      "Sternenfest",
+      "Baum",
+      "Fest",
+      "Zettel",
+      "Japan"
+    ]
+  },
+  {
+    "sequence": "1F38C",
+    "tts": "Überkreuzte Flaggen",
+    "keywords": [
+      "japanische Flaggen",
+      "Japan"
+    ]
+  },
+  {
+    "sequence": "1F38D",
+    "tts": "Piniendekoration",
+    "keywords": [
+      "Neujahrsfest",
+      "Japan"
+    ]
+  },
+  {
+    "sequence": "1F38E",
+    "tts": "Japanische Puppen",
+    "keywords": [
+      "Puppenfest Japan"
+    ]
+  },
+  {
+    "sequence": "1F38F",
+    "tts": "Traditionelle japanische Windsäcke",
+    "keywords": [
+      "Windsäcke",
+      "Karpfen",
+      "Feier"
+    ]
+  },
+  {
+    "sequence": "1F390",
+    "tts": "Japanisches Windspiel",
+    "keywords": [
+      "Glocke",
+      "Feier",
+      "Wind"
+    ]
+  },
+  {
+    "sequence": "1F391",
+    "tts": "Traditionelles Mondfest",
+    "keywords": [
+      "Mondfest",
+      "Mond",
+      "Japan"
+    ]
+  },
+  {
+    "sequence": "1F380",
+    "tts": "Pinke Schleife",
+    "keywords": [
+      "Schleife",
+      "Feier"
+    ]
+  },
+  {
+    "sequence": "1F381",
+    "tts": "Geschenk",
+    "keywords": [
+      "verpackt",
+      "Feier"
+    ]
+  },
+  {
+    "sequence": "1F396",
+    "tts": "Militärorden",
+    "keywords": [
+      "Orden"
+    ]
+  },
+  {
+    "sequence": "1F397",
+    "tts": "Gedenkschleife",
+    "keywords": [
+      "Schleife"
+    ]
+  },
+  {
+    "sequence": "1F39E",
+    "tts": "Filmstreifen",
+    "keywords": [
+      "Film",
+      "Filmband",
+      "Kino"
+    ]
+  },
+  {
+    "sequence": "1F39F",
+    "tts": "Eintrittskarte",
+    "keywords": [
+      "Ticket"
+    ]
+  },
+  {
+    "sequence": "1F3AB",
+    "tts": "Ticket",
+    "keywords": [
+      "Konzert",
+      "Unterhaltung"
+    ]
+  },
+  {
+    "sequence": "1F3F7",
+    "tts": "Etikett",
+    "keywords": [
+      "Etikett",
+      "Label",
+      "Marke"
+    ]
+  },
+  {
+    "sequence": "26BD",
+    "tts": "Fußball",
+    "keywords": [
+      "Ball"
+    ]
+  },
+  {
+    "sequence": "26BE",
+    "tts": "Baseball",
+    "keywords": [
+      "Ball"
+    ]
+  },
+  {
+    "sequence": "1F3C0",
+    "tts": "Basketball",
+    "keywords": [
+      "Ball",
+      "Korb",
+      "Sport"
+    ]
+  },
+  {
+    "sequence": "1F3C8",
+    "tts": "Football",
+    "keywords": [
+      "Amerika",
+      "Ball",
+      "Sport"
+    ]
+  },
+  {
+    "sequence": "1F3C9",
+    "tts": "Rugbyball",
+    "keywords": [
+      "Ball",
+      "Rugby",
+      "Sport"
+    ]
+  },
+  {
+    "sequence": "1F3BE",
+    "tts": "Tennisball",
+    "keywords": [
+      "Tennis",
+      "Ball",
+      "Sport"
+    ]
+  },
+  {
+    "sequence": "1F3B1",
+    "tts": "Billard",
+    "keywords": [
+      "8-Ball",
+      "Kugel",
+      "Spiel"
+    ]
+  },
+  {
+    "sequence": "1F3B3",
+    "tts": "Bowling",
+    "keywords": [
+      "Bowlingkugel",
+      "Kugel",
+      "Spiel"
+    ]
+  },
+  {
+    "sequence": "26F3",
+    "tts": "Golffahne",
+    "keywords": [
+      "Golfplatz"
+    ]
+  },
+  {
+    "sequence": "1F3CC",
+    "tts": "Golfspieler(in)",
+    "keywords": [
+      "Golf"
+    ]
+  },
+  {
+    "sequence": "1F3CC 200D 2640",
+    "tts": "Golferin",
+    "keywords": [
+      "Golferin",
+      "Golf",
+      "golfen",
+      "Golfspielerin",
+      "Frau"
+    ]
+  },
+  {
+    "sequence": "1F3CC 200D 2642",
+    "tts": "Golfer",
+    "keywords": [
+      "Golfer",
+      "Golf",
+      "golfen",
+      "Golfspieler",
+      "Mann"
+    ]
+  },
+  {
+    "sequence": "26F8",
+    "tts": "Schlittschuh",
+    "keywords": [
+      "Eislauf"
+    ]
+  },
+  {
+    "sequence": "1F3A3",
+    "tts": "Angel mit Fisch",
+    "keywords": [
+      "Angeln",
+      "Entspannung"
+    ]
+  },
+  {
+    "sequence": "1F3BD",
+    "tts": "Laufshirt mit Schärpe",
+    "keywords": [
+      "Laufshirt",
+      "Schärpe",
+      "Laufen",
+      "Sport"
+    ]
+  },
+  {
+    "sequence": "1F3BF",
+    "tts": "Ski",
+    "keywords": [
+      "Ski und Stöcke"
+    ]
+  },
+  {
+    "sequence": "26F7",
+    "tts": "Skifahrer(in)",
+    "keywords": [
+      "Ski",
+      "Schnee",
+      "Sport"
+    ]
+  },
+  {
+    "sequence": "1F3C2",
+    "tts": "Snowboarder(in)",
+    "keywords": [
+      "Snowboarden",
+      "Snowboard",
+      "Sport"
+    ]
+  },
+  {
+    "sequence": "1F3C4",
+    "tts": "Surfer(in)",
+    "keywords": [
+      "Surfen",
+      "Sport",
+      "Meer"
+    ]
+  },
+  {
+    "sequence": "1F3C4 200D 2640",
+    "tts": "Surferin",
+    "keywords": [
+      "Surferin",
+      "Wellenreiten",
+      "Frau"
+    ]
+  },
+  {
+    "sequence": "1F3C4 200D 2642",
+    "tts": "Surfer",
+    "keywords": [
+      "Surfer",
+      "Wellenreiten",
+      "Man"
+    ]
+  },
+  {
+    "sequence": "1F3C7",
+    "tts": "Jockey auf Pferd",
+    "keywords": [
+      "Pferderennen",
+      "Sport"
+    ]
+  },
+  {
+    "sequence": "1F3CA",
+    "tts": "Schwimmer(in)",
+    "keywords": [
+      "Kraulen",
+      "Schwimmen",
+      "Sport",
+      "Wasser"
+    ]
+  },
+  {
+    "sequence": "1F3CA 200D 2640",
+    "tts": "Schwimmerin",
+    "keywords": [
+      "kraulen",
+      "schwimmen",
+      "Schwimmbad",
+      "Pool"
+    ]
+  },
+  {
+    "sequence": "1F3CA 200D 2642",
+    "tts": "Schwimmer",
+    "keywords": [
+      "kraulen",
+      "schwimmen",
+      "Schwimmbad",
+      "Pool"
+    ]
+  },
+  {
+    "sequence": "26F9",
+    "tts": "Person mit Ball",
+    "keywords": [
+      "Ball",
+      "Person",
+      "Basketball"
+    ]
+  },
+  {
+    "sequence": "26F9 200D 2640",
+    "tts": "Frau mit Ball",
+    "keywords": [
+      "Frau",
+      "Ballsport",
+      "Handball"
+    ]
+  },
+  {
+    "sequence": "26F9 200D 2642",
+    "tts": "Mann mit Ball",
+    "keywords": [
+      "Mann",
+      "Ballsport",
+      "Handball"
+    ]
+  },
+  {
+    "sequence": "1F3CB",
+    "tts": "Gewichtheber(in)",
+    "keywords": [
+      "Gewicht"
+    ]
+  },
+  {
+    "sequence": "1F3CB 200D 2640",
+    "tts": "Gewichtheberin",
+    "keywords": [
+      "Frau",
+      "Gewicht heben"
+    ]
+  },
+  {
+    "sequence": "1F3CB 200D 2642",
+    "tts": "Gewichtheber",
+    "keywords": [
+      "Mann",
+      "Gewicht heben"
+    ]
+  },
+  {
+    "sequence": "1F6B4",
+    "tts": "Fahrradfahrer(in)",
+    "keywords": [
+      "Radfahrer",
+      "Radfahren"
+    ]
+  },
+  {
+    "sequence": "1F6B4 200D 2640",
+    "tts": "Fahradfahrerin",
+    "keywords": [
+      "Fahrrad",
+      "Rad",
+      "Frau"
+    ]
+  },
+  {
+    "sequence": "1F6B4 200D 2642",
+    "tts": "Fahrradfaher",
+    "keywords": [
+      "Fahrrad",
+      "Rad",
+      "Mann"
+    ]
+  },
+  {
+    "sequence": "1F6B5",
+    "tts": "Mountainbiker(in)",
+    "keywords": [
+      "Radfahren"
+    ]
+  },
+  {
+    "sequence": "1F6B5 200D 2640",
+    "tts": "Frau mit Mountainbike",
+    "keywords": [
+      "Frau",
+      "Rad",
+      "Mountainbike",
+      "Fahrrad"
+    ]
+  },
+  {
+    "sequence": "1F6B5 200D 2642",
+    "tts": "Mann mit Mountainbike",
+    "keywords": [
+      "Mann",
+      "Rad",
+      "Mountainbike",
+      "Fahrrad"
+    ]
+  },
+  {
+    "sequence": "1F3CE",
+    "tts": "Rennauto",
+    "keywords": [
+      "Autorennen"
+    ]
+  },
+  {
+    "sequence": "1F3CD",
+    "tts": "Motorrad",
+    "keywords": [
+      "Motorrad",
+      "Motorrennen"
+    ]
+  },
+  {
+    "sequence": "1F3C5",
+    "tts": "Sportmedaille",
+    "keywords": [
+      "Medaille"
+    ]
+  },
+  {
+    "sequence": "1F3C6",
+    "tts": "Pokal",
+    "keywords": [
+      "Preis"
+    ]
+  },
+  {
+    "sequence": "1F3CF",
+    "tts": "Cricket",
+    "keywords": [
+      "Schläger",
+      "Ball"
+    ]
+  },
+  {
+    "sequence": "1F3D0",
+    "tts": "Volleyball",
+    "keywords": [
+      "Ball"
+    ]
+  },
+  {
+    "sequence": "1F3D1",
+    "tts": "Feldhockey",
+    "keywords": [
+      "Schläger",
+      "Hockey"
+    ]
+  },
+  {
+    "sequence": "1F3D2",
+    "tts": "Eishockey-Schläger und Puck",
+    "keywords": [
+      "Eishockey",
+      "Schläger",
+      "Puck",
+      "Hockey"
+    ]
+  },
+  {
+    "sequence": "1F3D3",
+    "tts": "Tischtennis",
+    "keywords": [
+      "Schläger",
+      "Ball"
+    ]
+  },
+  {
+    "sequence": "1F3F8",
+    "tts": "Badminton",
+    "keywords": [
+      "Schläger",
+      "Federball"
+    ]
+  },
+  {
+    "sequence": "1F3AF",
+    "tts": "Darts",
+    "keywords": [
+      "Zielscheibe",
+      "Volltreffer",
+      "Spiel",
+      "Dart"
+    ]
+  },
+  {
+    "sequence": "1F3AE",
+    "tts": "Gamepad",
+    "keywords": [
+      "Videospiel",
+      "Gaming"
+    ]
+  },
+  {
+    "sequence": "1F579",
+    "tts": "Joystick",
+    "keywords": [
+      "Videospiel",
+      "Gaming"
+    ]
+  },
+  {
+    "sequence": "1F3B2",
+    "tts": "Spielwürfel",
+    "keywords": [
+      "Würfel",
+      "Spiel"
+    ]
+  },
+  {
+    "sequence": "1F0CF",
+    "tts": "Jokerkarte",
+    "keywords": [
+      "Joker",
+      "Spielkarte"
+    ]
+  },
+  {
+    "sequence": "1F004",
+    "tts": "Mahjong-Stein",
+    "keywords": [
+      "roter Drache",
+      "Mahjong"
+    ]
+  },
+  {
+    "sequence": "1F3B4",
+    "tts": "Japanische Blumenkarte",
+    "keywords": [
+      "Blumenkarte",
+      "Japan",
+      "Blume",
+      "Karte",
+      "Hanafuda"
+    ]
+  },
+  {
+    "sequence": "1F507",
+    "tts": "Durchgestrichener Lautsprecher",
+    "keywords": [
+      "stummgeschaltet"
+    ]
+  },
+  {
+    "sequence": "1F508",
+    "tts": "Lautsprecher",
+    "keywords": [
+      "eingeschaltet"
+    ]
+  },
+  {
+    "sequence": "1F509",
+    "tts": "Lautsprecher mit einer Schallwelle",
+    "keywords": [
+      "leise"
+    ]
+  },
+  {
+    "sequence": "1F50A",
+    "tts": "Lautsprecher mit drei Schallwellen",
+    "keywords": [
+      "laut"
+    ]
+  },
+  {
+    "sequence": "1F4E2",
+    "tts": "Schallendes Megafon",
+    "keywords": [
+      "Lautsprecher"
+    ]
+  },
+  {
+    "sequence": "1F4E3",
+    "tts": "Megafon",
+    "keywords": [
+      "Lautsprecher",
+      "Jubel"
+    ]
+  },
+  {
+    "sequence": "1F4EF",
+    "tts": "Posthorn",
+    "keywords": [
+      "E-Mail",
+      "Brief",
+      "Post"
+    ]
+  },
+  {
+    "sequence": "1F514",
+    "tts": "Glocke",
+    "keywords": [
+      "Ton eingeschaltet"
+    ]
+  },
+  {
+    "sequence": "1F515",
+    "tts": "Durchgestrichene Glocke",
+    "keywords": [
+      "Ton ausgeschaltet"
+    ]
+  },
+  {
+    "sequence": "1F3BC",
+    "tts": "Notenschlüssel",
+    "keywords": [
+      "Violinschlüssel",
+      "Partitur",
+      "Musik",
+      "Noten"
+    ]
+  },
+  {
+    "sequence": "1F3B5",
+    "tts": "Musiknote",
+    "keywords": [
+      "Musik",
+      "Note"
+    ]
+  },
+  {
+    "sequence": "1F3B6",
+    "tts": "Musiknoten",
+    "keywords": [
+      "Musik",
+      "Noten"
+    ]
+  },
+  {
+    "sequence": "1F399",
+    "tts": "Studiomikrofon",
+    "keywords": [
+      "Mikrofon"
+    ]
+  },
+  {
+    "sequence": "1F39A",
+    "tts": "Schieberegler",
+    "keywords": [
+      "Musik"
+    ]
+  },
+  {
+    "sequence": "1F39B",
+    "tts": "Drehregler",
+    "keywords": [
+      "Bedienknöpfe",
+      "Stellknöpfe"
+    ]
+  },
+  {
+    "sequence": "1F3A4",
+    "tts": "Mikrofon",
+    "keywords": [
+      "Karaoke",
+      "Singen",
+      "Unterhaltung"
+    ]
+  },
+  {
+    "sequence": "1F3A7",
+    "tts": "Kopfhörer",
+    "keywords": [
+      "Musik",
+      "Unterhaltung"
+    ]
+  },
+  {
+    "sequence": "1F3B7",
+    "tts": "Saxofon",
+    "keywords": [
+      "Musikinstrument",
+      "Musik",
+      "Instrument"
+    ]
+  },
+  {
+    "sequence": "1F3B8",
+    "tts": "Gitarre",
+    "keywords": [
+      "Musikinstrument",
+      "Musik",
+      "Instrument"
+    ]
+  },
+  {
+    "sequence": "1F3B9",
+    "tts": "Klavier",
+    "keywords": [
+      "Tastatur",
+      "Tasten",
+      "Musikinstrument",
+      "Musik",
+      "Instrument"
+    ]
+  },
+  {
+    "sequence": "1F3BA",
+    "tts": "Trompete",
+    "keywords": [
+      "Musikinstrument",
+      "Musik",
+      "Instrument"
+    ]
+  },
+  {
+    "sequence": "1F3BB",
+    "tts": "Violine",
+    "keywords": [
+      "Musikinstrument",
+      "Musik",
+      "Instrument",
+      "Geige"
+    ]
+  },
+  {
+    "sequence": "1F4FB",
+    "tts": "Radio",
+    "keywords": [
+      "Musik"
+    ]
+  },
+  {
+    "sequence": "1F4F1",
+    "tts": "Mobiltelefon",
+    "keywords": [
+      "Handy",
+      "Smartphone"
+    ]
+  },
+  {
+    "sequence": "1F4F2",
+    "tts": "Anrufen",
+    "keywords": [
+      "Pfeil",
+      "Anruf",
+      "Mobiltelefon"
+    ]
+  },
+  {
+    "sequence": "260E",
+    "tts": "Telefon",
+    "keywords": [
+      "Telefon",
+      "Festnetz"
+    ]
+  },
+  {
+    "sequence": "1F4DE",
+    "tts": "Telefonhörer",
+    "keywords": [
+      "Telefon",
+      "Hörer",
+      "anrufen"
+    ]
+  },
+  {
+    "sequence": "1F4DF",
+    "tts": "Pager",
+    "keywords": [
+      "Pager"
+    ]
+  },
+  {
+    "sequence": "1F4E0",
+    "tts": "Faxgerät",
+    "keywords": [
+      "Fax"
+    ]
+  },
+  {
+    "sequence": "1F50B",
+    "tts": "Batterie",
+    "keywords": [
+      "Akku"
+    ]
+  },
+  {
+    "sequence": "1F50C",
+    "tts": "Netzstecker",
+    "keywords": [
+      "Stecker"
+    ]
+  },
+  {
+    "sequence": "1F4BB",
+    "tts": "Computermonitor",
+    "keywords": [
+      "Computer",
+      "Bildschirm",
+      "Monitor",
+      "PC"
+    ]
+  },
+  {
+    "sequence": "1F5A5",
+    "tts": "Computer",
+    "keywords": [
+      "Bildschirm",
+      "Monitor",
+      "Desktop"
+    ]
+  },
+  {
+    "sequence": "1F5A8",
+    "tts": "Drucker",
+    "keywords": [
+      "Computer"
+    ]
+  },
+  {
+    "sequence": "1F5B1",
+    "tts": "Computermaus",
+    "keywords": [
+      "Computer"
+    ]
+  },
+  {
+    "sequence": "1F5B2",
+    "tts": "Trackball",
+    "keywords": [
+      "Computer"
+    ]
+  },
+  {
+    "sequence": "1F4BD",
+    "tts": "Minidisk",
+    "keywords": [
+      "MD"
+    ]
+  },
+  {
+    "sequence": "1F4BE",
+    "tts": "Diskette",
+    "keywords": [
+      "Datenträger"
+    ]
+  },
+  {
+    "sequence": "1F4BF",
+    "tts": "CD",
+    "keywords": [
+      "Blu-Ray",
+      "DVD"
+    ]
+  },
+  {
+    "sequence": "1F4C0",
+    "tts": "DVD",
+    "keywords": [
+      "CD"
+    ]
+  },
+  {
+    "sequence": "1F3A5",
+    "tts": "Filmkamera",
+    "keywords": [
+      "Film",
+      "Kino",
+      "Unterhaltung"
+    ]
+  },
+  {
+    "sequence": "1F3AC",
+    "tts": "Filmklappe",
+    "keywords": [
+      "Klappe",
+      "Film",
+      "Unterhaltung"
+    ]
+  },
+  {
+    "sequence": "1F4FD",
+    "tts": "Filmprojektor",
+    "keywords": [
+      "Kino",
+      "Unterhaltung"
+    ]
+  },
+  {
+    "sequence": "1F4FA",
+    "tts": "Fernseher",
+    "keywords": [
+      "TV",
+      "Film"
+    ]
+  },
+  {
+    "sequence": "1F4F7",
+    "tts": "Fotoapparat",
+    "keywords": [
+      "Kamera",
+      "Fotos"
+    ]
+  },
+  {
+    "sequence": "1F4F8",
+    "tts": "Fotoapparat mit Blitz",
+    "keywords": [
+      "Fotoapparat",
+      "Blitz"
+    ]
+  },
+  {
+    "sequence": "1F4F9",
+    "tts": "Videokamera",
+    "keywords": [
+      "Videos"
+    ]
+  },
+  {
+    "sequence": "1F4FC",
+    "tts": "Videokassette",
+    "keywords": [
+      "Video"
+    ]
+  },
+  {
+    "sequence": "1F50D",
+    "tts": "Lupe nach links",
+    "keywords": [
+      "Vergrößerungsglas",
+      "Suche"
+    ]
+  },
+  {
+    "sequence": "1F50E",
+    "tts": "Lupe nach rechts",
+    "keywords": [
+      "Vergrößerungsglas",
+      "Suche"
+    ]
+  },
+  {
+    "sequence": "1F52C",
+    "tts": "Mikroskop",
+    "keywords": [
+      "Mikroskop",
+      "Labor"
+    ]
+  },
+  {
+    "sequence": "1F52D",
+    "tts": "Teleskop",
+    "keywords": [
+      "Teleskop"
+    ]
+  },
+  {
+    "sequence": "1F4E1",
+    "tts": "Satellitenschüssel",
+    "keywords": [
+      "Antenne",
+      "Schüssel"
+    ]
+  },
+  {
+    "sequence": "1F56F",
+    "tts": "Kerze",
+    "keywords": [
+      "Licht"
+    ]
+  },
+  {
+    "sequence": "1F4A1",
+    "tts": "Glühbirne",
+    "keywords": [
+      "Idee",
+      "Licht"
+    ]
+  },
+  {
+    "sequence": "1F526",
+    "tts": "Taschenlampe",
+    "keywords": [
+      "Lampe",
+      "Licht"
+    ]
+  },
+  {
+    "sequence": "1F3EE",
+    "tts": "Japanische Laterne",
+    "keywords": [
+      "Izakaya",
+      "japanisches Lokal"
+    ]
+  },
+  {
+    "sequence": "1F4D4",
+    "tts": "Notizbuch mit dekorativem Einband",
+    "keywords": [
+      "Notizbuch",
+      "Einband"
+    ]
+  },
+  {
+    "sequence": "1F4D5",
+    "tts": "Geschlossenes Buch",
+    "keywords": [
+      "Buch",
+      "geschlossen"
+    ]
+  },
+  {
+    "sequence": "1F4D6",
+    "tts": "Offenes Buch",
+    "keywords": [
+      "Buch",
+      "geöffnet",
+      "offen"
+    ]
+  },
+  {
+    "sequence": "1F4D7",
+    "tts": "Grünes Buch",
+    "keywords": [
+      "Buch",
+      "grün"
+    ]
+  },
+  {
+    "sequence": "1F4D8",
+    "tts": "Blaues Buch",
+    "keywords": [
+      "Buch",
+      "blau"
+    ]
+  },
+  {
+    "sequence": "1F4D9",
+    "tts": "Orangefarbenes Buch",
+    "keywords": [
+      "Buch",
+      "orangefarben"
+    ]
+  },
+  {
+    "sequence": "1F4DA",
+    "tts": "Bücherstapel",
+    "keywords": [
+      "Bücher"
+    ]
+  },
+  {
+    "sequence": "1F4D3",
+    "tts": "Notizbuch",
+    "keywords": [
+      "Notizen"
+    ]
+  },
+  {
+    "sequence": "1F4D2",
+    "tts": "Spiralblock",
+    "keywords": [
+      "Notizblock"
+    ]
+  },
+  {
+    "sequence": "1F4C3",
+    "tts": "Teilweise eingerolltes Blatt",
+    "keywords": [
+      "Dokument",
+      "Papier",
+      "Seite"
+    ]
+  },
+  {
+    "sequence": "1F4DC",
+    "tts": "Schriftrolle",
+    "keywords": [
+      "Papier"
+    ]
+  },
+  {
+    "sequence": "1F4C4",
+    "tts": "Vorderseite eines Blattes",
+    "keywords": [
+      "Dokument",
+      "Papier",
+      "Seite"
+    ]
+  },
+  {
+    "sequence": "1F4F0",
+    "tts": "Zeitung",
+    "keywords": [
+      "Nachrichten"
+    ]
+  },
+  {
+    "sequence": "1F5DE",
+    "tts": "Zusammengerollte Zeitung",
+    "keywords": [
+      "Zeitung",
+      "zusammengerollt"
+    ]
+  },
+  {
+    "sequence": "1F4D1",
+    "tts": "Pagemarker",
+    "keywords": [
+      "Notizen"
+    ]
+  },
+  {
+    "sequence": "1F516",
+    "tts": "Lesezeichen",
+    "keywords": [
+      "Lesezeichen",
+      "Lesen"
+    ]
+  },
+  {
+    "sequence": "1F4B0",
+    "tts": "Geldsack",
+    "keywords": [
+      "Geld",
+      "Sack"
+    ]
+  },
+  {
+    "sequence": "1F4B4",
+    "tts": "Yen-Banknote",
+    "keywords": [
+      "Geldschein",
+      "Yen",
+      "Geld"
+    ]
+  },
+  {
+    "sequence": "1F4B5",
+    "tts": "Dollar-Banknote",
+    "keywords": [
+      "Geldschein",
+      "Dollar",
+      "Geld"
+    ]
+  },
+  {
+    "sequence": "1F4B6",
+    "tts": "Euro-Banknote",
+    "keywords": [
+      "Geldschein",
+      "Euro",
+      "Geld"
+    ]
+  },
+  {
+    "sequence": "1F4B7",
+    "tts": "Pfund-Banknote",
+    "keywords": [
+      "Geldschein",
+      "Pfund",
+      "Geld"
+    ]
+  },
+  {
+    "sequence": "1F4B8",
+    "tts": "Geldschein mit Flügeln",
+    "keywords": [
+      "Bank",
+      "Geld"
+    ]
+  },
+  {
+    "sequence": "1F4B3",
+    "tts": "Kreditkarte",
+    "keywords": [
+      "Karte",
+      "Guthaben"
+    ]
+  },
+  {
+    "sequence": "1F4B9",
+    "tts": "Steigender Trend mit Yen-Zeichen",
+    "keywords": [
+      "Diagramm",
+      "Markt"
+    ]
+  },
+  {
+    "sequence": "1F4E7",
+    "tts": "E-Mail-Symbol",
+    "keywords": [
+      "E-Mail",
+      "Brief"
+    ]
+  },
+  {
+    "sequence": "1F4E8",
+    "tts": "Umschlag",
+    "keywords": [
+      "E-Mail",
+      "empfangen"
+    ]
+  },
+  {
+    "sequence": "1F4E9",
+    "tts": "Umschlag mit Pfeil",
+    "keywords": [
+      "E-Mail",
+      "gesendet"
+    ]
+  },
+  {
+    "sequence": "1F4E4",
+    "tts": "Postausgang",
+    "keywords": [
+      "Ablage"
+    ]
+  },
+  {
+    "sequence": "1F4E5",
+    "tts": "Posteingang",
+    "keywords": [
+      "Ablage"
+    ]
+  },
+  {
+    "sequence": "1F4E6",
+    "tts": "Paket",
+    "keywords": [
+      "Päckchen"
+    ]
+  },
+  {
+    "sequence": "1F4EB",
+    "tts": "Geschlossener Briefkasten mit Post",
+    "keywords": [
+      "Briefkasten",
+      "E-Mail",
+      "geschlossen",
+      "Post"
+    ]
+  },
+  {
+    "sequence": "1F4EA",
+    "tts": "Geschlossener Briefkasten ohne Post",
+    "keywords": [
+      "Briefkasten",
+      "keine E-Mail",
+      "geschlossen",
+      "Post",
+      "keine Post"
+    ]
+  },
+  {
+    "sequence": "1F4EC",
+    "tts": "Offener Briefkasten mit Post",
+    "keywords": [
+      "Briefkasten",
+      "E-Mail",
+      "offen",
+      "Post"
+    ]
+  },
+  {
+    "sequence": "1F4ED",
+    "tts": "Offener Briefkasten ohne Post",
+    "keywords": [
+      "Briefkasten",
+      "keine E-Mail",
+      "offen",
+      "Post",
+      "keine Post"
+    ]
+  },
+  {
+    "sequence": "1F4EE",
+    "tts": "Briefkasten",
+    "keywords": [
+      "Brief"
+    ]
+  },
+  {
+    "sequence": "1F5F3",
+    "tts": "Urne mit Wahlzettel",
+    "keywords": [
+      "Urne",
+      "Wahlzettel"
+    ]
+  },
+  {
+    "sequence": "270F",
+    "tts": "Bleistift",
+    "keywords": [
+      "Bleistift"
+    ]
+  },
+  {
+    "sequence": "1F58B",
+    "tts": "Füllhalter",
+    "keywords": [
+      "Füllhalter",
+      "Füller",
+      "Füllfedehalter"
+    ]
+  },
+  {
+    "sequence": "1F58A",
+    "tts": "Kugelschreiber",
+    "keywords": [
+      "Stift"
+    ]
+  },
+  {
+    "sequence": "1F58C",
+    "tts": "Pinsel",
+    "keywords": [
+      "Pinsel",
+      "malen",
+      "Kunst"
+    ]
+  },
+  {
+    "sequence": "1F58D",
+    "tts": "Wachsmalstift",
+    "keywords": [
+      "Buntstift"
+    ]
+  },
+  {
+    "sequence": "1F4DD",
+    "tts": "Papier und Bleistift",
+    "keywords": [
+      "Kurzmitteilung",
+      "Nachricht",
+      "Papier",
+      "Bleistift"
+    ]
+  },
+  {
+    "sequence": "1F4BC",
+    "tts": "Aktentasche",
+    "keywords": [
+      "Tasche"
+    ]
+  },
+  {
+    "sequence": "1F4C1",
+    "tts": "Ordner",
+    "keywords": [
+      "geschlossen",
+      "Dokument"
+    ]
+  },
+  {
+    "sequence": "1F4C2",
+    "tts": "Geöffneter Ordner",
+    "keywords": [
+      "offen",
+      "Dokument",
+      "Ordner"
+    ]
+  },
+  {
+    "sequence": "1F5C2",
+    "tts": "Karteibahnen",
+    "keywords": [
+      "Büroausstattung",
+      "Karteikarten"
+    ]
+  },
+  {
+    "sequence": "1F4C5",
+    "tts": "Kalenderblatt",
+    "keywords": [
+      "Kalender"
+    ]
+  },
+  {
+    "sequence": "1F4C6",
+    "tts": "Abreißkalender",
+    "keywords": [
+      "Kalender"
+    ]
+  },
+  {
+    "sequence": "1F5D2",
+    "tts": "Notizblock",
+    "keywords": [
+      "Block"
+    ]
+  },
+  {
+    "sequence": "1F5D3",
+    "tts": "Spiralkalender",
+    "keywords": [
+      "Kalender"
+    ]
+  },
+  {
+    "sequence": "1F4C7",
+    "tts": "Rotationskartei",
+    "keywords": [
+      "Visitenkarten"
+    ]
+  },
+  {
+    "sequence": "1F4C8",
+    "tts": "Aufwärtstrend",
+    "keywords": [
+      "Diagramm",
+      "Kurve",
+      "steigend"
+    ]
+  },
+  {
+    "sequence": "1F4C9",
+    "tts": "Abwärtstrend",
+    "keywords": [
+      "Diagramm",
+      "Kurve",
+      "fallend"
+    ]
+  },
+  {
+    "sequence": "1F4CA",
+    "tts": "Balkendiagramm",
+    "keywords": [
+      "Diagramm",
+      "Balken"
+    ]
+  },
+  {
+    "sequence": "1F4CB",
+    "tts": "Zwischenablage",
+    "keywords": [
+      "Zwischenablage",
+      "Klemmbrett",
+      "Clpboard"
+    ]
+  },
+  {
+    "sequence": "1F4CC",
+    "tts": "Reißzwecke",
+    "keywords": [
+      "Reißzwecke",
+      "anpinnen"
+    ]
+  },
+  {
+    "sequence": "1F4CD",
+    "tts": "runde Reißzwecke",
+    "keywords": [
+      "Reißzwecke",
+      "anpinnen",
+      "rund"
+    ]
+  },
+  {
+    "sequence": "1F4CE",
+    "tts": "Büroklammer",
+    "keywords": [
+      "Büroklammer"
+    ]
+  },
+  {
+    "sequence": "1F587",
+    "tts": "Verhakte Büroklammern",
+    "keywords": [
+      "Büroklammer",
+      "Büroklammern",
+      "verhakt"
+    ]
+  },
+  {
+    "sequence": "1F4CF",
+    "tts": "Lineal",
+    "keywords": [
+      "Lineal"
+    ]
+  },
+  {
+    "sequence": "1F4D0",
+    "tts": "Dreieckiges Lineal",
+    "keywords": [
+      "Geodreieck",
+      "Lineal"
+    ]
+  },
+  {
+    "sequence": "1F5C3",
+    "tts": "Karteikasten",
+    "keywords": [
+      "Karteikasten",
+      "Büroausstattung"
+    ]
+  },
+  {
+    "sequence": "1F5C4",
+    "tts": "Aktenschrank",
+    "keywords": [
+      "Aktenschrank",
+      "Ablage",
+      "Archiv"
+    ]
+  },
+  {
+    "sequence": "1F5D1",
+    "tts": "Papierkorb",
+    "keywords": [
+      "Papierkorb"
+    ]
+  },
+  {
+    "sequence": "1F512",
+    "tts": "Geschlossenes Schloss",
+    "keywords": [
+      "Sicherheit",
+      "Datenschutz",
+      "Schloss",
+      "geschlossen"
+    ]
+  },
+  {
+    "sequence": "1F513",
+    "tts": "Offenes Schloss",
+    "keywords": [
+      "Schloss",
+      "offen",
+      "nicht gesichert"
+    ]
+  },
+  {
+    "sequence": "1F50F",
+    "tts": "Schloss mit Füller",
+    "keywords": [
+      "privat",
+      "Sicherheit",
+      "Datenschutz"
+    ]
+  },
+  {
+    "sequence": "1F510",
+    "tts": "Schloss mit Schlüssel",
+    "keywords": [
+      "privat",
+      "Sicherheit",
+      "Datenschutz"
+    ]
+  },
+  {
+    "sequence": "1F511",
+    "tts": "Schlüssel",
+    "keywords": [
+      "Passwort"
+    ]
+  },
+  {
+    "sequence": "1F5DD",
+    "tts": "Alter Schlüssel",
+    "keywords": [
+      "Schlüssel",
+      "alt"
+    ]
+  },
+  {
+    "sequence": "1F528",
+    "tts": "Hammer",
+    "keywords": [
+      "Werkzeug"
+    ]
+  },
+  {
+    "sequence": "26CF",
+    "tts": "Pickel",
+    "keywords": [
+      "Werkzeug"
+    ]
+  },
+  {
+    "sequence": "1F6E0",
+    "tts": "Hammer und Schraubenschlüssel",
+    "keywords": [
+      "Hammer",
+      "Schraubenschlüssel",
+      "Werkzeug"
+    ]
+  },
+  {
+    "sequence": "1F527",
+    "tts": "Schraubenschlüssel",
+    "keywords": [
+      "Werkzeug"
+    ]
+  },
+  {
+    "sequence": "1F529",
+    "tts": "Mutter und Schraube",
+    "keywords": [
+      "Schraube"
+    ]
+  },
+  {
+    "sequence": "1F5DC",
+    "tts": "Schraubzwinge",
+    "keywords": [
+      "Werkzeug"
+    ]
+  },
+  {
+    "sequence": "1F517",
+    "tts": "Verknüpfungssymbol",
+    "keywords": [
+      "zwei Ringe"
+    ]
+  },
+  {
+    "sequence": "26D3",
+    "tts": "Ketten",
+    "keywords": [
+      "Kette",
+      "Eisen"
+    ]
+  },
+  {
+    "sequence": "1F489",
+    "tts": "Spritze",
+    "keywords": [
+      "Nadel",
+      "Injektion",
+      "Arzt"
+    ]
+  },
+  {
+    "sequence": "1F48A",
+    "tts": "Kapsel",
+    "keywords": [
+      "Tabletten",
+      "Medizin",
+      "Arzt"
+    ]
+  },
+  {
+    "sequence": "1F5E1",
+    "tts": "Dolch",
+    "keywords": [
+      "Waffe"
+    ]
+  },
+  {
+    "sequence": "1F52A",
+    "tts": "Küchenmesser",
+    "keywords": [
+      "Messer"
+    ]
+  },
+  {
+    "sequence": "1F52B",
+    "tts": "Pistole",
+    "keywords": [
+      "Waffe",
+      "Revolver"
+    ]
+  },
+  {
+    "sequence": "1F6E1",
+    "tts": "Schutzschild",
+    "keywords": [
+      "Schild"
+    ]
+  },
+  {
+    "sequence": "1F3F9",
+    "tts": "Pfeil und Bogen",
+    "keywords": [
+      "Pfeil",
+      "Bogen"
+    ]
+  },
+  {
+    "sequence": "1F3C1",
+    "tts": "Zielflagge",
+    "keywords": [
+      "karierte Flagge",
+      "Rennen",
+      "Sport"
+    ]
+  },
+  {
+    "sequence": "1F3F3",
+    "tts": "Wehende weiße Fahne",
+    "keywords": [
+      "wehen",
+      "Fahne",
+      "weiße Fahne"
+    ]
+  },
+  {
+    "sequence": "1F3F3 200D 1F308",
+    "tts": "Regenbogenfahne",
+    "keywords": [
+      "Fahne",
+      "bunt",
+      "Regenbogen"
+    ]
+  },
+  {
+    "sequence": "1F3F4",
+    "tts": "Wehende schwarze Fahne",
+    "keywords": [
+      "wehen",
+      "Fahne",
+      "schwarze Fahne"
+    ]
+  },
+  {
+    "sequence": "1F6A9",
+    "tts": "Standortflagge",
+    "keywords": [
+      "rot",
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F6AC",
+    "tts": "Zigarette",
+    "keywords": [
+      "Rauchersymbol",
+      "Rauchen"
+    ]
+  },
+  {
+    "sequence": "26B0",
+    "tts": "Sarg",
+    "keywords": [
+      "tot",
+      "Tod",
+      "Beerdigung"
+    ]
+  },
+  {
+    "sequence": "26B1",
+    "tts": "Urne",
+    "keywords": [
+      "tot",
+      "Tod",
+      "Beerdigung"
+    ]
+  },
+  {
+    "sequence": "1F5FF",
+    "tts": "Statue",
+    "keywords": [
+      "Gesicht",
+      "Maske"
+    ]
+  },
+  {
+    "sequence": "1F6E2",
+    "tts": "Ölfass",
+    "keywords": [
+      "Fass",
+      "Öl"
+    ]
+  },
+  {
+    "sequence": "1F52E",
+    "tts": "Kristallkugel",
+    "keywords": [
+      "Wahrsager"
+    ]
+  },
+  {
+    "sequence": "1F3E7",
+    "tts": "Geldautomat",
+    "keywords": [
+      "ATM"
+    ]
+  },
+  {
+    "sequence": "1F6AE",
+    "tts": "Mülleimer",
+    "keywords": [
+      "Müll",
+      "Sauberkeit"
+    ]
+  },
+  {
+    "sequence": "1F6B0",
+    "tts": "Trinkwasser",
+    "keywords": [
+      "Wasser"
+    ]
+  },
+  {
+    "sequence": "267F",
+    "tts": "Rollstuhl",
+    "keywords": [
+      "behindertengerecht",
+      "barrierefrei"
+    ]
+  },
+  {
+    "sequence": "1F6B9",
+    "tts": "Herren",
+    "keywords": [
+      "Herrentoilette"
+    ]
+  },
+  {
+    "sequence": "1F6BA",
+    "tts": "Damen",
+    "keywords": [
+      "Damentoilette"
+    ]
+  },
+  {
+    "sequence": "1F6BB",
+    "tts": "Toiletten",
+    "keywords": [
+      "WC",
+      "Toilette"
+    ]
+  },
+  {
+    "sequence": "1F6BC",
+    "tts": "Baby",
+    "keywords": [
+      "Wickelraum"
+    ]
+  },
+  {
+    "sequence": "1F6BE",
+    "tts": "WC",
+    "keywords": [
+      "Toilette"
+    ]
+  },
+  {
+    "sequence": "1F6C2",
+    "tts": "Passkontrolle",
+    "keywords": [
+      "Pass"
+    ]
+  },
+  {
+    "sequence": "1F6C3",
+    "tts": "Zollkontrolle",
+    "keywords": [
+      "Zoll"
+    ]
+  },
+  {
+    "sequence": "1F6C4",
+    "tts": "Gepäckausgabe",
+    "keywords": [
+      "Gepäck"
+    ]
+  },
+  {
+    "sequence": "1F6C5",
+    "tts": "Gepäckaufbewahrung",
+    "keywords": [
+      "Gepäck",
+      "Schließfach"
+    ]
+  },
+  {
+    "sequence": "26A0",
+    "tts": "Warnschild",
+    "keywords": [
+      "Warnung",
+      "Dreieck"
+    ]
+  },
+  {
+    "sequence": "1F6B8",
+    "tts": "Kinder-queren-die-Straße-Schild",
+    "keywords": [
+      "Vorsicht",
+      "Kinder"
+    ]
+  },
+  {
+    "sequence": "26D4",
+    "tts": "Zutritt-verboten-Schild",
+    "keywords": [
+      "keine Durchfahrt",
+      "verboten"
+    ]
+  },
+  {
+    "sequence": "1F6AB",
+    "tts": "Kein-Zutritt-Zeichen",
+    "keywords": [
+      "Verbotszeichen"
+    ]
+  },
+  {
+    "sequence": "1F6B3",
+    "tts": "Fahrrad-verboten-Schild",
+    "keywords": [
+      "Radfahren verboten"
+    ]
+  },
+  {
+    "sequence": "1F6AD",
+    "tts": "Rauchverbot",
+    "keywords": [
+      "Rauchen verboten"
+    ]
+  },
+  {
+    "sequence": "1F6AF",
+    "tts": "Müll-verboten-Zeichen",
+    "keywords": [
+      "Müll",
+      "verboten"
+    ]
+  },
+  {
+    "sequence": "1F6B1",
+    "tts": "Kein Trinkwasser",
+    "keywords": [
+      "kein Trinkwasser",
+      "Wasser",
+      "verboten"
+    ]
+  },
+  {
+    "sequence": "1F6B7",
+    "tts": "Fußgänger-verboten-Schild",
+    "keywords": [
+      "verboten"
+    ]
+  },
+  {
+    "sequence": "2B06",
+    "tts": "Pfeil nach oben",
+    "keywords": [
+      "Pfeil",
+      "nach oben",
+      "aufwärts"
+    ]
+  },
+  {
+    "sequence": "27A1",
+    "tts": "Pfeil nach rechts",
+    "keywords": [
+      "Pfeil",
+      "nach rechts"
+    ]
+  },
+  {
+    "sequence": "2B07",
+    "tts": "Pfeil nach unten",
+    "keywords": [
+      "Pfeil",
+      "nach unten",
+      "abwärts"
+    ]
+  },
+  {
+    "sequence": "2B05",
+    "tts": "Pfeil nach links",
+    "keywords": [
+      "Pfeil",
+      "nach links"
+    ]
+  },
+  {
+    "sequence": "21A9",
+    "tts": "Geschwungener Pfeil nach links",
+    "keywords": [
+      "geschwungen",
+      "Pfeil",
+      "nach links",
+      "links"
+    ]
+  },
+  {
+    "sequence": "21AA",
+    "tts": "Geschwungener Pfeil nach rechts",
+    "keywords": [
+      "geschwungen",
+      "Pfeil",
+      "nach rechts",
+      "rechts"
+    ]
+  },
+  {
+    "sequence": "1F503",
+    "tts": "Kreisförmige Pfeile im Uhrzeigersinn",
+    "keywords": [
+      "Pfeile",
+      "im Uhrzeigersinn"
+    ]
+  },
+  {
+    "sequence": "1F504",
+    "tts": "Kreisförmige Pfeile gegen den Uhrzeigersinn",
+    "keywords": [
+      "Pfeile",
+      "gegen den Uhrzeigersinn"
+    ]
+  },
+  {
+    "sequence": "1F519",
+    "tts": "Zurück-Pfeil",
+    "keywords": [
+      "zurück",
+      "Pfeil",
+      "links"
+    ]
+  },
+  {
+    "sequence": "1F51A",
+    "tts": "Ende-Zeichen",
+    "keywords": [
+      "Pfeil",
+      "links"
+    ]
+  },
+  {
+    "sequence": "1F51B",
+    "tts": "Ein-Zeichen",
+    "keywords": [
+      "Pfeil",
+      "rechts und links"
+    ]
+  },
+  {
+    "sequence": "1F51C",
+    "tts": "Bald-Zeichen",
+    "keywords": [
+      "Pfeil",
+      "rechts"
+    ]
+  },
+  {
+    "sequence": "1F51D",
+    "tts": "Top-Zeichen",
+    "keywords": [
+      "Pfeil nach oben"
+    ]
+  },
+  {
+    "sequence": "1F6D0",
+    "tts": "Kultstätte",
+    "keywords": [
+      "Religion"
+    ]
+  },
+  {
+    "sequence": "269B",
+    "tts": "Atomzeichen",
+    "keywords": [
+      "Atom",
+      "Atheist"
+    ]
+  },
+  {
+    "sequence": "1F549",
+    "tts": "om",
+    "keywords": [
+      "Religion",
+      "Hinduismus"
+    ]
+  },
+  {
+    "sequence": "262F",
+    "tts": "Yin und Yang",
+    "keywords": [
+      "Yin",
+      "Yang",
+      "Religion",
+      "Daoismus"
+    ]
+  },
+  {
+    "sequence": "271D",
+    "tts": "Römisches Kreuz",
+    "keywords": [
+      "Römisch",
+      "Kreuz",
+      "Religion",
+      "Christentum"
+    ]
+  },
+  {
+    "sequence": "262A",
+    "tts": "Hilal und Stern",
+    "keywords": [
+      "Hilal",
+      "Stern",
+      "Religion",
+      "Islam"
+    ]
+  },
+  {
+    "sequence": "262E",
+    "tts": "Friedenszeichen",
+    "keywords": [
+      "Friedenszeichen",
+      "Friedenssymbol",
+      "Friedensbewegung"
+    ]
+  },
+  {
+    "sequence": "1F54E",
+    "tts": "Menora",
+    "keywords": [
+      "Religion",
+      "Leuchter"
+    ]
+  },
+  {
+    "sequence": "1F52F",
+    "tts": "Hexagramm mit Punkt",
+    "keywords": [
+      "Wahrsager"
+    ]
+  },
+  {
+    "sequence": "267B",
+    "tts": "Recycling-Symbol",
+    "keywords": [
+      "Recycling"
+    ]
+  },
+  {
+    "sequence": "1F4DB",
+    "tts": "Namensschild",
+    "keywords": [
+      "Schild"
+    ]
+  },
+  {
+    "sequence": "269C",
+    "tts": "Lilie",
+    "keywords": [
+      "Fleur-de-Lis"
+    ]
+  },
+  {
+    "sequence": "1F530",
+    "tts": "Japanisches Anfänger-Zeichen",
+    "keywords": [
+      "Anfänger",
+      "japanisches Symbol"
+    ]
+  },
+  {
+    "sequence": "1F531",
+    "tts": "Dreizack",
+    "keywords": [
+      "Anker"
+    ]
+  },
+  {
+    "sequence": "2B55",
+    "tts": "Großer Kreis",
+    "keywords": [
+      "Kreis",
+      "rot",
+      "o"
+    ]
+  },
+  {
+    "sequence": "274C",
+    "tts": "Rotes Kreuz",
+    "keywords": [
+      "abbrechen",
+      "Multiplikation",
+      "multiplizieren",
+      "x",
+      "durchgestrichen"
+    ]
+  },
+  {
+    "sequence": "274E",
+    "tts": "Kreuzsymbol im Quadrat",
+    "keywords": [
+      "Kreuz",
+      "X"
+    ]
+  },
+  {
+    "sequence": "27B0",
+    "tts": "Schleife",
+    "keywords": [
+      "Schleife"
+    ]
+  },
+  {
+    "sequence": "27BF",
+    "tts": "Doppelschleife",
+    "keywords": [
+      "Schleife",
+      "blau",
+      "Rechteck"
+    ]
+  },
+  {
+    "sequence": "303D",
+    "tts": "Teilalternationszeichen",
+    "keywords": [
+      "Zeichensetzung",
+      "japanisch"
+    ]
+  },
+  {
+    "sequence": "1F4B1",
+    "tts": "Geldwechsel",
+    "keywords": [
+      "Währung",
+      "Geld",
+      "Wechsel"
+    ]
+  },
+  {
+    "sequence": "1F4B2",
+    "tts": "Dollar-Zeichen",
+    "keywords": [
+      "Dollar",
+      "Geld",
+      "Währung"
+    ]
+  },
+  {
+    "sequence": "203C",
+    "tts": "Doppeltes Ausrufezeichen",
+    "keywords": [
+      "Ausrufezeichen",
+      "doppelt",
+      "Satzzeichen",
+      "rot"
+    ]
+  },
+  {
+    "sequence": "00A9",
+    "tts": "Copyright",
+    "keywords": [
+      "C"
+    ]
+  },
+  {
+    "sequence": "00AE",
+    "tts": "Registered-Trademark",
+    "keywords": [
+      "Markenzeichen",
+      "R"
+    ]
+  },
+  {
+    "sequence": "264A",
+    "tts": "Sternzeichen Zwilling",
+    "keywords": [
+      "Zwilling",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "264B",
+    "tts": "Sternzeichen Krebs",
+    "keywords": [
+      "Krebs",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "264C",
+    "tts": "Sternzeichen Löwe",
+    "keywords": [
+      "Löwe",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "264D",
+    "tts": "Sternzeichen Jungfrau",
+    "keywords": [
+      "Jungfrau",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "264E",
+    "tts": "Sternzeichen Waage",
+    "keywords": [
+      "Waage",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "264F",
+    "tts": "Sternzeichen Skorpion",
+    "keywords": [
+      "Skorpion",
+      "Sternzeichen"
+    ]
+  },
+  {
+    "sequence": "26CE",
+    "tts": "Schlangenträger",
+    "keywords": [
+      "Schlagenträger",
+      "Sternbild"
+    ]
+  },
+  {
+    "sequence": "1F500",
+    "tts": "Verschlungene Pfeile nach rechts",
+    "keywords": [
+      "Pfeile",
+      "gekreuzt"
+    ]
+  },
+  {
+    "sequence": "1F501",
+    "tts": "Wiederholen",
+    "keywords": [
+      "Pfeile",
+      "im Uhrzeigersinn",
+      "wiederholen"
+    ]
+  },
+  {
+    "sequence": "1F502",
+    "tts": "Einmal Wiederholen",
+    "keywords": [
+      "Pfeile",
+      "im Uhrzeigersinn",
+      "wiederholen",
+      "einmal"
+    ]
+  },
+  {
+    "sequence": "25B6",
+    "tts": "Wiedergabe",
+    "keywords": [
+      "Pfeil",
+      "abspielen",
+      "rechts",
+      "Dreieck"
+    ]
+  },
+  {
+    "sequence": "23E9",
+    "tts": "Doppelpfeile nach rechts",
+    "keywords": [
+      "Doppelpfeil",
+      "überspringen",
+      "vorwärts",
+      "weiter"
+    ]
+  },
+  {
+    "sequence": "23ED",
+    "tts": "Nächster Titel",
+    "keywords": [
+      "Doppelpfeil",
+      "nächster Titel",
+      "Dreieck",
+      "vorwärts",
+      "weiter"
+    ]
+  },
+  {
+    "sequence": "23EF",
+    "tts": "Wiedergabe oder Pause",
+    "keywords": [
+      "Pfeil",
+      "Pause",
+      "Wiedergabe",
+      "rechts",
+      "Dreieck"
+    ]
+  },
+  {
+    "sequence": "25C0",
+    "tts": "Pfeil zurück",
+    "keywords": [
+      "Pfeil",
+      "links",
+      "zurück",
+      "Dreieck"
+    ]
+  },
+  {
+    "sequence": "23EA",
+    "tts": "Doppelpfeile nach links",
+    "keywords": [
+      "Doppelpfeil",
+      "Pfeil",
+      "vorheriger Titel",
+      "zurück",
+      "Dreieck"
+    ]
+  },
+  {
+    "sequence": "23EE",
+    "tts": "Vorheriger Titel",
+    "keywords": [
+      "Doppelpfeil",
+      "Pfeil",
+      "vorheriger Titel",
+      "zurück",
+      "Dreieck"
+    ]
+  },
+  {
+    "sequence": "1F53C",
+    "tts": "Aufwärts-Schaltfläche",
+    "keywords": [
+      "Pfeil",
+      "Schaltfläche",
+      "aufwärts",
+      "nach oben"
+    ]
+  },
+  {
+    "sequence": "23EB",
+    "tts": "Doppelpfeile nach oben",
+    "keywords": [
+      "Doppelpfeil",
+      "Pfeil",
+      "doppelt",
+      "aufwärts",
+      "nach oben"
+    ]
+  },
+  {
+    "sequence": "1F53D",
+    "tts": "Abwärts-Schaltfläche",
+    "keywords": [
+      "Pfeil",
+      "Schaltfläche",
+      "abwärts",
+      "nach unten"
+    ]
+  },
+  {
+    "sequence": "23EC",
+    "tts": "Doppelpfeile nach unten",
+    "keywords": [
+      "Doppelpfeil",
+      "Pfeil",
+      "doppelt abwärts",
+      "nach unten"
+    ]
+  },
+  {
+    "sequence": "23F8",
+    "tts": "Pause",
+    "keywords": [
+      "Streifen",
+      "vertikal"
+    ]
+  },
+  {
+    "sequence": "23F9",
+    "tts": "Stopp",
+    "keywords": [
+      "Quadrat",
+      "Aufnahme stoppen"
+    ]
+  },
+  {
+    "sequence": "23FA",
+    "tts": "Aufnehmen",
+    "keywords": [
+      "Kreis",
+      "Aufnahme",
+      "aufnehmen"
+    ]
+  },
+  {
+    "sequence": "23CF",
+    "tts": "Auswurftaste",
+    "keywords": [
+      "auswerfen",
+      "Auswurf"
+    ]
+  },
+  {
+    "sequence": "1F3A6",
+    "tts": "Filmkamera in blauem Quadrat",
+    "keywords": [
+      "Film",
+      "Kino",
+      "Unterhaltung"
+    ]
+  },
+  {
+    "sequence": "1F505",
+    "tts": "Schwache Helligkeit",
+    "keywords": [
+      "Helligkeit",
+      "gedimmt"
+    ]
+  },
+  {
+    "sequence": "1F506",
+    "tts": "Starke Helligkeit",
+    "keywords": [
+      "Helligkeit"
+    ]
+  },
+  {
+    "sequence": "1F4F6",
+    "tts": "Balkenförmige Signalstärkenanzeige",
+    "keywords": [
+      "Mobilfunksignal",
+      "Signalstärke",
+      "Mobiltelefon",
+      "Empfang"
+    ]
+  },
+  {
+    "sequence": "1F4F5",
+    "tts": "Mobiltelefone verboten",
+    "keywords": [
+      "Verbot",
+      "Mobiltelefon"
+    ]
+  },
+  {
+    "sequence": "1F4F3",
+    "tts": "Symbol für Vibrationsalarm",
+    "keywords": [
+      "Mobiltelefon",
+      "Vibration"
+    ]
+  },
+  {
+    "sequence": "1F4F4",
+    "tts": "Mobiltelefon aus",
+    "keywords": [
+      "ausschalten",
+      "Handy aus",
+      "Mobiltelefon"
+    ]
+  },
+  {
+    "sequence": "0023 20E3",
+    "tts": "Raute in blauem Quadrat",
+    "keywords": [
+      "Raute",
+      "blau",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "002A 20E3",
+    "tts": "Sternchen in blauem Quadrat",
+    "keywords": [
+      "Sternchen",
+      "blau",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "1F51F",
+    "tts": "Zahl 10 in blauem Quadrat",
+    "keywords": [
+      "10",
+      "Zahl",
+      "blau",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "1F4AF",
+    "tts": "100 Punkte",
+    "keywords": [
+      "volle Punktzahl",
+      "100",
+      "Punktestand"
+    ]
+  },
+  {
+    "sequence": "1F51E",
+    "tts": "Zeichen mit durchgestrichener 18",
+    "keywords": [
+      "Erwachsene",
+      "Mindestalter",
+      "nicht jugendfrei"
+    ]
+  },
+  {
+    "sequence": "1F520",
+    "tts": "Eingabesymbol lateinische Großbuchstaben",
+    "keywords": [
+      "lateinische Großbuchstaben",
+      "Großbuchstaben"
+    ]
+  },
+  {
+    "sequence": "1F521",
+    "tts": "Eingabesymbol lateinische Kleinbuchstaben",
+    "keywords": [
+      "lateinische Kleinbuchstaben",
+      "Kleinbuchstaben"
+    ]
+  },
+  {
+    "sequence": "1F522",
+    "tts": "Eingabesymbol Zahlen",
+    "keywords": [
+      "Zahlen"
+    ]
+  },
+  {
+    "sequence": "1F523",
+    "tts": "Eingabesymbol Sonderzeichen",
+    "keywords": [
+      "Sonderzeichen"
+    ]
+  },
+  {
+    "sequence": "1F524",
+    "tts": "Eingabesymbol lateinische Buchstaben",
+    "keywords": [
+      "lateinische Buchstaben",
+      "Buchstaben"
+    ]
+  },
+  {
+    "sequence": "1F170",
+    "tts": "Großbuchstabe A in Quadrat",
+    "keywords": [
+      "a",
+      "Blutgruppe",
+      "Blut",
+      "negativ",
+      "positiv"
+    ]
+  },
+  {
+    "sequence": "1F18E",
+    "tts": "Großbuchstaben AB in rotem Quadrat",
+    "keywords": [
+      "ab",
+      "Blutgruppe",
+      "Blut",
+      "negativ",
+      "positiv"
+    ]
+  },
+  {
+    "sequence": "1F171",
+    "tts": "Großbuchstabe B in Quadrat",
+    "keywords": [
+      "b",
+      "Blutgruppe",
+      "Blut",
+      "negativ",
+      "positiv"
+    ]
+  },
+  {
+    "sequence": "1F191",
+    "tts": "Großbuchstaben CL in rotem Quadrat",
+    "keywords": [
+      "CL"
+    ]
+  },
+  {
+    "sequence": "1F192",
+    "tts": "Wort „Cool“ in blauem Quadrat",
+    "keywords": [
+      "Cool"
+    ]
+  },
+  {
+    "sequence": "1F193",
+    "tts": "Wort „Free“ in blauem Quadrat",
+    "keywords": [
+      "Free"
+    ]
+  },
+  {
+    "sequence": "1F194",
+    "tts": "Großbuchstaben ID in lila Quadrat",
+    "keywords": [
+      "ID"
+    ]
+  },
+  {
+    "sequence": "24C2",
+    "tts": "Buchstabe „M“ in blauem Kreis",
+    "keywords": [
+      "M",
+      "Kreis"
+    ]
+  },
+  {
+    "sequence": "1F195",
+    "tts": "Wort „New“ in blauem Quadrat",
+    "keywords": [
+      "New",
+      "Neu"
+    ]
+  },
+  {
+    "sequence": "1F196",
+    "tts": "Großbuchstaben NG in blauem Quadrat",
+    "keywords": [
+      "NG"
+    ]
+  },
+  {
+    "sequence": "1F17E",
+    "tts": "Großbuchstabe O in Quadrat",
+    "keywords": [
+      "0",
+      "Blutgruppe",
+      "Blut",
+      "negativ",
+      "positiv"
+    ]
+  },
+  {
+    "sequence": "1F197",
+    "tts": "Großbuchstaben OK in blauem Quadrat",
+    "keywords": [
+      "OK"
+    ]
+  },
+  {
+    "sequence": "1F17F",
+    "tts": "Großbuchstabe P in Quadrat",
+    "keywords": [
+      "Parkplatz",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "1F198",
+    "tts": "SOS-Zeichen",
+    "keywords": [
+      "SOS",
+      "Hilfe"
+    ]
+  },
+  {
+    "sequence": "1F199",
+    "tts": "Schriftzug „UP!“ im blauen Quadrat",
+    "keywords": [
+      "Schriftzug",
+      "„Up“",
+      "blau",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "1F19A",
+    "tts": "Großbuchstaben VS in orangefarbenem Quadrat",
+    "keywords": [
+      "VS",
+      "versus"
+    ]
+  },
+  {
+    "sequence": "1F201",
+    "tts": "Schriftzeichen „koko“",
+    "keywords": [
+      "japanisches Schriftzeichen",
+      "„koko“"
+    ]
+  },
+  {
+    "sequence": "1F202",
+    "tts": "Schriftzeichen „sa“",
+    "keywords": [
+      "japanisches Schriftzeichen",
+      "„sa“"
+    ]
+  },
+  {
+    "sequence": "1F237",
+    "tts": "Schriftzeichen für „Mond“",
+    "keywords": [
+      "japanisches Schriftzeichen",
+      "Mond"
+    ]
+  },
+  {
+    "sequence": "1F236",
+    "tts": "Schriftzeichen für „existieren“",
+    "keywords": [
+      "japanisches Schriftzeichen",
+      "existieren"
+    ]
+  },
+  {
+    "sequence": "1F22F",
+    "tts": "Schriftzeichen für „Finger“",
+    "keywords": [
+      "japanisches Schriftzeichen",
+      "Finger"
+    ]
+  },
+  {
+    "sequence": "1F250",
+    "tts": "Schriftzeichen für „Vorteil“",
+    "keywords": [
+      "japanisches Schriftzeichen",
+      "Vorteil"
+    ]
+  },
+  {
+    "sequence": "1F239",
+    "tts": "Schriftzeichen für „teilen“",
+    "keywords": [
+      "japanisches Schriftzeichen",
+      "teilen"
+    ]
+  },
+  {
+    "sequence": "1F21A",
+    "tts": "Schriftzeichen für „Verhandlung“",
+    "keywords": [
+      "japanisches Schriftzeichen",
+      "Verhandlung"
+    ]
+  },
+  {
+    "sequence": "1F232",
+    "tts": "Schriftzeichen für „verbieten“",
+    "keywords": [
+      "japanisches Schriftzeichen",
+      "verbieten"
+    ]
+  },
+  {
+    "sequence": "1F251",
+    "tts": "Schriftzeichen für „akzeptieren“",
+    "keywords": [
+      "chinesisches Schriftzeichen",
+      "akzeptieren"
+    ]
+  },
+  {
+    "sequence": "1F238",
+    "tts": "Schriftzeichen für „anwenden“",
+    "keywords": [
+      "chinesisches Schriftzeichen",
+      "anwenden"
+    ]
+  },
+  {
+    "sequence": "1F234",
+    "tts": "Schriftzeichen für „zusammen“",
+    "keywords": [
+      "chinesisches Schriftzeichen",
+      "zusammen"
+    ]
+  },
+  {
+    "sequence": "1F233",
+    "tts": "Schriftzeichen für „leer“",
+    "keywords": [
+      "chinesisches Schriftzeichen",
+      "leer"
+    ]
+  },
+  {
+    "sequence": "1F23A",
+    "tts": "Schriftzeichen für „Betrieb“",
+    "keywords": [
+      "chinesisches Schriftzeichen",
+      "Betrieb"
+    ]
+  },
+  {
+    "sequence": "1F235",
+    "tts": "Schriftzeichen für „Fülle“",
+    "keywords": [
+      "chinesisches Schriftzeichen",
+      "Fülle"
+    ]
+  },
+  {
+    "sequence": "25AA",
+    "tts": "Kleines schwarzes Quadrat",
+    "keywords": [
+      "schwarz",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "25AB",
+    "tts": "Kleines weißes Quadrat",
+    "keywords": [
+      "weiß",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "25FB",
+    "tts": "Mittelgroßes weißes Quadrat",
+    "keywords": [
+      "weiß",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "25FC",
+    "tts": "Mittelgroßes schwarzes Quadrat",
+    "keywords": [
+      "schwarz",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "25FD",
+    "tts": "Mittelkleines weißes Quadrat",
+    "keywords": [
+      "weiß",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "25FE",
+    "tts": "Mittelkleines schwarzes Quadrat",
+    "keywords": [
+      "schwarz",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "2B1B",
+    "tts": "Großes schwarzes Quadrat",
+    "keywords": [
+      "schwarz",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "2B1C",
+    "tts": "Großes weißes Quadrat",
+    "keywords": [
+      "weiß",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "1F536",
+    "tts": "Große orangefarbene Raute",
+    "keywords": [
+      "orangefarben",
+      "Raute"
+    ]
+  },
+  {
+    "sequence": "1F537",
+    "tts": "Große blaue Raute",
+    "keywords": [
+      "blau",
+      "Raute"
+    ]
+  },
+  {
+    "sequence": "1F538",
+    "tts": "Kleine orangefarbene Raute",
+    "keywords": [
+      "orangefarben",
+      "Raute"
+    ]
+  },
+  {
+    "sequence": "1F539",
+    "tts": "Kleine blaue Raute",
+    "keywords": [
+      "blau",
+      "Raute"
+    ]
+  },
+  {
+    "sequence": "1F53A",
+    "tts": "Rotes Dreieck mit Spitze oben",
+    "keywords": [
+      "rot",
+      "Dreieck",
+      "aufwärts"
+    ]
+  },
+  {
+    "sequence": "1F53B",
+    "tts": "Rotes Dreieck mit Spitze unten",
+    "keywords": [
+      "rot",
+      "Dreieck",
+      "abwärts"
+    ]
+  },
+  {
+    "sequence": "1F4A0",
+    "tts": "Rautenform mit Punkt",
+    "keywords": [
+      "Diamant",
+      "Rautenform",
+      "mit Punkt"
+    ]
+  },
+  {
+    "sequence": "1F518",
+    "tts": "Optionsfeld",
+    "keywords": [
+      "Schaltfläche"
+    ]
+  },
+  {
+    "sequence": "1F532",
+    "tts": "Schwarze quadratische Schaltfläche",
+    "keywords": [
+      "schwarz",
+      "Schaltfläche",
+      "quadratisch"
+    ]
+  },
+  {
+    "sequence": "1F533",
+    "tts": "Weiße quadratische Schaltfläche",
+    "keywords": [
+      "weiß",
+      "Schaltfläche",
+      "quadratisch"
+    ]
+  },
+  {
+    "sequence": "26AA",
+    "tts": "Großer weißer Kreis",
+    "keywords": [
+      "weiß",
+      "Kreis",
+      "Ball"
+    ]
+  },
+  {
+    "sequence": "26AB",
+    "tts": "Großer schwarzer Kreis",
+    "keywords": [
+      "schwarz",
+      "Kreis",
+      "Ball"
+    ]
+  },
+  {
+    "sequence": "1F534",
+    "tts": "Großer roter Kreis",
+    "keywords": [
+      "rot",
+      "Kreis",
+      "Ball"
+    ]
+  },
+  {
+    "sequence": "1F535",
+    "tts": "Großer blauer Kreis",
+    "keywords": [
+      "blau",
+      "Kreis",
+      "Ball"
+    ]
+  },
+  {
+    "sequence": "1F6D1",
+    "tts": "Stoppschild",
+    "keywords": [
+      "Stopp",
+      "achteckig",
+      "Schild"
+    ]
+  },
+  {
+    "sequence": "1F6D2",
+    "tts": "Einkaufswagen",
+    "keywords": [
+      "Einkaufswagen",
+      "einkaufen"
+    ]
+  },
+  {
+    "sequence": "1F6F4",
+    "tts": "Tretroller",
+    "keywords": [
+      "Tretroller"
+    ]
+  },
+  {
+    "sequence": "1F6F5",
+    "tts": "Motorroller",
+    "keywords": [
+      "Motorroller",
+      "Roller",
+      "Vespa"
+    ]
+  },
+  {
+    "sequence": "1F6F6",
+    "tts": "Kanu",
+    "keywords": [
+      "Kanu",
+      "Boot",
+      "Wassersport"
+    ]
+  },
+  {
+    "sequence": "0030 20E3",
+    "tts": "Zahl 0 in blauem Quadrat",
+    "keywords": [
+      "0",
+      "Zahl",
+      "blau",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "0031 20E3",
+    "tts": "Zahl 1 in blauem Quadrat",
+    "keywords": [
+      "1",
+      "Zahl",
+      "blau",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "0032 20E3",
+    "tts": "Zahl 2 in blauem Quadrat",
+    "keywords": [
+      "2",
+      "Zahl",
+      "blau",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "0033 20E3",
+    "tts": "Zahl 3 in blauem Quadrat",
+    "keywords": [
+      "3",
+      "Zahl",
+      "blau",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "0034 20E3",
+    "tts": "Zahl 4 in blauem Quadrat",
+    "keywords": [
+      "4",
+      "Zahl",
+      "blau",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "0035 20E3",
+    "tts": "Zahl 5 in blauem Quadrat",
+    "keywords": [
+      "5",
+      "Zahl",
+      "blau",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "0036 20E3",
+    "tts": "Zahl 6 in blauem Quadrat",
+    "keywords": [
+      "6",
+      "Zahl",
+      "blau",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "0037 20E3",
+    "tts": "Zahl 7 in blauem Quadrat",
+    "keywords": [
+      "7",
+      "Zahl",
+      "blau",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "0038 20E3",
+    "tts": "Zahl 8 in blauem Quadrat",
+    "keywords": [
+      "8",
+      "Zahl",
+      "blau",
+      "Quadrat"
+    ]
+  },
+  {
+    "sequence": "0039 20E3",
+    "tts": "Zahl 9 in blauem Quadrat",
+    "keywords": [
+      "9",
+      "Zahl",
+      "blau",
+      "Quadrat"
+    ]
+  }
+]
