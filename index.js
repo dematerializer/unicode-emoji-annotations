@@ -19,6 +19,6 @@ var annotations = {
 };
 
 module.exports = {
-	presets: Object.keys(emojiData),
+	presets: Object.keys(annotations),
 	annotations: annotations,
 };
