@@ -1,14 +1,12 @@
 [
   {
     "sequence": "1F61C",
-    "output": "😜",
     "keywords": [
       "cheeky"
     ]
   },
   {
     "sequence": "1F1E6 1F1E8",
-    "output": "🇦🇨",
     "tts": "Ascension Island",
     "keywords": [
       "flag"
@@ -16,7 +14,6 @@
   },
   {
     "sequence": "1F1E6 1F1E9",
-    "output": "🇦🇩",
     "tts": "Andorra",
     "keywords": [
       "flag"
@@ -24,7 +21,6 @@
   },
   {
     "sequence": "1F1E6 1F1EA",
-    "output": "🇦🇪",
     "tts": "United Arab Emirates",
     "keywords": [
       "flag"
@@ -32,7 +28,6 @@
   },
   {
     "sequence": "1F1E6 1F1EB",
-    "output": "🇦🇫",
     "tts": "Afghanistan",
     "keywords": [
       "flag"
@@ -40,7 +35,6 @@
   },
   {
     "sequence": "1F1E6 1F1EC",
-    "output": "🇦🇬",
     "tts": "Antigua and Barbuda",
     "keywords": [
       "flag"
@@ -48,7 +42,6 @@
   },
   {
     "sequence": "1F1E6 1F1EE",
-    "output": "🇦🇮",
     "tts": "Anguilla",
     "keywords": [
       "flag"
@@ -56,7 +49,6 @@
   },
   {
     "sequence": "1F1E6 1F1F1",
-    "output": "🇦🇱",
     "tts": "Albania",
     "keywords": [
       "flag"
@@ -64,7 +56,6 @@
   },
   {
     "sequence": "1F1E6 1F1F2",
-    "output": "🇦🇲",
     "tts": "Armenia",
     "keywords": [
       "flag"
@@ -72,7 +63,6 @@
   },
   {
     "sequence": "1F1E6 1F1F4",
-    "output": "🇦🇴",
     "tts": "Angola",
     "keywords": [
       "flag"
@@ -80,7 +70,6 @@
   },
   {
     "sequence": "1F1E6 1F1F6",
-    "output": "🇦🇶",
     "tts": "Antarctica",
     "keywords": [
       "flag"
@@ -88,7 +77,6 @@
   },
   {
     "sequence": "1F1E6 1F1F7",
-    "output": "🇦🇷",
     "tts": "Argentina",
     "keywords": [
       "flag"
@@ -96,7 +84,6 @@
   },
   {
     "sequence": "1F1E6 1F1F8",
-    "output": "🇦🇸",
     "tts": "American Samoa",
     "keywords": [
       "flag"
@@ -104,7 +91,6 @@
   },
   {
     "sequence": "1F1E6 1F1F9",
-    "output": "🇦🇹",
     "tts": "Austria",
     "keywords": [
       "flag"
@@ -112,7 +98,6 @@
   },
   {
     "sequence": "1F1E6 1F1FA",
-    "output": "🇦🇺",
     "tts": "Australia",
     "keywords": [
       "flag"
@@ -120,7 +105,6 @@
   },
   {
     "sequence": "1F1E6 1F1FC",
-    "output": "🇦🇼",
     "tts": "Aruba",
     "keywords": [
       "flag"
@@ -128,7 +112,6 @@
   },
   {
     "sequence": "1F1E6 1F1FD",
-    "output": "🇦🇽",
     "tts": "Åland Islands",
     "keywords": [
       "flag"
@@ -136,7 +119,6 @@
   },
   {
     "sequence": "1F1E6 1F1FF",
-    "output": "🇦🇿",
     "tts": "Azerbaijan",
     "keywords": [
       "flag"
@@ -144,7 +126,6 @@
   },
   {
     "sequence": "1F1E7 1F1E6",
-    "output": "🇧🇦",
     "tts": "Bosnia and Herzegovina",
     "keywords": [
       "flag"
@@ -152,7 +133,6 @@
   },
   {
     "sequence": "1F1E7 1F1E7",
-    "output": "🇧🇧",
     "tts": "Barbados",
     "keywords": [
       "flag"
@@ -160,7 +140,6 @@
   },
   {
     "sequence": "1F1E7 1F1E9",
-    "output": "🇧🇩",
     "tts": "Bangladesh",
     "keywords": [
       "flag"
@@ -168,7 +147,6 @@
   },
   {
     "sequence": "1F1E7 1F1EA",
-    "output": "🇧🇪",
     "tts": "Belgium",
     "keywords": [
       "flag"
@@ -176,7 +154,6 @@
   },
   {
     "sequence": "1F1E7 1F1EB",
-    "output": "🇧🇫",
     "tts": "Burkina Faso",
     "keywords": [
       "flag"
@@ -184,7 +161,6 @@
   },
   {
     "sequence": "1F1E7 1F1EC",
-    "output": "🇧🇬",
     "tts": "Bulgaria",
     "keywords": [
       "flag"
@@ -192,7 +168,6 @@
   },
   {
     "sequence": "1F1E7 1F1ED",
-    "output": "🇧🇭",
     "tts": "Bahrain",
     "keywords": [
       "flag"
@@ -200,7 +175,6 @@
   },
   {
     "sequence": "1F1E7 1F1EE",
-    "output": "🇧🇮",
     "tts": "Burundi",
     "keywords": [
       "flag"
@@ -208,7 +182,6 @@
   },
   {
     "sequence": "1F1E7 1F1EF",
-    "output": "🇧🇯",
     "tts": "Benin",
     "keywords": [
       "flag"
@@ -216,7 +189,6 @@
   },
   {
     "sequence": "1F1E7 1F1F1",
-    "output": "🇧🇱",
     "tts": "Saint Barthélemy",
     "keywords": [
       "flag"
@@ -224,7 +196,6 @@
   },
   {
     "sequence": "1F1E7 1F1F2",
-    "output": "🇧🇲",
     "tts": "Bermuda",
     "keywords": [
       "flag"
@@ -232,7 +203,6 @@
   },
   {
     "sequence": "1F1E7 1F1F3",
-    "output": "🇧🇳",
     "tts": "Brunei Darussalam",
     "keywords": [
       "flag"
@@ -240,7 +210,6 @@
   },
   {
     "sequence": "1F1E7 1F1F4",
-    "output": "🇧🇴",
     "tts": "Bolivia",
     "keywords": [
       "flag"
@@ -248,7 +217,6 @@
   },
   {
     "sequence": "1F1E7 1F1F6",
-    "output": "🇧🇶",
     "tts": "Bonaire, Sint Eustatius and Saba",
     "keywords": [
       "flag"
@@ -256,7 +224,6 @@
   },
   {
     "sequence": "1F1E7 1F1F7",
-    "output": "🇧🇷",
     "tts": "Brazil",
     "keywords": [
       "flag"
@@ -264,7 +231,6 @@
   },
   {
     "sequence": "1F1E7 1F1F8",
-    "output": "🇧🇸",
     "tts": "Bahamas",
     "keywords": [
       "flag"
@@ -272,7 +238,6 @@
   },
   {
     "sequence": "1F1E7 1F1F9",
-    "output": "🇧🇹",
     "tts": "Bhutan",
     "keywords": [
       "flag"
@@ -280,7 +245,6 @@
   },
   {
     "sequence": "1F1E7 1F1FB",
-    "output": "🇧🇻",
     "tts": "Bouvet Island",
     "keywords": [
       "flag"
@@ -288,7 +252,6 @@
   },
   {
     "sequence": "1F1E7 1F1FC",
-    "output": "🇧🇼",
     "tts": "Botswana",
     "keywords": [
       "flag"
@@ -296,7 +259,6 @@
   },
   {
     "sequence": "1F1E7 1F1FE",
-    "output": "🇧🇾",
     "tts": "Belarus",
     "keywords": [
       "flag"
@@ -304,7 +266,6 @@
   },
   {
     "sequence": "1F1E7 1F1FF",
-    "output": "🇧🇿",
     "tts": "Belize",
     "keywords": [
       "flag"
@@ -312,7 +273,6 @@
   },
   {
     "sequence": "1F1E8 1F1E6",
-    "output": "🇨🇦",
     "tts": "Canada",
     "keywords": [
       "flag"
@@ -320,7 +280,6 @@
   },
   {
     "sequence": "1F1E8 1F1E8",
-    "output": "🇨🇨",
     "tts": "Cocos (Keeling) Islands",
     "keywords": [
       "flag"
@@ -328,7 +287,6 @@
   },
   {
     "sequence": "1F1E8 1F1E9",
-    "output": "🇨🇩",
     "tts": "Congo, the Democratic Republic of the",
     "keywords": [
       "flag"
@@ -336,7 +294,6 @@
   },
   {
     "sequence": "1F1E8 1F1EB",
-    "output": "🇨🇫",
     "tts": "Central African Republic",
     "keywords": [
       "flag"
@@ -344,7 +301,6 @@
   },
   {
     "sequence": "1F1E8 1F1EC",
-    "output": "🇨🇬",
     "tts": "Congo",
     "keywords": [
       "flag"
@@ -352,7 +308,6 @@
   },
   {
     "sequence": "1F1E8 1F1ED",
-    "output": "🇨🇭",
     "tts": "Switzerland",
     "keywords": [
       "flag"
@@ -360,7 +315,6 @@
   },
   {
     "sequence": "1F1E8 1F1EE",
-    "output": "🇨🇮",
     "tts": "Cote D'Ivoire",
     "keywords": [
       "flag"
@@ -368,7 +322,6 @@
   },
   {
     "sequence": "1F1E8 1F1F0",
-    "output": "🇨🇰",
     "tts": "Cook Islands",
     "keywords": [
       "flag"
@@ -376,7 +329,6 @@
   },
   {
     "sequence": "1F1E8 1F1F1",
-    "output": "🇨🇱",
     "tts": "Chile",
     "keywords": [
       "flag"
@@ -384,7 +336,6 @@
   },
   {
     "sequence": "1F1E8 1F1F2",
-    "output": "🇨🇲",
     "tts": "Cameroon",
     "keywords": [
       "flag"
@@ -392,7 +343,6 @@
   },
   {
     "sequence": "1F1E8 1F1F3",
-    "output": "🇨🇳",
     "tts": "China",
     "keywords": [
       "flag"
@@ -400,7 +350,6 @@
   },
   {
     "sequence": "1F1E8 1F1F4",
-    "output": "🇨🇴",
     "tts": "Colombia",
     "keywords": [
       "flag"
@@ -408,7 +357,6 @@
   },
   {
     "sequence": "1F1E8 1F1F5",
-    "output": "🇨🇵",
     "tts": "Clipperton Island",
     "keywords": [
       "flag"
@@ -416,7 +364,6 @@
   },
   {
     "sequence": "1F1E8 1F1F7",
-    "output": "🇨🇷",
     "tts": "Costa Rica",
     "keywords": [
       "flag"
@@ -424,7 +371,6 @@
   },
   {
     "sequence": "1F1E8 1F1FA",
-    "output": "🇨🇺",
     "tts": "Cuba",
     "keywords": [
       "flag"
@@ -432,7 +378,6 @@
   },
   {
     "sequence": "1F1E8 1F1FB",
-    "output": "🇨🇻",
     "tts": "Cape Verde",
     "keywords": [
       "flag"
@@ -440,7 +385,6 @@
   },
   {
     "sequence": "1F1E8 1F1FC",
-    "output": "🇨🇼",
     "tts": "Curaçao",
     "keywords": [
       "flag"
@@ -448,7 +392,6 @@
   },
   {
     "sequence": "1F1E8 1F1FD",
-    "output": "🇨🇽",
     "tts": "Christmas Island",
     "keywords": [
       "flag"
@@ -456,7 +399,6 @@
   },
   {
     "sequence": "1F1E8 1F1FE",
-    "output": "🇨🇾",
     "tts": "Cyprus",
     "keywords": [
       "flag"
@@ -464,7 +406,6 @@
   },
   {
     "sequence": "1F1E8 1F1FF",
-    "output": "🇨🇿",
     "tts": "Czech Republic",
     "keywords": [
       "flag"
@@ -472,7 +413,6 @@
   },
   {
     "sequence": "1F1E9 1F1EA",
-    "output": "🇩🇪",
     "tts": "Germany",
     "keywords": [
       "flag"
@@ -480,7 +420,6 @@
   },
   {
     "sequence": "1F1E9 1F1EC",
-    "output": "🇩🇬",
     "tts": "Diego Garcia",
     "keywords": [
       "flag"
@@ -488,7 +427,6 @@
   },
   {
     "sequence": "1F1E9 1F1EF",
-    "output": "🇩🇯",
     "tts": "Djibouti",
     "keywords": [
       "flag"
@@ -496,7 +434,6 @@
   },
   {
     "sequence": "1F1E9 1F1F0",
-    "output": "🇩🇰",
     "tts": "Denmark",
     "keywords": [
       "flag"
@@ -504,7 +441,6 @@
   },
   {
     "sequence": "1F1E9 1F1F2",
-    "output": "🇩🇲",
     "tts": "Dominica",
     "keywords": [
       "flag"
@@ -512,7 +448,6 @@
   },
   {
     "sequence": "1F1E9 1F1F4",
-    "output": "🇩🇴",
     "tts": "Dominican Republic",
     "keywords": [
       "flag"
@@ -520,7 +455,6 @@
   },
   {
     "sequence": "1F1E9 1F1FF",
-    "output": "🇩🇿",
     "tts": "Algeria",
     "keywords": [
       "flag"
@@ -528,7 +462,6 @@
   },
   {
     "sequence": "1F1EA 1F1E6",
-    "output": "🇪🇦",
     "tts": "Ceuta, Melilla",
     "keywords": [
       "flag"
@@ -536,7 +469,6 @@
   },
   {
     "sequence": "1F1EA 1F1E8",
-    "output": "🇪🇨",
     "tts": "Ecuador",
     "keywords": [
       "flag"
@@ -544,7 +476,6 @@
   },
   {
     "sequence": "1F1EA 1F1EA",
-    "output": "🇪🇪",
     "tts": "Estonia",
     "keywords": [
       "flag"
@@ -552,7 +483,6 @@
   },
   {
     "sequence": "1F1EA 1F1EC",
-    "output": "🇪🇬",
     "tts": "Egypt",
     "keywords": [
       "flag"
@@ -560,7 +490,6 @@
   },
   {
     "sequence": "1F1EA 1F1ED",
-    "output": "🇪🇭",
     "tts": "Western Sahara",
     "keywords": [
       "flag"
@@ -568,7 +497,6 @@
   },
   {
     "sequence": "1F1EA 1F1F7",
-    "output": "🇪🇷",
     "tts": "Eritrea",
     "keywords": [
       "flag"
@@ -576,7 +504,6 @@
   },
   {
     "sequence": "1F1EA 1F1F8",
-    "output": "🇪🇸",
     "tts": "Spain",
     "keywords": [
       "flag"
@@ -584,7 +511,6 @@
   },
   {
     "sequence": "1F1EA 1F1F9",
-    "output": "🇪🇹",
     "tts": "Ethiopia",
     "keywords": [
       "flag"
@@ -592,7 +518,6 @@
   },
   {
     "sequence": "1F1EA 1F1FA",
-    "output": "🇪🇺",
     "tts": "European Union",
     "keywords": [
       "flag"
@@ -600,7 +525,6 @@
   },
   {
     "sequence": "1F1EB 1F1EE",
-    "output": "🇫🇮",
     "tts": "Finland",
     "keywords": [
       "flag"
@@ -608,7 +532,6 @@
   },
   {
     "sequence": "1F1EB 1F1EF",
-    "output": "🇫🇯",
     "tts": "Fiji",
     "keywords": [
       "flag"
@@ -616,7 +539,6 @@
   },
   {
     "sequence": "1F1EB 1F1F0",
-    "output": "🇫🇰",
     "tts": "Falkland Islands (Malvinas)",
     "keywords": [
       "flag"
@@ -624,7 +546,6 @@
   },
   {
     "sequence": "1F1EB 1F1F2",
-    "output": "🇫🇲",
     "tts": "Micronesia, Federated States of",
     "keywords": [
       "flag"
@@ -632,7 +553,6 @@
   },
   {
     "sequence": "1F1EB 1F1F4",
-    "output": "🇫🇴",
     "tts": "Faroe Islands",
     "keywords": [
       "flag"
@@ -640,7 +560,6 @@
   },
   {
     "sequence": "1F1EB 1F1F7",
-    "output": "🇫🇷",
     "tts": "France",
     "keywords": [
       "flag"
@@ -648,7 +567,6 @@
   },
   {
     "sequence": "1F1EC 1F1E6",
-    "output": "🇬🇦",
     "tts": "Gabon",
     "keywords": [
       "flag"
@@ -656,7 +574,6 @@
   },
   {
     "sequence": "1F1EC 1F1E7",
-    "output": "🇬🇧",
     "tts": "United Kingdom",
     "keywords": [
       "flag"
@@ -664,7 +581,6 @@
   },
   {
     "sequence": "1F1EC 1F1E9",
-    "output": "🇬🇩",
     "tts": "Grenada",
     "keywords": [
       "flag"
@@ -672,7 +588,6 @@
   },
   {
     "sequence": "1F1EC 1F1EA",
-    "output": "🇬🇪",
     "tts": "Georgia",
     "keywords": [
       "flag"
@@ -680,7 +595,6 @@
   },
   {
     "sequence": "1F1EC 1F1EB",
-    "output": "🇬🇫",
     "tts": "French Guiana",
     "keywords": [
       "flag"
@@ -688,7 +602,6 @@
   },
   {
     "sequence": "1F1EC 1F1EC",
-    "output": "🇬🇬",
     "tts": "Guernsey",
     "keywords": [
       "flag"
@@ -696,7 +609,6 @@
   },
   {
     "sequence": "1F1EC 1F1ED",
-    "output": "🇬🇭",
     "tts": "Ghana",
     "keywords": [
       "flag"
@@ -704,7 +616,6 @@
   },
   {
     "sequence": "1F1EC 1F1EE",
-    "output": "🇬🇮",
     "tts": "Gibraltar",
     "keywords": [
       "flag"
@@ -712,7 +623,6 @@
   },
   {
     "sequence": "1F1EC 1F1F1",
-    "output": "🇬🇱",
     "tts": "Greenland",
     "keywords": [
       "flag"
@@ -720,7 +630,6 @@
   },
   {
     "sequence": "1F1EC 1F1F2",
-    "output": "🇬🇲",
     "tts": "Gambia",
     "keywords": [
       "flag"
@@ -728,7 +637,6 @@
   },
   {
     "sequence": "1F1EC 1F1F3",
-    "output": "🇬🇳",
     "tts": "Guinea",
     "keywords": [
       "flag"
@@ -736,7 +644,6 @@
   },
   {
     "sequence": "1F1EC 1F1F5",
-    "output": "🇬🇵",
     "tts": "Guadeloupe",
     "keywords": [
       "flag"
@@ -744,7 +651,6 @@
   },
   {
     "sequence": "1F1EC 1F1F6",
-    "output": "🇬🇶",
     "tts": "Equatorial Guinea",
     "keywords": [
       "flag"
@@ -752,7 +658,6 @@
   },
   {
     "sequence": "1F1EC 1F1F7",
-    "output": "🇬🇷",
     "tts": "Greece",
     "keywords": [
       "flag"
@@ -760,7 +665,6 @@
   },
   {
     "sequence": "1F1EC 1F1F8",
-    "output": "🇬🇸",
     "tts": "South Georgia and the South Sandwich Islands",
     "keywords": [
       "flag"
@@ -768,7 +672,6 @@
   },
   {
     "sequence": "1F1EC 1F1F9",
-    "output": "🇬🇹",
     "tts": "Guatemala",
     "keywords": [
       "flag"
@@ -776,7 +679,6 @@
   },
   {
     "sequence": "1F1EC 1F1FA",
-    "output": "🇬🇺",
     "tts": "Guam",
     "keywords": [
       "flag"
@@ -784,7 +686,6 @@
   },
   {
     "sequence": "1F1EC 1F1FC",
-    "output": "🇬🇼",
     "tts": "Guinea-Bissau",
     "keywords": [
       "flag"
@@ -792,7 +693,6 @@
   },
   {
     "sequence": "1F1EC 1F1FE",
-    "output": "🇬🇾",
     "tts": "Guyana",
     "keywords": [
       "flag"
@@ -800,7 +700,6 @@
   },
   {
     "sequence": "1F1ED 1F1F0",
-    "output": "🇭🇰",
     "tts": "Hong Kong",
     "keywords": [
       "flag"
@@ -808,7 +707,6 @@
   },
   {
     "sequence": "1F1ED 1F1F2",
-    "output": "🇭🇲",
     "tts": "Heard Island and Mcdonald Islands",
     "keywords": [
       "flag"
@@ -816,7 +714,6 @@
   },
   {
     "sequence": "1F1ED 1F1F3",
-    "output": "🇭🇳",
     "tts": "Honduras",
     "keywords": [
       "flag"
@@ -824,7 +721,6 @@
   },
   {
     "sequence": "1F1ED 1F1F7",
-    "output": "🇭🇷",
     "tts": "Croatia",
     "keywords": [
       "flag"
@@ -832,7 +728,6 @@
   },
   {
     "sequence": "1F1ED 1F1F9",
-    "output": "🇭🇹",
     "tts": "Haiti",
     "keywords": [
       "flag"
@@ -840,7 +735,6 @@
   },
   {
     "sequence": "1F1ED 1F1FA",
-    "output": "🇭🇺",
     "tts": "Hungary",
     "keywords": [
       "flag"
@@ -848,7 +742,6 @@
   },
   {
     "sequence": "1F1EE 1F1E8",
-    "output": "🇮🇨",
     "tts": "Canary Islands",
     "keywords": [
       "flag"
@@ -856,7 +749,6 @@
   },
   {
     "sequence": "1F1EE 1F1E9",
-    "output": "🇮🇩",
     "tts": "Indonesia",
     "keywords": [
       "flag"
@@ -864,7 +756,6 @@
   },
   {
     "sequence": "1F1EE 1F1EA",
-    "output": "🇮🇪",
     "tts": "Ireland",
     "keywords": [
       "flag"
@@ -872,7 +763,6 @@
   },
   {
     "sequence": "1F1EE 1F1F1",
-    "output": "🇮🇱",
     "tts": "Israel",
     "keywords": [
       "flag"
@@ -880,7 +770,6 @@
   },
   {
     "sequence": "1F1EE 1F1F2",
-    "output": "🇮🇲",
     "tts": "Isle of Man",
     "keywords": [
       "flag"
@@ -888,7 +777,6 @@
   },
   {
     "sequence": "1F1EE 1F1F3",
-    "output": "🇮🇳",
     "tts": "India",
     "keywords": [
       "flag"
@@ -896,7 +784,6 @@
   },
   {
     "sequence": "1F1EE 1F1F4",
-    "output": "🇮🇴",
     "tts": "British Indian Ocean Territory",
     "keywords": [
       "flag"
@@ -904,7 +791,6 @@
   },
   {
     "sequence": "1F1EE 1F1F6",
-    "output": "🇮🇶",
     "tts": "Iraq",
     "keywords": [
       "flag"
@@ -912,7 +798,6 @@
   },
   {
     "sequence": "1F1EE 1F1F7",
-    "output": "🇮🇷",
     "tts": "Iran, Islamic Republic of",
     "keywords": [
       "flag"
@@ -920,7 +805,6 @@
   },
   {
     "sequence": "1F1EE 1F1F8",
-    "output": "🇮🇸",
     "tts": "Iceland",
     "keywords": [
       "flag"
@@ -928,7 +812,6 @@
   },
   {
     "sequence": "1F1EE 1F1F9",
-    "output": "🇮🇹",
     "tts": "Italy",
     "keywords": [
       "flag"
@@ -936,7 +819,6 @@
   },
   {
     "sequence": "1F1EF 1F1EA",
-    "output": "🇯🇪",
     "tts": "Jersey",
     "keywords": [
       "flag"
@@ -944,7 +826,6 @@
   },
   {
     "sequence": "1F1EF 1F1F2",
-    "output": "🇯🇲",
     "tts": "Jamaica",
     "keywords": [
       "flag"
@@ -952,7 +833,6 @@
   },
   {
     "sequence": "1F1EF 1F1F4",
-    "output": "🇯🇴",
     "tts": "Jordan",
     "keywords": [
       "flag"
@@ -960,7 +840,6 @@
   },
   {
     "sequence": "1F1EF 1F1F5",
-    "output": "🇯🇵",
     "tts": "Japan",
     "keywords": [
       "flag"
@@ -968,7 +847,6 @@
   },
   {
     "sequence": "1F1F0 1F1EA",
-    "output": "🇰🇪",
     "tts": "Kenya",
     "keywords": [
       "flag"
@@ -976,7 +854,6 @@
   },
   {
     "sequence": "1F1F0 1F1EC",
-    "output": "🇰🇬",
     "tts": "Kyrgyzstan",
     "keywords": [
       "flag"
@@ -984,7 +861,6 @@
   },
   {
     "sequence": "1F1F0 1F1ED",
-    "output": "🇰🇭",
     "tts": "Cambodia",
     "keywords": [
       "flag"
@@ -992,7 +868,6 @@
   },
   {
     "sequence": "1F1F0 1F1EE",
-    "output": "🇰🇮",
     "tts": "Kiribati",
     "keywords": [
       "flag"
@@ -1000,7 +875,6 @@
   },
   {
     "sequence": "1F1F0 1F1F2",
-    "output": "🇰🇲",
     "tts": "Comoros",
     "keywords": [
       "flag"
@@ -1008,7 +882,6 @@
   },
   {
     "sequence": "1F1F0 1F1F3",
-    "output": "🇰🇳",
     "tts": "Saint Kitts and Nevis",
     "keywords": [
       "flag"
@@ -1016,7 +889,6 @@
   },
   {
     "sequence": "1F1F0 1F1F5",
-    "output": "🇰🇵",
     "tts": "Korea, Democratic People's Republic of",
     "keywords": [
       "flag"
@@ -1024,7 +896,6 @@
   },
   {
     "sequence": "1F1F0 1F1F7",
-    "output": "🇰🇷",
     "tts": "Korea, Republic of",
     "keywords": [
       "flag"
@@ -1032,7 +903,6 @@
   },
   {
     "sequence": "1F1F0 1F1FC",
-    "output": "🇰🇼",
     "tts": "Kuwait",
     "keywords": [
       "flag"
@@ -1040,7 +910,6 @@
   },
   {
     "sequence": "1F1F0 1F1FE",
-    "output": "🇰🇾",
     "tts": "Cayman Islands",
     "keywords": [
       "flag"
@@ -1048,7 +917,6 @@
   },
   {
     "sequence": "1F1F0 1F1FF",
-    "output": "🇰🇿",
     "tts": "Kazakhstan",
     "keywords": [
       "flag"
@@ -1056,7 +924,6 @@
   },
   {
     "sequence": "1F1F1 1F1E6",
-    "output": "🇱🇦",
     "tts": "Lao People's Democratic Republic",
     "keywords": [
       "flag"
@@ -1064,7 +931,6 @@
   },
   {
     "sequence": "1F1F1 1F1E7",
-    "output": "🇱🇧",
     "tts": "Lebanon",
     "keywords": [
       "flag"
@@ -1072,7 +938,6 @@
   },
   {
     "sequence": "1F1F1 1F1E8",
-    "output": "🇱🇨",
     "tts": "Saint Lucia",
     "keywords": [
       "flag"
@@ -1080,7 +945,6 @@
   },
   {
     "sequence": "1F1F1 1F1EE",
-    "output": "🇱🇮",
     "tts": "Liechtenstein",
     "keywords": [
       "flag"
@@ -1088,7 +952,6 @@
   },
   {
     "sequence": "1F1F1 1F1F0",
-    "output": "🇱🇰",
     "tts": "Sri Lanka",
     "keywords": [
       "flag"
@@ -1096,7 +959,6 @@
   },
   {
     "sequence": "1F1F1 1F1F7",
-    "output": "🇱🇷",
     "tts": "Liberia",
     "keywords": [
       "flag"
@@ -1104,7 +966,6 @@
   },
   {
     "sequence": "1F1F1 1F1F8",
-    "output": "🇱🇸",
     "tts": "Lesotho",
     "keywords": [
       "flag"
@@ -1112,7 +973,6 @@
   },
   {
     "sequence": "1F1F1 1F1F9",
-    "output": "🇱🇹",
     "tts": "Lithuania",
     "keywords": [
       "flag"
@@ -1120,7 +980,6 @@
   },
   {
     "sequence": "1F1F1 1F1FA",
-    "output": "🇱🇺",
     "tts": "Luxembourg",
     "keywords": [
       "flag"
@@ -1128,7 +987,6 @@
   },
   {
     "sequence": "1F1F1 1F1FB",
-    "output": "🇱🇻",
     "tts": "Latvia",
     "keywords": [
       "flag"
@@ -1136,7 +994,6 @@
   },
   {
     "sequence": "1F1F1 1F1FE",
-    "output": "🇱🇾",
     "tts": "Libyan Arab Jamahiriya",
     "keywords": [
       "flag"
@@ -1144,7 +1001,6 @@
   },
   {
     "sequence": "1F1F2 1F1E6",
-    "output": "🇲🇦",
     "tts": "Morocco",
     "keywords": [
       "flag"
@@ -1152,7 +1008,6 @@
   },
   {
     "sequence": "1F1F2 1F1E8",
-    "output": "🇲🇨",
     "tts": "Monaco",
     "keywords": [
       "flag"
@@ -1160,7 +1015,6 @@
   },
   {
     "sequence": "1F1F2 1F1E9",
-    "output": "🇲🇩",
     "tts": "Moldova, Republic of",
     "keywords": [
       "flag"
@@ -1168,7 +1022,6 @@
   },
   {
     "sequence": "1F1F2 1F1EA",
-    "output": "🇲🇪",
     "tts": "Montenegro",
     "keywords": [
       "flag"
@@ -1176,7 +1029,6 @@
   },
   {
     "sequence": "1F1F2 1F1EB",
-    "output": "🇲🇫",
     "tts": "Saint Martin (French part)",
     "keywords": [
       "flag"
@@ -1184,7 +1036,6 @@
   },
   {
     "sequence": "1F1F2 1F1EC",
-    "output": "🇲🇬",
     "tts": "Madagascar",
     "keywords": [
       "flag"
@@ -1192,7 +1043,6 @@
   },
   {
     "sequence": "1F1F2 1F1ED",
-    "output": "🇲🇭",
     "tts": "Marshall Islands",
     "keywords": [
       "flag"
@@ -1200,7 +1050,6 @@
   },
   {
     "sequence": "1F1F2 1F1F0",
-    "output": "🇲🇰",
     "tts": "Macedonia, the Former Yugoslav Republic of",
     "keywords": [
       "flag"
@@ -1208,7 +1057,6 @@
   },
   {
     "sequence": "1F1F2 1F1F1",
-    "output": "🇲🇱",
     "tts": "Mali",
     "keywords": [
       "flag"
@@ -1216,7 +1064,6 @@
   },
   {
     "sequence": "1F1F2 1F1F2",
-    "output": "🇲🇲",
     "tts": "Myanmar",
     "keywords": [
       "flag"
@@ -1224,7 +1071,6 @@
   },
   {
     "sequence": "1F1F2 1F1F3",
-    "output": "🇲🇳",
     "tts": "Mongolia",
     "keywords": [
       "flag"
@@ -1232,7 +1078,6 @@
   },
   {
     "sequence": "1F1F2 1F1F4",
-    "output": "🇲🇴",
     "tts": "Macao",
     "keywords": [
       "flag"
@@ -1240,7 +1085,6 @@
   },
   {
     "sequence": "1F1F2 1F1F5",
-    "output": "🇲🇵",
     "tts": "Northern Mariana Islands",
     "keywords": [
       "flag"
@@ -1248,7 +1092,6 @@
   },
   {
     "sequence": "1F1F2 1F1F6",
-    "output": "🇲🇶",
     "tts": "Martinique",
     "keywords": [
       "flag"
@@ -1256,7 +1099,6 @@
   },
   {
     "sequence": "1F1F2 1F1F7",
-    "output": "🇲🇷",
     "tts": "Mauritania",
     "keywords": [
       "flag"
@@ -1264,7 +1106,6 @@
   },
   {
     "sequence": "1F1F2 1F1F8",
-    "output": "🇲🇸",
     "tts": "Montserrat",
     "keywords": [
       "flag"
@@ -1272,7 +1113,6 @@
   },
   {
     "sequence": "1F1F2 1F1F9",
-    "output": "🇲🇹",
     "tts": "Malta",
     "keywords": [
       "flag"
@@ -1280,7 +1120,6 @@
   },
   {
     "sequence": "1F1F2 1F1FA",
-    "output": "🇲🇺",
     "tts": "Mauritius",
     "keywords": [
       "flag"
@@ -1288,7 +1127,6 @@
   },
   {
     "sequence": "1F1F2 1F1FB",
-    "output": "🇲🇻",
     "tts": "Maldives",
     "keywords": [
       "flag"
@@ -1296,7 +1134,6 @@
   },
   {
     "sequence": "1F1F2 1F1FC",
-    "output": "🇲🇼",
     "tts": "Malawi",
     "keywords": [
       "flag"
@@ -1304,7 +1141,6 @@
   },
   {
     "sequence": "1F1F2 1F1FD",
-    "output": "🇲🇽",
     "tts": "Mexico",
     "keywords": [
       "flag"
@@ -1312,7 +1148,6 @@
   },
   {
     "sequence": "1F1F2 1F1FE",
-    "output": "🇲🇾",
     "tts": "Malaysia",
     "keywords": [
       "flag"
@@ -1320,7 +1155,6 @@
   },
   {
     "sequence": "1F1F2 1F1FF",
-    "output": "🇲🇿",
     "tts": "Mozambique",
     "keywords": [
       "flag"
@@ -1328,7 +1162,6 @@
   },
   {
     "sequence": "1F1F3 1F1E6",
-    "output": "🇳🇦",
     "tts": "Namibia",
     "keywords": [
       "flag"
@@ -1336,7 +1169,6 @@
   },
   {
     "sequence": "1F1F3 1F1E8",
-    "output": "🇳🇨",
     "tts": "New Caledonia",
     "keywords": [
       "flag"
@@ -1344,7 +1176,6 @@
   },
   {
     "sequence": "1F1F3 1F1EA",
-    "output": "🇳🇪",
     "tts": "Niger",
     "keywords": [
       "flag"
@@ -1352,7 +1183,6 @@
   },
   {
     "sequence": "1F1F3 1F1EB",
-    "output": "🇳🇫",
     "tts": "Norfolk Island",
     "keywords": [
       "flag"
@@ -1360,7 +1190,6 @@
   },
   {
     "sequence": "1F1F3 1F1EC",
-    "output": "🇳🇬",
     "tts": "Nigeria",
     "keywords": [
       "flag"
@@ -1368,7 +1197,6 @@
   },
   {
     "sequence": "1F1F3 1F1EE",
-    "output": "🇳🇮",
     "tts": "Nicaragua",
     "keywords": [
       "flag"
@@ -1376,7 +1204,6 @@
   },
   {
     "sequence": "1F1F3 1F1F1",
-    "output": "🇳🇱",
     "tts": "Netherlands",
     "keywords": [
       "flag"
@@ -1384,7 +1211,6 @@
   },
   {
     "sequence": "1F1F3 1F1F4",
-    "output": "🇳🇴",
     "tts": "Norway",
     "keywords": [
       "flag"
@@ -1392,7 +1218,6 @@
   },
   {
     "sequence": "1F1F3 1F1F5",
-    "output": "🇳🇵",
     "tts": "Nepal",
     "keywords": [
       "flag"
@@ -1400,7 +1225,6 @@
   },
   {
     "sequence": "1F1F3 1F1F7",
-    "output": "🇳🇷",
     "tts": "Nauru",
     "keywords": [
       "flag"
@@ -1408,7 +1232,6 @@
   },
   {
     "sequence": "1F1F3 1F1FA",
-    "output": "🇳🇺",
     "tts": "Niue",
     "keywords": [
       "flag"
@@ -1416,7 +1239,6 @@
   },
   {
     "sequence": "1F1F3 1F1FF",
-    "output": "🇳🇿",
     "tts": "New Zealand",
     "keywords": [
       "flag"
@@ -1424,7 +1246,6 @@
   },
   {
     "sequence": "1F1F4 1F1F2",
-    "output": "🇴🇲",
     "tts": "Oman",
     "keywords": [
       "flag"
@@ -1432,7 +1253,6 @@
   },
   {
     "sequence": "1F1F5 1F1E6",
-    "output": "🇵🇦",
     "tts": "Panama",
     "keywords": [
       "flag"
@@ -1440,7 +1260,6 @@
   },
   {
     "sequence": "1F1F5 1F1EA",
-    "output": "🇵🇪",
     "tts": "Peru",
     "keywords": [
       "flag"
@@ -1448,7 +1267,6 @@
   },
   {
     "sequence": "1F1F5 1F1EB",
-    "output": "🇵🇫",
     "tts": "French Polynesia",
     "keywords": [
       "flag"
@@ -1456,7 +1274,6 @@
   },
   {
     "sequence": "1F1F5 1F1EC",
-    "output": "🇵🇬",
     "tts": "Papua New Guinea",
     "keywords": [
       "flag"
@@ -1464,7 +1281,6 @@
   },
   {
     "sequence": "1F1F5 1F1ED",
-    "output": "🇵🇭",
     "tts": "Philippines",
     "keywords": [
       "flag"
@@ -1472,7 +1288,6 @@
   },
   {
     "sequence": "1F1F5 1F1F0",
-    "output": "🇵🇰",
     "tts": "Pakistan",
     "keywords": [
       "flag"
@@ -1480,7 +1295,6 @@
   },
   {
     "sequence": "1F1F5 1F1F1",
-    "output": "🇵🇱",
     "tts": "Poland",
     "keywords": [
       "flag"
@@ -1488,7 +1302,6 @@
   },
   {
     "sequence": "1F1F5 1F1F2",
-    "output": "🇵🇲",
     "tts": "Saint Pierre and Miquelon",
     "keywords": [
       "flag"
@@ -1496,7 +1309,6 @@
   },
   {
     "sequence": "1F1F5 1F1F3",
-    "output": "🇵🇳",
     "tts": "Pitcairn",
     "keywords": [
       "flag"
@@ -1504,7 +1316,6 @@
   },
   {
     "sequence": "1F1F5 1F1F7",
-    "output": "🇵🇷",
     "tts": "Puerto Rico",
     "keywords": [
       "flag"
@@ -1512,7 +1323,6 @@
   },
   {
     "sequence": "1F1F5 1F1F8",
-    "output": "🇵🇸",
     "tts": "Palestinian Territory, Occupied",
     "keywords": [
       "flag"
@@ -1520,7 +1330,6 @@
   },
   {
     "sequence": "1F1F5 1F1F9",
-    "output": "🇵🇹",
     "tts": "Portugal",
     "keywords": [
       "flag"
@@ -1528,7 +1337,6 @@
   },
   {
     "sequence": "1F1F5 1F1FC",
-    "output": "🇵🇼",
     "tts": "Palau",
     "keywords": [
       "flag"
@@ -1536,7 +1344,6 @@
   },
   {
     "sequence": "1F1F5 1F1FE",
-    "output": "🇵🇾",
     "tts": "Paraguay",
     "keywords": [
       "flag"
@@ -1544,7 +1351,6 @@
   },
   {
     "sequence": "1F1F6 1F1E6",
-    "output": "🇶🇦",
     "tts": "Qatar",
     "keywords": [
       "flag"
@@ -1552,7 +1358,6 @@
   },
   {
     "sequence": "1F1F7 1F1EA",
-    "output": "🇷🇪",
     "tts": "Reunion",
     "keywords": [
       "flag"
@@ -1560,7 +1365,6 @@
   },
   {
     "sequence": "1F1F7 1F1F4",
-    "output": "🇷🇴",
     "tts": "Romania",
     "keywords": [
       "flag"
@@ -1568,7 +1372,6 @@
   },
   {
     "sequence": "1F1F7 1F1F8",
-    "output": "🇷🇸",
     "tts": "Serbia",
     "keywords": [
       "flag"
@@ -1576,7 +1379,6 @@
   },
   {
     "sequence": "1F1F7 1F1FA",
-    "output": "🇷🇺",
     "tts": "Russian Federation",
     "keywords": [
       "flag"
@@ -1584,7 +1386,6 @@
   },
   {
     "sequence": "1F1F7 1F1FC",
-    "output": "🇷🇼",
     "tts": "Rwanda",
     "keywords": [
       "flag"
@@ -1592,7 +1393,6 @@
   },
   {
     "sequence": "1F1F8 1F1E6",
-    "output": "🇸🇦",
     "tts": "Saudi Arabia",
     "keywords": [
       "flag"
@@ -1600,7 +1400,6 @@
   },
   {
     "sequence": "1F1F8 1F1E7",
-    "output": "🇸🇧",
     "tts": "Solomon Islands",
     "keywords": [
       "flag"
@@ -1608,7 +1407,6 @@
   },
   {
     "sequence": "1F1F8 1F1E8",
-    "output": "🇸🇨",
     "tts": "Seychelles",
     "keywords": [
       "flag"
@@ -1616,7 +1414,6 @@
   },
   {
     "sequence": "1F1F8 1F1E9",
-    "output": "🇸🇩",
     "tts": "Sudan",
     "keywords": [
       "flag"
@@ -1624,7 +1421,6 @@
   },
   {
     "sequence": "1F1F8 1F1EA",
-    "output": "🇸🇪",
     "tts": "Sweden",
     "keywords": [
       "flag"
@@ -1632,7 +1428,6 @@
   },
   {
     "sequence": "1F1F8 1F1EC",
-    "output": "🇸🇬",
     "tts": "Singapore",
     "keywords": [
       "flag"
@@ -1640,7 +1435,6 @@
   },
   {
     "sequence": "1F1F8 1F1ED",
-    "output": "🇸🇭",
     "tts": "Saint Helena",
     "keywords": [
       "flag"
@@ -1648,7 +1442,6 @@
   },
   {
     "sequence": "1F1F8 1F1EE",
-    "output": "🇸🇮",
     "tts": "Slovenia",
     "keywords": [
       "flag"
@@ -1656,7 +1449,6 @@
   },
   {
     "sequence": "1F1F8 1F1EF",
-    "output": "🇸🇯",
     "tts": "Svalbard and Jan Mayen",
     "keywords": [
       "flag"
@@ -1664,7 +1456,6 @@
   },
   {
     "sequence": "1F1F8 1F1F0",
-    "output": "🇸🇰",
     "tts": "Slovakia",
     "keywords": [
       "flag"
@@ -1672,7 +1463,6 @@
   },
   {
     "sequence": "1F1F8 1F1F1",
-    "output": "🇸🇱",
     "tts": "Sierra Leone",
     "keywords": [
       "flag"
@@ -1680,7 +1470,6 @@
   },
   {
     "sequence": "1F1F8 1F1F2",
-    "output": "🇸🇲",
     "tts": "San Marino",
     "keywords": [
       "flag"
@@ -1688,7 +1477,6 @@
   },
   {
     "sequence": "1F1F8 1F1F3",
-    "output": "🇸🇳",
     "tts": "Senegal",
     "keywords": [
       "flag"
@@ -1696,7 +1484,6 @@
   },
   {
     "sequence": "1F1F8 1F1F4",
-    "output": "🇸🇴",
     "tts": "Somalia",
     "keywords": [
       "flag"
@@ -1704,7 +1491,6 @@
   },
   {
     "sequence": "1F1F8 1F1F7",
-    "output": "🇸🇷",
     "tts": "Suriname",
     "keywords": [
       "flag"
@@ -1712,7 +1498,6 @@
   },
   {
     "sequence": "1F1F8 1F1F8",
-    "output": "🇸🇸",
     "tts": "South Sudan",
     "keywords": [
       "flag"
@@ -1720,7 +1505,6 @@
   },
   {
     "sequence": "1F1F8 1F1F9",
-    "output": "🇸🇹",
     "tts": "Sao Tome and Principe",
     "keywords": [
       "flag"
@@ -1728,7 +1512,6 @@
   },
   {
     "sequence": "1F1F8 1F1FB",
-    "output": "🇸🇻",
     "tts": "El Salvador",
     "keywords": [
       "flag"
@@ -1736,7 +1519,6 @@
   },
   {
     "sequence": "1F1F8 1F1FD",
-    "output": "🇸🇽",
     "tts": "Sint Maarten (Dutch part)",
     "keywords": [
       "flag"
@@ -1744,7 +1526,6 @@
   },
   {
     "sequence": "1F1F8 1F1FE",
-    "output": "🇸🇾",
     "tts": "Syrian Arab Republic",
     "keywords": [
       "flag"
@@ -1752,7 +1533,6 @@
   },
   {
     "sequence": "1F1F8 1F1FF",
-    "output": "🇸🇿",
     "tts": "Swaziland",
     "keywords": [
       "flag"
@@ -1760,7 +1540,6 @@
   },
   {
     "sequence": "1F1F9 1F1E6",
-    "output": "🇹🇦",
     "tts": "Tristan da Cunha",
     "keywords": [
       "flag"
@@ -1768,7 +1547,6 @@
   },
   {
     "sequence": "1F1F9 1F1E8",
-    "output": "🇹🇨",
     "tts": "Turks and Caicos Islands",
     "keywords": [
       "flag"
@@ -1776,7 +1554,6 @@
   },
   {
     "sequence": "1F1F9 1F1E9",
-    "output": "🇹🇩",
     "tts": "Chad",
     "keywords": [
       "flag"
@@ -1784,7 +1561,6 @@
   },
   {
     "sequence": "1F1F9 1F1EB",
-    "output": "🇹🇫",
     "tts": "French Southern Territories",
     "keywords": [
       "flag"
@@ -1792,7 +1568,6 @@
   },
   {
     "sequence": "1F1F9 1F1EC",
-    "output": "🇹🇬",
     "tts": "Togo",
     "keywords": [
       "flag"
@@ -1800,7 +1575,6 @@
   },
   {
     "sequence": "1F1F9 1F1ED",
-    "output": "🇹🇭",
     "tts": "Thailand",
     "keywords": [
       "flag"
@@ -1808,7 +1582,6 @@
   },
   {
     "sequence": "1F1F9 1F1EF",
-    "output": "🇹🇯",
     "tts": "Tajikistan",
     "keywords": [
       "flag"
@@ -1816,7 +1589,6 @@
   },
   {
     "sequence": "1F1F9 1F1F0",
-    "output": "🇹🇰",
     "tts": "Tokelau",
     "keywords": [
       "flag"
@@ -1824,7 +1596,6 @@
   },
   {
     "sequence": "1F1F9 1F1F1",
-    "output": "🇹🇱",
     "tts": "Timor-Leste",
     "keywords": [
       "flag"
@@ -1832,7 +1603,6 @@
   },
   {
     "sequence": "1F1F9 1F1F2",
-    "output": "🇹🇲",
     "tts": "Turkmenistan",
     "keywords": [
       "flag"
@@ -1840,7 +1610,6 @@
   },
   {
     "sequence": "1F1F9 1F1F3",
-    "output": "🇹🇳",
     "tts": "Tunisia",
     "keywords": [
       "flag"
@@ -1848,7 +1617,6 @@
   },
   {
     "sequence": "1F1F9 1F1F4",
-    "output": "🇹🇴",
     "tts": "Tonga",
     "keywords": [
       "flag"
@@ -1856,7 +1624,6 @@
   },
   {
     "sequence": "1F1F9 1F1F7",
-    "output": "🇹🇷",
     "tts": "Turkey",
     "keywords": [
       "flag"
@@ -1864,7 +1631,6 @@
   },
   {
     "sequence": "1F1F9 1F1F9",
-    "output": "🇹🇹",
     "tts": "Trinidad and Tobago",
     "keywords": [
       "flag"
@@ -1872,7 +1638,6 @@
   },
   {
     "sequence": "1F1F9 1F1FB",
-    "output": "🇹🇻",
     "tts": "Tuvalu",
     "keywords": [
       "flag"
@@ -1880,7 +1645,6 @@
   },
   {
     "sequence": "1F1F9 1F1FC",
-    "output": "🇹🇼",
     "tts": "Taiwan",
     "keywords": [
       "flag"
@@ -1888,7 +1652,6 @@
   },
   {
     "sequence": "1F1F9 1F1FF",
-    "output": "🇹🇿",
     "tts": "Tanzania, United Republic of",
     "keywords": [
       "flag"
@@ -1896,7 +1659,6 @@
   },
   {
     "sequence": "1F1FA 1F1E6",
-    "output": "🇺🇦",
     "tts": "Ukraine",
     "keywords": [
       "flag"
@@ -1904,7 +1666,6 @@
   },
   {
     "sequence": "1F1FA 1F1EC",
-    "output": "🇺🇬",
     "tts": "Uganda",
     "keywords": [
       "flag"
@@ -1912,7 +1673,6 @@
   },
   {
     "sequence": "1F1FA 1F1F2",
-    "output": "🇺🇲",
     "tts": "United States Minor Outlying Islands",
     "keywords": [
       "flag"
@@ -1920,7 +1680,6 @@
   },
   {
     "sequence": "1F1FA 1F1F3",
-    "output": "🇺🇳",
     "tts": "United Nations",
     "keywords": [
       "flag"
@@ -1928,7 +1687,6 @@
   },
   {
     "sequence": "1F1FA 1F1F8",
-    "output": "🇺🇸",
     "tts": "United States",
     "keywords": [
       "flag"
@@ -1936,7 +1694,6 @@
   },
   {
     "sequence": "1F1FA 1F1FE",
-    "output": "🇺🇾",
     "tts": "Uruguay",
     "keywords": [
       "flag"
@@ -1944,7 +1701,6 @@
   },
   {
     "sequence": "1F1FA 1F1FF",
-    "output": "🇺🇿",
     "tts": "Uzbekistan",
     "keywords": [
       "flag"
@@ -1952,7 +1708,6 @@
   },
   {
     "sequence": "1F1FB 1F1E6",
-    "output": "🇻🇦",
     "tts": "Holy See (Vatican City State)",
     "keywords": [
       "flag"
@@ -1960,7 +1715,6 @@
   },
   {
     "sequence": "1F1FB 1F1E8",
-    "output": "🇻🇨",
     "tts": "Saint Vincent and the Grenadines",
     "keywords": [
       "flag"
@@ -1968,7 +1722,6 @@
   },
   {
     "sequence": "1F1FB 1F1EA",
-    "output": "🇻🇪",
     "tts": "Venezuela",
     "keywords": [
       "flag"
@@ -1976,7 +1729,6 @@
   },
   {
     "sequence": "1F1FB 1F1EC",
-    "output": "🇻🇬",
     "tts": "Virgin Islands, British",
     "keywords": [
       "flag"
@@ -1984,7 +1736,6 @@
   },
   {
     "sequence": "1F1FB 1F1EE",
-    "output": "🇻🇮",
     "tts": "Virgin Islands, U.s.",
     "keywords": [
       "flag"
@@ -1992,7 +1743,6 @@
   },
   {
     "sequence": "1F1FB 1F1F3",
-    "output": "🇻🇳",
     "tts": "Viet Nam",
     "keywords": [
       "flag"
@@ -2000,7 +1750,6 @@
   },
   {
     "sequence": "1F1FB 1F1FA",
-    "output": "🇻🇺",
     "tts": "Vanuatu",
     "keywords": [
       "flag"
@@ -2008,7 +1757,6 @@
   },
   {
     "sequence": "1F1FC 1F1EB",
-    "output": "🇼🇫",
     "tts": "Wallis and Futuna",
     "keywords": [
       "flag"
@@ -2016,7 +1764,6 @@
   },
   {
     "sequence": "1F1FC 1F1F8",
-    "output": "🇼🇸",
     "tts": "Samoa",
     "keywords": [
       "flag"
@@ -2024,7 +1771,6 @@
   },
   {
     "sequence": "1F1FD 1F1F0",
-    "output": "🇽🇰",
     "tts": "Kosovo",
     "keywords": [
       "flag"
@@ -2032,7 +1778,6 @@
   },
   {
     "sequence": "1F1FE 1F1EA",
-    "output": "🇾🇪",
     "tts": "Yemen",
     "keywords": [
       "flag"
@@ -2040,7 +1785,6 @@
   },
   {
     "sequence": "1F1FE 1F1F9",
-    "output": "🇾🇹",
     "tts": "Mayotte",
     "keywords": [
       "flag"
@@ -2048,7 +1792,6 @@
   },
   {
     "sequence": "1F1FF 1F1E6",
-    "output": "🇿🇦",
     "tts": "South Africa",
     "keywords": [
       "flag"
@@ -2056,7 +1799,6 @@
   },
   {
     "sequence": "1F1FF 1F1F2",
-    "output": "🇿🇲",
     "tts": "Zambia",
     "keywords": [
       "flag"
@@ -2064,7 +1806,6 @@
   },
   {
     "sequence": "1F1FF 1F1FC",
-    "output": "🇿🇼",
     "tts": "Zimbabwe",
     "keywords": [
       "flag"

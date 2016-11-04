@@ -31,9 +31,9 @@ TODO
 MIT [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
 
 # TODO
-- externalize/outsource annotation stuff because of accumulated file size
-- make sure english annotations are complete via community annotations
-- test annotations and combine-annotations
+- do not use default URLs! solely rely on presets!
+- make sure english and german annotations are complete via community annotations
+- test cldr-annotations, utils, combine-annotations and community-annotations
 
 
 1. testing (proves the "fully tested" statement)

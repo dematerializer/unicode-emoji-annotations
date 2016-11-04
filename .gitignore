@@ -3,5 +3,4 @@ npm-debug.log
 .nyc_output
 coverage
 lib/community
-*MISSING.json
 *TODO.json

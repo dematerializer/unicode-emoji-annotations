@@ -7,11 +7,15 @@
   "main": "index.js",
   "files": [
     "index.js",
+    "build/combine-annotations.js",
+    "build/utils.js",
     "lib"
   ],
   "scripts": {
+    "update-unicode-emoji-data-dep": "rm -rf node_modules/unicode-emoji-data; npm i",
     "start": "npm run build",
     "build": "NODE_ENV=production node build.js",
+    "community": "node community-annotations.js",
     "test": "NODE_ENV=test nyc --reporter=lcov --reporter=text mocha --require ./test-env --compilers js:babel-core/register build/**/*.test.js",
     "posttest": "NODE_ENV=test npm run lint",
     "lint": "NODE_ENV=test eslint --ignore-path .gitignore ."

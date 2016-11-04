@@ -2,44 +2,17 @@
 
 /* eslint-disable */
 
-function groupArrayOfObjectsByKey(array, key) {
-	return array.reduce((curr, obj) => {
-		const next = curr;
-		next[typeof key === 'function' ? key(obj) : obj[key]] = obj;
-		return next;
-	}, {});
-}
+var combineAnnotations = require('./build/combine-annotations');
 
-function combineAnnotations(version, language) {
+function combineAnnotationsForVersionAndLanguage(version, language) {
 	var cldrAnnotations = require('./lib/cldr/' + version + '/' + language + '.json');
 	var communityAnnotations = require('./lib/community/' + language + '.json');
 	var globalCommunityAnnotations = require('./lib/community/global.json');
-	if (communityAnnotations == null) {
-		return cldrAnnotations;
-	}
-	var cldrAnnotationForSequence = groupArrayOfObjectsByKey(cldrAnnotations, 'sequence');
-	var communityAnnotationForSequence = groupArrayOfObjectsByKey(communityAnnotations, 'sequence');
-	var globalCommunityAnnotationForSequence = groupArrayOfObjectsByKey(globalCommunityAnnotations, 'sequence');
-	var newAnnotations = Object.keys(communityAnnotationForSequence)
-	.filter(communitySequence => cldrAnnotationForSequence[communitySequence] == null)
-	.map(communitySequence => communityAnnotationForSequence[communitySequence]);
-	return cldrAnnotations.map((cldrAnnotation) => {
-		const globalCommunityAnnotation = globalCommunityAnnotationForSequence[cldrAnnotation.sequence] || {};
-		const communityAnnotation = communityAnnotationForSequence[cldrAnnotation.sequence] || {};
-		// Keep sequence, override tts, concatenate keywords:
-		return {
-			sequence: cldrAnnotation.sequence,
-			tts: communityAnnotation.tts || cldrAnnotation.tts,
-			keywords: cldrAnnotation.keywords.concat(
-				communityAnnotation.keywords || [],
-				globalCommunityAnnotation.keywords || []
-			)
-		};
-	}).concat(newAnnotations);
-}
+	return combineAnnotations(cldrAnnotations, communityAnnotations, globalCommunityAnnotations);
+};
 
 module.exports = {
-	combined: combineAnnotations,
+	combined: combineAnnotationsForVersionAndLanguage,
 	cldr: {
 		v29: {
 			de: require('./lib/cldr/v29/de.json'),
