@@ -31,7 +31,6 @@ TODO
 MIT [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
 
 # TODO
-- do not use default URLs! solely rely on presets!
 - make sure english and german annotations are complete via community annotations
 - test cldr-annotations, utils, combine-annotations and community-annotations
 

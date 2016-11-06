@@ -27,13 +27,7 @@ function* buildForPreset(preset) {
 	// Write CLDR annotation files to lib:
 	preset.cldrAnnotationsLanguages.forEach((language) => {
 		const data = cldrAnnotations.annotationsForLanguage[language];
-		fs.writeFileSync(`lib/cldr/v${preset.cldrVersion}/${language}.json`, JSON.stringify(data, null, 2));
-	});
-
-	// Copy community annotation files to lib:
-	preset.communityAnnotationsLanguages.forEach((language) => {
-		const source = require(`../community-annotations/${language}.json`); // eslint-disable-line
-		fs.writeFileSync(`lib/community/${language}.json`, JSON.stringify(source, null, 2));
+		fs.writeFileSync(`src/cldr-annotations/v${preset.cldrVersion}/${language}.json`, JSON.stringify(data, null, 2));
 	});
 
 	logUpdate('✓ write annotation files');

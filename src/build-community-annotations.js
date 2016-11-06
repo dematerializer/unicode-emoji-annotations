@@ -2,14 +2,14 @@ import unicodeEmojiData from 'unicode-emoji-data';
 import countries from 'i18n-iso-countries';
 import fs from 'fs';
 import combineAnnotations from './combine-annotations';
-import groupArrayOfObjectsByKey from './utils';
+import { groupArrayOfObjectsByKey } from './utils';
 
 const languages = ['en', 'de'];
 
 languages.forEach((language) => {
-	const cldrAnnotations = require(`../lib/cldr/v30/${language}.json`); // eslint-disable-line
-	const communityAnnotations = require(`../lib/community/${language}.json`); // eslint-disable-line
-	const globalCommunityAnnotations = require('../lib/community/global.json'); // eslint-disable-line
+	const cldrAnnotations = require(`./cldr-annotations/v30/${language}.json`); // eslint-disable-line
+	const communityAnnotations = require(`./community-annotations/${language}.json`); // eslint-disable-line
+	const globalCommunityAnnotations = require('./community-annotations/global.json'); // eslint-disable-line
 
 	const annotations = combineAnnotations(cldrAnnotations, communityAnnotations, globalCommunityAnnotations);
 	const annotationForSequence = groupArrayOfObjectsByKey(annotations, 'sequence');
@@ -49,5 +49,5 @@ languages.forEach((language) => {
 		};
 	});
 
-	fs.writeFileSync(`community-annotations/${language}.TODO.json`, JSON.stringify(emojiAnnotationSuggestions, null, 2));
+	fs.writeFileSync(`src/community-annotations/_TODO/${language}.TODO.json`, JSON.stringify(emojiAnnotationSuggestions, null, 2));
 });
