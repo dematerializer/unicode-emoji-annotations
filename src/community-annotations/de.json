@@ -4,5 +4,1986 @@
     "keywords": [
       "frech"
     ]
+  },
+  {
+    "sequence": "1F1E6 1F1E8",
+    "tts": "Ascension",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E6 1F1E9",
+    "tts": "Andorra",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E6 1F1EA",
+    "tts": "Vereinigte Arabische Emirate",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E6 1F1EB",
+    "tts": "Afghanistan",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E6 1F1EC",
+    "tts": "Antigua und Barbuda",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E6 1F1EE",
+    "tts": "Anguilla",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E6 1F1F1",
+    "tts": "Albanien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E6 1F1F2",
+    "tts": "Armenien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E6 1F1F4",
+    "tts": "Angola",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E6 1F1F6",
+    "tts": "Antarktika",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E6 1F1F7",
+    "tts": "Argentinien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E6 1F1F8",
+    "tts": "Amerikanisch-Samoa",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E6 1F1F9",
+    "tts": "Österreich",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E6 1F1FA",
+    "tts": "Australien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E6 1F1FC",
+    "tts": "Aruba",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E6 1F1FD",
+    "tts": "Åland",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E6 1F1FF",
+    "tts": "Aserbaidschan",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1E6",
+    "tts": "Bosnien und Herzegowina",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1E7",
+    "tts": "Barbados",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1E9",
+    "tts": "Bangladesch",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1EA",
+    "tts": "Belgien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1EB",
+    "tts": "Burkina Faso",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1EC",
+    "tts": "Bulgarien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1ED",
+    "tts": "Bahrain",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1EE",
+    "tts": "Burundi",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1EF",
+    "tts": "Benin",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1F1",
+    "tts": "Saint-Barthélemy",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1F2",
+    "tts": "Bermuda",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1F3",
+    "tts": "Brunei Darussalam",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1F4",
+    "tts": "Bolivien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1F6",
+    "tts": "Bonaire",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1F7",
+    "tts": "Brasilien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1F8",
+    "tts": "Bahamas",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1F9",
+    "tts": "Bhutan",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1FB",
+    "tts": "Bouvetinsel",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1FC",
+    "tts": "Botswana",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1FE",
+    "tts": "Weißrussland",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E7 1F1FF",
+    "tts": "Belize",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1E6",
+    "tts": "Kanada",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1E8",
+    "tts": "Kokosinseln",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1E9",
+    "tts": "Kongo",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1EB",
+    "tts": "Zentralafrikanische Republik",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1EC",
+    "tts": "Republik Kongo",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1ED",
+    "tts": "Schweiz",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1EE",
+    "tts": "Elfenbeinküste",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1F0",
+    "tts": "Cookinseln",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1F1",
+    "tts": "Chile",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1F2",
+    "tts": "Kamerun",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1F3",
+    "tts": "China",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1F4",
+    "tts": "Kolumbien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1F5",
+    "tts": "Clipperton-Insel",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1F7",
+    "tts": "Costa Rica",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1FA",
+    "tts": "Kuba",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1FB",
+    "tts": "Kap Verde",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1FC",
+    "tts": "Curaçao",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1FD",
+    "tts": "Weihnachtsinsel",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1FE",
+    "tts": "Zypern",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E8 1F1FF",
+    "tts": "Tschechische Republik",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E9 1F1EA",
+    "tts": "Deutschland",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E9 1F1EC",
+    "tts": "Diego Garcia",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E9 1F1EF",
+    "tts": "Dschibuti",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E9 1F1F0",
+    "tts": "Dänemark",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E9 1F1F2",
+    "tts": "Dominica",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E9 1F1F4",
+    "tts": "Dominikanische Republik",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1E9 1F1FF",
+    "tts": "Algerien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EA 1F1E6",
+    "tts": "Ceuta, Melilla",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EA 1F1E8",
+    "tts": "Ecuador",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EA 1F1EA",
+    "tts": "Estland",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EA 1F1EC",
+    "tts": "Ägypten",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EA 1F1ED",
+    "tts": "Westsahara",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EA 1F1F7",
+    "tts": "Eritrea",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EA 1F1F8",
+    "tts": "Spanien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EA 1F1F9",
+    "tts": "Äthiopien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EA 1F1FA",
+    "tts": "Europäische Union",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EB 1F1EE",
+    "tts": "Finnland",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EB 1F1EF",
+    "tts": "Fidschi",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EB 1F1F0",
+    "tts": "Falklandinseln",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EB 1F1F2",
+    "tts": "Mikronesien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EB 1F1F4",
+    "tts": "Färöer",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EB 1F1F7",
+    "tts": "Frankreich",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EC 1F1E6",
+    "tts": "Gabun",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EC 1F1E7",
+    "tts": "Vereinigtes Königreich Großbritannien und Nordirland",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EC 1F1E9",
+    "tts": "Grenada",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EC 1F1EA",
+    "tts": "Georgien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EC 1F1EB",
+    "tts": "Französisch-Guayana",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EC 1F1EC",
+    "tts": "Guernsey",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EC 1F1ED",
+    "tts": "Ghana",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EC 1F1EE",
+    "tts": "Gibraltar",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EC 1F1F1",
+    "tts": "Grönland",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EC 1F1F2",
+    "tts": "Gambia",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EC 1F1F3",
+    "tts": "Guinea",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EC 1F1F5",
+    "tts": "Guadeloupe",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EC 1F1F6",
+    "tts": "Äquatorialguinea",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EC 1F1F7",
+    "tts": "Griechenland",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EC 1F1F8",
+    "tts": "Südgeorgien und die Südlichen Sandwichinseln",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EC 1F1F9",
+    "tts": "Guatemala",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EC 1F1FA",
+    "tts": "Guam",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EC 1F1FC",
+    "tts": "Guinea-Bissau",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EC 1F1FE",
+    "tts": "Guyana",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1ED 1F1F0",
+    "tts": "Hongkong",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1ED 1F1F2",
+    "tts": "Heard und McDonaldinseln",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1ED 1F1F3",
+    "tts": "Honduras",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1ED 1F1F7",
+    "tts": "Kroatien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1ED 1F1F9",
+    "tts": "Haiti",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1ED 1F1FA",
+    "tts": "Ungarn",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EE 1F1E8",
+    "tts": "Kanarische Inseln",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EE 1F1E9",
+    "tts": "Indonesien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EE 1F1EA",
+    "tts": "Irland",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EE 1F1F1",
+    "tts": "Israel",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EE 1F1F2",
+    "tts": "Insel Man",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EE 1F1F3",
+    "tts": "Indien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EE 1F1F4",
+    "tts": "Britisches Territorium im Indischen Ozean",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EE 1F1F6",
+    "tts": "Irak",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EE 1F1F7",
+    "tts": "Iran",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EE 1F1F8",
+    "tts": "Island",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EE 1F1F9",
+    "tts": "Italien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EF 1F1EA",
+    "tts": "Jersey",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EF 1F1F2",
+    "tts": "Jamaika",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EF 1F1F4",
+    "tts": "Jordanien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1EF 1F1F5",
+    "tts": "Japan",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F0 1F1EA",
+    "tts": "Kenia",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F0 1F1EC",
+    "tts": "Kirgisistan",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F0 1F1ED",
+    "tts": "Kambodscha",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F0 1F1EE",
+    "tts": "Kiribati",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F0 1F1F2",
+    "tts": "Komoren",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F0 1F1F3",
+    "tts": "St. Kitts und Nevis",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F0 1F1F5",
+    "tts": "Nordkorea",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F0 1F1F7",
+    "tts": "Südkorea",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F0 1F1FC",
+    "tts": "Kuwait",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F0 1F1FE",
+    "tts": "Kaimaninseln",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F0 1F1FF",
+    "tts": "Kasachstan",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F1 1F1E6",
+    "tts": "Laos",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F1 1F1E7",
+    "tts": "Libanon",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F1 1F1E8",
+    "tts": "St. Lucia",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F1 1F1EE",
+    "tts": "Liechtenstein",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F1 1F1F0",
+    "tts": "Sri Lanka",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F1 1F1F7",
+    "tts": "Liberia",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F1 1F1F8",
+    "tts": "Lesotho",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F1 1F1F9",
+    "tts": "Litauen",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F1 1F1FA",
+    "tts": "Luxemburg",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F1 1F1FB",
+    "tts": "Lettland",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F1 1F1FE",
+    "tts": "Libyen",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1E6",
+    "tts": "Marokko",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1E8",
+    "tts": "Monaco",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1E9",
+    "tts": "Moldawien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1EA",
+    "tts": "Montenegro",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1EB",
+    "tts": "Saint-Martin",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1EC",
+    "tts": "Madagaskar",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1ED",
+    "tts": "Marshallinseln",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1F0",
+    "tts": "Mazedonien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1F1",
+    "tts": "Mali",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1F2",
+    "tts": "Myanmar",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1F3",
+    "tts": "Mongolei",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1F4",
+    "tts": "Macao",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1F5",
+    "tts": "Nördliche Marianen",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1F6",
+    "tts": "Martinique",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1F7",
+    "tts": "Mauretanien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1F8",
+    "tts": "Montserrat",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1F9",
+    "tts": "Malta",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1FA",
+    "tts": "Mauritius",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1FB",
+    "tts": "Malediven",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1FC",
+    "tts": "Malawi",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1FD",
+    "tts": "Mexiko",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1FE",
+    "tts": "Malaysia",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F2 1F1FF",
+    "tts": "Mosambik",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F3 1F1E6",
+    "tts": "Namibia",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F3 1F1E8",
+    "tts": "Neukaledonien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F3 1F1EA",
+    "tts": "Niger",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F3 1F1EB",
+    "tts": "Norfolkinsel",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F3 1F1EC",
+    "tts": "Nigeria",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F3 1F1EE",
+    "tts": "Nicaragua",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F3 1F1F1",
+    "tts": "Niederlande",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F3 1F1F4",
+    "tts": "Norwegen",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F3 1F1F5",
+    "tts": "Nepal",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F3 1F1F7",
+    "tts": "Nauru",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F3 1F1FA",
+    "tts": "Niue",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F3 1F1FF",
+    "tts": "Neuseeland",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F4 1F1F2",
+    "tts": "Oman",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F5 1F1E6",
+    "tts": "Panama",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F5 1F1EA",
+    "tts": "Peru",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F5 1F1EB",
+    "tts": "Französisch-Polynesien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F5 1F1EC",
+    "tts": "Papua-Neuguinea",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F5 1F1ED",
+    "tts": "Philippinen",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F5 1F1F0",
+    "tts": "Pakistan",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F5 1F1F1",
+    "tts": "Polen",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F5 1F1F2",
+    "tts": "Saint-Pierre und Miquelon",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F5 1F1F3",
+    "tts": "Pitcairninseln",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F5 1F1F7",
+    "tts": "Puerto Rico",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F5 1F1F8",
+    "tts": "Staat Palästina",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F5 1F1F9",
+    "tts": "Portugal",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F5 1F1FC",
+    "tts": "Palau",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F5 1F1FE",
+    "tts": "Paraguay",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F6 1F1E6",
+    "tts": "Katar",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F7 1F1EA",
+    "tts": "Réunion",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F7 1F1F4",
+    "tts": "Rumänien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F7 1F1F8",
+    "tts": "Serbien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F7 1F1FA",
+    "tts": "Russische Föderation",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F7 1F1FC",
+    "tts": "Ruanda",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1E6",
+    "tts": "Saudi-Arabien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1E7",
+    "tts": "Salomonen",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1E8",
+    "tts": "Seychellen",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1E9",
+    "tts": "Sudan",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1EA",
+    "tts": "Schweden",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1EC",
+    "tts": "Singapur",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1ED",
+    "tts": "St. Helena",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1EE",
+    "tts": "Slowenien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1EF",
+    "tts": "Svalbard und Jan Mayen",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1F0",
+    "tts": "Slowakei",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1F1",
+    "tts": "Sierra Leone",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1F2",
+    "tts": "San Marino",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1F3",
+    "tts": "Senegal",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1F4",
+    "tts": "Somalia",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1F7",
+    "tts": "Suriname",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1F8",
+    "tts": "Südsudan",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1F9",
+    "tts": "São Tomé und Príncipe",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1FB",
+    "tts": "El Salvador",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1FD",
+    "tts": "Sint Maarten",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1FE",
+    "tts": "Syrien, Arabische Republik",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F8 1F1FF",
+    "tts": "Swasiland",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F9 1F1E6",
+    "tts": "Tristan da Cunha",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F9 1F1E8",
+    "tts": "Turks- und Caicosinseln",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F9 1F1E9",
+    "tts": "Tschad",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F9 1F1EB",
+    "tts": "Französische Süd- und Antarktisgebiete",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F9 1F1EC",
+    "tts": "Togo",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F9 1F1ED",
+    "tts": "Thailand",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F9 1F1EF",
+    "tts": "Tadschikistan",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F9 1F1F0",
+    "tts": "Tokelau",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F9 1F1F1",
+    "tts": "Osttimor",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F9 1F1F2",
+    "tts": "Turkmenistan",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F9 1F1F3",
+    "tts": "Tunesien",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F9 1F1F4",
+    "tts": "Tonga",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F9 1F1F7",
+    "tts": "Türkei",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F9 1F1F9",
+    "tts": "Trinidad und Tobago",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F9 1F1FB",
+    "tts": "Tuvalu",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F9 1F1FC",
+    "tts": "Taiwan",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1F9 1F1FF",
+    "tts": "Tansania, Vereinigte Republik",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FA 1F1E6",
+    "tts": "Ukraine",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FA 1F1EC",
+    "tts": "Uganda",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FA 1F1F2",
+    "tts": "United States Minor Outlying Islands",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FA 1F1F3",
+    "tts": "Vereinte Nationen",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FA 1F1F8",
+    "tts": "Vereinigte Staaten von Amerika",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FA 1F1FE",
+    "tts": "Uruguay",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FA 1F1FF",
+    "tts": "Usbekistan",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FB 1F1E6",
+    "tts": "Vatikanstadt",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FB 1F1E8",
+    "tts": "St. Vincent und die Grenadinen",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FB 1F1EA",
+    "tts": "Venezuela",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FB 1F1EC",
+    "tts": "Britische Jungferninseln",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FB 1F1EE",
+    "tts": "Amerikanische Jungferninseln",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FB 1F1F3",
+    "tts": "Vietnam",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FB 1F1FA",
+    "tts": "Vanuatu",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FC 1F1EB",
+    "tts": "Wallis und Futuna",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FC 1F1F8",
+    "tts": "Samoa",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FD 1F1F0",
+    "tts": "Kosovo",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FE 1F1EA",
+    "tts": "Jemen",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FE 1F1F9",
+    "tts": "Mayotte",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FF 1F1E6",
+    "tts": "Südafrika",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FF 1F1F2",
+    "tts": "Sambia",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F1FF 1F1FC",
+    "tts": "Simbabwe",
+    "keywords": [
+      "Flagge"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F466",
+    "tts": "Familie von einem Mann mit einem Jungen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F466 200D 1F466",
+    "tts": "Familie von einem Mann mit zwei Jungen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F467",
+    "tts": "Familie von einem Mann mit einem Mädchen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F467 200D 1F466",
+    "tts": "Familie von einem Mann mit einem Mädchen und einem Jungen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F467 200D 1F467",
+    "tts": "Familie von einem Mann mit zwei Mädchen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F468 200D 1F466",
+    "tts": "Familie von zwei Männern mit einem Jungen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F468 200D 1F466 200D 1F466",
+    "tts": "Familie von zwei Männern mit zwei Jungen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F468 200D 1F467",
+    "tts": "Familie von zwei Männern mit einem Mädchen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F468 200D 1F467 200D 1F466",
+    "tts": "Familie von zwei Männern mit einem Mädchen und einem Jungen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F468 200D 1F467 200D 1F467",
+    "tts": "Familie von zwei Männern mit zwei Mädchen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F469 200D 1F466",
+    "tts": "Familie von Mann und Frau mit einem Jungen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F469 200D 1F466 200D 1F466",
+    "tts": "Familie von Mann und Frau mit zwei Jungen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F469 200D 1F467",
+    "tts": "Familie von Mann und Frau mit einem Mädchen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F469 200D 1F467 200D 1F466",
+    "tts": "Familie von Mann und Frau mit einem Mädchen und einem Jungen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F469 200D 1F467 200D 1F467",
+    "tts": "Familie von Mann und Frau mit zwei Mädchen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F466",
+    "tts": "Familie von einer Frau mit einem Jungen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F466 200D 1F466",
+    "tts": "Familie von einer Frau mit zwei Jungen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F467",
+    "tts": "Familie von einer Frau mit einem Mädchen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F467 200D 1F466",
+    "tts": "Familie von einer Frau mit einem Mädchen und einem Jungen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F467 200D 1F467",
+    "tts": "Familie von einer Frau mit zwei Mädchen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F469 200D 1F466",
+    "tts": "Familie von zwei Frauen mit einem Jungen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F469 200D 1F466 200D 1F466",
+    "tts": "Familie von zwei Frauen mit zwei Jungen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F469 200D 1F467",
+    "tts": "Familie von zwei Frauen mit einem Mädchen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F469 200D 1F467 200D 1F466",
+    "tts": "Familie von zwei Frauen mit einem Mädchen und einem Jungen",
+    "keywords": [
+      "Familie"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F469 200D 1F467 200D 1F467",
+    "tts": "Familie von zwei Frauen mit zwei Mädchen",
+    "keywords": [
+      "Familie"
+    ]
   }
 ]

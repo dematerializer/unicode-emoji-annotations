@@ -1,5 +1,146 @@
 [
   {
+    "sequence": "0023 20E3",
+    "tts": "Number sign in blue square",
+    "keywords": [
+      "number sign",
+      "hash",
+      "blue",
+      "square",
+      "keycap"
+    ]
+  },
+  {
+    "sequence": "002A 20E3",
+    "tts": "Asterisk in blue square",
+    "keywords": [
+      "asterisk",
+      "blue",
+      "square",
+      "keycap"
+    ]
+  },
+  {
+    "sequence": "0030 20E3",
+    "tts": "Number 0 in blue square",
+    "keywords": [
+      "number",
+      "0",
+      "zero",
+      "blue",
+      "square",
+      "keycap"
+    ]
+  },
+  {
+    "sequence": "0031 20E3",
+    "tts": "Number 1 in blue square",
+    "keywords": [
+      "number",
+      "1",
+      "one",
+      "blue",
+      "square",
+      "keycap"
+    ]
+  },
+  {
+    "sequence": "0032 20E3",
+    "tts": "Number 2 in blue square",
+    "keywords": [
+      "number",
+      "2",
+      "two",
+      "blue",
+      "square",
+      "keycap"
+    ]
+  },
+  {
+    "sequence": "0033 20E3",
+    "tts": "Number 3 in blue square",
+    "keywords": [
+      "number",
+      "3",
+      "three",
+      "blue",
+      "square",
+      "keycap"
+    ]
+  },
+  {
+    "sequence": "0034 20E3",
+    "tts": "Number 4 in blue square",
+    "keywords": [
+      "number",
+      "4",
+      "four",
+      "blue",
+      "square",
+      "keycap"
+    ]
+  },
+  {
+    "sequence": "0035 20E3",
+    "tts": "Number 5 in blue square",
+    "keywords": [
+      "number",
+      "5",
+      "five",
+      "blue",
+      "square",
+      "keycap"
+    ]
+  },
+  {
+    "sequence": "0036 20E3",
+    "tts": "Number 6 in blue square",
+    "keywords": [
+      "number",
+      "6",
+      "six",
+      "blue",
+      "square",
+      "keycap"
+    ]
+  },
+  {
+    "sequence": "0037 20E3",
+    "tts": "Number 7 in blue square",
+    "keywords": [
+      "number",
+      "7",
+      "seven",
+      "blue",
+      "square",
+      "keycap"
+    ]
+  },
+  {
+    "sequence": "0038 20E3",
+    "tts": "Number 8 in blue square",
+    "keywords": [
+      "number",
+      "8",
+      "eight",
+      "blue",
+      "square",
+      "keycap"
+    ]
+  },
+  {
+    "sequence": "0039 20E3",
+    "tts": "Number 9 in blue square",
+    "keywords": [
+      "number",
+      "9",
+      "nine",
+      "blue",
+      "square",
+      "keycap"
+    ]
+  },
+  {
     "sequence": "1F61C",
     "keywords": [
       "cheeky"
@@ -1809,6 +1950,181 @@
     "tts": "Zimbabwe",
     "keywords": [
       "flag"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F466",
+    "tts": "Family of a man with one boy",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F466 200D 1F466",
+    "tts": "Family of a man with two boys",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F467",
+    "tts": "Family of a man with one girl",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F467 200D 1F466",
+    "tts": "Family of a man with one girl and one boy",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F467 200D 1F467",
+    "tts": "Family of a man with two girls",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F468 200D 1F466",
+    "tts": "Family of two men with one boy",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F468 200D 1F466 200D 1F466",
+    "tts": "Family of two men with two boys",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F468 200D 1F467",
+    "tts": "Family of two men with one girl",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F468 200D 1F467 200D 1F466",
+    "tts": "Family of two men with one girl and one boy",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F468 200D 1F467 200D 1F467",
+    "tts": "Family of two men with two girls",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F469 200D 1F466",
+    "tts": "Family of a man and woman with one boy",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F469 200D 1F466 200D 1F466",
+    "tts": "Family of a man and woman with two boys",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F469 200D 1F467",
+    "tts": "Family of a man and woman with one girl",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F469 200D 1F467 200D 1F466",
+    "tts": "Family of a man and woman with one girl and one boy",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 1F469 200D 1F467 200D 1F467",
+    "tts": "Family of a man and woman with two girls",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F466",
+    "tts": "Family of a woman with one boy",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F466 200D 1F466",
+    "tts": "Family of a woman with two boys",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F467",
+    "tts": "Family of a woman with one girl",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F467 200D 1F466",
+    "tts": "Family of a woman with one girl and one boy",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F467 200D 1F467",
+    "tts": "Family of a woman with two girls",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F469 200D 1F466",
+    "tts": "Family of two women with one boy",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F469 200D 1F466 200D 1F466",
+    "tts": "Family of two women with two boys",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F469 200D 1F467",
+    "tts": "Family of two women with one girl",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F469 200D 1F467 200D 1F466",
+    "tts": "Family of two women with one girl and one boy",
+    "keywords": [
+      "family"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 1F469 200D 1F467 200D 1F467",
+    "tts": "Family of two women with two girls",
+    "keywords": [
+      "family"
     ]
   }
 ]
