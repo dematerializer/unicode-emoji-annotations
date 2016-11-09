@@ -2126,5 +2126,59 @@
     "keywords": [
       "family"
     ]
+  },
+  {
+    "sequence": "1F468 200D 2764 200D 1F468",
+    "tts": "Two men in love",
+    "keywords": [
+      "love",
+      "couple"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 2764 200D 1F48B 200D 1F468",
+    "tts": "Two men kissing",
+    "keywords": [
+      "kiss",
+      "kissing",
+      "love",
+      "couple"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 2764 200D 1F468",
+    "tts": "Woman and man in love",
+    "keywords": [
+      "love",
+      "couple"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 2764 200D 1F469",
+    "tts": "Two women in love",
+    "keywords": [
+      "love",
+      "couple"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 2764 200D 1F48B 200D 1F468",
+    "tts": "Woman and man kissing",
+    "keywords": [
+      "kiss",
+      "kissing",
+      "love",
+      "couple"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 2764 200D 1F48B 200D 1F469",
+    "tts": "Two women kissing",
+    "keywords": [
+      "kiss",
+      "kissing",
+      "love",
+      "couple"
+    ]
   }
 ]

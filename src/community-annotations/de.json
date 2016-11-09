@@ -1985,5 +1985,65 @@
     "keywords": [
       "Familie"
     ]
+  },
+  {
+    "sequence": "1F468 200D 2764 200D 1F468",
+    "tts": "Zwei Männer sind verliebt",
+    "keywords": [
+      "Liebe",
+      "Paar",
+      "Pärchen"
+    ]
+  },
+  {
+    "sequence": "1F468 200D 2764 200D 1F48B 200D 1F468",
+    "tts": "Zwei Männer küssen sich",
+    "keywords": [
+      "Kuss",
+      "küssen",
+      "Liebe",
+      "Paar",
+      "Pärchen"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 2764 200D 1F468",
+    "tts": "Frau und Mann sind verliebt",
+    "keywords": [
+      "Liebe",
+      "Paar",
+      "Pärchen"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 2764 200D 1F469",
+    "tts": "Zwei Frauen sind verliebt",
+    "keywords": [
+      "Liebe",
+      "Paar",
+      "Pärchen"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 2764 200D 1F48B 200D 1F468",
+    "tts": "Frau und Mann küssen sich",
+    "keywords": [
+      "Kuss",
+      "küssen",
+      "Liebe",
+      "Paar",
+      "Pärchen"
+    ]
+  },
+  {
+    "sequence": "1F469 200D 2764 200D 1F48B 200D 1F469",
+    "tts": "Zwei Frauen küssen sich",
+    "keywords": [
+      "Kuss",
+      "küssen",
+      "Liebe",
+      "Paar",
+      "Pärchen"
+    ]
   }
 ]
