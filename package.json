@@ -7,7 +7,7 @@
   "main": "dist/index.js",
   "files": ["dist"],
   "scripts": {
-    "update-unicode-emoji-data-dep": "rm -rf node_modules/unicode-emoji-data; npm i",
+    "update-local-deps": "rm -rf node_modules/unicode-emoji-data; npm i",
     "start": "npm run build:annotations",
     "build:annotations": "NODE_ENV=production node build-emoji-annotations.js",
     "build:community": "node build-community-annotations.js",
