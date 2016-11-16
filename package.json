@@ -15,7 +15,7 @@
     "posttest": "NODE_ENV=test npm run lint",
     "lint": "NODE_ENV=test eslint --ignore-path .gitignore .",
     "prepublish": "npm run test && npm run build:sources && npm run copy:json",
-    "build:sources": "mkdir -p dist; babel src/index.js -o dist/index.js; babel src/combine-annotations.js -o dist/combine-annotations.js; babel src/utils.js -o dist/utils.js",
+    "build:sources": "rm -rf dist; mkdir dist; babel src/index.js -o dist/index.js; babel src/combine-annotations.js -o dist/combine-annotations.js; babel src/utils.js -o dist/utils.js",
     "copy:json": "mkdir -p dist/cldr-annotations dist/community-annotations; cp -r src/cldr-annotations dist; cp src/community-annotations/*.json dist/community-annotations"
   },
   "nyc": {
