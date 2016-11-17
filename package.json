@@ -4,8 +4,8 @@
   "private": true,
   "description": "unicode compliant internationalized emoji annotations",
   "author": "Andreas Tietz https://github.com/dematerializer",
-  "main": "dist/index.js",
-  "files": ["dist"],
+  "main": "lib/index.js",
+  "files": ["lib", "res"],
   "scripts": {
     "update-local-deps": "rm -rf node_modules/unicode-emoji-data; npm i",
     "start": "npm run build:annotations",
@@ -14,9 +14,8 @@
     "test": "NODE_ENV=test nyc --reporter=lcov --reporter=text mocha --require ./test-env --compilers js:babel-core/register src/**/*.test.js",
     "posttest": "NODE_ENV=test npm run lint",
     "lint": "NODE_ENV=test eslint --ignore-path .gitignore .",
-    "prepublish": "npm run test && npm run build:sources && npm run copy:json",
-    "build:sources": "rm -rf dist; mkdir dist; babel src/index.js -o dist/index.js; babel src/combine-annotations.js -o dist/combine-annotations.js; babel src/utils.js -o dist/utils.js",
-    "copy:json": "mkdir -p dist/cldr-annotations dist/community-annotations; cp -r src/cldr-annotations dist; cp src/community-annotations/*.json dist/community-annotations"
+    "prepublish": "npm run test && npm run build:sources",
+    "build:sources": "rm -rf lib; mkdir lib; babel src/index.js -o lib/index.js; babel src/combine-annotations.js -o lib/combine-annotations.js; babel src/utils.js -o lib/utils.js"
   },
   "nyc": {
     "sourceMap": false,

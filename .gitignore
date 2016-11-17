@@ -2,5 +2,5 @@ node_modules
 npm-debug.log
 .nyc_output
 coverage
-*TODO.json
-dist
+_TODO
+lib

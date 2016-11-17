@@ -49,5 +49,5 @@ languages.forEach((language) => {
 		};
 	});
 
-	fs.writeFileSync(`src/community-annotations/_TODO/${language}.TODO.json`, JSON.stringify(emojiAnnotationSuggestions, null, 2));
+	fs.writeFileSync(`lib/community-annotations/_TODO/${language}.TODO.json`, JSON.stringify(emojiAnnotationSuggestions, null, 2));
 });

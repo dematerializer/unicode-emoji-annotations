@@ -27,7 +27,7 @@ function* buildForPreset(preset) {
 	// Write CLDR annotation files to lib:
 	preset.cldrAnnotationsLanguages.forEach((language) => {
 		const data = cldrAnnotations.annotationsForLanguage[language];
-		fs.writeFileSync(`src/cldr-annotations/v${preset.cldrVersion}/${language}.json`, JSON.stringify(data, null, 2));
+		fs.writeFileSync(`res/cldr-annotations/v${preset.cldrVersion}/${language}.json`, JSON.stringify(data, null, 2));
 	});
 
 	logUpdate('✓ write annotation files');
