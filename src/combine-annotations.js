@@ -20,7 +20,7 @@ export default function combineAnnotations(cldrAnnotations, communityAnnotations
 			tts: communityAnnotation.tts || cldrAnnotation.tts,
 			keywords: cldrAnnotation.keywords.concat(
 				communityAnnotation.keywords || [],
-				globalCommunityAnnotation.keywords || []
+				globalCommunityAnnotation.keywords || [],
 			),
 		};
 	}).concat(newAnnotations);
