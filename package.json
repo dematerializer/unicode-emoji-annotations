@@ -8,12 +8,12 @@
   "files": ["lib", "res"],
   "scripts": {
     "update-local-deps": "rm -rf node_modules/unicode-emoji-data; npm i",
-    "start": "npm run build:annotations",
-    "build:annotations": "NODE_ENV=production node build-emoji-annotations.js",
+    "start": "npm run build:cldr",
+    "build:cldr": "node build-cldr-annotations.js",
     "build:community": "node build-community-annotations.js",
     "test": "NODE_ENV=test nyc --reporter=lcov --reporter=text mocha --require ./test-env --compilers js:babel-core/register src/**/*.test.js",
-    "posttest": "NODE_ENV=test npm run lint",
-    "lint": "NODE_ENV=test eslint --ignore-path .gitignore .",
+    "posttest": "npm run lint",
+    "lint": "eslint --ignore-path .gitignore .",
     "prepublish": "npm run test && npm run build:sources",
     "build:sources": "rm -rf lib; mkdir lib; babel src/index.js -o lib/index.js; babel src/combine-annotations.js -o lib/combine-annotations.js; babel src/utils.js -o lib/utils.js"
   },
