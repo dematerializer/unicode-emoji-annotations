@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "description": "unicode compliant internationalized emoji annotations",
-  "author": "Andreas Tietz https://github.com/dematerializer",
+  "author": "Andreas Tietz (https://github.com/dematerializer)",
   "main": "lib/index.js",
   "files": [
     "lib",
