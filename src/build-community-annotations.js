@@ -1,4 +1,4 @@
-import unicodeEmojiData from 'unicode-emoji-data';
+import { expandEmojiData, emojiDataStable } from 'unicode-emoji-data';
 import countries from 'i18n-iso-countries';
 import fs from 'fs';
 import combineAnnotations from './combine-annotations';
@@ -15,7 +15,7 @@ languages.forEach((language) => {
 	const annotationForSequence = groupArrayOfObjectsByKey(annotations, 'sequence');
 	const matchAnyVariationSelectorOrModifier = /\s(FE0E|FE0F|1F3FB|1F3FC|1F3FD|1F3FE|1F3FF)/g;
 
-	const emojiDataMissingAnnotations = unicodeEmojiData.v4.expanded
+	const emojiDataMissingAnnotations = expandEmojiData(emojiDataStable)
 	.map(datum => ({
 		sequence: datum.sequence.replace(matchAnyVariationSelectorOrModifier, ''), // normalize sequence
 		name: datum.name,
