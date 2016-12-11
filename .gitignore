@@ -2,5 +2,6 @@ node_modules
 npm-debug.log
 .nyc_output
 coverage
-_TODO
+res/community-annotations/_TODO/*
+!res/community-annotations/_TODO/.gitkeep
 lib

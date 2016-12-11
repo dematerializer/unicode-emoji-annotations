@@ -17,8 +17,8 @@
     "test": "NODE_ENV=test nyc --reporter=lcov --reporter=text mocha --require ./test-env --compilers js:babel-core/register src/**/*.test.js",
     "posttest": "npm run lint",
     "lint": "eslint --ignore-path .gitignore .",
-    "prepublish": "npm run test && npm run build:sources",
-    "build:sources": "rm -rf lib; mkdir lib; babel src/index.js -o lib/index.js; babel src/combine-annotations.js -o lib/combine-annotations.js; babel src/utils.js -o lib/utils.js"
+    "build:sources": "rm -rf lib; mkdir lib; babel src/index.js -o lib/index.js; babel src/combine-annotations.js -o lib/combine-annotations.js; babel src/utils.js -o lib/utils.js",
+    "prepublish": "npm run test && npm run build:sources"
   },
   "nyc": {
     "sourceMap": false,
