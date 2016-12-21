@@ -10,7 +10,6 @@
     "res"
   ],
   "scripts": {
-    "update-local-deps": "rm -rf node_modules/unicode-emoji-data; npm i",
     "start": "npm run build:cldr && npm run build:community",
     "build:cldr": "node build-cldr-annotations.js",
     "build:community": "node build-community-annotations.js",
@@ -45,7 +44,7 @@
     "mocha": "3.1.2",
     "nyc": "9.0.1",
     "punycode": "2.0.1",
-    "unicode-emoji-data": "../unicode-emoji-data",
+    "unicode-emoji-data": "1.0.2",
     "xml2js": "0.4.17"
   }
 }
