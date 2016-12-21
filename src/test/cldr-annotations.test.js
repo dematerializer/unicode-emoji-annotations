@@ -5,12 +5,11 @@ import { internals } from '../cldr-annotations';
 const {
 	defaultBaseUrl,
 	defaultLanguages,
-	buildAnnotationForSequenceV29,
-	buildAnnotationForSequenceV30,
+	buildAnnotations,
 } = internals;
 
 describe('cldr-annotations', () => {
 	it('should use a reasonable default base url', () => {
-		expect(defaultBaseUrl).to.equal('http://unicode.org/repos/cldr/tags/latest/common/annotations');
+		expect(defaultBaseUrl).to.equal('http://unicode.org/repos/cldr/tags/release-30/common/annotations');
 	});
 });

@@ -4,14 +4,13 @@ import logUpdate from 'log-update';
 
 import buildCldrAnnotations from './cldr-annotations';
 
-import presetUnicode9Cldr29 from './preset-unicode-9-cldr-29';
-import presetUnicode9Cldr30 from './preset-unicode-9-cldr-30';
+import presetStable from './preset-stable';
 
 process.on('uncaughtException', (err) => { throw err; });
 process.on('unhandledRejection', (err) => { throw err; });
 
 function* buildForPreset(preset) {
-	logUpdate(`using unicode v${preset.unicodeVersion}, cldr v${preset.cldrVersion} for emoji v${preset.emojiVersion}`);
+	logUpdate(`using unicode v${preset.unicodeVersion}, cldr v${preset.cldrVersion} (${preset.tag}) for emoji v${preset.emojiVersion}`);
 	logUpdate.done();
 
 	// Render annotation files:
@@ -27,7 +26,7 @@ function* buildForPreset(preset) {
 	// Write CLDR annotation files to lib:
 	preset.cldrAnnotationsLanguages.forEach((language) => {
 		const data = cldrAnnotations.annotationsForLanguage[language];
-		fs.writeFileSync(`res/cldr-annotations/v${preset.cldrVersion}/${language}.json`, JSON.stringify(data, null, 2));
+		fs.writeFileSync(`res/cldr/${language}.json`, JSON.stringify(data, null, 2));
 	});
 
 	logUpdate('✓ write annotation files');
@@ -35,6 +34,5 @@ function* buildForPreset(preset) {
 }
 
 co(function* main() {
-	yield buildForPreset(presetUnicode9Cldr29);
-	yield buildForPreset(presetUnicode9Cldr30);
+	yield buildForPreset(presetStable);
 });

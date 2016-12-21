@@ -7,9 +7,9 @@ import { groupArrayOfObjectsByKey } from './utils';
 const languages = ['en', 'de'];
 
 languages.forEach((language) => {
-	const cldrAnnotations = require(`../res/cldr-annotations/v30/${language}.json`); // eslint-disable-line
-	const communityAnnotations = require(`../res/community-annotations/${language}.json`); // eslint-disable-line
-	const globalCommunityAnnotations = require('../res/community-annotations/global.json'); // eslint-disable-line
+	const cldrAnnotations = require(`../res/cldr/${language}.json`); // eslint-disable-line
+	const communityAnnotations = require(`../res/community/${language}.json`); // eslint-disable-line
+	const globalCommunityAnnotations = require('../res/community/global.json'); // eslint-disable-line
 
 	const annotations = combineAnnotations(cldrAnnotations, communityAnnotations, globalCommunityAnnotations);
 	const annotationForSequence = groupArrayOfObjectsByKey(annotations, 'sequence');
@@ -49,5 +49,5 @@ languages.forEach((language) => {
 		};
 	});
 
-	fs.writeFileSync(`res/community-annotations/_TODO/${language}.TODO.json`, JSON.stringify(emojiAnnotationSuggestions, null, 2));
+	fs.writeFileSync(`res/community/_TODO/${language}.TODO.json`, JSON.stringify(emojiAnnotationSuggestions, null, 2));
 });
