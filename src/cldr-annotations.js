@@ -47,19 +47,19 @@ export const internals = {
 	buildAnnotations,
 };
 
-export default function* CldrAnnotations({ baseUrl = defaultBaseUrl, version = 30, languages = defaultLanguages }) {
+export default function* buildCldrAnnotations({ baseUrl = defaultBaseUrl, version = 30, languages = defaultLanguages }) {
 	const annotationsForLanguage = {};
+	if (version !== 30) {
+		logUpdate(`x cldr-annotations: unsupported cldr version ${version}`);
+		logUpdate.done();
+		return null;
+	}
 	for (let i = 0; i < languages.length; i += 1) {
 		const language = languages[i];
 		logUpdate(`⇣ cldr-annotations ${language}`);
 		const content = yield fetch(`${baseUrl}/${language}.xml`).then(res => res.text());
 		const data = yield parseXml(content);
-		if (version === 30) {
-			annotationsForLanguage[language] = buildAnnotations(data);
-		} else {
-			logUpdate(`x cldr-annotations: unsupported cldr version ${version}`);
-			logUpdate.done();
-		}
+		annotationsForLanguage[language] = buildAnnotations(data);
 		logUpdate(`✓ cldr-annotations ${language}`);
 		logUpdate.done();
 	}
