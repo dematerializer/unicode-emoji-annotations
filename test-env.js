@@ -1,5 +1,5 @@
 // NOTE: This sets up the mocha test environment by including
-// babel-polyfill and chai globals while throwing
+// babel-polyfill, chai and fetchMock globals while throwing
 // upon any uncaught exception or unhandled promise rejection.
 
 import 'babel-polyfill';
