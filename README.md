@@ -94,7 +94,8 @@ const englishAnnotations = combinedAnnotationsForLanguage('en');
 
 ### Status
 
-TODO
+[![Travis](https://img.shields.io/travis/dematerializer/unicode-emoji-annotations.svg?style=flat-square)](https://travis-ci.org/dematerializer/unicode-emoji-annotations)
+[![Codecov](https://img.shields.io/codecov/c/github/dematerializer/unicode-emoji-annotations.svg?style=flat-square)](https://codecov.io/gh/dematerializer/unicode-emoji-annotations)
 
 ### Contributing
 
