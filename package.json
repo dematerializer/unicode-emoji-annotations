@@ -2,7 +2,7 @@
   "name": "unicode-emoji-annotations",
   "version": "0.0.0",
   "private": true,
-  "description": "unicode compliant internationalized emoji annotations",
+  "description": "Unicode standard compliant emoji annotations (internationalized text-to-speech descriptions and keywords) with extensions provided by the community",
   "keywords": [
     "unicode",
     "standard",
@@ -10,6 +10,9 @@
     "annotations",
     "internationalization",
     "i18n",
+    "text-to-speech",
+    "keywords",
+    "community",
     "JSON"
   ],
   "author": "Andreas Tietz (https://github.com/dematerializer)",
