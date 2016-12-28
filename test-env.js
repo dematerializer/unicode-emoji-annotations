@@ -4,8 +4,10 @@
 
 import 'babel-polyfill';
 import { expect } from 'chai';
+import fetchMock from 'fetch-mock';
 
 global.expect = expect;
+global.fetchMock = fetchMock;
 
 process.on('uncaughtException', (err) => { throw err; });
 process.on('unhandledRejection', (err) => { throw err; });
