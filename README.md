@@ -1,33 +1,101 @@
 # Unicode Emoji Annotations
 
-> Your single source of truth for unicode standard compliant, internationalized emoji annotations (text-to-speech descriptions and keywords) with extensions provided by the community.
+> Unicode standard compliant emoji annotations (internationalized text-to-speech descriptions and keywords) with extensions provided by the community
 
-- lightweight, precompiled, easy to parse JSON format with a minimalistic API
-- straight from the source, compiled from [unicode repository data files](http://unicode.org/repos/cldr/)
-- up-to-date, supporting CLDR versions 29 and 30
-- no heavy weight [image files or spritesheets](https://github.com/iamcal/emoji-data) included
-- best used with the [unicode-emoji-data](TODO) module
+- lightweight, precompiled, easy to parse JSON data with a minimalistic API
+- straight from the source, compiled directly from [unicode repository data files](http://unicode.org/repos/cldr/tags/release-30)
+- up-to-date, supporting unicode CLDR version v30 (stable)
+- best used in combination with the [unicode-emoji-data](https://www.npmjs.com/package/unicode-emoji-data) module
 
-## Install
+## API
 
-`npm install unicode-emoji-annotations`
+Requiring/importing `unicode-emoji-annotations` gives you the following API to work with:
+
+- `cldrAnnotations`
+- `communityAnnotations`
+- `combinedAnnotationsForLanguage`
+
+### `cldrAnnotations`
+
+```javascript
+{
+  de: [..., { /* emoji annotation */ }, ...],
+  en: [..., { /* emoji annotation */ }, ...]
+}
+```
+
+Properties of an emoji annotation explained:
+
+- `sequence`
+
+  normalized code point sequence;
+
+- `tts`
+
+  text-to-speech description;
+
+- `keywords`
+
+  array of keywords;
+
+### `communityAnnotations`
+
+```javascript
+{
+  global: [..., { /* emoji annotation */ }, ...],
+  de: [..., { /* emoji annotation */ }, ...],
+  en: [..., { /* emoji annotation */ }, ...]
+}
+```
+
+### `combinedAnnotationsForLanguage`
+
+```javascript
+function (language) {}
+```
+
+Combines `language` (e.g. `'de'`, `'en'`) specific cldr and community annotations with global community annotations; returns an array of objects representing combined annotations:
+
+```javascript
+[..., { /* emoji annotation */ }, ...]
+```
 
 ## Usage
 
 ### CommonJS
 
-`const emojiAnnotations = require('unicode-emoji-annotations');`
+```javascript
+const unicodeEmojiAnnotations = require('unicode-emoji-annotations');
+const englishCldrAnnotations = unicodeEmojiAnnotations.cldrAnnotations.en;
+const englishCommunityAnnotations = unicodeEmojiAnnotations.communityAnnotations.en;
+const globalCommunityAnnotations = unicodeEmojiAnnotations.communityAnnotations.global;
+const englishAnnotations = unicodeEmojiAnnotations.combinedAnnotationsForLanguage('en');
+```
 
 ### ES6/babel
 
-`import emojiAnnotations from 'unicode-emoji-annotations';`
+```javascript
+import { cldrAnnotations, communityAnnotations, combinedAnnotationsForLanguage } from 'unicode-emoji-annotations';
+const englishCldrAnnotations = cldrAnnotations.en;
+const englishCommunityAnnotations = communityAnnotations.en;
+const globalCommunityAnnotations = communityAnnotations.global;
+const englishAnnotations = combinedAnnotationsForLanguage('en');
+```
+
+## Install
+
+`npm install unicode-emoji-annotations`
 
 ## License
 
-MIT
+[MIT](https://github.com/dematerializer/unicode-emoji-annotations/blob/master/LICENSE)
 
-## TODO
+## Development
 
-- testing (proves the "fully tested" statement)
-- write documentation (https://github.com/noffle/art-of-readme)
-- pull in unicode-emoji-data dep via npm once it's published
+### Status
+
+TODO
+
+### Contributing
+
+TODO
