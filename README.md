@@ -7,6 +7,8 @@
 - up-to-date, supporting unicode CLDR version v30 (stable)
 - best used in combination with the [unicode-emoji-data](https://www.npmjs.com/package/unicode-emoji-data) module
 
+*Warning: ~1MB file ahead!* Have a look at [this table to see an example](https://dematerializer.github.io/unicode-emoji-annotations/emoji-annotations.stable.html) of what data this library provides. Especially row [#1152](https://dematerializer.github.io/unicode-emoji-annotations/emoji-annotations.stable.html#1152) is interesting as it shows a CLDR annotation being combined with multiple supplemental community annotations.
+
 ## API
 
 Requiring/importing `unicode-emoji-annotations` gives you the following API to work with:

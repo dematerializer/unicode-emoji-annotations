@@ -31,9 +31,10 @@
     "res"
   ],
   "scripts": {
-    "start": "npm run build:cldr && npm run build:community",
+    "start": "npm run build:cldr && npm run build:community && npm run build:html",
     "build:cldr": "node build-cldr-annotations.js",
     "build:community": "node build-community-annotations.js",
+    "build:html": "node build-html.js",
     "precommit": "npm run validate",
     "prepush": "npm run validate",
     "prepublish": "npm run validate && npm run build:sources",
