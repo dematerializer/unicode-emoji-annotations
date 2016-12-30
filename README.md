@@ -7,7 +7,22 @@
 - up-to-date, supporting unicode CLDR version v30 (stable)
 - best used in combination with the [unicode-emoji-data](https://www.npmjs.com/package/unicode-emoji-data) module
 
+This project aims to preserve CLDR annotation data with respect to the original source as closely as possible while offering supplemental community authored annotation data.
+
 *Warning: ~1MB file ahead!* Have a look at [this table to see an example](https://dematerializer.github.io/unicode-emoji-annotations/emoji-annotations.stable.html) of what data this library provides. Especially row [#1152](https://dematerializer.github.io/unicode-emoji-annotations/emoji-annotations.stable.html#1152) is interesting as it shows a CLDR annotation being combined with multiple supplemental community annotations.
+
+The need for community authored annotations arises from the fact that the CLDR annotation data provided by unicode is incomplete. Not every emoji is being covered and incompleteness varies across supported languages. Furthermore, some annotations might need to be extended or overridden in order to semantically improve the description of their respective emoji.
+
+Great care is taken so that community authored text-to-speech descriptions and keywords always ever describe solely the semantics of the emoji based on the official unicode emoji names. The annotations must never be based on the actual appearance of emoji, as the official unicode name often leaves room for interpretation and vendors use this to implement the appearance very differently from one another.
+
+## Supported Languages
+
+This table shows languages for which CLDR annotations are included in this library and the respective percentaged coverage of missing CLDR data by community provided supplemental annotations. Feel free to [create an issue](https://github.com/dematerializer/unicode-emoji-annotations/issues) if you like an additional language to be added.
+
+| Language | CLDR | Community Coverage |
+| --- | --- | --- |
+| de | ✓ | 100% |
+| en | ✓ | 100% |
 
 ## API
 
@@ -21,34 +36,46 @@ Requiring/importing `unicode-emoji-annotations` gives you the following API to w
 
 ```javascript
 {
+  ...
   de: [..., { /* emoji annotation */ }, ...],
-  en: [..., { /* emoji annotation */ }, ...]
+  en: [..., { /* emoji annotation */ }, ...],
+  ...
 }
 ```
+
+Arrays of emoji annotations grouped by language (two-letter code), compiled from unicode CLDR data files.
 
 Properties of an emoji annotation explained:
 
 - `sequence`
 
-  normalized code point sequence;
+  normalized code point sequence (sequence without any variation selector or modifier applied) e.g. `261D`; use it for mapping the annotation to a specific (emoji) unicode character or connecting to further meta data (e.g. [unicode-emoji-data](https://www.npmjs.com/package/unicode-emoji-data) or [emoji-datasource](https://www.npmjs.com/package/emoji-datasource))
 
 - `tts`
 
-  text-to-speech description;
+  text-to-speech description e.g. `'index pointing up'` (`en`) or `'Nach oben weisender Zeigefinger von vorne'` (`de`)
 
 - `keywords`
 
-  array of keywords;
+  array of keywords e.g. `['finger', 'hand', 'index', 'point', 'up']` (`en`) or `['Finger', 'Hand', 'Zeigefinger', 'nach oben', 'Handvorderseite']` (`de`)
 
 ### `communityAnnotations`
 
 ```javascript
 {
   global: [..., { /* emoji annotation */ }, ...],
+  ...
   de: [..., { /* emoji annotation */ }, ...],
-  en: [..., { /* emoji annotation */ }, ...]
+  en: [..., { /* emoji annotation */ }, ...],
+  ...
 }
 ```
+
+Arrays of supplemental emoji annotations grouped by language (two-letter code), authored and maintained by the community.
+
+Community annotations might include entirely new entries for supporting emoji that are not currently covered by CLDR, but also additions to `keywords` of existing CLDR annotations. In some rare cases we might decide to override the `tts` description of existing CLDR annotations where necessary in order to improve semantics.
+
+`global` contains language independent additions to `keywords`, e.g. text emoticons `;-)` (`tts` overrides would make no sense here).
 
 ### `combinedAnnotationsForLanguage`
 
@@ -56,7 +83,14 @@ Properties of an emoji annotation explained:
 function (language) {}
 ```
 
-Combines `language` (e.g. `'de'`, `'en'`) specific cldr and community annotations with global community annotations; returns an array of objects representing combined annotations:
+Selectively extends/overrides CLDR annotations with community authored content for the specified `language` (e.g. `'de'`, `'en'`), combining:
+- `language` specific CLDR annotations (if available)
+- `language` specific community annotations (if available)
+- global community annotations (if available)
+
+Overrides `tts`, concatenates `keywords`.
+
+returns an array of combined emoji annotations:
 
 ```javascript
 [..., { /* emoji annotation */ }, ...]
