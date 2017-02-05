@@ -43,7 +43,7 @@
     "report-coverage": "cat ./coverage/lcov.info | codecov",
     "test": "NODE_ENV=test mocha --require ./test-env --compilers js:babel-core/register src/**/*.test.js",
     "posttest": "npm run lint",
-    "lint": "eslint --ignore-path .gitignore .",
+    "lint": "eslint --cache --ignore-path .gitignore .",
     "build:sources": "rm -rf lib; mkdir lib; babel src/index.js -o lib/index.js; babel src/combine-annotations.js -o lib/combine-annotations.js; babel src/utils.js -o lib/utils.js"
   },
   "nyc": {

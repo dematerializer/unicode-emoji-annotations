@@ -5,3 +5,4 @@ coverage
 res/community/_TODO/*
 !res/community/_TODO/.gitkeep
 lib
+.eslintcache
