@@ -15,16 +15,22 @@ presetStable.cldrAnnotationsLanguages.forEach((language) => {
 	const matchAnyVariationSelectorOrModifier = /\s(FE0E|FE0F|1F3FB|1F3FC|1F3FD|1F3FE|1F3FF)/g;
 
 	const emojiDataMissingAnnotations = expandEmojiData(emojiDataStable)
-	.map(datum => ({
-		sequence: datum.sequence.replace(matchAnyVariationSelectorOrModifier, ''), // normalize sequence
-		name: datum.name,
-		output: datum.output,
-	}))
+	.map((datum) => {
+		// Prefer explicit emoji presentation variation sequence:
+		const sequence = datum.presentation.variation ? datum.presentation.variation.emoji : datum.presentation.default;
+		return {
+			sequence: sequence.replace(matchAnyVariationSelectorOrModifier, ''), // normalize sequence
+			name: datum.name,
+			output: datum.output,
+		};
+	})
 	.filter(datum => annotationForSequence[datum.sequence] == null);
 
 	const regionalIndicatorBaseName = 'REGIONAL INDICATOR SYMBOL LETTER';
 
 	const emojiAnnotationSuggestions = emojiDataMissingAnnotations.map((datum) => {
+		// Prefer explicit emoji presentation variation sequence:
+		const sequence = datum.presentation.variation ? datum.presentation.variation.emoji : datum.presentation.default;
 		if (datum.name.includes(regionalIndicatorBaseName)) {
 			const isoCode = datum.name
 			.split(',')
@@ -32,7 +38,7 @@ presetStable.cldrAnnotationsLanguages.forEach((language) => {
 			.join('');
 			const tts = countries.getName(isoCode, language);
 			return {
-				sequence: datum.sequence,
+				sequence,
 				name: datum.name,
 				output: datum.output,
 				tts: tts || `TODO: translate iso code '${isoCode}'`,
@@ -40,7 +46,7 @@ presetStable.cldrAnnotationsLanguages.forEach((language) => {
 			};
 		}
 		return {
-			sequence: datum.sequence,
+			sequence,
 			name: datum.name,
 			output: datum.output,
 			tts: 'TODO',
