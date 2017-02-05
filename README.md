@@ -2,12 +2,12 @@
 
 > Unicode standard compliant emoji annotations (internationalized text-to-speech descriptions and keywords) with extensions provided by the community
 
-- lightweight, precompiled, easy to parse JSON data with a minimalistic API
+- lightweight, precompiled, easy to use JSON data with a minimalistic API
 - straight from the source, compiled directly from [unicode repository data files](http://unicode.org/repos/cldr/tags/release-30)
 - up-to-date, supporting unicode CLDR version v30 (stable)
 - best used in combination with the [unicode-emoji-data](https://www.npmjs.com/package/unicode-emoji-data) module
 
-This project aims to preserve CLDR annotation data with respect to the original source as closely as possible while offering supplemental community authored annotation data.
+This project aims to preserve CLDR emoji annotation data with respect to the original source as closely as possible while offering supplemental community authored annotation data.
 
 *Warning: ~1MB file ahead!* Have a look at [this table to see an example](https://dematerializer.github.io/unicode-emoji-annotations/emoji-annotations.stable.html) of what data this library provides. Especially row [#1152](https://dematerializer.github.io/unicode-emoji-annotations/emoji-annotations.stable.html#1152) is interesting as it shows a CLDR annotation being combined with multiple supplemental community annotations.
 
@@ -45,19 +45,35 @@ Requiring/importing `unicode-emoji-annotations` gives you the following API to w
 
 Arrays of emoji annotations grouped by language (two-letter code), compiled from unicode CLDR data files.
 
+A typical (english) CLDR annotation looks like this:
+
+```javascript
+{
+  sequence: '1F61C',
+  tts: 'face with stuck-out tongue & winking eye',
+  keywords: [
+    'eye',
+    'face',
+    'joke',
+    'tongue',
+    'wink'
+  ]
+}
+```
+
 Properties of an emoji annotation explained:
 
 - `sequence`
 
-  normalized code point sequence (sequence without any variation selector or modifier applied) e.g. `261D`; use it for mapping the annotation to a specific (emoji) unicode character or connecting to further meta data (e.g. [unicode-emoji-data](https://www.npmjs.com/package/unicode-emoji-data) or [emoji-datasource](https://www.npmjs.com/package/emoji-datasource))
+  normalized code point sequence (sequence without any variation selector or modifier applied) e.g. `1F61C`; use it for mapping the annotation to a specific (emoji) unicode character or connecting to further meta data (e.g. [unicode-emoji-data](https://www.npmjs.com/package/unicode-emoji-data) or [emoji-datasource](https://www.npmjs.com/package/emoji-datasource))
 
 - `tts`
 
-  text-to-speech description e.g. `'index pointing up'` (`en`) or `'Nach oben weisender Zeigefinger von vorne'` (`de`)
+  text-to-speech description e.g. `'face with stuck-out tongue & winking eye'` (`en`) or `'Zwinkernder Smiley mit herausgestreckter Zunge'` (`de`)
 
 - `keywords`
 
-  array of keywords e.g. `['finger', 'hand', 'index', 'point', 'up']` (`en`) or `['Finger', 'Hand', 'Zeigefinger', 'nach oben', 'Handvorderseite']` (`de`)
+  array of keywords e.g. `['eye', 'face', 'joke', 'tongue', 'wink']` (`en`) or `['herausgestreckte Zunge', 'Zwinkern', 'Gesicht']` (`de`)
 
 ### `communityAnnotations`
 
@@ -73,9 +89,45 @@ Properties of an emoji annotation explained:
 
 Arrays of supplemental emoji annotations grouped by language (two-letter code), authored and maintained by the community.
 
-Community annotations might include entirely new entries for supporting emoji that are not currently covered by CLDR, but also additions to `keywords` of existing CLDR annotations. In some rare cases we might decide to override the `tts` description of existing CLDR annotations where necessary in order to improve semantics.
+Community annotations might include entirely new entries for supporting emoji that are not currently covered by CLDR, but also additions to `keywords` of existing CLDR annotations. In some rare cases we might even decide to override the `tts` description of existing CLDR annotations where necessary in order to improve semantics.
 
 `global` contains language independent additions to `keywords`, e.g. text emoticons `;-)` (`tts` overrides would make no sense here).
+
+Example of a global supplemental community annotation:
+
+```javascript
+{
+  sequence: '1F61C',
+  keywords: [
+    ';-P',
+    ';P',
+    ';-b',
+    ';b'
+  ]
+}
+```
+
+Example of an english supplemental community annotation:
+
+```javascript
+{
+  sequence: '1F61C',
+  keywords: [
+    'cheeky'
+  ]
+}
+```
+
+Example of a german supplemental community annotation:
+
+```javascript
+{
+  sequence: '1F61C',
+  keywords: [
+    'frech'
+  ]
+}
+```
 
 ### `combinedAnnotationsForLanguage`
 
@@ -132,7 +184,3 @@ const englishAnnotations = combinedAnnotationsForLanguage('en');
 
 [![Travis](https://img.shields.io/travis/dematerializer/unicode-emoji-annotations.svg?style=flat-square)](https://travis-ci.org/dematerializer/unicode-emoji-annotations)
 [![Codecov](https://img.shields.io/codecov/c/github/dematerializer/unicode-emoji-annotations.svg?style=flat-square)](https://codecov.io/gh/dematerializer/unicode-emoji-annotations)
-
-### Contributing
-
-TODO
