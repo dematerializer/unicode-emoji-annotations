@@ -1,6 +1,6 @@
 {
   "name": "unicode-emoji-annotations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unicode standard compliant emoji annotations (internationalized text-to-speech descriptions and keywords) with extensions provided by the community",
   "keywords": [
     "unicode",
