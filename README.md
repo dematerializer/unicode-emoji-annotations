@@ -11,6 +11,8 @@ This project aims to preserve CLDR emoji annotation data with respect to the ori
 
 *Warning: ~1MB file ahead!* Have a look at [this table to see an example](https://dematerializer.github.io/unicode-emoji-annotations/emoji-annotations.stable.html) of what data this library provides. Especially row [#1152](https://dematerializer.github.io/unicode-emoji-annotations/emoji-annotations.stable.html#1152) is interesting as it shows a CLDR annotation being combined with multiple supplemental community annotations.
 
+Check out [emoji-finder](https://www.npmjs.com/package/emoji-finder) to see an example of how this module can be applied in an application.
+
 The need for community authored annotations arises from the fact that the CLDR annotation data provided by unicode is incomplete. Not every emoji is being covered and incompleteness varies across supported languages. Furthermore, some annotations might need to be extended or overridden in order to semantically improve the description of their respective emoji.
 
 Great care is taken so that community authored text-to-speech descriptions and keywords always ever describe solely the semantics of the emoji based on the official unicode emoji names. The annotations must never be based on the actual appearance of emoji, as the official unicode name often leaves room for interpretation and vendors use this to implement the appearance very differently from one another.
