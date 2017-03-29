@@ -4,7 +4,7 @@
 
 - lightweight, precompiled, easy to use JSON data with a minimalistic API
 - straight from the source, compiled directly from [unicode repository data files](http://unicode.org/repos/cldr/tags/release-30)
-- up-to-date, supporting unicode CLDR version v30 (stable)
+- up-to-date, supporting unicode CLDR version 30 (stable)
 - best used in combination with the [unicode-emoji-data](https://www.npmjs.com/package/unicode-emoji-data) module
 
 This project aims to preserve CLDR emoji annotation data with respect to the original source as closely as possible while offering supplemental community authored annotation data.

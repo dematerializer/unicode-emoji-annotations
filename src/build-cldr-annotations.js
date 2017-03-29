@@ -10,7 +10,7 @@ process.on('uncaughtException', (err) => { throw err; });
 process.on('unhandledRejection', (err) => { throw err; });
 
 function* buildForPreset(preset) {
-	logUpdate(`using unicode v${preset.unicodeVersion}, cldr v${preset.cldrVersion} (${preset.tag}) for emoji v${preset.emojiVersion}`);
+	logUpdate(`using unicode ${preset.unicodeVersion}, cldr ${preset.cldrVersion} (${preset.tag}) for emoji ${preset.emojiVersion}`);
 	logUpdate.done();
 
 	// Render annotation files:

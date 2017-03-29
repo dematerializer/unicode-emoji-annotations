@@ -47,7 +47,7 @@ const buildForPreset = (preset) => {
 		<html>
 			<head>
 			<meta charset="utf-8">
-			<title>emoji annotations for unicode v${preset.unicodeVersion}, cldr v${preset.cldrVersion} (${preset.tag}) for emoji v${preset.emojiVersion}</title>
+			<title>emoji annotations for unicode ${preset.unicodeVersion}, cldr ${preset.cldrVersion} (${preset.tag}) for emoji ${preset.emojiVersion}</title>
 			<style>
 				table {
 					border-collapse: collapse;
