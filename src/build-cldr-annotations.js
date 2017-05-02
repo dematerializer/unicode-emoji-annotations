@@ -4,7 +4,7 @@ import logUpdate from 'log-update';
 
 import buildCldrAnnotations from './cldr-annotations';
 
-import presetStable from './preset-stable';
+import mainPreset from './preset';
 
 process.on('uncaughtException', (err) => { throw err; });
 process.on('unhandledRejection', (err) => { throw err; });
@@ -34,5 +34,5 @@ function* buildForPreset(preset) {
 }
 
 co(function* main() {
-	yield buildForPreset(presetStable);
+	yield buildForPreset(mainPreset);
 });

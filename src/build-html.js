@@ -3,7 +3,7 @@ import punycode from 'punycode';
 import { expandEmojiData, emojiData as emojiDataImport } from 'unicode-emoji-data';
 import { cldrAnnotations, communityAnnotations, combinedAnnotationsForLanguage } from '.';
 import { groupArrayOfObjectsByKey } from './utils';
-import presetStable from './preset-stable';
+import mainPreset from './preset';
 
 process.on('uncaughtException', (err) => { throw err; });
 process.on('unhandledRejection', (err) => { throw err; });
@@ -84,4 +84,4 @@ const buildForPreset = (preset) => {
 	fs.writeFileSync(`docs/emoji-annotations.${preset.tag}.html`, html);
 };
 
-buildForPreset(presetStable);
+buildForPreset(mainPreset);

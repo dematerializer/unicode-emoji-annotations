@@ -1,11 +1,11 @@
 import { expandEmojiData, emojiData as emojiDataImport } from 'unicode-emoji-data';
 import countries from 'i18n-iso-countries';
 import fs from 'fs';
-import presetStable from './preset-stable';
+import preset from './preset';
 import combineAnnotations from './combine-annotations';
 import { groupArrayOfObjectsByKey } from './utils';
 
-presetStable.cldrAnnotationsLanguages.forEach((language) => {
+preset.cldrAnnotationsLanguages.forEach((language) => {
 	const cldrAnnotations = require(`../res/cldr/${language}.json`); // eslint-disable-line
 	const communityAnnotations = require(`../res/community/${language}.json`); // eslint-disable-line
 	const globalCommunityAnnotations = require('../res/community/global.json'); // eslint-disable-line
