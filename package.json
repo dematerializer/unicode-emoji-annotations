@@ -30,13 +30,13 @@
     "res"
   ],
   "scripts": {
-    "start": "npm run build:cldr && npm run build:community && npm run build:html",
-    "build:cldr": "node scripts/build-cldr-annotations.js",
-    "build:community": "node scripts/build-community-annotations.js",
-    "build:html": "node scripts/build-html.js",
+    "start": "npm run build-cldr && npm run build-community && npm run build-html",
+    "build-cldr": "node scripts/build-cldr-annotations.js",
+    "build-community": "node scripts/build-community-annotations.js",
+    "build-html": "node scripts/build-html.js",
     "precommit": "npm run validate",
     "prepush": "npm run validate",
-    "prepublish": "npm run validate && npm run build:sources",
+    "prepublish": "npm run validate && npm run build-sources",
     "validate": "npm run cover && npm run check-coverage",
     "cover": "nyc --reporter=lcov --reporter=text npm test",
     "check-coverage": "nyc check-coverage --statements 100 --branches 100 --functions 100 --lines 100",
@@ -44,7 +44,7 @@
     "test": "NODE_ENV=test mocha --require test-env --compilers js:babel-core/register src/**/*.test.js",
     "posttest": "npm run lint",
     "lint": "eslint --cache --ignore-path .gitignore .",
-    "build:sources": "rm -rf lib; mkdir lib; babel src/index.js -o lib/index.js; babel src/combine-annotations.js -o lib/combine-annotations.js; babel src/utils.js -o lib/utils.js"
+    "build-sources": "rm -rf lib; mkdir lib; babel src/index.js -o lib/index.js; babel src/combine-annotations.js -o lib/combine-annotations.js; babel src/utils.js -o lib/utils.js"
   },
   "nyc": {
     "sourceMap": false,
