@@ -1,6 +1,6 @@
 import fs from 'fs';
 import punycode from 'punycode';
-import { emojiDataStable, expandEmojiData } from 'unicode-emoji-data';
+import { expandEmojiData, emojiData as emojiDataImport } from 'unicode-emoji-data';
 import { cldrAnnotations, communityAnnotations, combinedAnnotationsForLanguage } from '.';
 import { groupArrayOfObjectsByKey } from './utils';
 import presetStable from './preset-stable';
@@ -11,7 +11,7 @@ process.on('unhandledRejection', (err) => { throw err; });
 const matchAnyVariationSelectorOrModifier = /\s(FE0E|FE0F|1F3FB|1F3FC|1F3FD|1F3FE|1F3FF)/g;
 
 const buildForPreset = (preset) => {
-	const emojiData = expandEmojiData(emojiDataStable);
+	const emojiData = expandEmojiData(emojiDataImport);
 	const englishCldrAnnotationForSequence = groupArrayOfObjectsByKey(cldrAnnotations.en, 'sequence');
 	const englishCommunityAnnotationForSequence = groupArrayOfObjectsByKey(communityAnnotations.en, 'sequence');
 	const globalCommunityAnnotationForSequence = groupArrayOfObjectsByKey(communityAnnotations.global, 'sequence');
