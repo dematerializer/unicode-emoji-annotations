@@ -178,7 +178,13 @@ const englishAnnotations = combinedAnnotationsForLanguage('en');
 
 ## Install
 
+Stable unicode 9 cldr 30 data for emoji 4:
+<br />
 `npm install unicode-emoji-annotations`
+
+Beta unicode 10 cldr 31 data for emoji 5:
+<br />
+`npm install unicode-emoji-annotations@next`
 
 ## License
 
