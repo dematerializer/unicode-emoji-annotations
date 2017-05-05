@@ -81,7 +81,7 @@ const buildForPreset = (preset) => {
 		</html>
 	`;
 
-	fs.writeFileSync(`docs/emoji-annotations.${preset.tag}.html`, html);
+	fs.writeFileSync('docs/emoji-annotations.html', html);
 };
 
 buildForPreset(mainPreset);

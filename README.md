@@ -4,12 +4,12 @@
 
 - lightweight, precompiled, easy to use JSON data with a minimalistic API
 - straight from the source, compiled directly from [unicode repository data files](http://unicode.org/repos/cldr/tags/release-30)
-- up-to-date, supporting unicode CLDR version 30 (stable)
+- up-to-date, supporting the latest stable unicode CLDR version 30
 - best used in combination with the [unicode-emoji-data](https://www.npmjs.com/package/unicode-emoji-data) module
 
 This project aims to preserve CLDR emoji annotation data with respect to the original source as closely as possible while offering supplemental community authored annotation data.
 
-*Warning: ~1MB file ahead!* Have a look at [this table to see an example](https://dematerializer.github.io/unicode-emoji-annotations/emoji-annotations.stable.html) of what data this library provides. Especially row [#1152](https://dematerializer.github.io/unicode-emoji-annotations/emoji-annotations.stable.html#1152) is interesting as it shows a CLDR annotation being combined with multiple supplemental community annotations.
+*Warning: ~1MB file ahead!* Have a look at [this table to see an example](https://dematerializer.github.io/unicode-emoji-annotations/emoji-annotations.html) of what data this library provides. Especially row [#1152](https://dematerializer.github.io/unicode-emoji-annotations/emoji-annotations.html#1152) is interesting as it shows a CLDR annotation being combined with multiple supplemental community annotations.
 
 Check out [emoji-finder](https://www.npmjs.com/package/emoji-finder) to see an example of how this module can be utilized in a real application.
 

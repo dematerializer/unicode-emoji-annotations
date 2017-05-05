@@ -68,12 +68,4 @@ describe('cldr-annotations', () => {
 			done();
 		});
 	});
-
-	it('should not generate an API for an unsupported CLDR version', (done) => {
-		fetchMock.get('*', xmlContentMock);
-		const step = buildCldrAnnotations({ version: 29 });
-		const api = step.next().value;
-		expect(api).to.equal(null);
-		done();
-	});
 });
